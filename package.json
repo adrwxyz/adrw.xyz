@@ -4,7 +4,7 @@
   "scripts": {
     "start": "gatsby develop",
     "build": "gatsby build",
-    "legacy": "git clone"
+    "legacy": "cp -r ./_site/* public"
   },
   "dependencies": {
     "@emotion/core": "^10.0.10",

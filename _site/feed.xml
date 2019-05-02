@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Andrew Paradi</title>
+    <description>Full Stack Engineer</description>
+    <link>http://0.0.0.0:4000/</link>
+    <atom:link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Thu, 21 Jun 2018 09:04:26 -0500</pubDate>
+    <lastBuildDate>Thu, 21 Jun 2018 09:04:26 -0500</lastBuildDate>
+    <generator>Jekyll v3.7.3</generator>
+    
+    
+    
+    
+    
+      <item>
+        <title>OAKWEAR &amp; CO.</title>
+        <description>&lt;p&gt;Thanks for your interest in OAKWEAR &amp;amp; CO. I’m in the middle of exams at university but I’ll be back to fill out this page with the full sock story in a few weeks.&lt;/p&gt;
+
+&lt;p&gt;If you’re interested in any of the socks, we do still have some stock of SERIES1. Check out the designs on &lt;a href=&quot;https://www.instagram.com/oakwearco/&quot;&gt;Instagram&lt;/a&gt;, and &lt;a href=&quot;mailto:oakwearco@gmail.com&quot;&gt;email us&lt;/a&gt; so we can set up your order.&lt;/p&gt;
+
+&lt;p&gt;If you have any questions about your order, we still will be checking email for the next few months. Email us at &lt;a href=&quot;mailto:oakwearco@gmail.com&quot;&gt;oakwearco@gmail.com&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;We hope you enjoy your socks!&lt;/p&gt;
+
+&lt;p&gt;– Andrew Paradi, Mar 27, 2018&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.instagram.com/oakwearco/&quot;&gt;&lt;img src=&quot;/assets/article_images/oakwearco/instagram-c.png&quot; alt=&quot;@OAKWEARCO on Instagram&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/article_images/oakwearco/oxford-circus-ipad-c.png&quot; alt=&quot;Oxford Circus on iPad&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 27 Mar 2018 13:00:00 -0500</pubDate>
+        <link>http://0.0.0.0:4000/project/oakwearco</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/project/oakwearco</guid>
+        
+        <category>Shopify</category>
+        
+        <category>HTML</category>
+        
+        <category>CSS</category>
+        
+        
+        <category>Project</category>
+        
+        <category>Experience</category>
+        
+      </item>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+      <item>
+        <title>No More Gatekeepers: How the Internet Was Unleashed</title>
+        <description>&lt;p&gt;&lt;strong&gt;From humble roots in military and university research projects to ubiquity today, the Internet has become a place of opportunity and outlaws.&lt;/strong&gt; The list of upended industries is added to frequently, and the rap sheet of hackers, online bullies, and mass surveillance agencies grows longer by the day.&lt;/p&gt;
+
+&lt;p&gt;Precisely &lt;em&gt;“how”&lt;/em&gt; the Internet has facilitated this cataclysmic change is not an easy discussion in and of itself. Easily one could, and many have, discuss for months the development and adoption of the technical protocols that compose the Internet.&lt;/p&gt;
+
+&lt;p&gt;But instead, the focus of this piece will be on a single factor that has been a multiplier in the impact of the Internet in comparison to every previous technological revolution: no more gatekeepers.&lt;/p&gt;
+
+&lt;h2 id=&quot;a-technological-revolution-different-in-kind&quot;&gt;A Technological Revolution, Different in Kind&lt;/h2&gt;
+
+&lt;p&gt;The advent of new technology has often led to societal changes. The Gutenberg press unleashed inexpensively replicable written word. Radio and television technologies brought audio and video to anyone’s living room or car. Yet with each of these technologies, the decisions of what books to publish or TV shows to produce were (and still are) made by a small number of executives at a handful of large companies.&lt;/p&gt;
+
+&lt;p&gt;The old media gatekeepers long enacted their will upon what ideas and media the public could ever see. Sure, a musician could make a few mixtapes to give to their friends, and an activist could type up some pamphlets to distribute, but without backing of the gatekeepers, their ideas and art could not be distributed very far.&lt;/p&gt;
+
+&lt;p&gt;With the Internet however, no longer can gatekeepers exact near total control over the dissemination of written word and media.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Anyone can purchase a domain name, rent server space, and host a website with any content or ideas they please, open for consumption by anyone around the world.&lt;/li&gt;
+  &lt;li&gt;Artists can now share their music and films at will on platforms like YouTube, Vimeo, or SoundCloud.&lt;/li&gt;
+  &lt;li&gt;Kitchen table philosophers and writers can now pontificate to an audience from their own blog.&lt;/li&gt;
+  &lt;li&gt;Authors can self-publish with eBooks on Kindle or Kobo. They can even use &lt;a href=&quot;http://lightningsource.com&quot;&gt;print-on-demand services&lt;/a&gt; to sell printed books on Amazon or their own website with no inventory costs.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The sharing and admiration of all art forms has been democratized.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Anyone can create. All can consume, anywhere, at low cost.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;free-will-has-a-cost&quot;&gt;Free Will Has a Cost&lt;/h2&gt;
+
+&lt;p&gt;And yet, the lack of gatekeepers is a two-edged sword. The Internet also serves as the portal to a free flow of pornography of every disturbing flavour, communities that foster hateful ideologies, and marketplaces like &lt;a href=&quot;https://www.wired.com/2015/04/silk-road-1/&quot;&gt;Silk Road&lt;/a&gt; that make the acquisition of drugs, weapons, stolen goods, and sex slaves of every age, as easy as searching for a new iPhone case on Amazon.&lt;/p&gt;
+
+&lt;p&gt;Rather than being a utopia that could bring out the better angels of humanity, or at least simply entertain the masses better, the Internet has become a dark mirror to the full beauty and depravity of human nature.&lt;/p&gt;
+
+&lt;p&gt;But, if anyone can create a website for intentions good or bad, then what can be done? One solution would be to aggregate the most popular content on a single website. Then, with the trust of the public, the owners of that website could enforce policies for decency on their filtered portal into the Internet.&lt;/p&gt;
+
+&lt;p&gt;And this is exactly what Google Search, YouTube, Facebook, Twitter, and Amazon have done. Search results, ecommerce, and media have become intensely centralized on very few platforms.&lt;/p&gt;
+
+&lt;p&gt;For most users, this has been of great benefit, a few uniform interfaces to access most things online on fast servers: an Amazon interface for buying, a YouTube interface for watching, a Facebook interface for keeping tabs on friends, family, and celebrities.&lt;/p&gt;
+
+&lt;p&gt;And yet with this consolidation of users, content, and business comes the growing evidence that &lt;strong&gt;something is rotten in the state of Denmark&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;gatekeepers-20&quot;&gt;Gatekeepers 2.0?&lt;/h2&gt;
+
+&lt;p&gt;Though technology executives pontificate frequently about the importance of their role in protecting the free speech and expression rights of their users, their opaque actions to police their platforms tell a different story.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.theverge.com/2016/9/1/12753108/youtube-is-over-party-advertising-monetization-censorship&quot;&gt;YouTubers&lt;/a&gt; &lt;a href=&quot;https://kotaku.com/why-youtubers-are-freaking-out-about-money-and-censorsh-1786032317&quot;&gt;fear&lt;/a&gt; &lt;a href=&quot;https://www.pastemagazine.com/articles/2016/09/how-youtube-is-using-censorship-to-choose-advertis.html&quot;&gt;demonetization&lt;/a&gt;. &lt;a href=&quot;https://www.theguardian.com/technology/2016/may/09/facebook-newsfeed-censor-conservative-news&quot;&gt;Facebook is accused&lt;/a&gt; &lt;a href=&quot;https://www.theguardian.com/technology/2016/may/09/facebook-newsfeed-censor-conservative-news&quot;&gt;of censoring users&lt;/a&gt; &lt;a href=&quot;https://www.usatoday.com/story/opinion/2017/10/27/facebook-censored-cross-your-countrys-government-and-they-might-censor-you-too-james-bovard-column/795271001/&quot;&gt;and aiding&lt;/a&gt; &lt;a href=&quot;https://www.nytimes.com/2017/06/20/world/europe/germany-36-accused-of-hateful-postings-over-social-media.html&quot;&gt;foreign government censorship&lt;/a&gt; &lt;a href=&quot;https://www.theguardian.com/technology/2017/jul/19/facebook-pakistan-blasphemy-laws-censorship&quot;&gt;in prosecution of their citizens&lt;/a&gt;. &lt;a href=&quot;https://www.usnews.com/opinion/articles/2016-06-22/google-is-the-worlds-biggest-censor-and-its-power-must-be-regulated&quot;&gt;Google censors&lt;/a&gt; &lt;a href=&quot;http://money.cnn.com/2015/01/04/technology/google-censorship/index.html&quot;&gt;search results on demand&lt;/a&gt; &lt;a href=&quot;https://cs.stanford.edu/people/eroberts/cs181/projects/2010-11/FreeExpressionVsSocialCohesion/google_policy.html&quot;&gt;of governments&lt;/a&gt;. &lt;a href=&quot;http://www.businessinsider.com/amazons-censorship-policy-is-still-incoherent-incest-themed-erotica-removed-from-kindle-store-2010-12?IR=T&quot;&gt;Amazon sows confusion&lt;/a&gt; &lt;a href=&quot;http://cbldf.org/2012/07/the-censorship-problem-at-amazon/&quot;&gt;with changing removal policies&lt;/a&gt;…&lt;/p&gt;
+
+&lt;p&gt;More and more content creators and platform users are questioning the arbitrary rulings to block, shadow ban, and demonetize subjectively innocuous content and users without explanation or chance for appeal.&lt;/p&gt;
+
+&lt;p&gt;Thus, the uncertainty around new rules from gatekeepers leaves the future of the Internet rather insipid. Living in fear of their channel being blocked or demonitized understandably leaves many YouTubers with a bleak outlook. Perhaps, the discussion on the role of platform owners to serve as their own gatekeepers may lead to more transparency with changed policies or new appeal processes.&lt;/p&gt;
+
+&lt;p&gt;Yet, maybe many won’t care at all recognizing that having some gatekeepers isn’t a sign of the end times. Or, given the slow-moving nature of the entrenched platforms, continued irritation of users may open an opportunity for new platforms to succeed with more transparent policies that better align with users and content creators.&lt;/p&gt;
+
+&lt;p&gt;Which platforms and sanitization policies should live on? What review processes could be more constructive than the current pseudo legal framework of platform policing? Are less gatekeepers a risk worth taking in order to bring forward more voices, that we may hear the marginalized, alongside the fringe? Is life better with gatekeepers to help maintain decency?&lt;/p&gt;
+
+&lt;p&gt;As more content and traffic finds home on Google Search, YouTube, Facebook, and Twitter, millions of users will need to decide with their clicks whether to welcome or fight &lt;strong&gt;the return of the gatekeepers&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Written for CS492 Social Implications of Computing course at University of Waterloo.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 25 Jan 2018 06:34:25 -0600</pubDate>
+        <link>http://0.0.0.0:4000/blog/internet-gatekeepers</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/blog/internet-gatekeepers</guid>
+        
+        <category>Security</category>
+        
+        
+        <category>Blog</category>
+        
+        <category>Featured</category>
+        
+      </item>
+    
+    
+    
+      <item>
+        <title>The End of Privacy and Conversation</title>
+        <description>&lt;p&gt;&lt;strong&gt;The process of opinion formation for most people does not happen in an act of stoic silent thought, but instead through conversation with others.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;People bring their own ideas and perspectives, disagree, and in the best cases, engage constructively with opposing views, to refine or change theirs to the most logically sound position.&lt;/p&gt;
+
+&lt;p&gt;Thus, changes to how these conversations happen can be of great societal importance. Each poorly formed, unquestioned opinion that some individual holds contribute to societal ignorance or collective holding of contradictory opinions on important topics.&lt;/p&gt;
+
+&lt;h2 id=&quot;no-longer-at-the-water-cooler&quot;&gt;No Longer at the Water Cooler&lt;/h2&gt;
+
+&lt;p&gt;Consider then one of the most dangerous externalities of the digital revolution: the move of opinion forming conversations from water coolers to social media. Though the physical proximity is the most obvious difference, there also is a reduced likelihood of constructive discussion. Important conversation data is lost in transmission including facial expressions, body language, tone of voice, and sarcasm.&lt;/p&gt;
+
+&lt;p&gt;Yet, the larger problem of online discourse is permanence. Standing around the water cooler, an offensive opinion shared by a colleague is only heard by those geographically near. Those who hear it could ignore it, ask questions to understand more, snip back sarcastically, or share logical refutation of the offending argument. But, regardless of how anyone responds, the conversation eventually ends and starts to fade into the memory of the participants.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Online, this is not possible.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;A disagreeable opinion shared online can exist forever. The same techniques in distributed and high availability systems that power social networks often ensure that even if comments or posts are deleted by users, they simply are hidden from public view. The purging of databases, backups, or servers of deleted posts is rarely, if ever, guaranteed by a service.&lt;/p&gt;
+
+&lt;p&gt;Thus, any poorly formed comment, any roughly articulated argument, any opinion shared that a person no longer holds years later, can (and likely does) live forever in opaque computer systems. This unintended consequence of distributed systems ought to seem at first glance utterly benign, or at least it was seen as so prior to 2013.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“If Facebook keeps some of my deleted comments in some backup server in Utah, what do I care?”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;and-then-there-was-snowden&quot;&gt;…and then there was Snowden&lt;/h2&gt;
+
+&lt;p&gt;But, the Edward Snowden leaks in 2013 changed everything. Thousands of leaked documents revealed the far-reaching collection systems used by United States intelligence agencies to vacuum up user activity from companies including Google, Facebook, Twitter, and Microsoft. The collection, storage, and complicity with government surveillance by the biggest technology companies mean that “the day” had finally arrived when our emails, instant messages, and even social media could be used against us.&lt;/p&gt;
+
+&lt;p&gt;Like a scalable and digital East German Stasi secret police, or a real-life digital Thinkpol “thought police” from George Orwell’s &lt;em&gt;1984&lt;/em&gt;, these dictatorial powers exist like a sleeping dragon hidden deep in government data centers. Supposedly used only for hunting terrorists, these systems collect user data on almost everyone, though thankfully have not led to prosecution of many people… yet.&lt;/p&gt;
+
+&lt;p&gt;But, do we all have faith that an elected government will only use these surveillance tools to prosecute terrorism?&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;What will stop an administration from using these powers to prosecute crimes of thought?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Yet, even without government help, the permanence of the web means that, with changing societal definitions of problematic opinions, a disgruntled colleague can search long enough and find reason to have you fired, a university could find reason to block your admission, or anyone can find digital evidence to justify a narrative for your public shaming.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-future-of-conversation&quot;&gt;The Future of Conversation&lt;/h2&gt;
+
+&lt;p&gt;The future may well be devoid of the grace of constructive conversation, amicable disagreement, and personal integrity of thought. Self-censorship out of fear of mob rule retribution is becoming the reality for Western societies who have long prided themselves in values of personal liberty. We enter an age of sanitization, where only collectively determined, corporately approved, or government dictated opinions can be publicly shared.&lt;/p&gt;
+
+&lt;p&gt;If privacy means working out thoughts for yourself without fear, what can anyone do to protect their privacy? Encryption and expiring messages in &lt;a href=&quot;https://www.signal.org/&quot;&gt;Signal&lt;/a&gt; messenger or &lt;a href=&quot;https://protonmail.com/&quot;&gt;ProtonMail&lt;/a&gt; email bring both privacy and ephemerality to online communications. Deliberate efforts to have offline conversations outside of publicly crowded and surveilled spaces or away from always listening Siri-enabled smartphones or Alexa speakers is another option to consider.&lt;/p&gt;
+
+&lt;p&gt;Beyond our messages, email, and conversations, social media still serves as the gold mine of personal details on who you are including your friends, your interests, your fears, and your political leanings.&lt;/p&gt;
+
+&lt;p&gt;Even if one can’t trust that a deleted account will be purged from Facebook and government servers, deleting social media accounts may still be the best protection. Outside of government surveillance and mob rule, most social engineering hacks can use your pet name or elementary school from Facebook to get through your bank’s security questions and into your account.&lt;/p&gt;
+
+&lt;p&gt;Yet, with each like, share, and up-vote that we, the social media addicted masses, feel compelled to do, we unceasingly feed the algorithmic surveillance beasts that eat away our privacy, free thought, open conversations, and individuality.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;And very few seem willing to seek a better way.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Written for CS492 Social Implications of Computing course at University of Waterloo.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 11 Jan 2018 08:34:25 -0600</pubDate>
+        <link>http://0.0.0.0:4000/blog/privacy-and-conversation</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/blog/privacy-and-conversation</guid>
+        
+        <category>Security</category>
+        
+        
+        <category>Blog</category>
+        
+        <category>Featured</category>
+        
+      </item>
+    
+    
+    
+      <item>
+        <title>andrewparadi.github.io</title>
+        <description>&lt;p&gt;&lt;strong&gt;Since 2009, I have built websites with Windows Live Sites, static HTML, and Wordpress. Then I discovered Jekyll on GitHub Pages.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;In 2015, I was excited to keep building my developer skills and loved the opportunity that Jekyll provided to build my own site.&lt;/p&gt;
+
+&lt;p&gt;Using other themes as inspiration, I’ve built many new features as outlined below to help make the site easier to navigate and more effective at displaying content.&lt;/p&gt;
+
+&lt;p&gt;If you find any bugs or have any questions, please &lt;a href=&quot;mailto:me@andrewparadi.com?subject=Website%20Bug&quot;&gt;email me&lt;/a&gt;!&lt;/p&gt;
+
+&lt;h2 id=&quot;mobile-friendly-menu&quot;&gt;Mobile Friendly Menu&lt;/h2&gt;
+&lt;p&gt;Menu that dynamically scales to all screen sizes and auto-hides on mobile.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/article_images/andrewparadi.github.io/menu-closed-1c.png&quot; alt=&quot;Desktop Menu Closed&quot; /&gt;
+&lt;img src=&quot;/assets/article_images/andrewparadi.github.io/desktop-menu-1c.png&quot; alt=&quot;Desktop Menu&quot; /&gt;
+&lt;img src=&quot;/assets/article_images/andrewparadi.github.io/mobile-menu-1c.png&quot; alt=&quot;Mobile Menu&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;cards&quot;&gt;Cards&lt;/h2&gt;
+&lt;p&gt;Built image grid to feature images from posts and projects for use on homepage, project, and blog pages. Displays all posts in a given category.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/article_images/andrewparadi.github.io/cards-1c.png&quot; alt=&quot;Cards&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;card-sections&quot;&gt;Card Sections&lt;/h2&gt;
+&lt;p&gt;Extension of cards to allow for sections of posts by category with buttons to more related posts. See on &lt;a href=&quot;https://www.andrewparadi.com/&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;/index&lt;/code&gt;&lt;/a&gt;, &lt;a href=&quot;https://www.andrewparadi.com/projects&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;/projects&lt;/code&gt;&lt;/a&gt;, and &lt;a href=&quot;https://www.andrewparadi.com/blog&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;/blog&lt;/code&gt;&lt;/a&gt; pages.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/article_images/andrewparadi.github.io/card_sections-2-1500c.png&quot; alt=&quot;Card Sections&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;resume-layout&quot;&gt;Resume Layout&lt;/h2&gt;
+&lt;p&gt;Resume layout that pulls from &lt;code class=&quot;highlighter-rouge&quot;&gt;work&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;hackathon&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;project&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;freelance&lt;/code&gt;, and &lt;code class=&quot;highlighter-rouge&quot;&gt;volunteer&lt;/code&gt; categories and formats following meta data into well formated resume. Seen on &lt;a href=&quot;https://www.andrewparadi.com/experience&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;/experience&lt;/code&gt;&lt;/a&gt; page.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;date&lt;/code&gt; : end date of position&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;startdate&lt;/code&gt; : start date of position&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;position&lt;/code&gt; : job title/role , team&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;company&lt;/code&gt; : firm or organization&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;summary&lt;/code&gt; : markdown description of experience&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/article_images/andrewparadi.github.io/resume-1.png&quot; alt=&quot;Resume Layout&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;tag-and-category-clouds&quot;&gt;Tag and Category Clouds&lt;/h2&gt;
+&lt;p&gt;Tags on category, page, project, &amp;amp; post layouts. Used &lt;code class=&quot;highlighter-rouge&quot;&gt;{ % for % }&lt;/code&gt; loops and conditional &lt;code class=&quot;highlighter-rouge&quot;&gt;{ % if % }&lt;/code&gt; statements in &lt;a href=&quot;https://github.com/shopify/liquid/wiki/Liquid-for-Designers&quot;&gt;liquid markup&lt;/a&gt; to only show tags on categories when enabled in &lt;code class=&quot;highlighter-rouge&quot;&gt;_config.yml&lt;/code&gt;.&lt;/p&gt;
+
+&lt;p&gt;Archive layout that pulls from categories and tags to create easy navigation of all categories and tags with their respective totals of posts. See on &lt;a href=&quot;https://www.andrewparadi.com/c&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;/c&lt;/code&gt;&lt;/a&gt; and &lt;a href=&quot;https://www.andrewparadi.com/t&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;/t&lt;/code&gt;&lt;/a&gt; pages.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/article_images/andrewparadi.github.io/archive-cloud-1c.png&quot; alt=&quot;Category Cloud&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;modularized-footer-and-social-bar&quot;&gt;Modularized Footer and Social Bar&lt;/h2&gt;
+&lt;p&gt;Footer was by default hard coded into page layouts. Now both footer and social bar is modularized with respective CSS so that both can easily be added to any page or section.&lt;/p&gt;
+
+&lt;h2 id=&quot;better-schema-seo-in-layouts&quot;&gt;Better Schema SEO in Layouts&lt;/h2&gt;
+&lt;p&gt;In page, post, and project layouts, I’ve added meta description HTML tags and &lt;a href=&quot;http://schema.org/&quot;&gt;Schema&lt;/a&gt; syntax with &lt;a href=&quot;https://github.com/shopify/liquid/wiki/Liquid-for-Designers&quot;&gt;liquid markup&lt;/a&gt;. This will improve search engine crawl success and better populate sharing descriptions on Facebook and Twitter.&lt;/p&gt;
+
+&lt;h2 id=&quot;improved-readability&quot;&gt;Improved Readability&lt;/h2&gt;
+&lt;p&gt;Extra wide columns of text are difficult to read! Text columns are sized to make reading as easy as reading a book or newspaper.&lt;/p&gt;
+
+&lt;h2 id=&quot;annotations-for-embedded-media&quot;&gt;Annotations for Embedded Media&lt;/h2&gt;
+&lt;p&gt;By default, including alt text to your Markdown image tag &lt;a href=&quot;/image/link.jpg&quot;&gt;alt text&lt;/a&gt; shows a caption below the image. Now this functionality is extended using &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;figcaption&amp;gt;this is my caption&amp;lt;/figcaption&amp;gt;&lt;/code&gt; tags so captions can be added to embedded media and HTML5 videos.&lt;/p&gt;
+
+&lt;h2 id=&quot;super-fast-mobile-optimized-async-css--font-loading&quot;&gt;Super Fast, Mobile Optimized, Async CSS, &amp;amp; Font Loading&lt;/h2&gt;
+&lt;p&gt;Transitioning from Wordpress was a huge undertaking but well worth it. According to &lt;a href=&quot;https://developers.google.com/speed/pagespeed/insights/&quot;&gt;Google Developer PageSpeed Insights&lt;/a&gt;, website performance has increased by more than 2.3x thanks to optimized images and asynchronous static loading of CSS and fonts.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;92/100&lt;/strong&gt; on mobile, previously &lt;strong&gt;34/100&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;78/100&lt;/strong&gt; on desktop, previously &lt;strong&gt;39/100&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Combined with a lightning fast Github Pages CDN, images are heavily optimized and resized for delivery. I’ve cut site size by over 80% using &lt;a href=&quot;http://www.jpegmini.com/&quot;&gt;JPEGmini&lt;/a&gt;, &lt;a href=&quot;https://pngmini.com/&quot;&gt;ImageAlpha&lt;/a&gt; for pngs, &lt;a href=&quot;http://www.pixelmator.com/mac/&quot;&gt;Pixelmator&lt;/a&gt;, &amp;amp; &lt;a href=&quot;https://affinity.serif.com/en-gb/photo/&quot;&gt;Affinity Photo&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;resources&quot;&gt;Resources&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/andrewparadi/andrewparadi.github.io&quot;&gt;Source code on GitHub&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/dirkfabisch/mediator&quot;&gt;&lt;em&gt;Mediator Jekyll&lt;/em&gt; theme&lt;/a&gt; by &lt;a href=&quot;https://twitter.com/dirkfabisch&quot;&gt;@dirkfabisch&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/inded/Jekyll_modern-blog&quot;&gt;&lt;em&gt;Jekyll Modern Blog&lt;/em&gt; theme&lt;/a&gt; by &lt;a href=&quot;https://github.com/inded&quot;&gt;@inded&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/qrohlf/trianglify&quot;&gt;Trianglify&lt;/a&gt; by &lt;a href=&quot;http://qrohlf.com/&quot;&gt;@qrholf&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Thu, 09 Nov 2017 12:00:00 -0600</pubDate>
+        <link>http://0.0.0.0:4000/project/andrewparadi-github-io</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/project/andrewparadi-github-io</guid>
+        
+        <category>Bash ZSH Shell</category>
+        
+        <category>Docker</category>
+        
+        <category>Jekyll</category>
+        
+        <category>HTML</category>
+        
+        <category>Sass</category>
+        
+        <category>Javascript ES5/ES6/ES7</category>
+        
+        
+        <category>Project</category>
+        
+        <category>Experience</category>
+        
+      </item>
+    
+    
+    
+      <item>
+        <title>10 Million Hotel Rooms Still Vulnerable</title>
+        <description>&lt;p&gt;&lt;strong&gt;In 2012, Cody Brocious presented at Black Hat in Las Vegas that over 10 million hotel room locks were vulnerable to being unlocked in seconds with $50 of consumer grade hardware [&lt;a href=&quot;https://www.wired.com/2017/08/the-hotel-hacker/&quot;&gt;1&lt;/a&gt;]. In 2017, most still are.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;In his research paper, Brocious outlines numerous vulnerabilities for Onity hotel locks including weak custom written encryption algorithms and full access to memory through the DC port on the bottom the locks [&lt;a href=&quot;https://www.forbes.com/sites/andygreenberg/2012/07/23/hacker-will-expose-potential-security-flaw-in-more-than-four-million-hotel-room-keycard-locks/#7d283a68eb85&quot;&gt;2&lt;/a&gt;]. He describes countless easily possible attacks including opening any locked door, creating guest keys or master keys for all locks in the hotel, and even framing hotel staff for murder by manipulating the audit logs [&lt;a href=&quot;http://demoseen.com/bhpaper.html&quot;&gt;3&lt;/a&gt;].&lt;/p&gt;
+
+&lt;p&gt;The hack in and of itself is deceptively simple. Authentication for the lock requires matching a number stored in the guest key card to a hotel specific site number stored in each lock’s memory. This site number is stored at the same address in memory in every lock. By sending it back to the lock as if read off a guest key, the door unlocks immediately [&lt;a href=&quot;http://www.extremetech.com/computing/133448-black-hat-hacker-gains-access-to-4-million-hotel-rooms-with-arduino-microcontroller&quot;&gt;4&lt;/a&gt;]. Brocious even provided at the end of his paper, two appendices outlining the weak encryption algorithm and the basic Arduino code to build a working exploit device [&lt;a href=&quot;http://demoseen.com/bhpaper.html&quot;&gt;5&lt;/a&gt;].&lt;/p&gt;
+
+&lt;p&gt;The public revelation of these vulnerabilities was not an easy decision for Brocious who knew that the information in the short term could lead to black hat hotel robberies using the exploit. Yet, he noted that in the over 10 years that Onity had been selling the lock, no fixes had arrived despite such easily recognizable flaws likely being raised within the company. Despite the risks of disclosure, Brocious ultimately published in hopes that the publicity would force the company to produce a fix. Keeping the vulnerability in the dark only meant that whoever next discovered it might have free reign over all vulnerable hotel rooms [&lt;a href=&quot;http://demoseen.com/bhpaper.html&quot;&gt;6&lt;/a&gt;].&lt;/p&gt;
+
+&lt;h2 id=&quot;exploit-exploited&quot;&gt;Exploit, Exploited&lt;/h2&gt;
+&lt;p&gt;His concern was well warranted. In the months that followed the Brocious Black Hat presentation, many YouTube videos were posted with hackers from across the country confirming that both brand new Onity locks and ones installed at local hotels could be opened in seconds [&lt;a href=&quot;https://www.forbes.com/sites/andygreenberg/2012/08/28/videos-show-hackers-reproducing-and-refining-hotel-lock-trick-that-opens-millions-of-rooms/#35c0c52a5a5a&quot;&gt;7&lt;/a&gt;]. One ambitious hacker even fit the required components into a felt tip marker so he could simply take off the cap, insert into the lock hardware, and conspicuously gain access to any hotel room [&lt;a href=&quot;https://www.forbes.com/sites/andygreenberg/2012/10/02/hackers-crack-hotel-room-locks-with-a-tool-disguised-as-a-dry-erase-marker/#1001fcb37d5a&quot;&gt;8&lt;/a&gt;]. Onity attempted to reassure customers by issuing small hardware “security covers” to hide the DC port at the cost of the hotels. After months of pressure, they agreed to new circuit boards for a more resilient fix yet still at a cost to hotels causing very slow adoption and most hotels to remain vulnerable [&lt;a href=&quot;https://arstechnica.com/information-technology/2012/12/fix-for-hotels-electronic-door-lock-hack-slow-to-roll-out/&quot;&gt;9&lt;/a&gt;].&lt;/p&gt;
+
+&lt;p&gt;The hack was so easy to build that within weeks, non-hacker types were learning Arduino and leaving police departments baffled how hotel rooms across central Arizona could be robbed with no fingerprints or forced entry &lt;a href=&quot;https://www.wired.com/2017/08/the-hotel-hacker/&quot;&gt;10&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;500000-from-a-50-arduino-kit&quot;&gt;$500,000 from a $50 Arduino kit&lt;/h2&gt;
+&lt;p&gt;The most notorious of these technology empowered thieves was a repeat convict named Aaron Cashatt. When Cashatt heard of the Brocious exploit and found the instructions online, he got to work fitting an Arduino board into his sunglasses case. Recently released after serving time for a misdemeanor, Cashatt’s new found skills from the computer hardware course he took while behind bars came in handy. In the following 11 months, Cashatt conducted over 100 heists raking in over $500,000 of stolen goods from unsuspecting hotel guests in Arizona, Ohio, and Tennessee [&lt;a href=&quot;https://www.wired.com/2017/08/the-hotel-hacker/&quot;&gt;11&lt;/a&gt;].&lt;/p&gt;
+
+&lt;p&gt;When Wired reporter Andy Greenberg met with Cashatt behind the bars to complete the epic story of the heists this summer, Greenberg decided to test if the vulnerability still existed like it did in 2012. As of his article publish date (August 29, 2017), Greenberg found that many larger hotel chains, previously vulnerable in 2012 and 2013 like Marriot and Holiday Inn, had upgraded to locks now impenetrable with the attack. Smaller chains though still have not fixed their locks. At an unnamed smaller chain hotel, just outside of New York City, Greenberg realized just this, that a reporter with an Arduino board was still capable of wreaking havoc many hotels worldwide [&lt;a href=&quot;https://www.wired.com/2017/08/the-hotel-hacker/&quot;&gt;12&lt;/a&gt;].&lt;/p&gt;
+
+&lt;h2 id=&quot;still-vulnerable&quot;&gt;Still Vulnerable&lt;/h2&gt;
+&lt;p&gt;Despite research papers, hacker enthusiasts, and over 100 real criminal robberies using the Onity exploit since 2012, this vulnerability continues to remain open to exploit, relevant, and a story being updated in 2017 because these locks can’t be patched over the air with a software update. And when the company responsible for securing their faulty locks makes it imperatively expensive to do so, hotel guests around the world must continue to take on the risk of trusting a room lock with their valuables that can be unlocked by anyone.&lt;/p&gt;
+
+&lt;p&gt;Can this be prevented given the limitations of hardware updates? Should there be legal liability for Onity for failing to adequately fix their vulnerability? Are there any special measures to stay more secure in hotel rooms?&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Brocious unfortunately concludes that for rooms with vulnerable locks, only the flimsy door chain can save you [&lt;a href=&quot;http://www.extremetech.com/computing/133448-black-hat-hacker-gains-access-to-4-million-hotel-rooms-with-arduino-microcontroller&quot;&gt;13&lt;/a&gt;].&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Written for CS458 Cryptography, Security and Privacy course at University of Waterloo.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 29 Sep 2017 09:34:25 -0500</pubDate>
+        <link>http://0.0.0.0:4000/blog/hotel-hack</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/blog/hotel-hack</guid>
+        
+        <category>Security</category>
+        
+        
+        <category>Blog</category>
+        
+        <category>Featured</category>
+        
+      </item>
+    
+    
+  </channel>
+</rss>
