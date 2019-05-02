@@ -1,0 +1,21 @@
+{
+  "private": true,
+  "name": "andrew.fm",
+  "scripts": {
+    "start": "gatsby develop",
+    "build": "gatsby build",
+    "legacy": "git clone"
+  },
+  "dependencies": {
+    "@emotion/core": "^10.0.10",
+    "@emotion/styled": "^10.0.10",
+    "emotion-theming": "^10.0.10",
+    "gatsby": "^2.3.24",
+    "gatsby-theme-digital-garden": "^0.0.22",
+    "gatsby-theme-digital-garden-blog": "^0.0.22",
+    "gatsby-theme-digital-garden-portfolio": "^0.0.22",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "theme-ui": "^0.0.8"
+  }
+}
