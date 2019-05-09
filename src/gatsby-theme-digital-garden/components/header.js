@@ -36,9 +36,5 @@ export default () => (
     <Styled.a as={Link} to={"/notes"}>
       Notes
     </Styled.a>
-    <Box mx={1} />
-    <Styled.a as={Link} to="/about">
-      About
-    </Styled.a>
   </Header>
 )

@@ -1,6 +1,6 @@
 [
   {
-    "from": "/contact",
-    "to": "/about"
+    "from": "/about",
+    "to": "/experience"
   }
 ]
