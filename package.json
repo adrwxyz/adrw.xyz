@@ -3,8 +3,7 @@
   "name": "andrew.fm",
   "scripts": {
     "start": "gatsby develop",
-    "build": "gatsby build",
-    "legacy": "mkdir -p public && cp -r ./_site/* public"
+    "build": "gatsby build"
   },
   "dependencies": {
     "@emotion/core": "^10.0.10",
