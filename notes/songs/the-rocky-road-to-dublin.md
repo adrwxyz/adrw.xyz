@@ -2,7 +2,6 @@
 title:  "The Rocky Road to Dublin"
 date:   2010-10-10 00:00:00
 permalink: /song/the-rocky-road-to-dublin
-redirect_from: /song/the-rocky-road-to-dublin/
 layout: song
 artist: The Dubliners
 source: https://tabs.ultimate-guitar.com/tab/paddy_reilly/the_rocky_road_to_dublin_chords_1478708

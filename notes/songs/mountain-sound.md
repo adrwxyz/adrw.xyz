@@ -2,7 +2,6 @@
 title:  "Mountain Sound"
 date:   2010-10-10 00:00:00
 permalink: /song/mountain-sound
-redirect_from: /song/mountain-sound/
 layout: song
 artist: Of Monsters and Men
 source: https://tabs.ultimate-guitar.com/tab/of_monsters_and_men/mountain_sound_chords_1146922

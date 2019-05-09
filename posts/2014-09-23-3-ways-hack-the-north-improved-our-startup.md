@@ -2,7 +2,6 @@
 title: "3 Ways Hack the North Improved our Startup"
 date: 2014-09-23 14:34:25
 path: /blog/3-ways-hack-the-north-improved-our-startup
-redirect_from: /blog/3-ways-hack-the-north-improved-our-startup/
 tags:
   - Hackathon
   - Startups
@@ -51,7 +50,7 @@ We work out of the Google for Entrepreneurs space at Communitech and are surroun
 
 Everyone at the event is there in good spirit to have a good time and show what awesome things they can build. This style of competition opens the floodgates to simply indescribably innovative hacks such as my personal favourites: <a href="http://hackthenorth.challengepost.com/submissions/27029-open-pokemon" target="_blank">Open Pokemon</a> and the <a href="http://hackthenorth.challengepost.com/submissions/27086-silicon-man" target="_blank">Silicon Man</a>.
 
-<video controls><source src="/assets/article_images/2014-09-23-3-ways-hack-the-north-improved-our-startup/silicon-man.mp4" type="video/mp4"></video>
+<video controls><source src="/assets/article_images/2014-09-23-3-ways-hack-the-north-improved-our-startup/silicon-man.mp4" type="video/mp4"/></video>
 
 <figcaption>"Silicon Man: Why pay for an Oculus Rift and a Thalmic Labs Myo when you could strap an iPhone to your face and create a custom glove interface?!"</figcaption>
 

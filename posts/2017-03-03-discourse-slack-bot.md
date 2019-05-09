@@ -3,7 +3,6 @@ title: "Discourse Slack Bot"
 date: 2017-03-03 16:34:25
 startdate: 2017-02-19 17:26:13
 path: /project/discourse-slack-bot
-redirect_from: /project/discourse-slack-bot/
 categories:
   - Experience
   - Project

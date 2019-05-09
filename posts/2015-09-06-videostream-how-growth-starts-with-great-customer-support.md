@@ -2,7 +2,6 @@
 title: "Up 32%: Videostream Growth Started with Great Support"
 date: 2015-09-06 22:50:25
 path: /blog/videostream-how-growth-starts-with-great-customer-support
-redirect_from: /blog/videostream-how-growth-starts-with-great-customer-support/
 tags:
   - Startups
 categories:
@@ -106,5 +105,3 @@ At Videostream, I leveraged my primary task of email support to better understan
 Personally, I grew a lot. The experience of owning a project, working closely with founders, collaborating with a crazy good technical team, and supporting thousands of customers was priceless. I learned so much.
 
 I'm thankful to Matt, Jason, Graham, Joe, Phillip, Sean, & Rahul for all of the support, guidance, and unique opportunities I received this summer. It's certainly one I won't soon forget.
-
-<strong>P.S. I'm looking to do an internship next summer too! If you think I'd be a good fit on your team, check out my <a href="{{ site.resume }}" target="_blank">resume</a> and send me an email at <a href="mailto:{{ site.email }}">{{ site.email }}</a>.</strong>

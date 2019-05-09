@@ -2,7 +2,6 @@
 title: "Books: Good to Great Review"
 date: 2016-07-14 18:00:00
 path: /blog/good-to-great
-redirect_from: /blog/good-to-great/
 tags:
   - Startups
   - Technology

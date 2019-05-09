@@ -2,11 +2,12 @@
 templateKey: blog-post
 title: Pre-Adjust to your next Time Zone
 date: 2018-12-09T14:43:43.511Z
-description: 'Don’t make it harder than it needs to be. Fail to plan, plan to fail. '
+description: "Don’t make it harder than it needs to be. Fail to plan, plan to fail. "
 tags:
   - south-east-asia-2018
 ---
-I learned a lot from my Dad. He travelled a lot and often dropped hints of how to enable *pro-mode* when you travel.
+
+I learned a lot from my Dad. He travelled a lot and often dropped hints of how to enable _pro-mode_ when you travel.
 
 Time changes with long flights can mess people up for days.
 

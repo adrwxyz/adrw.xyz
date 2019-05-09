@@ -2,7 +2,6 @@
 title:  "Jamming"
 date:   2010-10-10 00:00:00
 permalink: /song/jamming
-redirect_from: /song/jamming/
 layout: song
 artist: Bob Marley
 source: https://tabs.ultimate-guitar.com/tab/bob_marley/jammin_chords_75870

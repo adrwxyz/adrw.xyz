@@ -2,7 +2,6 @@
 title: "No More Gatekeepers: How the Internet Was Unleashed"
 date: 2018-01-25 12:34:25
 path: /blog/internet-gatekeepers
-redirect_from: /blog/internet-gatekeepers/
 tags:
   - Security
 categories:

@@ -2,7 +2,6 @@
 title:  "Yesterday Today And Forever"
 date:   2010-10-10 00:00:00
 permalink: /song/yesterday-today-and-forever
-redirect_from: /song/yesterday-today-and-forever/
 layout: song
 artist: Vicky Beeching
 source: https://tabs.ultimate-guitar.com/tab/vicky_beeching/yesterday_today_and_forever_chords_885818

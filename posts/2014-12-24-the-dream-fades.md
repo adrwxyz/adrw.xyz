@@ -2,7 +2,6 @@
 title: "Teknically Part 2: The Dream Fades"
 date: 2014-12-24 13:00:00
 path: /blog/the-dream-fades
-redirect_from: /blog/the-dream-fades/
 tags:
   - Startups
   - Student

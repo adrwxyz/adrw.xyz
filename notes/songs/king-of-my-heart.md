@@ -2,7 +2,6 @@
 title:  "King of my Heart"
 date:   2010-10-10 00:00:00
 permalink: /song/king-of-my-heart
-redirect_from: /song/king-of-my-heart/
 layout: song
 artist: John Mark McMillan
 source: https://tabs.ultimate-guitar.com/tab/john_mark_mcmillan/king_of_my_heart_chords_1748669
@@ -64,10 +63,6 @@ lyrics: |
   When the night is holding on to me   God is holding on
 ---
 
-<div style="-webkit-column-count: 2; -moz-column-count: 2; column-count: 2; -webkit-column-rule: 1px dotted #e0e0e0; -moz-column-rule: 1px dotted #e0e0e0; column-rule: 1px dotted #e0e0e0;">
-    <div style="display: inline-block;">
-        <pre>
-        <code>
 Tuning: Standard (Capo 4th Fret)
 [Intro]
 Em   D   C    G
@@ -128,12 +123,7 @@ You are good, good, oh
 You are good, good, oh
          Em    D    C   G
 You are good, good, oh
-      </code>
-      </pre>
-    </div>
-    <div style="display: inline-block;">
-        <pre>
-        <code>
+
 [Bridge 1]
 G
    You’re never gonna let,
@@ -196,7 +186,3 @@ on to me; God is holding on
 When the night is holding
 C     G   Am      G      C
 on to me; God is holding on
-      </code>
-      </pre>
-    </div>
-</div>

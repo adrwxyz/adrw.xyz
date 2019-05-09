@@ -2,7 +2,6 @@
 title:  "Raised on Black & Tans"
 date:   2010-10-10 00:00:00
 permalink: /song/raised-on-black-and-tans
-redirect_from: /song/raised-on-black-and-tans/
 layout: song
 artist: Gaelic Storm
 source: https://tabs.ultimate-guitar.com/tab/gaelic_storm/raised_on_black_and_tans_chords_1046825

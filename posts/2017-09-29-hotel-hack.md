@@ -2,7 +2,6 @@
 title: "10 Million Hotel Rooms Still Vulnerable"
 date: 2017-09-29 14:34:25
 path: /blog/hotel-hack
-redirect_from: /blog/hotel-hack/
 tags:
   - Security
 categories:

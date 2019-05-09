@@ -2,7 +2,6 @@
 title: "Tinder for Blogs"
 date: 2016-05-01 18:00:00
 path: /blog/tinder-for-blogs
-redirect_from: /blog/tinder-for-blogs/
 tags:
   - Life
 categories:

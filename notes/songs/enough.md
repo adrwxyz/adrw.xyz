@@ -2,7 +2,6 @@
 title:  "Enough"
 date:   2010-10-10 00:00:00
 permalink: /song/enough
-redirect_from: /song/enough/
 layout: song
 artist: Chris Tomlin
 source: https://tabs.ultimate-guitar.com/tab/chris_tomlin/enough_chords_167481

@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: 'Day 2: Bangkok & Overnight Train to Malaysia'
+title: "Day 2: Bangkok & Overnight Train to Malaysia"
 date: 2018-12-12T22:40:38.900Z
 description: >-
   A vibrant stroll down bustling alleys of vendors, local busses, and an
@@ -9,12 +9,14 @@ img: /img/d6d3dbd5-e997-4fd0-85a7-1e363218f5e8.jpeg
 tags:
   - Asia-2018
 ---
+
 ## A Local Taste
+
 We decided to explore north of the Chan Road, the major road near our Airbnb. Littered with a variety of shops, restaurants, street food stands, and vendors, there was so much to see and smell.
 
 ![Red Thai Curry and deep fried pork bits](/img/91f11d05-5062-463c-8a40-b6ea37c90809.jpeg)
 
-The 25 Baht ($1 CAD) bubble tea was too inexpensive to resist and we tried a delicious red Thai curry and deep fried pork belly bits. From the first bite that curry was... wow!
+The 25 Baht (\$1 CAD) bubble tea was too inexpensive to resist and we tried a delicious red Thai curry and deep fried pork belly bits. From the first bite that curry was... wow!
 
 ![A soi from another place](/img/d6d3dbd5-e997-4fd0-85a7-1e363218f5e8.jpeg)
 
@@ -36,7 +38,7 @@ As we were walking back to Chan Road, the main road in Sathon District, we saw t
 
 There are many different categories of buses in Thailand and you can save a lot of Baht if you take them instead of taxis or Grab.
 
-- **Red** 7B: No air conditioning. Can be regular buses or the songathaew *“two bench”* back of a pick up truck variety.
+- **Red** 7B: No air conditioning. Can be regular buses or the songathaew _“two bench”_ back of a pick up truck variety.
 - **Orange** 11-24B: Air conditioned. Rate is distance dependent.
 - **Yellow** 10-12B: Air conditioned.
 - **Other non air conditioned** 8B.

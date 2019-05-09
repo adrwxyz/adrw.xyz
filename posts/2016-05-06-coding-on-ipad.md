@@ -2,7 +2,6 @@
 title: "Coding on iPad: Welcome to Reality"
 date: 2016-05-06 6:00:00
 path: /blog/coding-on-ipad
-redirect_from: /blog/coding-on-ipad/
 tags:
   - Life
   - Student
@@ -113,7 +112,7 @@ Just this year Google announced that _more searches are now done on phones/table
 
 **Furthermore**, tablets and smartphones are how the next **3 billion people** will first experience computers and the internet. Over 80% of people in the West are already online. Yet, less than 46% of China, 19% of India, and 1% of another 178 developing countries have access to the internet ([2](http://www.internetlivestats.com/internet-users/#trend)).
 
-<script id="infogram_0_ec14b8eb-a0e6-4e7a-8fcb-20d054754d58" title="Internet Access vs Population" src="//e.infogr.am/js/embed.js?dEy" type="text/javascript"></script><div style="padding:8px 0;font-family:Arial!important;font-size:13px!important;line-height:15px!important;text-align:center;border-top:1px solid #dadada;margin:0 30px"><a target="_blank" href="https://infogr.am/ec14b8eb-a0e6-4e7a-8fcb-20d054754d58" style="color:#989898!important;text-decoration:none!important;">Internet Access vs Population</a><br><a style="color:#989898!important;text-decoration:none!important;" href="https://infogr.am" target="_blank">Create your own infographics</a></div>
+<script id="infogram_0_ec14b8eb-a0e6-4e7a-8fcb-20d054754d58" title="Internet Access vs Population" src="//e.infogr.am/js/embed.js?dEy" type="text/javascript"></script><div style="padding:8px 0;font-family:Arial!important;font-size:13px!important;line-height:15px!important;text-align:center;border-top:1px solid #dadada;margin:0 30px"><a target="_blank" href="https://infogr.am/ec14b8eb-a0e6-4e7a-8fcb-20d054754d58" style="color:#989898!important;text-decoration:none!important;">Internet Access vs Population</a><br/><a style="color:#989898!important;text-decoration:none!important;" href="https://infogr.am" target="_blank">Create your own infographics</a></div>
 
 Smartphones and iPads that we brush off as _inferior devices_ to the _all mighty laptop_ will be the **primary computers for billions of people**. Smartphones have become increasingly affordable, cellular networks continue to expand, and entrepreneurs have already recognized the huge opportunity.
 

@@ -8,6 +8,7 @@ description: >-
 tags:
   - south-east-Asia-2018
 ---
+
 ## Cheap comes at a price
 
 Trying to change our seats at the Air Canada kiosk at Billy Bishop Airport in Toronto wouldn’t work.
@@ -17,6 +18,7 @@ When we talked to Guiseppe, an Air Canada agent, he said that a lot of these che
 He suggested an MIT developed search “Tracker.ITA” (not 100% sure on spelling) that apparently is the back end for Google Flights that does a better job, and can even get you deals for business class! We’ll try that next time. He also recommended the FlyerTalk blog so he seemed to know his stuff.
 
 ## Ask and ye shall receive [upgraded seats]
+
 Giuseppe told us that 1 hour before boarding, the seats for people who haven’t checked in open up. If you want to change your seat, that’s the time to do it.
 
 It worked for us! Even though only 1 of our 3 flights today had Suzie and I sitting together, we managed to sit together for every flight but going and asking 1 hour before takeoff.
@@ -43,9 +45,9 @@ The rumours of drivers always calling was also true. Thankfully I had disabled c
 
 Inside the app there seems to be integrated translation on the Driver side so he type the local language and I would read English. It worked pretty well but still took over 25 minutes to finally coordinate where he was outside the airport terminal and find him.
 
-Paying with cash worked well as Grab recently moved to only allow payment through their system, no longer supporting Visa or MasterCard. Quoted price when we booked and what we paid was a reasonable 439 Baht (~$18 CAD).
+Paying with cash worked well as Grab recently moved to only allow payment through their system, no longer supporting Visa or MasterCard. Quoted price when we booked and what we paid was a reasonable 439 Baht (~\$18 CAD).
 
-We’d recommended only converting at the airport 500-600 Baht ($25-30CAD) so you can get to the city and then just withdrawing from ATMs the amount you’ll need for your stay. Exchange rates will likely be better through the ATM then the small airport kiosks.
+We’d recommended only converting at the airport 500-600 Baht (\$25-30CAD) so you can get to the city and then just withdrawing from ATMs the amount you’ll need for your stay. Exchange rates will likely be better through the ATM then the small airport kiosks.
 
 ## Long day
 

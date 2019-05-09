@@ -2,7 +2,6 @@
 title:  "Cornerstone"
 date:   2010-10-10 00:00:00
 permalink: /song/cornerstone
-redirect_from: /song/cornerstone/
 layout: song
 artist: Hillsong
 source: https://tabs.ultimate-guitar.com/tab/hillsongs/cornerstone_chords_1165926

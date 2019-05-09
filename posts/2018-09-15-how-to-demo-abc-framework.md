@@ -2,7 +2,6 @@
 title: "How to Demo: The Hacker's ABC Framework"
 date: 2018-09-5 12:34:25
 path: /blog/how-to-demo-abc-framework
-redirect_from: /blog/how-to-demo-abc-framework/
 tags:
   - Hackathon
 categories:

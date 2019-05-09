@@ -2,7 +2,6 @@
 title:  "Castle On The Hill"
 date:   2010-10-10 00:00:00
 permalink: /song/castle-on-the-hill
-redirect_from: /song/castle-on-the-hill/
 layout: song
 artist: Ed Sheeran
 source: https://tabs.ultimate-guitar.com/tab/ed_sheeran/castle_on_the_hill_chords_1928433

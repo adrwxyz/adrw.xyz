@@ -2,7 +2,6 @@
 title: "7 Personal Lessons from Founding a Startup"
 date: 2015-04-02 18:04:25
 path: /blog/7-personal-lessons-from-founding-a-startup
-redirect_from: /blog/7-personal-lessons-from-founding-a-startup/
 tags:
   - Startups
   - Wilfrid-Laurier-University

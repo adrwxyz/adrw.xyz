@@ -2,7 +2,6 @@
 title:  "Redemption Song"
 date:   2010-10-10 00:00:00
 permalink: /song/redemption-song
-redirect_from: /song/redemption-song/
 layout: song
 artist: Bob Marley
 source: https://tabs.ultimate-guitar.com/tab/bob_marley/redemption_song_chords_417640

@@ -2,7 +2,6 @@
 title: "3 Hypotheses We Tested at Hack the North"
 date: 2014-09-30 12:34:25
 path: /blog/launchpad-meets-hack-north-3-hypotheses-tested-hacking
-redirect_from: /blog/launchpad-meets-hack-north-3-hypotheses-tested-hacking/
 tags:
   - Startups
 categories:

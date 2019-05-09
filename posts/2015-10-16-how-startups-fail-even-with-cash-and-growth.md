@@ -2,7 +2,6 @@
 title: "How Startups Fail Even with Cash and Growth"
 date: 2015-10-16 16:34:25
 path: /blog/how-startups-fail-even-with-cash-and-growth
-redirect_from: /blog/how-startups-fail-even-with-cash-and-growth/
 tags:
   - Startups
 categories:

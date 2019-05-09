@@ -2,7 +2,6 @@
 title: "The End of Privacy and Conversation"
 date: 2018-01-11 14:34:25
 path: /blog/privacy-and-conversation
-redirect_from: /blog/privacy-and-conversation/
 tags:
   - Security
 categories:

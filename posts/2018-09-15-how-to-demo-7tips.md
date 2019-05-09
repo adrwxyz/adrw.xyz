@@ -2,7 +2,6 @@
 title: "How to Demo: 7 Tips Every Hacker Should Know"
 date: 2018-09-5 12:34:25
 path: /blog/how-to-demo-7tips
-redirect_from: /blog/how-to-demo-7tips/
 tags:
   - Hackathon
 categories:

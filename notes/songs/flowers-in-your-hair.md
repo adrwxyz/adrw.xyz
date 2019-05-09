@@ -2,7 +2,6 @@
 title:  "Flowers In Your Hair"
 date:   2010-10-10 00:00:00
 permalink: /song/flowers-in-your-hair
-redirect_from: /song/flowers-in-your-hair/
 layout: song
 artist: The Lumineers
 source: https://tabs.ultimate-guitar.com/tab/the_lumineers/flowers_in_your_hair_chords_1148201
