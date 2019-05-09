@@ -39,6 +39,13 @@ module.exports = {
         name: "images"
       }
     },
+    {
+      resolve: "gatsby-source-filesystem",
+      options: {
+        path: `${__dirname}/static/assets`,
+        name: "assets"
+      }
+    },
     "gatsby-plugin-sharp",
     "gatsby-transformer-sharp",
     {
@@ -49,6 +56,12 @@ module.exports = {
             resolve: "gatsby-remark-relative-images",
             options: {
               name: "uploads"
+            }
+          },
+          {
+            resolve: "gatsby-remark-relative-images",
+            options: {
+              name: "assets"
             }
           },
           {
@@ -68,6 +81,11 @@ module.exports = {
           }
         ]
       }
-    }
+    },
+    "gatsby-plugin-offline",
+    "gatsby-plugin-react-helmet",
+    "gatsby-plugin-redirects",
+    "gatsby-plugin-netlify-cms",
+    "gatsby-plugin-netlify" // make sure to keep it last in the array
   ]
-};
+}
