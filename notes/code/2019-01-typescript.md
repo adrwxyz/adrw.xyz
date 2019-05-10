@@ -3,7 +3,7 @@ title: "Typescript"
 date: 2019-01-15 00:00:00
 path: /2019-01-typescript
 seo_title: "Typescript | Code | Andrew FM"
-description: "Why Typescript"t
+description: "Why Typescript"
 ---
 
 # Typescript Blog
