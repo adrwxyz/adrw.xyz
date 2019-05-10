@@ -1,9 +1,9 @@
 ---
-title: "Misk-Web: Misk-Web: How is Cash using Typescript, React, Redux, and BlueprintJS"
+title: "Misk-Web: How is Cash using Typescript, React, Redux, and BlueprintJS"
 date: 2019-01-15 00:00:00
 path: /2019-01-misk-web
-seo_title: "Edmund | Scenes | Andrew FM"
-description: "The locomotive whistles sharply..."
+seo_title: "Misk-Web | Scenes | Andrew FM"
+description: "Cash App is moving to the cloud and Misk services need a UI"
 ---
 
 # Misk-Web: How is Cash using Typescript, React, Redux, and BlueprintJS

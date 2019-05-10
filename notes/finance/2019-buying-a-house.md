@@ -5,14 +5,14 @@ path: /2019-buying-a-house
 seo_title: "Buying a House in Canada in 2019 | Finance | Andrew FM"
 ---
 
-#Pros
+# Pros
 
 - Housing is a highly subsidized and incentivized investment (RRSP withdrawal program, no capital gains on primary residence, various homebuyer and renovations tax credits...)
 - They ain’t making more land
 - You eventually own where you live which could ideally drop your monthly costs to utilities and property tax
 - Forced savings vehicle (won’t ever not make a mortgage payment, might skip savings some months if not disciplined)
 
-#Cons
+# Cons
 
 - Responsible for maintenance
 - Almost certainly higher cash cost for just the mortgage let alone taxes, renovations, utilities on a per month basis
