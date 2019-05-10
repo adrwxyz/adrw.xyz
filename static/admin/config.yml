@@ -1,16 +1,50 @@
 backend:
   name: git-gateway
   branch: master
+  squash_merges: true
+  commit_messages:
+    create: (cms) Create {{collection}} “{{slug}}”
+    update: (cms) Update {{collection}} “{{slug}}”
+    delete: (cms) Delete {{collection}} “{{slug}}”
+    uploadMedia: (cms) Upload “{{path}}”
+    deleteMedia: (cms) Delete “{{path}}”
 
 media_folder: static/img
 public_folder: /img
 
+logo_url: https://andrew.fm/img/logos/andrew-fm.svg
+
+slug:
+  encoding: "ascii"
+  clean_accents: true
+  sanitize_replacement: "_"
+
 collections:
-  - name: "blog"
-    label: "Blog"
-    folder: "src/pages/blog"
+  - name: "pages"
+    label: "Pages"
+    folder: "pages"
     create: true
-    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    slug: "{{slug}}"
+    fields:
+      - {
+          label: "Template Key",
+          name: "templateKey",
+          widget: "hidden",
+          default: "page",
+        }
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Publish Date", name: "date", widget: "datetime" }
+      - { label: "Path", name: "path", widget: "text" }
+      - { label: "Description", name: "description", widget: "text" }
+      - { label: "SEO Title", name: "seo_title", widget: "text" }
+      - { label: "Main Image", name: "image", widget: "image" }
+      - { label: "Body", name: "body", widget: "markdown" }
+      - { label: "Tags", name: "tags", widget: "list" }
+  - name: "writing"
+    label: "Writing"
+    folder: "posts"
+    create: true
+    slug: "{{slug}}"
     fields:
       - {
           label: "Template Key",
@@ -20,7 +54,113 @@ collections:
         }
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Publish Date", name: "date", widget: "datetime" }
+      - { label: "Path", name: "path", widget: "text" }
       - { label: "Description", name: "description", widget: "text" }
-      - { label: "Main Image", name: "img", widget: "image" }
+      - { label: "SEO Title", name: "seo_title", widget: "text" }
+      - { label: "Main Image", name: "image", widget: "image" }
+      - { label: "Body", name: "body", widget: "markdown" }
+      - { label: "Tags", name: "tags", widget: "list" }
+  - name: "projects"
+    label: "Projects"
+    folder: "projects"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {
+          label: "Template Key",
+          name: "templateKey",
+          widget: "hidden",
+          default: "project",
+        }
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Publish Date", name: "date", widget: "datetime" }
+      - { label: "Path", name: "path", widget: "text" }
+      - { label: "Order", name: "order", widget: "number" }
+      - { label: "Description", name: "description", widget: "text" }
+      - { label: "SEO Title", name: "seo_title", widget: "text" }
+      - { label: "Main Image", name: "image", widget: "image" }
+      - { label: "Body", name: "body", widget: "markdown" }
+      - { label: "Tags", name: "tags", widget: "list" }
+  - name: "experience"
+    label: "Notes/Experience"
+    folder: "notes/experience"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {
+          label: "Template Key",
+          name: "templateKey",
+          widget: "hidden",
+          default: "note",
+        }
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Publish Date", name: "date", widget: "datetime" }
+      - { label: "Path", name: "path", widget: "text" }
+      - { label: "Description", name: "description", widget: "text" }
+      - { label: "SEO Title", name: "seo_title", widget: "text" }
+      - { label: "Main Image", name: "image", widget: "image" }
+      - { label: "Body", name: "body", widget: "markdown" }
+      - { label: "Tags", name: "tags", widget: "list" }
+
+  - name: "scenes"
+    label: "Notes/Scenes"
+    folder: "notes/scenes"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {
+          label: "Template Key",
+          name: "templateKey",
+          widget: "hidden",
+          default: "note",
+        }
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Publish Date", name: "date", widget: "datetime" }
+      - { label: "Path", name: "path", widget: "text" }
+      - { label: "Description", name: "description", widget: "text" }
+      - { label: "SEO Title", name: "seo_title", widget: "text" }
+      - { label: "Main Image", name: "image", widget: "image" }
+      - { label: "Body", name: "body", widget: "markdown" }
+      - { label: "Tags", name: "tags", widget: "list" }
+
+  - name: "songs"
+    label: "Notes/Songs"
+    folder: "notes/songs"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {
+          label: "Template Key",
+          name: "templateKey",
+          widget: "hidden",
+          default: "song",
+        }
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Publish Date", name: "date", widget: "datetime" }
+      - { label: "Path", name: "path", widget: "text" }
+      - { label: "Description", name: "description", widget: "text" }
+      - { label: "SEO Title", name: "seo_title", widget: "text" }
+      - { label: "Main Image", name: "image", widget: "image" }
+      - { label: "Body", name: "body", widget: "markdown" }
+      - { label: "Tags", name: "tags", widget: "list" }
+
+  - name: "travel"
+    label: "Notes/Travel"
+    folder: "notes/travel"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {
+          label: "Template Key",
+          name: "templateKey",
+          widget: "hidden",
+          default: "note",
+        }
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Publish Date", name: "date", widget: "datetime" }
+      - { label: "Path", name: "path", widget: "text" }
+      - { label: "Description", name: "description", widget: "text" }
+      - { label: "SEO Title", name: "seo_title", widget: "text" }
+      - { label: "Main Image", name: "image", widget: "image" }
       - { label: "Body", name: "body", widget: "markdown" }
       - { label: "Tags", name: "tags", widget: "list" }

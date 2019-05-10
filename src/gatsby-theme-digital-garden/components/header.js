@@ -33,7 +33,7 @@ export default () => (
     <Box mx={1} />
     <span>
       <Styled.a as={Link} to={"/blog"}>
-        Blog
+        Writing
       </Styled.a>
     </span>
     <Box mx={1} />
