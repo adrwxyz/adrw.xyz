@@ -81,9 +81,10 @@ collections:
       - { label: "Main Image", name: "image", widget: "image" }
       - { label: "Body", name: "body", widget: "markdown" }
       - { label: "Tags", name: "tags", widget: "list" }
-  - name: "experience"
-    label: "Notes/Experience"
-    folder: "notes/experience"
+
+  - name: "code"
+    label: "Notes/Code"
+    folder: "notes/code"
     create: true
     slug: "{{slug}}"
     fields:
@@ -102,7 +103,7 @@ collections:
       - { label: "Body", name: "body", widget: "markdown" }
       - { label: "Tags", name: "tags", widget: "list" }
 
-  - name: "scenes"
+      - name: "scenes"
     label: "Notes/Scenes"
     folder: "notes/scenes"
     create: true
