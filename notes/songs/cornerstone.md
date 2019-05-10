@@ -1,12 +1,12 @@
 ---
 title:  "Cornerstone"
 date:   2010-10-10 00:00:00
-permalink: /song/cornerstone
+path: /song/cornerstone
 layout: song
 artist: Hillsong
 source: https://tabs.ultimate-guitar.com/tab/hillsongs/cornerstone_chords_1165926
 seo_title: "Cornerstone | Songs | Andrew Paradi Alexander"
-excerpt: "Cornerstone | Songs | Andrew Paradi Alexander"
+description: "Cornerstone | Songs | Andrew Paradi Alexander"
 lyrics: |
   [Intro]
 

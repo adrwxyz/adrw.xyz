@@ -1,12 +1,12 @@
 ---
 title:  "Mountain Sound"
 date:   2010-10-10 00:00:00
-permalink: /song/mountain-sound
+path: /song/mountain-sound
 layout: song
 artist: Of Monsters and Men
 source: https://tabs.ultimate-guitar.com/tab/of_monsters_and_men/mountain_sound_chords_1146922
 seo_title: "Mountain Sound | Songs | Andrew Paradi Alexander"
-excerpt: "Mountain Sound | Songs | Andrew Paradi Alexander"
+description: "Mountain Sound | Songs | Andrew Paradi Alexander"
 lyrics: |
   [Verse]
   I heard them calling in the distance

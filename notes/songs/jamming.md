@@ -1,12 +1,12 @@
 ---
 title:  "Jamming"
 date:   2010-10-10 00:00:00
-permalink: /song/jamming
+path: /song/jamming
 layout: song
 artist: Bob Marley
 source: https://tabs.ultimate-guitar.com/tab/bob_marley/jammin_chords_75870
 seo_title: "Jamming | Songs | Andrew Paradi Alexander"
-excerpt: "Jamming | Songs | Andrew Paradi Alexander"
+description: "Jamming | Songs | Andrew Paradi Alexander"
 lyrics: |
   [Chorus]
   We're jamming

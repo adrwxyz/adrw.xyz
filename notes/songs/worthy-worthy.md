@@ -1,12 +1,12 @@
 ---
 title:  "Worthy Worthy"
 date:   2010-10-10 00:00:00
-permalink: /song/worthy-worthy
+path: /song/worthy-worthy
 layout: song
 artist: Vertical Church Band
 source: https://tabs.ultimate-guitar.com/tab/vertical_church_band/worthy_worthy_chords_1453643
 seo_title: "Worthy Worthy | Songs | Andrew Paradi Alexander"
-excerpt: "Worthy Worthy | Songs | Andrew Paradi Alexander"
+description: "Worthy Worthy | Songs | Andrew Paradi Alexander"
 lyrics: |
   [Intro]
 

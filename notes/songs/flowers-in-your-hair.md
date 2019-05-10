@@ -1,12 +1,12 @@
 ---
 title:  "Flowers In Your Hair"
 date:   2010-10-10 00:00:00
-permalink: /song/flowers-in-your-hair
+path: /song/flowers-in-your-hair
 layout: song
 artist: The Lumineers
 source: https://tabs.ultimate-guitar.com/tab/the_lumineers/flowers_in_your_hair_chords_1148201
 seo_title: "Flowers In Your Hair | Songs | Andrew Paradi Alexander"
-excerpt: "Flowers In Your Hair | Songs | Andrew Paradi Alexander"
+description: "Flowers In Your Hair | Songs | Andrew Paradi Alexander"
 lyrics: |
   [Verse]
   When we were younger

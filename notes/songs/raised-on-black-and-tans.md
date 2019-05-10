@@ -1,12 +1,12 @@
 ---
 title:  "Raised on Black & Tans"
 date:   2010-10-10 00:00:00
-permalink: /song/raised-on-black-and-tans
+path: /song/raised-on-black-and-tans
 layout: song
 artist: Gaelic Storm
 source: https://tabs.ultimate-guitar.com/tab/gaelic_storm/raised_on_black_and_tans_chords_1046825
 seo_title: "Raised on Black & Tans | Songs | Andrew Paradi Alexander"
-excerpt: "Raised on Black & Tans | Songs | Andrew Paradi Alexander"
+description: "Raised on Black & Tans | Songs | Andrew Paradi Alexander"
 lyrics: |
   I was raised   on Black and Tans,
   with Ronnie Drew,   and Van the Man

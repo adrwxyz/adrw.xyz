@@ -1,12 +1,12 @@
 ---
 title:  "Blessed Be Your Name"
 date:   2010-10-10 00:00:00
-permalink: /song/blessed-be-your-name
+path: /song/blessed-be-your-name
 layout: song
 artist: Matt Redman
 source: https://tabs.ultimate-guitar.com/tab/matt_redman/blessed_be_your_name_chords_52780
 seo_title: "Blessed Be Your Name | Songs | Andrew Paradi Alexander"
-excerpt: "Blessed Be Your Name | Songs | Andrew Paradi Alexander"
+description: "Blessed Be Your Name | Songs | Andrew Paradi Alexander"
 lyrics: |
   [Verse 1]
    Blessed be Your name  in the land that is plentiful

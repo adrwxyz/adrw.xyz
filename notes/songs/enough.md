@@ -1,12 +1,12 @@
 ---
 title:  "Enough"
 date:   2010-10-10 00:00:00
-permalink: /song/enough
+path: /song/enough
 layout: song
 artist: Chris Tomlin
 source: https://tabs.ultimate-guitar.com/tab/chris_tomlin/enough_chords_167481
 seo_title: "Enough | Songs | Andrew Paradi Alexander"
-excerpt: "Enough | Songs | Andrew Paradi Alexander"
+description: "Enough | Songs | Andrew Paradi Alexander"
 lyrics: |
   [Verse]
   you are my supply
