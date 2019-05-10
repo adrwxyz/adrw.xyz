@@ -16,25 +16,31 @@ export default () => (
     <Helmet>
       <link rel="icon" type="image/png" href="/img/logos/h.png" sizes="32x32" />
     </Helmet>
-    <Styled.a as={Link} to="/">
+    <Link to="/">
       <img
         alt=""
         src="/img/logos/hfm.png"
         style={{ maxHeight: "100%", width: "50px" }}
       />
-    </Styled.a>
+    </Link>
     <Box mx="auto" />
     <Box mx={1} />
-    <Styled.a as={Link} to={"/projects"}>
-      Projects
-    </Styled.a>
+    <span>
+      <Styled.a as={Link} to={"/projects"}>
+        Projects
+      </Styled.a>
+    </span>
     <Box mx={1} />
-    <Styled.a as={Link} to={"/blog"}>
-      Blog
-    </Styled.a>
+    <span>
+      <Styled.a as={Link} to={"/blog"}>
+        Blog
+      </Styled.a>
+    </span>
     <Box mx={1} />
-    <Styled.a as={Link} to={"/notes"}>
-      Notes
-    </Styled.a>
+    <span>
+      <Styled.a as={Link} to={"/notes"}>
+        Notes
+      </Styled.a>
+    </span>
   </Header>
 )
