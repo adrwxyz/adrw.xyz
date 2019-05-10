@@ -1,7 +1,8 @@
 import CMS from "netlify-cms"
+import MdxPreview from "./preview-templates/MdxPreview"
 
-import AboutPagePreview from "./preview-templates/AboutPagePreview"
-import BlogPostPreview from "./preview-templates/BlogPostPreview"
-
-CMS.registerPreviewTemplate("about", AboutPagePreview)
-CMS.registerPreviewTemplate("blog", BlogPostPreview)
+CMS.registerPreviewTemplate("blog-post", MdxPreview)
+CMS.registerPreviewTemplate("note", MdxPreview)
+CMS.registerPreviewTemplate("page", MdxPreview)
+CMS.registerPreviewTemplate("project", MdxPreview)
+CMS.registerPreviewTemplate("song", MdxPreview)
