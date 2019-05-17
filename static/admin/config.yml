@@ -24,7 +24,7 @@ collections:
     label: "Pages"
     folder: "pages"
     create: true
-    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    slug: "{{slug}}"
     fields:
       - {
           label: "Template Key",
@@ -33,7 +33,6 @@ collections:
           default: "page",
         }
       - { label: "Title", name: "title", widget: "string" }
-      - { label: "Path", name: "path", widget: "text" }
       - { label: "Body", name: "body", widget: "markdown" }
 
   - name: "writing"
