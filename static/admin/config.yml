@@ -54,6 +54,12 @@ collections:
       - { label: "Main Image", name: "image", widget: "image", required: false }
       - { label: "Body", name: "body", widget: "markdown" }
       - { label: "Tags", name: "tags", widget: "list", required: false }
+      - {
+          label: "Redirects",
+          name: "redirects",
+          widget: "list",
+          required: false,
+        }
   - name: "projects"
     label: "Projects"
     folder: "projects"
@@ -74,6 +80,12 @@ collections:
       - { label: "Main Image", name: "image", widget: "image", required: false }
       - { label: "Body", name: "body", widget: "markdown" }
       - { label: "Tags", name: "tags", widget: "list", required: false }
+      - {
+          label: "Redirects",
+          name: "redirects",
+          widget: "list",
+          required: false,
+        }
 
   - name: "books"
     label: "Notes/Books"
@@ -95,6 +107,12 @@ collections:
       - { label: "Main Image", name: "image", widget: "image", required: false }
       - { label: "Body", name: "body", widget: "markdown" }
       - { label: "Tags", name: "tags", widget: "list", required: false }
+      - {
+          label: "Redirects",
+          name: "redirects",
+          widget: "list",
+          required: false,
+        }
   - name: "code"
     label: "Notes/Code"
     folder: "notes/code"
@@ -113,6 +131,12 @@ collections:
       - { label: "Main Image", name: "image", widget: "image", required: false }
       - { label: "Body", name: "body", widget: "markdown" }
       - { label: "Tags", name: "tags", widget: "list", required: false }
+      - {
+          label: "Redirects",
+          name: "redirects",
+          widget: "list",
+          required: false,
+        }
 
   - name: "finance"
     label: "Notes/Finance"
@@ -132,6 +156,12 @@ collections:
       - { label: "Main Image", name: "image", widget: "image", required: false }
       - { label: "Body", name: "body", widget: "markdown" }
       - { label: "Tags", name: "tags", widget: "list", required: false }
+      - {
+          label: "Redirects",
+          name: "redirects",
+          widget: "list",
+          required: false,
+        }
 
   - name: "scenes"
     label: "Notes/Scenes"
@@ -151,6 +181,12 @@ collections:
       - { label: "Main Image", name: "image", widget: "image", required: false }
       - { label: "Body", name: "body", widget: "markdown" }
       - { label: "Tags", name: "tags", widget: "list", required: false }
+      - {
+          label: "Redirects",
+          name: "redirects",
+          widget: "list",
+          required: false,
+        }
 
   - name: "songs"
     label: "Notes/Songs"
@@ -168,6 +204,12 @@ collections:
       - { label: "Artist", name: "artist", widget: "text" }
       - { label: "Body", name: "body", widget: "markdown" }
       - { label: "Tags", name: "tags", widget: "list", required: false }
+      - {
+          label: "Redirects",
+          name: "redirects",
+          widget: "list",
+          required: false,
+        }
 
   - name: "travel"
     label: "Notes/Travel"
@@ -187,3 +229,9 @@ collections:
       - { label: "Main Image", name: "image", widget: "image", required: false }
       - { label: "Body", name: "body", widget: "markdown" }
       - { label: "Tags", name: "tags", widget: "list", required: false }
+      - {
+          label: "Redirects",
+          name: "redirects",
+          widget: "list",
+          required: false,
+        }
