@@ -24,7 +24,7 @@ collections:
     label: "Pages"
     folder: "pages"
     create: true
-    slug: "{{slug}}"
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     fields:
       - {
           label: "Template Key",
@@ -33,19 +33,14 @@ collections:
           default: "page",
         }
       - { label: "Title", name: "title", widget: "string" }
-      - { label: "Publish Date", name: "date", widget: "datetime" }
       - { label: "Path", name: "path", widget: "text" }
-      - { label: "Description", name: "description", widget: "text" }
-      - { label: "SEO Title", name: "seo_title", widget: "text" }
-      - { label: "Main Image", name: "image", widget: "image" }
       - { label: "Body", name: "body", widget: "markdown" }
-      - { label: "Tags", name: "tags", widget: "list" }
-      
+
   - name: "writing"
     label: "Writing"
     folder: "posts"
     create: true
-    slug: "{{slug}}"
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     fields:
       - {
           label: "Template Key",
@@ -57,7 +52,6 @@ collections:
       - { label: "Publish Date", name: "date", widget: "datetime" }
       - { label: "Path", name: "path", widget: "text" }
       - { label: "Description", name: "description", widget: "text" }
-      - { label: "SEO Title", name: "seo_title", widget: "text" }
       - { label: "Main Image", name: "image", widget: "image" }
       - { label: "Body", name: "body", widget: "markdown" }
       - { label: "Tags", name: "tags", widget: "list" }
@@ -65,7 +59,7 @@ collections:
     label: "Projects"
     folder: "projects"
     create: true
-    slug: "{{slug}}"
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     fields:
       - {
           label: "Template Key",
@@ -78,7 +72,6 @@ collections:
       - { label: "Path", name: "path", widget: "text" }
       - { label: "Order", name: "order", widget: "number" }
       - { label: "Description", name: "description", widget: "text" }
-      - { label: "SEO Title", name: "seo_title", widget: "text" }
       - { label: "Main Image", name: "image", widget: "image" }
       - { label: "Body", name: "body", widget: "markdown" }
       - { label: "Tags", name: "tags", widget: "list" }
@@ -87,7 +80,7 @@ collections:
     label: "Notes/Code"
     folder: "notes/code"
     create: true
-    slug: "{{slug}}"
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     fields:
       - {
           label: "Template Key",
@@ -99,7 +92,6 @@ collections:
       - { label: "Publish Date", name: "date", widget: "datetime" }
       - { label: "Path", name: "path", widget: "text" }
       - { label: "Description", name: "description", widget: "text" }
-      - { label: "SEO Title", name: "seo_title", widget: "text" }
       - { label: "Main Image", name: "image", widget: "image" }
       - { label: "Body", name: "body", widget: "markdown" }
       - { label: "Tags", name: "tags", widget: "list" }
@@ -108,7 +100,7 @@ collections:
     label: "Notes/Finance"
     folder: "notes/finance"
     create: true
-    slug: "{{slug}}"
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     fields:
       - {
           label: "Template Key",
@@ -120,7 +112,6 @@ collections:
       - { label: "Publish Date", name: "date", widget: "datetime" }
       - { label: "Path", name: "path", widget: "text" }
       - { label: "Description", name: "description", widget: "text" }
-      - { label: "SEO Title", name: "seo_title", widget: "text" }
       - { label: "Main Image", name: "image", widget: "image" }
       - { label: "Body", name: "body", widget: "markdown" }
       - { label: "Tags", name: "tags", widget: "list" }
@@ -129,7 +120,7 @@ collections:
     label: "Notes/Scenes"
     folder: "notes/scenes"
     create: true
-    slug: "{{slug}}"
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     fields:
       - {
           label: "Template Key",
@@ -141,7 +132,6 @@ collections:
       - { label: "Publish Date", name: "date", widget: "datetime" }
       - { label: "Path", name: "path", widget: "text" }
       - { label: "Description", name: "description", widget: "text" }
-      - { label: "SEO Title", name: "seo_title", widget: "text" }
       - { label: "Main Image", name: "image", widget: "image" }
       - { label: "Body", name: "body", widget: "markdown" }
       - { label: "Tags", name: "tags", widget: "list" }
@@ -158,12 +148,8 @@ collections:
           widget: "hidden",
           default: "song",
         }
-      - { label: "Title", name: "title", widget: "string" }
-      - { label: "Publish Date", name: "date", widget: "datetime" }
-      - { label: "Path", name: "path", widget: "text" }
-      - { label: "Description", name: "description", widget: "text" }
-      - { label: "SEO Title", name: "seo_title", widget: "text" }
-      - { label: "Main Image", name: "image", widget: "image" }
+      - { label: "Song Title", name: "title", widget: "string" }
+      - { label: "Artist", name: "artist", widget: "text" }
       - { label: "Body", name: "body", widget: "markdown" }
       - { label: "Tags", name: "tags", widget: "list" }
 
@@ -171,7 +157,7 @@ collections:
     label: "Notes/Travel"
     folder: "notes/travel"
     create: true
-    slug: "{{slug}}"
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     fields:
       - {
           label: "Template Key",
@@ -183,7 +169,6 @@ collections:
       - { label: "Publish Date", name: "date", widget: "datetime" }
       - { label: "Path", name: "path", widget: "text" }
       - { label: "Description", name: "description", widget: "text" }
-      - { label: "SEO Title", name: "seo_title", widget: "text" }
       - { label: "Main Image", name: "image", widget: "image" }
       - { label: "Body", name: "body", widget: "markdown" }
       - { label: "Tags", name: "tags", widget: "list" }
