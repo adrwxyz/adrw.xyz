@@ -90,6 +90,8 @@ collections:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Publish Date", name: "date", widget: "datetime" }
       - { label: "Path", name: "path", widget: "text" }
+      - { label: "Author", name: "author", widget: "string", required: false }
+      - { label: "Year", name: "year", widget: "string", required: false }
       - { label: "Main Image", name: "image", widget: "image", required: false }
       - { label: "Body", name: "body", widget: "markdown" }
       - { label: "Tags", name: "tags", widget: "list", required: false }
