@@ -33,7 +33,15 @@ collections:
           default: "page",
         }
       - { label: "Title", name: "title", widget: "string" }
+      - { label: "Path", name: "path", widget: "text" }
+      - { label: "Description", name: "description", widget: "text" }
       - { label: "Body", name: "body", widget: "markdown" }
+      - {
+          label: "Redirects",
+          name: "redirects",
+          widget: "list",
+          required: false,
+        }
 
   - name: "writing"
     label: "Writing"
