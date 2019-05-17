@@ -51,9 +51,9 @@ collections:
       - { label: "Publish Date", name: "date", widget: "datetime" }
       - { label: "Path", name: "path", widget: "text" }
       - { label: "Description", name: "description", widget: "text" }
-      - { label: "Main Image", name: "image", widget: "image" }
+      - { label: "Main Image", name: "image", widget: "image", required: false }
       - { label: "Body", name: "body", widget: "markdown" }
-      - { label: "Tags", name: "tags", widget: "list" }
+      - { label: "Tags", name: "tags", widget: "list", required: false }
   - name: "projects"
     label: "Projects"
     folder: "projects"
@@ -71,9 +71,9 @@ collections:
       - { label: "Path", name: "path", widget: "text" }
       - { label: "Order", name: "order", widget: "number" }
       - { label: "Description", name: "description", widget: "text" }
-      - { label: "Main Image", name: "image", widget: "image" }
+      - { label: "Main Image", name: "image", widget: "image", required: false }
       - { label: "Body", name: "body", widget: "markdown" }
-      - { label: "Tags", name: "tags", widget: "list" }
+      - { label: "Tags", name: "tags", widget: "list", required: false }
 
   - name: "books"
     label: "Notes/Books"
@@ -90,10 +90,9 @@ collections:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Publish Date", name: "date", widget: "datetime" }
       - { label: "Path", name: "path", widget: "text" }
-      - { label: "Description", name: "description", widget: "text" }
-      - { label: "Main Image", name: "image", widget: "image" }
+      - { label: "Main Image", name: "image", widget: "image", required: false }
       - { label: "Body", name: "body", widget: "markdown" }
-      - { label: "Tags", name: "tags", widget: "list" }
+      - { label: "Tags", name: "tags", widget: "list", required: false }
   - name: "code"
     label: "Notes/Code"
     folder: "notes/code"
@@ -109,10 +108,9 @@ collections:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Publish Date", name: "date", widget: "datetime" }
       - { label: "Path", name: "path", widget: "text" }
-      - { label: "Description", name: "description", widget: "text" }
-      - { label: "Main Image", name: "image", widget: "image" }
+      - { label: "Main Image", name: "image", widget: "image", required: false }
       - { label: "Body", name: "body", widget: "markdown" }
-      - { label: "Tags", name: "tags", widget: "list" }
+      - { label: "Tags", name: "tags", widget: "list", required: false }
 
   - name: "finance"
     label: "Notes/Finance"
@@ -129,10 +127,9 @@ collections:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Publish Date", name: "date", widget: "datetime" }
       - { label: "Path", name: "path", widget: "text" }
-      - { label: "Description", name: "description", widget: "text" }
-      - { label: "Main Image", name: "image", widget: "image" }
+      - { label: "Main Image", name: "image", widget: "image", required: false }
       - { label: "Body", name: "body", widget: "markdown" }
-      - { label: "Tags", name: "tags", widget: "list" }
+      - { label: "Tags", name: "tags", widget: "list", required: false }
 
   - name: "scenes"
     label: "Notes/Scenes"
@@ -149,10 +146,9 @@ collections:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Publish Date", name: "date", widget: "datetime" }
       - { label: "Path", name: "path", widget: "text" }
-      - { label: "Description", name: "description", widget: "text" }
-      - { label: "Main Image", name: "image", widget: "image" }
+      - { label: "Main Image", name: "image", widget: "image", required: false }
       - { label: "Body", name: "body", widget: "markdown" }
-      - { label: "Tags", name: "tags", widget: "list" }
+      - { label: "Tags", name: "tags", widget: "list", required: false }
 
   - name: "songs"
     label: "Notes/Songs"
@@ -169,7 +165,7 @@ collections:
       - { label: "Song Title", name: "title", widget: "string" }
       - { label: "Artist", name: "artist", widget: "text" }
       - { label: "Body", name: "body", widget: "markdown" }
-      - { label: "Tags", name: "tags", widget: "list" }
+      - { label: "Tags", name: "tags", widget: "list", required: false }
 
   - name: "travel"
     label: "Notes/Travel"
@@ -186,7 +182,6 @@ collections:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Publish Date", name: "date", widget: "datetime" }
       - { label: "Path", name: "path", widget: "text" }
-      - { label: "Description", name: "description", widget: "text" }
-      - { label: "Main Image", name: "image", widget: "image" }
+      - { label: "Main Image", name: "image", widget: "image", required: false }
       - { label: "Body", name: "body", widget: "markdown" }
-      - { label: "Tags", name: "tags", widget: "list" }
+      - { label: "Tags", name: "tags", widget: "list", required: false }
