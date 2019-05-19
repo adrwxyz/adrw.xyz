@@ -2,7 +2,7 @@
 templateKey: note
 title: 'Homo Deus: A Brief History of Tomorrow'
 date: 2019-05-17T20:54:03.386Z
-path: /homo-deus-a-brief-history-of-tomorrow
+path: /2019-05-17-homo-deus-a-brief-history-of-tomorrow
 author: Yuval Noah Harari
 year: '2017'
 ---
