@@ -33,7 +33,12 @@ collections:
           default: "page",
         }
       - { label: "Title", name: "title", widget: "string" }
-      - { label: "Path", name: "path", widget: "text" }
+      - {
+          label: "Path",
+          name: "path",
+          widget: "text",
+          default: "{{year}}-{{month}}-{{day}}-{{slug}}",
+        }
       - { label: "Description", name: "description", widget: "text" }
       - { label: "Body", name: "body", widget: "markdown" }
       - {
@@ -57,7 +62,12 @@ collections:
         }
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Publish Date", name: "date", widget: "datetime" }
-      - { label: "Path", name: "path", widget: "text" }
+      - {
+          label: "Path",
+          name: "path",
+          widget: "text",
+          default: "{{year}}-{{month}}-{{day}}-{{slug}}",
+        }
       - { label: "Description", name: "description", widget: "text" }
       - { label: "Main Image", name: "image", widget: "image", required: false }
       - { label: "Body", name: "body", widget: "markdown" }
@@ -82,7 +92,12 @@ collections:
         }
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Publish Date", name: "date", widget: "datetime" }
-      - { label: "Path", name: "path", widget: "text" }
+      - {
+          label: "Path",
+          name: "path",
+          widget: "text",
+          default: "{{year}}-{{month}}-{{day}}-{{slug}}",
+        }
       - { label: "Order", name: "order", widget: "number" }
       - { label: "Description", name: "description", widget: "text" }
       - { label: "Main Image", name: "image", widget: "image", required: false }
@@ -109,7 +124,12 @@ collections:
         }
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Publish Date", name: "date", widget: "datetime" }
-      - { label: "Path", name: "path", widget: "text" }
+      - {
+          label: "Path",
+          name: "path",
+          widget: "text",
+          default: "{{year}}-{{month}}-{{day}}-{{slug}}",
+        }
       - { label: "Author", name: "author", widget: "string", required: false }
       - { label: "Year", name: "year", widget: "string", required: false }
       - { label: "Main Image", name: "image", widget: "image", required: false }
@@ -135,7 +155,12 @@ collections:
         }
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Publish Date", name: "date", widget: "datetime" }
-      - { label: "Path", name: "path", widget: "text" }
+      - {
+          label: "Path",
+          name: "path",
+          widget: "text",
+          default: "{{year}}-{{month}}-{{day}}-{{slug}}",
+        }
       - { label: "Main Image", name: "image", widget: "image", required: false }
       - { label: "Body", name: "body", widget: "markdown" }
       - { label: "Tags", name: "tags", widget: "list", required: false }
@@ -160,7 +185,12 @@ collections:
         }
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Publish Date", name: "date", widget: "datetime" }
-      - { label: "Path", name: "path", widget: "text" }
+      - {
+          label: "Path",
+          name: "path",
+          widget: "text",
+          default: "{{year}}-{{month}}-{{day}}-{{slug}}",
+        }
       - { label: "Main Image", name: "image", widget: "image", required: false }
       - { label: "Body", name: "body", widget: "markdown" }
       - { label: "Tags", name: "tags", widget: "list", required: false }
@@ -185,7 +215,12 @@ collections:
         }
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Publish Date", name: "date", widget: "datetime" }
-      - { label: "Path", name: "path", widget: "text" }
+      - {
+          label: "Path",
+          name: "path",
+          widget: "text",
+          default: "{{year}}-{{month}}-{{day}}-{{slug}}",
+        }
       - { label: "Main Image", name: "image", widget: "image", required: false }
       - { label: "Body", name: "body", widget: "markdown" }
       - { label: "Tags", name: "tags", widget: "list", required: false }
@@ -209,7 +244,12 @@ collections:
           default: "song",
         }
       - { label: "Song Title", name: "title", widget: "string" }
-      - { label: "Path", name: "path", widget: "text" }
+      - {
+          label: "Path",
+          name: "path",
+          widget: "text",
+          default: "{{year}}-{{month}}-{{day}}-{{slug}}",
+        }
       - { label: "Artist", name: "artist", widget: "text" }
       - { label: "Body", name: "body", widget: "markdown" }
       - { label: "Tags", name: "tags", widget: "list", required: false }
@@ -234,7 +274,12 @@ collections:
         }
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Publish Date", name: "date", widget: "datetime" }
-      - { label: "Path", name: "path", widget: "text" }
+      - {
+          label: "Path",
+          name: "path",
+          widget: "text",
+          default: "{{year}}-{{month}}-{{day}}-{{slug}}",
+        }
       - { label: "Main Image", name: "image", widget: "image", required: false }
       - { label: "Body", name: "body", widget: "markdown" }
       - { label: "Tags", name: "tags", widget: "list", required: false }
