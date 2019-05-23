@@ -47,20 +47,6 @@ module.exports = {
       }
     },
     "gatsby-plugin-sharp",
-    // {
-    //   resolve: `gatsby-mdx`,
-    //   options: {
-    //     gatsbyRemarkPlugins: [
-    //       {
-    //         resolve: `gatsby-remark-images`,
-    //         options: {
-    //           maxWidth: 2048,
-    //           sizeByPixelDensity: true
-    //         }
-    //       }
-    //     ]
-    //   }
-    // },
     "gatsby-transformer-sharp",
     {
       resolve: "gatsby-transformer-remark",
@@ -99,12 +85,7 @@ module.exports = {
     "gatsby-plugin-offline",
     "gatsby-plugin-react-helmet",
     "gatsby-plugin-redirects",
-    {
-      resolve: "gatsby-plugin-netlify-cms",
-      options: {
-        modulePath: `${__dirname}/src/cms/cms.js`
-      }
-    },
+    "gatsby-plugin-netlify-cms",
     "gatsby-plugin-netlify" // make sure to keep it last in the array
   ]
 }
