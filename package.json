@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "@emotion/styled": "10.0.11",
-    "gatsby": "2.8.0",
+    "gatsby": "2.8.1",
     "gatsby-image": "2.1.2",
     "gatsby-plugin-mdx": "1.0.5",
     "gatsby-plugin-netlify": "2.0.17",
@@ -20,7 +20,7 @@
     "gatsby-remark-copy-linked-files": "2.0.13",
     "gatsby-remark-images": "3.0.14",
     "gatsby-remark-relative-images": "0.2.2",
-    "gatsby-source-filesystem": "2.0.37",
+    "gatsby-source-filesystem": "2.0.38",
     "gatsby-theme-digital-garden": "0.0.31",
     "gatsby-theme-digital-garden-blog": "0.0.31",
     "gatsby-theme-digital-garden-portfolio": "0.0.31",
