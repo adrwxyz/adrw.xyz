@@ -130,7 +130,7 @@ collections:
           widget: "text",
           default: "{{year}}-{{month}}-{{day}}-{{slug}}",
         }
-      - { label: "Author", name: "author", widget: "string", required: false }
+      - { label: "Author", name: "author", widget: "list", required: false }
       - { label: "Year", name: "year", widget: "string", required: false }
       - { label: "Main Image", name: "image", widget: "image", required: false }
       - { label: "Body", name: "body", widget: "markdown" }
