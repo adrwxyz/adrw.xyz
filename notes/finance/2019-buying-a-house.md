@@ -1,8 +1,7 @@
 ---
-title: "Buying a House in Canada in 2019"
-date: 2019-01-15 00:00:00
+title: Buying a House in Canada in 2019
+date: 2019-01-15T00:00:00.000Z
 path: /2019-buying-a-house
-seo_title: "Buying a House in Canada in 2019 | Finance | Andrew FM"
 ---
 
 # Pros
@@ -30,3 +29,7 @@ seo_title: "Buying a House in Canada in 2019 | Finance | Andrew FM"
 - Reduced cash flow / increased % spent on housing leads to higher income requirement and tighter margin of error if either person loses employment or wants to take leave for a period of time
 - 30+ year bull Canadian RE housing market, willing to bet it will continue another 40 to cover our lifetime (I’m not sure...)
 - Near peak for short term and long term debt cycle (Ray Dalio), thus deleveraging of some sort is coming, likely leading to reduction or pause in growth in house prices as most overleveraged sell houses and others decide not to buy or upgrade because of overextended debt levels.
+
+# Calculators
+- Rent vs Buy [NY Times](https://www.nytimes.com/interactive/2014/upshot/buy-rent-calculator.html)
+- [Mortgage Calculator](https://www.mortgagecalculator.org/)
