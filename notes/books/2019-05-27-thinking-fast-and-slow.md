@@ -19,5 +19,4 @@ author: Daniel Khaneman
 - System 2 has two parts
   - Algorithmic/intelligence: handles logical, slow, computational thinking. Primary determinable of intelligence. 
   - Rationality: someone who is mentally engaged, reflective. Bias can influence even intelligent people who lack reflective rationality. 
-
-
+- The Associative Mind: system 1 task that automatically ripples out a word to associated memories to associated responses 
