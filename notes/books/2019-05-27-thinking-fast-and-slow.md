@@ -24,6 +24,5 @@ author: Daniel Khaneman
 - The marvels of priming: when presented with the task to fill in so_p with the first thing that comes to mind
   - if you’ve recently been reminded of food, you’ll be primed to say soup
   - if recently reminded of cleaning, you’ll say soap
-
-
+- Priming can be not just for words or concepts but also to prompt action. One experiment primed participants with words related to the elderly and decrepid, and the group walked down the hallway immediately following measurably slower and more frail than the control group who had not been primed with those words. 
 
