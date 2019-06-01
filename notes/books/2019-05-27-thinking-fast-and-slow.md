@@ -16,3 +16,8 @@ author: Daniel Khaneman
 - Cognitive performance after a task requiring large amounts of self-control is decreased. This has been named “ego-depletion” and results in a defaulting back to system 1 or poor system 2 performance when mental energy exerted for self-control has left an individual mentally tired. 
 - 4 year olds without self-control to delay gratification of 1 cookie now for 2 cookies in 15 minutes grow up to have reduced executive function, ability to redirect their attention away from something, and are more likely to do drugs.
 - “Lazy” thinking involves taking the most intuitive response as what must be true and not investing the mental effort to critically verify if the system 1 intuitive answer is true. Most people are “lazy” thinkers. Unwillingness to invest energy to verify one’s own intuitive answers leads to poorly informed and biased decision making. 
+- System 2 has two parts
+  - Algorithmic/intelligence: handles logical, slow, computational thinking. Primary determinable of intelligence. 
+  - Rationality: someone who is mentally engaged, reflective. Bias can influence even intelligent people who lack reflective rationality. 
+
+
