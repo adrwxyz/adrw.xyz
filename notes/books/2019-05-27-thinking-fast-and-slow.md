@@ -20,3 +20,4 @@ author: Daniel Khaneman
   - Algorithmic/intelligence: handles logical, slow, computational thinking. Primary determinable of intelligence. 
   - Rationality: someone who is mentally engaged, reflective. Bias can influence even intelligent people who lack reflective rationality. 
 - The Associative Mind: system 1 task that automatically ripples out a word to associated memories to associated responses 
+- Cognition is embodied. We think with our body not just our mind. The associativity of ideas means that we tie concepts together and respond together by resemblance, contiguity in time and place, and causality (David Hume). 
