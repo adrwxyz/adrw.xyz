@@ -21,3 +21,9 @@ author: Daniel Khaneman
   - Rationality: someone who is mentally engaged, reflective. Bias can influence even intelligent people who lack reflective rationality. 
 - The Associative Mind: system 1 task that automatically ripples out a word to associated memories to associated responses 
 - Cognition is embodied. We think with our body not just our mind. The associativity of ideas means that we tie concepts together and respond together by resemblance, contiguity in time and place, and causality (David Hume). 
+- The marvels of priming: when presented with the task to fill in so_p with the first thing that comes to mind
+  - if you’ve recently been reminded of food, you’ll be primed to say soup
+  - if recently reminded of cleaning, you’ll say soap
+
+
+
