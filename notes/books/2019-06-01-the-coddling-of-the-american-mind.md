@@ -22,4 +22,5 @@ year: '2018'
   - Political extremists provoking each other to hatred
   - Social media has encouraged a public shaming "call out" culture
   - New social media and news outlets allow retreat into amplified and repeated echo chambers
-- Humans are anti-fragile (concept from Nassim Nicholas Taleb of The Black Swan), meaning that like muscles they only grow and succeed when placed under points of stress. Humans psyche, just like their muscles, atrophe when not exercised.
+- Humans are anti-fragile (concept from Nassim Nicholas Taleb of The Black Swan), meaning that like muscles they only grow and succeed when placed under points of stress. Humans psyche, just like their muscles, atrophy when not exercised.
+- "What really frightens and dismays us is not external events themselves, but how we think about them" – Epictetus (Greek stoic philosopher)
