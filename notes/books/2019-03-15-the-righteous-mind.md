@@ -1,11 +1,11 @@
 ---
 templateKey: note
-title: "The Righteous Mind "
+title: 'The Righteous Mind '
 date: 2019-03-15T15:55:39.031Z
 path: /2019-03-15-the-righteous-mind
 author:
   - Jonothan Haidt
-year: "2012"
+year: '2012'
 ---
 
 [Introduction/Overview](https://righteousmind.com/about-the-book/introductory-chapter/)
@@ -15,6 +15,10 @@ The primary picture for the conscious mind's self-justificating system is that o
 In practice, this means that our mind will continuously find ways to justify the righteousness or morality of our actions and views in a way to present a rational reason for why we leaned one way or another on a specific issue or action. The elephant decides in our mind very quickly and the rational explanation for our moral decision can often be left struggling for words.
 
 This book transformed how I view myself, my own self-confidence in my rationality, and others. Understanding the moral psychology model outlined in the Righteous Mind, it's easier to understand how people can take actions that are hurtful or irrational yet have little remorse if their rider has come up with a satisfactory explanation for why they did or think what they did.
+
+In one study among different groups of high school, undergraduate, and graduate students, the authors found that when given a task to write pros and cons of an argument, the only different education provided was that the subject could write a longer list of arguments for their position. No amount of education gave the subject the ability to bring up with the same intellectual vigor and verbosity arguments against the position they held.
+
+My wife pointed out that in one of my own notes from before I read this book, [Pros/Cons of Home Ownership](/notes/finance/2019-buying-a-house), I generated 4 arguments for, but 16 arguments against (which is the position I hold). This note ends up being another piece of evidence to affirm the study's findings.
 
 Even for myself, I catch myself now realizing that certain things I do or say can be hurtful even if my gut reaction is that I was justified or "righteous" in doing it.
 
