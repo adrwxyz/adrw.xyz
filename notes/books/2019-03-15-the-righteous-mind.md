@@ -1,11 +1,11 @@
 ---
 templateKey: note
-title: 'The Righteous Mind '
+title: "The Righteous Mind "
 date: 2019-03-15T15:55:39.031Z
 path: /2019-03-15-the-righteous-mind
 author:
   - Jonothan Haidt
-year: '2012'
+year: "2012"
 ---
 
 [Introduction/Overview](https://righteousmind.com/about-the-book/introductory-chapter/)
