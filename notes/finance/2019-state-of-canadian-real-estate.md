@@ -3,6 +3,7 @@ title: 2019 State of Canadian Real Estate
 date: 2019-02-15T00:00:00.000Z
 path: /2019-state-of-canadian-real-estate
 ---
+
 Canada RE looks like a bubble. If it is can we short it like saavy investors in the US could?
 
 Canadian household debt-to-income ratios are at record highs. As the US ratios dipped and have recovered to 2007 levels in the past 10 years, Canada's ratio continued up and to the right since 2007 to it's current ratio well over 1.8. Housing prices have continued to soar, in some city markets going up over 15% per year. Affordability ratios of almost every measure are higher than they have ever been in Canada. How did this happen?
@@ -27,7 +28,7 @@ The primary impact on the issuing banks was an enormous reduction in their mortg
 
 Banks began to fail because of their now worthless mortgage backed security assets and the related effects of the real estate crash rippled through the economy to cause the significant 2008 recession. The central bank, as it does during economic downtimes, reduced interest rates to incentivize investment and business activitiy but there was little improvement as the bank continued to drop rates and finally hit 0%. The last time the central bank had hit 0% interest rates in the US was at the bottom of the Great Depression in the 1930s.
 
-When interest rates hit 0%, central banks have to turn to other strategies to stimulate the economy. The one that was employed significantly in the US was reported in the news as Quantitative Easing. It was a "monetization" strategy, or one that involved the Federal Reserve printing US currency and then using that new money to buy financial assets in open markets and free up debt laden banks and institutions from worthless assets on their balance sheets. The Federal Reserve in the US spent well over $1 Trillion USD in the years following the initial real estate crash buying bad mortgage backed securities and other financial assets from banks in hopes that their restored balance sheets would allow them to increase lending and economic activity.
+When interest rates hit 0%, central banks have to turn to other strategies to stimulate the economy. The one that was employed significantly in the US was reported in the news as Quantitative Easing. It was a "monetization" strategy, or one that involved the Federal Reserve printing US currency and then using that new money to buy financial assets in open markets and free up debt laden banks and institutions from worthless assets on their balance sheets. The Federal Reserve in the US spent well over \$1 Trillion USD in the years following the initial real estate crash buying bad mortgage backed securities and other financial assets from banks in hopes that their restored balance sheets would allow them to increase lending and economic activity.
 
 Banks following 2008 were very slow to do this and note that not every bank had their bad assets purchased. Some were allowed to go bankrupt, like Lehman Brothers and others, like Bear Stearns were allowed to fail gracefully into a merger with another larger bank, in their case JPMorgan Chase.
 
@@ -69,9 +70,9 @@ But, how much higher? There are many factors that play into the payment curve th
 
 Why does this matter to the increase for new homeowners in their regular mortgage payment? Since it is still early in their mortgage, and interest payment is a bigger portion of every payment, interest rate increases will causes a much bigger impact than if interest rates had gone up when they were 5 years from paying the mortgage off.
 
-In one example of a homeowner of a $1 million house that was renewing their mortgage terms at an interest rate 2% higher than their last rate, their mortgage payment of $5200 increased to $6344, a percentage growth in their monthly payment of 22% and absolute increase of $1144 per month, over $12,ppp per year.
+In one example of a homeowner of a $1 million house that was renewing their mortgage terms at an interest rate 2% higher than their last rate, their mortgage payment of $5200 increased to $6344, a percentage growth in their monthly payment of 22% and absolute increase of $1144 per month, over \$12,ppp per year.
 
-Now, not every homeowner who bought in the early 2010s has a $1 million dollar house. But, would every homeowner feel the pain of a sudden 22% increase to their mortgage payment? You bet.
+Now, not every homeowner who bought in the early 2010s has a \$1 million dollar house. But, would every homeowner feel the pain of a sudden 22% increase to their mortgage payment? You bet.
 
 # Defaulting on a mortgage? That’s not something we do around here
 
@@ -126,9 +127,9 @@ Over indebted Canadians have not found some financial escape hatch though, but h
 
 # Canada Interest Rate Policy Next Steps
 
-* If Canada goes to 0 and US doesn’t
-* If Canada and US doesn’t go to 0
+- If Canada goes to 0 and US doesn’t
+- If Canada and US doesn’t go to 0
 
 # Links
 
-* [Alternative lenders gain ground as mortgage originations slow: CMHC](https://business.financialpost.com/real-estate/alternative-lenders-gain-ground-as-mortgage-originations-slow-cmhc)
+- [Alternative lenders gain ground as mortgage originations slow: CMHC](https://business.financialpost.com/real-estate/alternative-lenders-gain-ground-as-mortgage-originations-slow-cmhc)

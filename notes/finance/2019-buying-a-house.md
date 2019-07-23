@@ -31,5 +31,6 @@ path: /2019-buying-a-house
 - Near peak for short term and long term debt cycle (Ray Dalio), thus deleveraging of some sort is coming, likely leading to reduction or pause in growth in house prices as most overleveraged sell houses and others decide not to buy or upgrade because of overextended debt levels.
 
 # Calculators
+
 - Rent vs Buy [NY Times](https://www.nytimes.com/interactive/2014/upshot/buy-rent-calculator.html)
 - [Mortgage Calculator](https://www.mortgagecalculator.org/)
