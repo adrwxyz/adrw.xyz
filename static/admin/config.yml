@@ -171,6 +171,36 @@ collections:
           required: false,
         }
 
+  - name: "faith"
+    label: "Notes/Faith"
+    folder: "notes/faith"
+    create: true
+    slug: "{{path}}"
+    fields:
+      - {
+          label: "Template Key",
+          name: "templateKey",
+          widget: "hidden",
+          default: "note",
+        }
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Publish Date", name: "date", widget: "datetime" }
+      - {
+          label: "Path",
+          name: "path",
+          widget: "text",
+          default: "{{year}}-{{month}}-{{day}}-{{slug}}",
+        }
+      - { label: "Main Image", name: "image", widget: "image", required: false }
+      - { label: "Body", name: "body", widget: "markdown" }
+      - { label: "Tags", name: "tags", widget: "list", required: false }
+      - {
+          label: "Redirects",
+          name: "redirects",
+          widget: "list",
+          required: false,
+        }
+
   - name: "finance"
     label: "Notes/Finance"
     folder: "notes/finance"
