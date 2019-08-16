@@ -6,6 +6,8 @@ path: /2019-08-16-family-podcasts-and-resources
 ---
 # Family Podcasts and Resources
 
+## About Family Teams (Jeff Bethke & Jeremy Pryor)
+
 Jeff Bethke and Jeremy Pryor have started releasing some podcasts and courses targeted at asking some tough questions about whether raising kids in Western, individualistic, modern Evangelical family structure is what God had planned for the family.
 
 Parents rushing to drop kids off at activities, success measured as all kids growing up to leave home and start successful careers, and according to some studies only 35% of children keeping the faith of their Evangelical parents (as compared to 85+% in Jewish households).
@@ -13,6 +15,10 @@ Parents rushing to drop kids off at activities, success measured as all kids gro
 Jeremy over the course of raising 5 kids the past 20 years has come to discover a model of family found in the Bible that is worth aspiring to: a multi-generational family team on mission. For the past 5 years, he has been Jeff's mentor and together they now release podcasts and courses diving into what the ramifications of this can be in daily life.
 
 Discussing Biblical models of family, household, the table, intentional and engaged fatherhood, the 7 day week and sabbath, the role of the Jewish festivals as God's interactive curriculum for raising kids in faith and more, Jeff and Jeremy's podcasts and courses have helped open my mind to what God might be calling us to: a multi-generational family team on mission.
+
+## Getting Started
+
+I'd start with a couple episodes of Five Minute Fatherhood! Get a feel for the content and their style! Feel free to skip the inital 30-60 seconds and last 15-30 seconds as the intro/outro starts to get boring if you're blasting through a few in a row or their back catalogue.
 
 ## Podcasts
 
