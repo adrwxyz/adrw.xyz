@@ -26,6 +26,6 @@ Discussing Biblical models of family, household, the table, intentional and enga
 
 ## Courses
 
-* The Seven Day Family [Website](https://familyteams.com/resources/seven-day-family/): An e-course (12 videos + PDF workbook) exploring theology and practical ways to find shalom through weekly rhythms. I'll be keeping some notes as Suzie and I go through the course here with ideas that stuck with me.
+* The Seven Day Family [Website](https://familyteams.com/resources/seven-day-family/): An e-course (12 videos + PDF workbook) exploring theology and practical ways to find shalom through weekly rhythms. I'll be keeping [some notes](/notes/faith/2019-08-16-the-seven-day-family) as Suzie and I go through the course here with ideas that stuck with me.
 
 * The Skill of Fatherhood [Website](https://familyteams.com/resources/skilloffatherhood/) An e-course going through practical and philosophical skills to be an effective Godly father and husband. I haven't taken this course yet but look forward to starting it in the coming months.
