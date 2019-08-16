@@ -4,6 +4,8 @@ title: Family Podcasts and Resources
 date: 2019-08-16T19:16:24.948Z
 path: /2019-08-16-family-podcasts-and-resources
 ---
+# Family Podcasts and Resources
+
 Jeff Bethke and Jeremy Pryor have started releasing some podcasts and courses targeted at asking some tough questions about whether raising kids in Western, individualistic, modern Evangelical family structure is what God had planned for the family.
 
 Parents rushing to drop kids off at activities, success measured as all kids growing up to leave home and start successful careers, and according to some studies only 35% of children keeping the faith of their Evangelical parents (as compared to 85+% in Jewish households).
