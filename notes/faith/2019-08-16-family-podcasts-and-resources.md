@@ -4,6 +4,7 @@ title: Family Podcasts and Resources
 date: 2019-08-16T19:16:24.948Z
 path: /2019-08-16-family-podcasts-and-resources
 ---
+
 # Family Podcasts and Resources
 
 ## About Family Teams (Jeff Bethke & Jeremy Pryor)
@@ -22,16 +23,16 @@ I'd start with a couple episodes of Five Minute Fatherhood! Get a feel for the c
 
 ## Podcasts
 
-* Five Minute Fatherhood [Website](https://familyteams.com/category/podcast/five-minute-fatherhood/) [Apple Podcasts](https://itunes.apple.com/us/podcast/five-minute-fatherhood/id1447768183?mt=2): 5-7 minutes of Jeff and Jeremy answering a single question. They dive into the answer quick and it's a great way to every day keep sharpening skills as a father, husband, mother, or wife, working to be intentional in building your family.
+- Five Minute Fatherhood [Website](https://familyteams.com/category/podcast/five-minute-fatherhood/) [Apple Podcasts](https://itunes.apple.com/us/podcast/five-minute-fatherhood/id1447768183?mt=2): 5-7 minutes of Jeff and Jeremy answering a single question. They dive into the answer quick and it's a great way to every day keep sharpening skills as a father, husband, mother, or wife, working to be intentional in building your family.
 
-* Dads Building Teams [Website](https://familyteams.com/category/podcast/dads-building-teams/) [Apple Podcasts](https://itunes.apple.com/us/podcast/dads-building-teams/id1447781641?mt=2): Long form interviews (20-60 mins) led by Jeff or Jeremy with another father who has similar values discussing what they've learned in their journey and how they are building their family team.
+- Dads Building Teams [Website](https://familyteams.com/category/podcast/dads-building-teams/) [Apple Podcasts](https://itunes.apple.com/us/podcast/dads-building-teams/id1447781641?mt=2): Long form interviews (20-60 mins) led by Jeff or Jeremy with another father who has similar values discussing what they've learned in their journey and how they are building their family team.
 
-* The Real Life Podcast with Jefferson & Alyssa Bethke [Website](https://jeffandalyssa.com/) [Apple Podcasts](https://itunes.apple.com/us/podcast/love-that-lasts-with-jefferson-alyssa-bethke/id954046496?mt=2): A more freeform (20-60 mins) podcast where Jeff & his wife Alyssa are talking about parts of their life raising a family team of three kids under 5, theology, or interviews with guests.
+- The Real Life Podcast with Jefferson & Alyssa Bethke [Website](https://jeffandalyssa.com/) [Apple Podcasts](https://itunes.apple.com/us/podcast/love-that-lasts-with-jefferson-alyssa-bethke/id954046496?mt=2): A more freeform (20-60 mins) podcast where Jeff & his wife Alyssa are talking about parts of their life raising a family team of three kids under 5, theology, or interviews with guests.
 
-* Dad Tired [Website](https://www.dadtired.com/) [Apple Podcasts](https://itunes.apple.com/us/podcast/dad-tired/id1090567756?mt=2): Long form interviews (20-60 mins) on how to "equip men to lead their family well". Hosted by Jerrad Lopes, a young pastor with three kids from Portland, Oregon.
+- Dad Tired [Website](https://www.dadtired.com/) [Apple Podcasts](https://itunes.apple.com/us/podcast/dad-tired/id1090567756?mt=2): Long form interviews (20-60 mins) on how to "equip men to lead their family well". Hosted by Jerrad Lopes, a young pastor with three kids from Portland, Oregon.
 
 ## Courses
 
-* The Seven Day Family [Website](https://familyteams.com/resources/seven-day-family/): An e-course (12 videos + PDF workbook) exploring theology and practical ways to find shalom through weekly rhythms. I'll be keeping [some notes](/notes/faith/2019-08-16-the-seven-day-family) as Suzie and I go through the course here with ideas that stuck with me.
+- The Seven Day Family [Website](https://familyteams.com/resources/seven-day-family/): An e-course (12 videos + PDF workbook) exploring theology and practical ways to find shalom through weekly rhythms. I'll be keeping [some notes](/notes/faith/2019-08-16-the-seven-day-family) as Suzie and I go through the course here with ideas that stuck with me.
 
-* The Skill of Fatherhood [Website](https://familyteams.com/resources/skilloffatherhood/) An e-course going through practical and philosophical skills to be an effective Godly father and husband. I haven't taken this course yet but look forward to starting it in the coming months.
+- The Skill of Fatherhood [Website](https://familyteams.com/resources/skilloffatherhood/) An e-course going through practical and philosophical skills to be an effective Godly father and husband. I haven't taken this course yet but look forward to starting it in the coming months.

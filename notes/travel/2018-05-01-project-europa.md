@@ -4,25 +4,27 @@ title: Project Europa
 date: 2018-05-01T15:32:11.733Z
 path: /2018-05-01-project-europa
 ---
+
 Project Europa
 
 Flights
 
-----------
+---
+
 - AC848
 - AC843: Arrive YYZ at 14:45
 
+London (Apr 23 - 27) - 4 Nights
 
-London (Apr 23 - 27)  - 4 Nights
+---
 
-----------
 - Airbnb Address: 4 Dresden House Lambeth Walk London SE116NE
 - 8:30 train → coming back 9 or 10pm ←
 
-
 Edinburgh (Apr 28 - 30) - 2 Nights
 
-----------
+---
+
 - Airbnb Address: 12 Peebles Terrace Edinburgh, Scotland EH4 4UE, United Kingdom
 - Cornfield Crescent, Edinburgh, Scotland EH4, United Kingdom
 - Edinburgh Castle
@@ -30,36 +32,38 @@ Edinburgh (Apr 28 - 30) - 2 Nights
 
 Dublin (Apr 30 - May 3) - 3 Nights
 
-----------
+---
+
 - Airbnb Address: Parnell Street, Dublin, County Dublin, Ireland
 - Best Dublin Day Trips https://youtu.be/rCMblAUXpHY
-    - Howth: touristy little fishing town at the end of the train line
-    - Bray to Greystone Cliff Walk: take train to Bray, walk along beach, hike up cliffs. Beautiful train ride. Restaurant in Greystone.
+  - Howth: touristy little fishing town at the end of the train line
+  - Bray to Greystone Cliff Walk: take train to Bray, walk along beach, hike up cliffs. Beautiful train ride. Restaurant in Greystone.
 - Best of Ireland TylerTravelsTV https://youtu.be/-o820Ouz6CM
-    - Galway City: metropolitan, lots of medieval history, JFK park
-    - Burren National Park: best hiking in Ireland, rocky terrain, great views
-    - Doolin: music capital of Ireland (McDermitts, Gus O’Connors), Doolin cave stalagmites
-    - Cliffs of Moor: hike Doolin up Berrin way (3 mile hike), amazing cliff hike
-    - Blarney Castle: kiss the Blarney stone (touristy, not much historical significance, long lines)
-    - Dublin: 
-        - very walkable, consider walking tour (may incluce City Market, City Hall
-        - Trinity College: 30-40 min student led tours. Book of Kell’s 1000 year old bible. Long Room in Library. Guiness Harp. 
-        - Stephen’s Green park in the city.
-        - Guiness storehouse. Great view of city from top bar where you get Guiness included with tour.
-        - Old jailhouse where fight for Irish indepence started
-        - Brazen Head: Ireland’s oldest pub
+  - Galway City: metropolitan, lots of medieval history, JFK park
+  - Burren National Park: best hiking in Ireland, rocky terrain, great views
+  - Doolin: music capital of Ireland (McDermitts, Gus O’Connors), Doolin cave stalagmites
+  - Cliffs of Moor: hike Doolin up Berrin way (3 mile hike), amazing cliff hike
+  - Blarney Castle: kiss the Blarney stone (touristy, not much historical significance, long lines)
+  - Dublin:
+    - very walkable, consider walking tour (may incluce City Market, City Hall
+    - Trinity College: 30-40 min student led tours. Book of Kell’s 1000 year old bible. Long Room in Library. Guiness Harp.
+    - Stephen’s Green park in the city.
+    - Guiness storehouse. Great view of city from top bar where you get Guiness included with tour.
+    - Old jailhouse where fight for Irish indepence started
+    - Brazen Head: Ireland’s oldest pub
 
 Other Ireland Recommendations
 
-----------
+---
+
 - Cork
 - Dingle
 - Galloway
 
-
 Data Plan
 
-----------
+---
+
 - https://www.three.co.uk/Store/SIM/Pay_As_You_Go
 
 Stats
@@ -71,12 +75,14 @@ Stats
 Daily Summaries
 4/22 Fly
 
-----------
-- Story: met great couple from Tennessee, Chuck &__. Invited Suzie and I to visit if we ever end up in their parts. 
+---
+
+- Story: met great couple from Tennessee, Chuck &\_\_. Invited Suzie and I to visit if we ever end up in their parts.
 
 4/23 London Marathon
 
-----------
+---
+
 - Westminister Parliament / Big Ben
 - Buckingham Palace / Park
 - Regency Cafe 6£ Breakfast
@@ -87,10 +93,10 @@ Daily Summaries
 - King’s College London, The Maughan Library
 - Ben’s Fish & Chips
 
-
 4/24 City of London Day
 
-----------
+---
+
 - Canary Wharf (Financial centre)
 - Gherkin (bullet) tower
 - Borough Market (Brandisa Spanish, Duck Confit Le Marche du Quartier)
@@ -104,7 +110,8 @@ Daily Summaries
 
 4/25 Museum Day
 
-----------
+---
+
 - The British Museum
 - Lunch: Mildred’s Restaurant (vegan/veg)
 - Soho District
@@ -118,7 +125,8 @@ Daily Summaries
 
 4/26 Cambridge
 
-----------
+---
+
 - Breakfast: Cafe Bread and Butter
 - King’s College
 - Trinity College
@@ -127,10 +135,10 @@ Daily Summaries
 - Emmanuel College
 - Dinner: Honest Burger
 
-
 4/27 Last Day in London
 
-----------
+---
+
 - M.Manze British pies etc
 - Maltby Street Market
 - Borough Market (Duck confit, East Teas, Teas2You)
@@ -144,7 +152,8 @@ Daily Summaries
 
 Didn’t Reach
 
-----------
+---
+
 - St. Paul’s Cathedral
 - Westminster Abbey
 - Dishoom at King’s Cross
@@ -152,7 +161,8 @@ Didn’t Reach
 
 4/28 Edinburgh
 
-----------
+---
+
 - Arrive at Edinburgh Waverly
 - Breakfast: Cafe Nero
 - Airbnb Refresh
@@ -166,7 +176,8 @@ Didn’t Reach
 
 4/29 Edinburgh
 
-----------
+---
+
 - Lunch: Oink, Pie Maker
 - Royal Botanical Garden
 - National Museum of Scotland (closes at 5pm)
@@ -174,14 +185,16 @@ Didn’t Reach
 
 Didn’t Reach
 
-----------
+---
+
 - Holyrood Park (Red path → left fork)
 - Holyrood Palace
 - St. Andrew’s
 
 4/30 Dublin
 
-----------
+---
+
 - Edinburgh Airlink 100 Bus 4.5£ each
 - Ryan Air to Dublin at 8am
 - Check in to Airbnb at 10:30-11am
@@ -198,7 +211,8 @@ Didn’t Reach
 
 5/1 Dublin
 
-----------
+---
+
 - Brunch: Lovinspoon
 - DART Train: Dublin Connolly to Bray
 - Story: debate with Jack over morality of medically assisted suicide, though feisty at times, still beckoned the encouragement from an old lady who came up and said she was so pleased to see young people able to engage in such passionate and thoughtful debate
@@ -209,10 +223,11 @@ Didn’t Reach
 
 5/2 Dublin
 
-----------
+---
+
 - Trinity College Gift Store
 - Brunch: Lunch! (Restaurant name)
-- Walk to Google Dublin / Business district (24 mins walk from Trinity) 
+- Walk to Google Dublin / Business district (24 mins walk from Trinity)
 - Bus to Dublin Jail
 - Check in for AC flight at 12pm
 - 12:30-2pm Dublin Jail Tour
@@ -224,7 +239,8 @@ Didn’t Reach
 
 5/3 Dublin
 
-----------
+---
+
 - Dessert: Aungier Danger (donuts - sold out every other time we went)
 - Trinity College Gift Shop to exchange blue for white scarf for Suzie
 - Bus: 16 from Trinity at 9:39 or 9:54 to Airport
@@ -233,7 +249,8 @@ Didn’t Reach
 
 Didn’t Reach
 
-----------
+---
+
 - St. Stephen’s Park
 - Merrion Square Park / Oscar Wilde Statue
 - St. Anne’s Park
