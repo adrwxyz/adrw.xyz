@@ -21,9 +21,9 @@ Francis Chan after starting and growing Cornerstone Community Church in Simi Val
 
 Bringing this model back to the US as the Spirit led him, Chan started the We Are Church in San Francisco. Reading through the [Practices](https://www.wearechurch.com/structure-1) section of their website provides a concise outline of how they are bring a radically different model of church to the West.
 
-1. Devotion to Scripture
-1. We Meet in Homes
-1. Everyone Discipled and Discipling
+1. Devotion to Scripture: Everyone reads through the same scripture every week with the app. Scripture is their teaching, not a weekly sermon.
+1. We Meet in Homes: Less capital requirements, easier to multiply and grow, more intimacy.
+1. Everyone Discipled and Discipling: Everyone is a disciple or future disciple. Spiritual growth is collective responsibility, not just on the pastor.
 1. Everyone Exercises Their Gifts: Not just a few key people preaching and leading worship, everyone is given gifts by the Holy Spirit in order to benefit the church (TODO find verse).
 1. Regular Multiplication of Churches: Split the group when numbers grow beyond 20-40 people. Preserve intimacy, accountability, and engagement that is only possible in smaller numbers. 
 1. Simple Gatherings: Rely on Jesus, not someone's amazing teaching or worship band
