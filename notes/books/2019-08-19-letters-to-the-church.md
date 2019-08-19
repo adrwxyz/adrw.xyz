@@ -17,7 +17,7 @@ Deeply thought provoking, I'm excited for what the rest of the book holds. It dr
 
 # We Are Church
 
-Francis Chan after starting and growing Cornerstone Community Church in Simi Valley, California to tens of thousands of congregants from 1994 until 2010, travelled with his family throughout Thailand, China, and Hong Kong. There he saw first hand a model of house church, especially the persecuted one in China, that much more closely reflected what we read in Acts.
+Francis Chan after starting and growing Cornerstone Community Church in Simi Valley, California to thousands of congregants from 1994 until 2010, travelled with his family throughout Thailand, China, and Hong Kong. There he saw first hand a model of house church, especially the persecuted one in China, that much more closely reflected what we read in Acts.
 
 Bringing this model back to the US as the Spirit led him, Chan started the We Are Church in San Francisco. Reading through the [Practices](https://www.wearechurch.com/structure-1) section of their website provides a concise outline of how they are bring a radically different model of church to the West.
 
