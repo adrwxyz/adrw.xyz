@@ -30,6 +30,7 @@ Bringing this model back to the US as the Spirit led him, Chan started the We Ar
  
 
   > "There are diversities of gifts, but the same Spirit. There are differences of ministries, but the same Lord. And there are diversities of activities, but it is the same God who works [e]all in all. But the manifestation of the Spirit is given to each one for the profit of all: for to one is given the word of wisdom through the Spirit, to another the word of knowledge through the same Spirit, to another faith by the same Spirit, to another gifts of healings by the same Spirit, to another the working of miracles, to another prophecy, to another discerning of spirits, to another different kinds of tongues, to another the interpretation of tongues. But one and the same Spirit works all these things, distributing to each one individually as He wills." - 1 Corinthians 12:6-11 (NKJV)
+
 1. Regular Multiplication of Churches: Split the group when numbers grow beyond 20-40 people. Preserve intimacy, accountability, and engagement that is only possible in smaller numbers. 
 1. Simple Gatherings: Rely on Jesus, not someone's amazing teaching or worship band
 
