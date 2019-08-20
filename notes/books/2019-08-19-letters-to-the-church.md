@@ -26,8 +26,10 @@ Bringing this model back to the US as the Spirit led him, Chan started the We Ar
 1. Everyone Discipled and Discipling: Everyone is a disciple or future disciple. Spiritual growth is collective responsibility, not just on the pastor.
 1. Everyone Exercises Their Gifts: Not just a few key people preaching and leading worship, everyone is given gifts by the Holy Spirit in order to benefit the church.
  > "To each is given the manifestation of the Spirit for the common good." - 1 Corinthians 12:7 (ESV)
- * The full passage expands to describe all the gifts of the spirit that can be endowed to people in the church to benefit the church.
-  > "There are diversities of gifts, but the same Spirit. There are differences of ministries, but the same Lord. And there are diversities of activities, but it is the same God who works all in all. But the manifestation of the Spirit is given to each one for the profit of all: for to one is given the word of wisdom through the Spirit, to another the word of knowledge through the same Spirit, to another faith by the same Spirit, to another gifts of healings by the same Spirit, to another the working of miracles, to another prophecy, to another discerning of spirits, to another different kinds of tongues, to another the interpretation of tongues. But one and the same Spirit works all these things, distributing to each one individually as He wills." - 1 Corinthians 12:6-11 (NKJV)
+
+    The full passage expands to describe all the gifts of the spirit that can be endowed to people in the church to benefit the church.
+
+    > "There are diversities of gifts, but the same Spirit. There are differences of ministries, but the same Lord. And there are diversities of activities, but it is the same God who works all in all. But the manifestation of the Spirit is given to each one for the profit of all: for to one is given the word of wisdom through the Spirit, to another the word of knowledge through the same Spirit, to another faith by the same Spirit, to another gifts of healings by the same Spirit, to another the working of miracles, to another prophecy, to another discerning of spirits, to another different kinds of tongues, to another the interpretation of tongues. But one and the same Spirit works all these things, distributing to each one individually as He wills." - 1 Corinthians 12:6-11 (NKJV)
 
 1. Regular Multiplication of Churches: Split the group when numbers grow beyond 20-40 people. Preserve intimacy, accountability, and engagement that is only possible in smaller numbers. 
 1. Simple Gatherings: Rely on Jesus, not someone's amazing teaching or worship band
@@ -41,3 +43,4 @@ Bringing this model back to the US as the Spirit led him, Chan started the We Ar
 - Letters to the Church [Website](https://letterstothechurchbook.com/)
 - We Are Church [Website](https://www.wearechurch.com/)
 - Reading Scripture App [Website](https://www.readscripture.org/)
+- "Does God Enjoy Your Church Service?" Francis Chan Sermon [YouTube](https://www.youtube.com/watch?v=5widcv2Nx-c)
