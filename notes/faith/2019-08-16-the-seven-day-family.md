@@ -20,5 +20,12 @@ Notes from taking [The Seven Day Family course](https://familyteams.com/resource
   - Kids especially, long to know what the day and week has ahead, rhythms provide some valuable structure
 - Your week reflects your identity
   - Your seven days reflect what you most value. If there are parts of your identity you hold closely that aren't reflected in your week, they aren't your real values.
-  - Consider your individual identities (musician, ...) and your relatational identities (husband, father, son, wife, mother, daughter, friend...). 
+  - Consider your individual identities (musician, ...) and your relational identities (husband, father, son, wife, mother, daughter, friend...). 
   - Your life will be more meaningful when your weekly rhythms lean more into relational identities. Relational identities tend to be more meaningful than individual identities that are often more focused on "doing" than "being".
+- Your rest is wasted if unplanned
+  - Deliberately plan a sabbath rest day with activities that leave you feeling refreshed and rested
+  - Simply "not working" doesn't guarantee rest because often we'll get bored and lurch towards the first activity that comes to mind, often one that isn't restful
+  - Planning out a sabbath day with different activities that bring rest leaves to a longing for sabbath and truly feeling refreshed by it
+- Rhythms will look different in new seasons
+  - Rhythms for a new mom or one with teenagers will look different and that's okay. 
+  - Some weekly schedules will have a lot more whitespace baked in because of that season.
