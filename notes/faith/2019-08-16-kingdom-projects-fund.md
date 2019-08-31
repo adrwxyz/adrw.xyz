@@ -31,6 +31,7 @@ For our Kingdom Projects Fund, the concept of Return on Investment (ROI) looks s
 * Fields of Gold
 * Toxic Charity
 * Gregg's book
+* David Platt Radical Podcast Episode
+  * Imagine you're from Australia and came on a long trip to the US for 6 months. You can only take the money you wire back to Australia with you when you return. You can't bring any checked luggage, any shipping containers, any US Dollars back with you. Would you focus all of your wealth you make in the US on outfitting your hotel room with the most coordinated interior design, buying a condo, or focusing all your time on your material comforts? Of course not, you would cover your basics at a simple hotel, your meals, and send the rest back to Australia where it would count long term. Our relationship to money in this life in comparison to contributing to God's kingdom should be the same. We should cover our minimum and send the rest to heaven where our returns will be multiplied when we go to our true home at the end of this life. – summarized story from David Platt
 
 # Current Projects
-
