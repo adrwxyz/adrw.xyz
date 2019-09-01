@@ -159,7 +159,7 @@ Often when speaking, Francis has a clock at the back of the room counting down t
 
 Francis has written this book with the same spirit, trying to write what God has given him to write without fear of the backlash.
 
-# 2 Sacred
+## 2 Sacred
 
 Consider the following situations where it seems Scripture documents a punishment too severe for the crime:
 
@@ -263,9 +263,27 @@ We are part of an eternal plan. Think about it!
 
 > "even as he chose us in him before the foundation of the world, that we should be holy and blameless before him. In love he predestined us for adoption to himself as sons through Jesus Christ, according to the purpose of his will," - Ephesians 1:4-5 (ESV)
 
+We have been included in God's eternal plans for His sacred church. Self-deprecation then in turn is as wicked as slandering the church, since we are the church.
 
+Even the heavenly beings look at the church in awe. 
 
- 
+> "To me, though I am the very least of all the saints, this grace was given, to preach to the Gentiles the unsearchable riches of Christ, and to bring to light for everyone what is the plan of the mystery hidden for ages in God, who created all things, so that through the church the manifold wisdom of God might now be made known to the rulers and authorities in the heavenly places." - Ephesians 3:8-10 (ESV)
+
+> "Two verses earlier, Paul explained that the great mystery God is now revealing is Gentiles becoming members of the same body as the Jews because of what Jesus did on the cross." (27)
+
+Church isn't optional or outdated, it's God's perfectly designed plan. But how lame is it that we find it boring unless there are lights, fog machines, attractive leaders, engaging speakers, and a perfect band.
+
+The first church was in awe at simply hearing the gospel.
+
+> "Aren’t you at least a little embarrassed that you have needed the extra stuff? It’s not all your fault. For decades church leaders like myself have lost sight of the powerful mystery inherent in the Church and have instead run to other methods to keep people interested. In all honesty, we have trained you to become addicted to lesser things. We have cheapened something sacred, and we must repent." (27)
+
+## 3 The Order
+
+Imagine you order a steak at a restaurant, but the waiter comes back 20 minutes later and gives you a bowl of pasta. You'd send it back! It wasn't what you asked for!
+
+This is what we have done with the church. We've arrogantly done things our own way and expect God to be pleased with what we bring Him, even when it's not what He asked for. We have become Cain.
+
+### Commands Versus Expectations
 
 
 
