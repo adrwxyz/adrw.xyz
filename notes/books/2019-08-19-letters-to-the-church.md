@@ -171,11 +171,23 @@ In the modern era, we carelessly rush, not wanting to miss out or be unproductiv
 
 While others are quick to judge God's actions and question His commands, we are to be careful even to speak His "hallowed" name (Matthew 6:9, Luke 11:2).
 
-While others pray quickly through opinions and demands, we are to approach His throne with reverance, like a priest entering the Holy of Holies (Ecclesiastes 5:1-3).
+While others pray quickly through opinions and demands, we are to approach His throne with reverance, like a priest entering the Holy of Holies.
 
-Remember that those who talk a lot sin a lot (James 1:19, Proverbs 10:19).
+> "Walk prudently when you go to the house of God; and draw near to hear rather than to give the sacrifice of fools, for they do not know that they do evil.
+Do not be rash with your mouth,
+And let not your heart utter anything hastily before God.
+For God is in heaven, and you on earth;
+Therefore let your words be few.
+For a dream comes through much activity,
+And a fool’s voice is known by his many words." - Ecclesiastes 5:1-3 (NKJV)
 
-Francis admits 
+Remember that those who talk a lot sin a lot.
+
+> "Know this, my beloved brothers: let every person be quick to hear, slow to speak, slow to anger" - James 1:19 (ESV)
+
+> "When words are many, transgression is not lacking, but whoever restrains his lips is prudent." - Proverbs 10:19 (ESV)
+
+Francis admits ...
 
  
 
