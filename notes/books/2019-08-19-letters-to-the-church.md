@@ -91,7 +91,7 @@ While overseas, Francis had seen a glimpse of what the power of the church could
 
 ### The Journey Home
 
-Without much planning, they landed in San Francisco primarily because Francis' brother had an open one-bedroom apartment that the family of 6 could live in. He didn't have a big plan, but wanted to live as biblically as he knew how.
+Without much planning, they landed in San Francisco primarily because Francis' brother had an open one-bedroom apartment that the family of 6 could live in. He didn't have a big plan, but wanted to live as Biblically as he knew how.
 
 > "I told the Lord I wanted to live like Christ, and it seemed like Jesus knew exactly whom to call as His disciples. I asked for that same grace: that I would be able to just walk around the city sharing the gospel, eventually meeting the people He would call me to disciple." (12)
 
@@ -123,7 +123,7 @@ Staying mindful of 1 Thessalonians 5:14,
 
 The book is a collection of letters. Each letter addresses a different issue your church may or may not need to work on. Pray that the Holy Spirit would help discern which you and your church must take to heart.
 
-The letters are not addressing obscure details from Leviticus, but the most obvious commands present throughout scripture. Francis writes not from a motiviation of conforming the church to his personal preferences, but to point out the most obvious truths of God's desire for his Bride.
+The letters are not addressing obscure details from Leviticus, but the most obvious commands present throughout scripture. Francis writes not from a motivation of conforming the church to his personal preferences, but to point out the most obvious truths of God's desire for his Bride.
 
 > "There are times when God hates our worship. There are churches He wants shut down. So often we assume that as long as we show up to worship, God is pleased. The Bible tells a different story (Amos 5:21–24; Isa. 58:1–5; Mal. 1:6–14; 1 Cor. 11:17–30; Rev. 2:5; 3:15–16).
 
@@ -163,7 +163,7 @@ Francis has written this book with the same spirit, trying to write what God has
 
 Consider the following situations where it seems Scripture documents a punishment too severe for the crime:
 
-* 2 Samuel 6: God killed Uzzah because he touched the ark of the coveneant (which God had forbid anyone from touching) trying to keep it from falling on the ground.
+* 2 Samuel 6: God killed Uzzah because he touched the ark of the covenant (which God had forbid anyone from touching) trying to keep it from falling on the ground.
 * 1 Samuel 13: King Saul waited seven days for the priest, Samuel, to come and make an offering. When Samuel didn't show up, Saul took it upon himself to make the sacrifice, as a result God took the Kingdom from him.
 * Numbers 20: Moses didn't get to see the Promised Land because he struck a rock, instead of speaking to it.
 * Acts 5: Ananias and Sapphira were struck dead after selling their land, claiming to donate all proceeds to the church, but secretly keeping some for themselves.
@@ -301,7 +301,7 @@ What would upset their church's people more, if items on the first list were not
 
 Consider Jesus' parable in Luke 12 of the servant given specific tasks from his master, those tasks then neglected, and the servant punished harshly on the master's return. How can we shrug this off and not realize that this could be our fate? 
 
-Are we more worried of falling short of expectations of church we've made up or disobediance towards commands from God? Consider Mark 7:3-9 in Jesus' response to the Pharisees complaining that His disciples were not following their traditions. He decried them as hypocrites and was upset! This wasn't a small thing.
+Are we more worried of falling short of expectations of church we've made up or disobedience towards commands from God? Consider Mark 7:1-13 in Jesus' response to the Pharisees complaining that His disciples were not following their traditions. He decried them as hypocrites and was upset! This wasn't a small thing.
 
 God gave 613 commands in the Old Testament to be obeyed.
 
