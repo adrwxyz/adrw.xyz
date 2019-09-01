@@ -45,7 +45,7 @@ Bringing this model back to the US as the Spirit led him, Chan started the We Ar
 
 ## 1 The Departure
 
-* Imagine yourself on an island with just a Bible. How would a church function based only on what you can read, not your knowledge of what church in the West is today? Is it different than your current church experience? Can you live with that?
+Imagine yourself on an island with just a Bible. How would a church function based only on what you can read, not your knowledge of what church in the West is today? Is it different than your current church experience? Can you live with that?
 
 ### Some Background /  Why I Left My Megachurch
 
@@ -284,6 +284,30 @@ Imagine you order a steak at a restaurant, but the waiter comes back 20 minutes 
 This is what we have done with the church. We've arrogantly done things our own way and expect God to be pleased with what we bring Him, even when it's not what He asked for. We have become Cain.
 
 ### Commands Versus Expectations
+
+Consider this simple exercise Francis gives to church leaders. 
+
+First, write down all the things that people expect from church. Then write down all the commands God gave the Church in scripture.
+
+| People expect from Church | God's commands to the Church |
+| --- | --- |
+| Good service | “love one another as I have loved you” (John 15:12) |
+| Age specific ministries | “visit orphans and widows in their affliction” (James 1:27) |
+| Certain style/volume/length of singing | “make disciples of all nations” (Matt. 28:19) |
+| Well communicated sermon | “bear one another’s burdens” (Gal. 6:2) |
+| Parking, clean church building, coffee, childcare | |
+
+What would upset their church's people more, if items on the first list were not provided or if the church didn't obey the commands in the second list?
+
+Consider Jesus' parable in Luke 12 of the servant given specific tasks from his master, those tasks then neglected, and the servant punished harshly on the master's return. How can we shrug this off and not realize that this could be our fate? 
+
+Are we more worried of falling short of expectations of church we've made up or disobediance towards commands from God? Consider Mark 7:3-9 in Jesus' response to the Pharisees complaining that His disciples were not following their traditions. He decried them as hypocrites and was upset! This wasn't a small thing.
+
+God gave 613 commands in the Old Testament to be obeyed.
+
+
+
+
 
 
 
