@@ -7,13 +7,20 @@ author:
   - Francis Chan
 year: '2018'
 ---
-Francis Chan's latest book outlines in a series of thematic Revelations-style letters to the modern church, the failings and path forward of a Western church often more concerned with attendance, worship style, and age-denominated ministries, than with raising up disciples who mirror the devotion of the first believers.
+Francis Chan's latest book outlines in a series of thematic Revelation-style letters to the modern church, the failings and path forward of a Western church often more concerned with attendance, worship style, and age-denominated ministries, than with raising up disciples who mirror the devotion of the first believers.
 
 > "And they devoted themselves to the apostles' teaching and the fellowship, to the breaking of bread and the prayers." – Acts 2:42 (ESV)
 
 > "And they continued steadfastly in the apostles’ doctrine and fellowship, in the breaking of bread, and in prayers." – Acts 2:42 (NKJV)
 
-Deeply thought provoking, I'm excited for what the rest of the book holds. It draws deeply from Chan's learnings founding a megachurch, Cornerstone Community Church, and resigning to start a house church movement, We Are Church.
+Deeply thought provoking, I'm excited for what the rest of the book holds. It draws deeply from Chan's learnings in founding a megachurch, Cornerstone Community Church, and resigning to start a house church movement, We Are Church.
+
+# Resources
+- Letters to the Church [Website](https://letterstothechurchbook.com/)
+- We Are Church [Website](https://www.wearechurch.com/)
+- Reading Scripture App [Website](https://www.readscripture.org/)
+- "Does God Enjoy Your Church Service?" Francis Chan Sermon [YouTube](https://www.youtube.com/watch?v=5widcv2Nx-c)
+- "We are Church Documentary" [YouTube](https://www.youtube.com/watch?v=2qheANo68eo)
 
 # We Are Church
 
@@ -187,14 +194,78 @@ Remember that those who talk a lot sin a lot.
 
 > "When words are many, transgression is not lacking, but whoever restrains his lips is prudent." - Proverbs 10:19 (ESV)
 
-Francis admits ...
+Francis admits caution in approaching this topic at all because of the sacred nature of the church. He confesses years in doing "whatever works" to get people's attentions and too quickly sharing his opinion.
+
+He at times wanted to delete this book and not publish, yet couldn't walk away from what God was calling him to do. Sometimes it is sinful to not speak.
+
+> "For whenever I speak, I cry out, I shout, “Violence and destruction!” For the word of the Lord has become for me a reproach and derision all day long. If I say, “I will not mention him, or speak any more in his name,”
+there is in my heart as it were a burning fire shut up in my bones, and I am weary with holding it in, and I cannot." - Jermiah 20:8-9 (ESV)
+
+### Sacred Ministry
+
+Marvel and be awestruck at the mystery and honour that we get to be part of the church, part of Christ's body.
+
+> "For no one ever hated his own flesh, but nourishes and cherishes it, just as Christ does the church, because we are members of his body." - Ephesians 5:29-30 (ESV)
+
+> "This mystery is profound, and I am saying that it refers to Christ and the church." - Ephesians 5:32 (ESV)
+
+Take time to meditate on these mysteries. Pause for worship when you encounter them reading. Are we that busy that we don't? 
+
+> "It’s no wonder we aren’t known as those who “rejoice with joy that is inexpressible” (1 Pet. 1:8). We don’t make time to meditate on His mysteries." (22)
+
+### A Small Piece of the Temple
+
+Imagine being present at the coming down of God's power to Solomon's temple.
+
+> "As soon as Solomon finished his prayer, fire came down from heaven and consumed the burnt offering and the sacrifices, and the glory of the Lord filled the temple. And the priests could not enter the house of the Lord, because the glory of the Lord filled the Lord's house. When all the people of Israel saw the fire come down and the glory of the Lord on the temple, they bowed down with their faces to the ground on the pavement and worshiped and gave thanks to the Lord, saying, `“For he is good, for his steadfast love endures forever.”`" - 2 Chronicles 7:1-4 (ESV)
+
+How would you feel to witness that? Would your heart be pounding? Could you even breathe?
+
+Yet, the New Testament describes something greater!
+
+> "So then you are no longer strangers and aliens, but you are fellow citizens with the saints and members of the household of God, built on the foundation of the apostles and prophets, Christ Jesus himself being the cornerstone, in whom the whole structure, being joined together, grows into a holy temple in the Lord. In him you also are being built together into a dwelling place for God by the Spirit." - Ephesians 2:19-22 (ESV)
+
+How are we not more astounded at us being a dwelling for God's spirit than we are at the thought of God descending on the Old Testament temple? We don't need to imagine the temple, we can experience the Spirit! 
+
+We are "living stones" (1 Peter 2:5), Jesus is the cornerstone (Ephesians 2:20), God has descended onto a living temple formed of believers and Christ: the church.
+
+Yet, consider this warning.
+
+> "Do you not know that you are God's temple and that God's Spirit dwells in you? If anyone destroys God's temple, God will destroy him. For God's temple is holy, and you are that temple." - 1 Corinthians 3:16-17 (ESV)
+
+Remember the temple scene, would anyone consider striking the temple with a sledgehammer? Why do we do the same to the church without second thought quick to gossip, slander leadership, or divide the church?
+
+We can't be part of dividing God's temple.
+
+> "As for a person who stirs up division, after warning him once and then twice, have nothing more to do with him," - Titus 3:10 (ESV)
+
+2 Chronicles 7 and Acts 2 mirror the same story, of God pouring his glory out on his temple. Not a building now, but the church. Not hot flames, but tongues of fire.
+
+### A Small Piece of Heaven
+
+Reflect on Revelation 4-5, we are part of the much broader, sacred temple; a heavenly community worshiping God.
+
+> "And when he had taken the scroll, the four living creatures and the twenty-four elders fell down before the Lamb, each holding a harp, and golden bowls full of incense, which are the prayers of the saints." - Revelation 5:8 (ESV)
+
+We are already part of the magnificent worship scene! Those are our prayers!
+
+> "And I heard every creature in heaven and on earth and under the earth and in the sea, and all that is in them, saying, `“To him who sits on the throne and to the Lamb be blessing and honor and glory and might forever and ever!”`" - Revelation 5:13 (ESV)
+
+What an honour for us to get to join in the chorus of billions in worshiping the one true God.
+
+Does it not feel like an honour? Are we too used to being our own god of our blogs and Twitter accounts, building shrines of our pictures on Facebook and Instagram?
+
+> "Gathering with the Church should lead us to holy ground. You get to come and worship Someone else, with someone else. You get to pour out love to Him by serving those around you and considering them more important than yourself. It’s not about you. And you are glad it’s not about you. Because this is something far greater than you. It is sacred." (26)
+
+### A Small Part of an Eternal Plan
+
+We are part of an eternal plan. Think about it!
+
+> "even as he chose us in him before the foundation of the world, that we should be holy and blameless before him. In love he predestined us for adoption to himself as sons through Jesus Christ, according to the purpose of his will," - Ephesians 1:4-5 (ESV)
+
+
 
  
 
 
 
-# Resources
-- Letters to the Church [Website](https://letterstothechurchbook.com/)
-- We Are Church [Website](https://www.wearechurch.com/)
-- Reading Scripture App [Website](https://www.readscripture.org/)
-- "Does God Enjoy Your Church Service?" Francis Chan Sermon [YouTube](https://www.youtube.com/watch?v=5widcv2Nx-c)
