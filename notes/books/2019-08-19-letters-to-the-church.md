@@ -43,7 +43,7 @@ Bringing this model back to the US as the Spirit led him, Chan started the We Ar
 
 # Letters to the Church Notes
 
-## 1 The Departure
+## 1. The Departure
 
 Imagine yourself on an island with just a Bible. How would a church function based only on what you can read, not your knowledge of what church in the West is today? Is it different than your current church experience? Can you live with that?
 
@@ -159,7 +159,7 @@ Often when speaking, Francis has a clock at the back of the room counting down t
 
 Francis has written this book with the same spirit, trying to write what God has given him to write without fear of the backlash.
 
-## 2 Sacred
+## 2. Sacred
 
 Consider the following situations where it seems Scripture documents a punishment too severe for the crime:
 
@@ -277,7 +277,7 @@ The first church was in awe at simply hearing the gospel.
 
 > "Aren’t you at least a little embarrassed that you have needed the extra stuff? It’s not all your fault. For decades church leaders like myself have lost sight of the powerful mystery inherent in the Church and have instead run to other methods to keep people interested. In all honesty, we have trained you to become addicted to lesser things. We have cheapened something sacred, and we must repent." (27)
 
-## 3 The Order
+## 3. The Order
 
 Imagine you order a steak at a restaurant, but the waiter comes back 20 minutes later and gives you a bowl of pasta. You'd send it back! It wasn't what you asked for!
 
@@ -451,10 +451,45 @@ Let's dream of...
 * groups that tremble as Scripture is read
 * true fellowship where people are living in perfect harmony with God and one another
 
-## 4 The Gang
+## 4. The Gang
 
+Good Christians today "go to a building on Sunday mornings, attend an hour-long service, and call themselves members of the Church." (43)
 
+That should be a shocking statement.
 
+Reading the New Testament is there ever mention of someone "going to church"?
+
+Imagine Peter and Paul talking as we do today.
+```
+"Hey, Peter, where do you go to church now?"
+"I go to The River. They have great music and I love the kids' program."
+"Cool. Can I check out your church next Sunday? I'm not getting much out of mine."
+"Totally. I'm not going to be there next Sunday because little Matthew has soccer. 
+    But how about the week after?"
+"Sounds good. Hey do they have a singles' group?" (43)
+```
+
+### Let's Go to Gang
+
+One of the elders in Francis' church, Rob, spent most of his life in gangs. After encountering Jesus in prison, he had to count the cost of the loyalty, the family, the cameradery of being in a gang that he had enjoyed since childhood.
+
+After joining, his life was at risk but God intervened to protect him. Rob's stories of life in a gang describe in many ways "the family" nature of what the church should be.
+
+No gang member would every say to another "Yo, how was gang? I had to miss this week because life has been crazy" (43)!
+
+How has this become expected and normal in the church! God's design for a family has been reduced to an optional weekly club.
+
+### Supernatural Love
+
+Isn't this just a cute exaggeration? Aren't our *families* supposed to be our families? Why should we be so close with some people we wouldn't even be friends with?
+
+It's not supposed to be natural... it's supposed to be supernatural!
+
+> "A new commandment I give to you, that you love one another: just as I have loved you, you also are to love one another. By this all people will know that you are my disciples, if you have love for one another." - John 13:34-35 (ESV)
+
+> "One thing the New Testament makes clear is that the Church is supposed to be known for its love. Jesus says our love for one another is the very thing that will attract the world." (44)
+
+Why does is no church known for supernaturally exemplifying the "one another" commands (there are over 100 in the New Testament – love for, care for, pray for, admonish...)?
 
 
 
