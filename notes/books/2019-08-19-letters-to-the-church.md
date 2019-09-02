@@ -541,6 +541,33 @@ How many strategies have we come up with to convince people of the truth of the 
 
 Long to live 2000 years ago and experience this unity for yourself? Depressed that this unity doesn't exist in the typical American church?
 
+Many are sad with the church and have opted out, claiming continued love of Jesus, yet giving up on Christ's bride.
+
+> "among whom are Hymenaeus and Alexander, whom I have handed over to Satan that they may learn not to blaspheme." - 1 Timothy 1:20 (ESV)
+
+Remember Paul describing how he cast two people who had rejected their faith out of the church, and handed them over to Satan. Notice, leaving the church was equivalent to being handed over to Satan. People are now voluntarily doing this to themselves!
+
+The church is where we should find supernatural love, unity, and blessing. Yet, we no longer believe it is possible.
+
+> "What if we took God’s description of the Church as a family seriously? What would happen if a group of people sought Jesus fervently, loved one another sacrificially, and then shared the gospel boldly?" (49)
+
+We try to ease people into church attendance. Jesus told people to count the cost before they followed (Luke 14:25-35). Jesus didn't expect perfect followers, but did demand commitment (Luke 9:57-62).
+
+It wouldn't be easy but Jesus promised "that His Spirit can bind us together in a way we’ve never experienced" (49).
+
+> "What if we followed God’s design for the Church and in doing so allowed the Church to be pruned down to only those who wanted to obey His command to “love one another as I have loved you” (John 15:12)? We might actually find that a pruned tree would bear more fruit (v. 2). We might discover that the branches that weren’t bearing fruit were actually sucking all the life out of the tree." (49)
+
+### Be Encouraged
+
+For years, Francis doubted that a church of scriptural love and unity was possible. He saw examples of it in places like China, but people said it couldn't happen in America. They already lived communally, there was no persecution here...
+
+This can happen in the West.
+
+> "Holy Spirit love and unity are not confined to persecuted countries." (51)
+
+## 5. Servants
+
+
 
 
 
