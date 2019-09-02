@@ -585,8 +585,82 @@ God promised that those who give will be most blessed. Takers are miserable, foc
 
 > "Imagine gathering with a group of people who were trying to outserve one another. Have you ever been in a room filled with humble people who count others more significant than themselves? It’s anything but burdensome. When servants gather together, everyone is built up." (52)
 
-
 ### Experiencing God
+
+Paul in scripture talks about every person in a congregation receiving supernatural ability to bless others in the church, a "manifestation of the Spirit" (1 Corinthians 12:7, 14:12). 
+
+> "Why is it that most of us have a clearer picture of demon possession than manifestations of the Holy Spirit? [...] We need to expect more! Wouldn’t you be thrilled about the next church gathering if you knew that the Holy Spirit was going to literally manifest through someone? Everyone?" (53)
+
+We are too easily satisfied. Is leaving pleased enough? God wants us to be awed. That doesn't mean leaning into an emotion driven craze not led by the Spirit. 
+
+But is it a surprise we end up with gatherings that are explainable, mechanical, and sometimes obligatory, when they are devoid of the Holy Spirit?
+
+Paul yearned for all believers to show up with confidence that God wanted to move through them.
+
+> "If you are content to receive from others, you will miss out on the thrill of having the Spirit manifest Himself through you. This will cause you to be dissatisfied and the Church to suffer. Your gift is needed." (53)
+
+The church still values people like the world does. We want to find talented orators, musicians, and leaders and put their gifts on display.
+
+> "Do our actions show that we expect supernatural contributions from every member of the body? We would never dream of looking God in the face and telling Him we thought one of His children was worthless. But we don’t have to say it with our lips if our actions scream it." (53)
+
+### The Task of Gifted Leaders
+
+Church leaders are not there to minister to us, but to equip.
+
+> "And he gave the apostles, the prophets, the evangelists, the shepherds and teachers, to equip the saints for the work of ministry, for building up the body of Christ," - Ephesians 4:11-12 (ESV)
+
+> "Our Father thinks all His children are extremely gifted. God is convinced He did an amazing job in creating each of them and supernaturally empowering them." (55)
+
+But our leaders are like personal trainers who lift the weights and run on the treadmill while their clients sit and marvel at their talent.
+
+We long for growth when raising children. Every inch counts! If children aren't growing enough, parents take them to the doctor to make sure everything is okay.
+
+Why do we not expect this in the church? It's the same small talk every week.
+
+> "Your organization is perfectly designed for producing the results you’re experiencing right now." (55)
+
+In a 90 minute service dominated by a preacher and worship leader, is there really enough time for anyone else to feel used by God to encourage and build up others?
+
+> "from whom the whole body, joined and held together by every joint with which it is equipped, **when each part is working properly**, makes the body grow so that it builds itself up in love." - Ephesians 4:16 (ESV)
+
+> "If we give up on the goal of having all members exercise their spiritual gifts, we are destined for perpetual immaturity." (55)
+
+### What Are We Producing?
+
+If every Harvard grad ended up flipping burgers at McDonald's, who would spend the fortune to send their kids there? Harvard is supposed to produce competitive high-level positions.
+
+> "In the same way, Paul expected the Church to produce courageous, hardworking saints, who are unfazed by false teachings and able to resist temptation (Ephesians 4:11–14)" (55)
+
+Paul described the goal of a church "graduate" as "mature manhood" and "the measure of the stature of the fullness of Christ".
+
+Our high expectations of the result of 4 years at Harvard should be vastly dwarfed by our expecatations from 4 years (or 40 years!) in the Church.
+
+> "The Church’s purpose is not just to exist. It’s to produce." (55)
+
+> "Are we just good at getting people together once a week and maybe into a small group, or are we actually good at producing the types of people we read about in the New Testament? Have we shifted our criteria for a good disciple as someone who shows up to our stuff, gives money and occasionally feeds poor people?" - Mike Breen
+
+### Becoming Attractive
+
+Lisa went to a step class at the gym but came back not getting much out of the workout. She explained that the instructor was so obese it was hard to be motivated. She was used to instructors that prompted envy.
+
+> "When I read about the apostle Paul, I am challenged to become like him. When I read of his longing for Christ (Phil. 1:21–26), perseverance through suffering (2 Cor. 11:16–33), and love for people (Rom. 9:1–3), it stirs me. I want to look like him. I want his peace. Like Paul, I want to come to the end of my life and know that I didn’t waste it. It’s his example, not his words, that moves me." (57)
+
+Talk is cheap. Bloggers, speakers, YouTubers, few admire them. They just talk. We expect people to be capivated by our speech, while living non-compelling lifestyles. 
+
+Happy families with virgin non-swearing children are not proof God is with us and not with them.
+
+> "If Muslims were advertising free doughnuts and a raffle for a free iPad as a means to get people to their events, I would find that ridiculous. It would be proof to me that their god does not answer prayer. If they needed rock concerts and funny speakers to draw crowds, I would see them as desperate and their god as cheap and weak." (57)
+
+### No Longer Church
+
+Where is the point when a church is no longer a church? Only when they no longer declare the Jesus is Son of God?
+
+Imagine opening Chan's Healthy Juice Shop. At first, you make healthy smoothies and get an initial following of health nuts, but not enough to support your family. You start to experiment adding gummy bears, M&M's and other sweets to your juice and you start making a fortune. Is the sign still accurate? Are you still a healthy juice shop?
+
+> "Our most pressing obligation today is to do all in our power to obtain a revival that will result in a reformed, revitalized, purified church. It is of far greater importance that we have better Christians than that we have more of them." - A. W. Tozer
+
+### Forcing the Issue
+
 
 
 
