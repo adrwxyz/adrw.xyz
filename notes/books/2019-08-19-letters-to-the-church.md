@@ -579,7 +579,7 @@ We've accepted the foolish reality of must people attending church as consumers 
 
 Our lives are already busy, what if we don't have time to serve? 
 
-> "In all things I have shown you that by working hard in this way we must help the weak and remember the words of the Lord Jesus, how he himself said, `‘It is more blessed to give than to receive.’`” - Acts 20:35 (ESV)
+> "In all things I have shown you that by working hard in this way we must help the weak and remember the words of the Lord Jesus, how he himself said, `‘It is more blessed to give than to receive.’`" - Acts 20:35 (ESV)
 
 God promised that those who give will be most blessed. Takers are miserable, focused on themselves. Jesus saves us by leading us to humility, and thus happiness.
 
