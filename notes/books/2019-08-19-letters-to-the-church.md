@@ -471,7 +471,7 @@ Imagine Peter and Paul talking as we do today.
 
 ### Let's Go to Gang
 
-One of the elders in Francis' church, Rob, spent most of his life in gangs. After encountering Jesus in prison, he had to count the cost of the loyalty, the family, the cameradery of being in a gang that he had enjoyed since childhood.
+One of the elders in Francis' church, Rob, spent most of his life in gangs. After encountering Jesus in prison, he had to count the cost of the loyalty, the family, the camaraderie of being in a gang that he had enjoyed since childhood.
 
 After joining, his life was at risk but God intervened to protect him. Rob's stories of life in a gang describe in many ways "the family" nature of what the church should be.
 
@@ -492,6 +492,24 @@ It's not supposed to be natural... it's supposed to be supernatural!
 Why is no church known for supernaturally exemplifying the "one another" commands? There are over 100 in the New Testament: love for one another, care for, pray for, admonish...
 
 Too quickly, we can mislabel our church experience as "Christian love", yet Jesus warned that even sinners know how to love one another (Luke 6:32-34).
+
+> “As I have loved you, you also are to love one another” - John 13:34 (ESV)
+
+How did Jesus love us?
+
+> "Our King, who allowed Himself to be tortured and killed for us, tells us to love one another in the same way." (44)
+
+> "Think of a few of the people in your church. Picture their faces. Now think about the lengths to which Jesus went to bring those specific people to Himself. [...] No sacrifice was too great; there was nothing He would hold back. [...] He did the same for you. [...] Who does God want you to pursue? [...] Jesus went to the ultimate extent for them; why would you hold anything back?" (46)
+
+Shouldn't this greatest love that we have experience from Jesus by flowing out of us?
+
+> "Beloved, let us love one another, for love is from God, and whoever loves has been born of God and knows God. Anyone who does not love does not know God, because God is love. In this the love of God was made manifest among us, that God sent his only Son into the world, so that we might live through him. In this is love, not that we have loved God but that he loved us and sent his Son to be the propitiation for our sins. Beloved, if God so loved us, we also ought to love one another. No one has ever seen God; if we love one another, God abides in us and his love is perfected in us." - 1 John 4:7-12 (ESV)
+
+God promises "that *if we love one another*, He will *abide* in us and His love will be *perfected* in us" (46).
+
+Love is emphasized throughout scripture (Romans 12:9-10, 1 Corinthians 13, 1 Peter 4:8...). Couldn't we be missing out on something from our lack of love?
+
+### Supernatural Unity
 
 
 
