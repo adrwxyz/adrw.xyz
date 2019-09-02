@@ -539,6 +539,8 @@ How many strategies have we come up with to convince people of the truth of the 
 
 ### Have We Given Up?
 
+Long to live 2000 years ago and experience this unity for yourself? Depressed that this unity doesn't exist in the typical American church?
+
 
 
 
