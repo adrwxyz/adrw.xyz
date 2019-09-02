@@ -567,8 +567,26 @@ This can happen in the West.
 
 ## 5. Servants
 
+How would you respond to Jesus washing your feet? How unbelievable? How unworthy? How uncomfortable, yet secure and honoured?
+
+Our faith is built on a God who humbled Himself to serve and die for us. Jesus commanded us to wash one another's feet (John 13:14). Yet on any Sunday, how many Christians are showing up eager to serve others?
+
+> "even as the Son of Man came not to be served but to serve, and to give his life as a ransom for many." - Matthew 20:28 (ESV)
+
+We've accepted the foolish reality of must people attending church as consumers rather than servants. People put money in the plate, the staff salaries are paid, the rituals done. This is not what God wanted, but it works.
+
+> "So if there is any encouragement in Christ, any comfort from love, any participation in the Spirit, any affection and sympathy, complete my joy by being of the same mind, having the same love, being in full accord and of one mind. Do nothing from selfish ambition or conceit, but in humility count others more significant than yourselves. Let each of you look not only to his own interests, but also to the interests of others. Have this mind among yourselves, which is yours in Christ Jesus, who, though he was in the form of God, did not count equality with God a thing to be grasped, but emptied himself, by taking the form of a servant, being born in the likeness of men. And being found in human form, he humbled himself by becoming obedient to the point of death, even death on a cross." - Philippians 2:1-8 (ESV)
+
+Our lives are already busy, what if we don't have time to serve? 
+
+> "In all things I have shown you that by working hard in this way we must help the weak and remember the words of the Lord Jesus, how he himself said, `‘It is more blessed to give than to receive.’`” - Acts 20:35 (ESV)
+
+God promised that those who give will be most blessed. Takers are miserable, focused on themselves. Jesus saves us by leading us to humility, and thus happiness.
+
+> "Imagine gathering with a group of people who were trying to outserve one another. Have you ever been in a room filled with humble people who count others more significant than themselves? It’s anything but burdensome. When servants gather together, everyone is built up." (52)
 
 
+### Experiencing God
 
 
 
