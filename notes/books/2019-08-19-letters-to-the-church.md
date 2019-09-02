@@ -390,6 +390,69 @@ Imagine what this meant for the early believers. Meeting with those who love you
 
 > "You break the bread and eat it, remembering that Jesus had broken His body so you could find life in Him. Imagine drinking wine with these fellow believers as you recall how His blood was shed. He did this for you so you could be cleansed and forgiven of all your sins. Can you see how powerful this experience would have been for the church every time they gathered?" (38)
 
+Communion is intimate. It's not just mental remembering. God designed it to be intimate, eating and drinking. It also can be intimate with others.
+
+> "As we consider the cross and look around the room, we should be asking ourselves, `“Am I willing to love the people in this room to that extent?”` [...] If Communion feels like a curious add-on to our church services rather than the very core of everything we’re about, then we’re missing the point of the Church." (38)
+
+### The Fellowship
+
+Discussed further in the next chapter.
+
+### The Prayers
+
+> "If prayer isn’t vital for your church, then your church isn’t vital. This statement may be bold, but I believe it’s true. If you can accomplish your church’s mission without daily, passionate prayer, then your mission is insufficient and your church is irrelevant." (38)
+
+Consider the first church.
+
+> "And when they had prayed, the place in which they were gathered together was shaken, and they were all filled with the Holy Spirit and continued to speak the word of God with boldness." - Acts 4:31 (ESV)
+
+Don't regular modern church activities sound boring compared to this? 
+
+### A Better Experience
+
+> Why "His Word, to fellowship, to the Lord’s Supper, and to prayer? [...] Because God desires His people to experience Him. [...] Our job is to reveal God to people. He is present in His Word, fellowship, Communion, and prayer." (40).
+
+Some people are not interested in God. If they are not interested in Him alone, our caniving and luring them in is pointless, and worse, risks people attending services who have fallen in love with the people on stage, not God.
+
+### The Party
+
+Consider asking a teenage daughter how many kids would come to her party if there was just cake, no other entertainment. 
+
+"Maybe just a couple."
+
+And what if instead, we rented our Dave & Buster's and gave them unlimited tokens, food, and prizes.
+
+"Well everyone would come!"
+
+Further imagine that we did rent out Dave & Buster's, everyone showed up, and then said to your daughter, "Look how many people came to be with you!" Would she believe that? Or would that comment actually be insulting?
+
+We do this with God when we fill services from great bands, speakers, and programs, then proudly proclaim that people are there because of God.
+
+> "Most of us have become quite good at the church thing. And yet, disciples are the only thing that Jesus cares about, and it’s the only number that Jesus is counting. Not our attendance or budget or buildings." - Make Breen
+
+Consider the story in Malachi of a people bored of worshiping God and His response.
+
+> "Oh that there were one among you who would shut the doors, that you might not kindle fire on my altar in vain! I have no pleasure in you, says the Lord of hosts, and I will not accept an offering from your hand. For from the rising of the sun to its setting my name will be great among the nations, and in every place incense will be offered to my name, and a pure offering. For my name will be great among the nations, says the Lord of hosts." - Malachi 1:10-11 (ESV)
+
+God would rather that it all was shut down.
+
+Consider the observation of an Indian friend who visited one of Francis' speeches in Dallas.
+
+> "You Americans are funny. You won’t show up unless there’s a good speaker or band. In India, people get excited just to pray."
+
+Or this by David Platt.
+
+> "I am also struck by our reliance upon having just the right speaker and just the right musician who can attract the most people to a worship service. But what if the church itself—the people of God gathered in one place—is intended to be the attraction, regardless of who is teaching or singing that day? This is enough for our brothers and sisters around the world."
+
+Let's dream of...
+
+* trembling believers on their knees
+* people going house to house to take Communion
+* groups that tremble as Scripture is read
+* true fellowship where people are living in perfect harmony with God and one another
+
+## 4 The Gang
+
 
 
 
