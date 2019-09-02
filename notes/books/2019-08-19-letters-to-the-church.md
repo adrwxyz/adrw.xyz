@@ -507,9 +507,38 @@ Shouldn't this greatest love that we have experience from Jesus by flowing out o
 
 God promises "that *if we love one another*, He will *abide* in us and His love will be *perfected* in us" (46).
 
-Love is emphasized throughout scripture (Romans 12:9-10, 1 Corinthians 13, 1 Peter 4:8...). Couldn't we be missing out on something from our lack of love?
+Love is emphasized throughout scripture (Romans 12:9-10, 1 Corinthians 13, 1 Peter 4:8 ...). Couldn't we be missing out on something from our lack of love?
 
 ### Supernatural Unity
+
+Consider Jesus prayer in the shadow of the cross.
+
+> "I do not ask for these only, but also for those who will believe in me through their word, that they may all be one, **just as** you, Father, are in me, and I in you, that they also may be in us, so that the world may believe that you have sent me. The glory that you have given me I have given to them, that they may be one even as we are one, I in them and you in me, that they may become perfectly one, **so that the world may know that you sent me and loved them even as you loved me**." - John 17:20-23 (ESV)
+
+Christ wants the unity of the church to equal the oneness of the Father and Son! What would church look like if we were pursuing that unity?
+
+Jesus prays that a unity like that would be the sign to others that Jesus truly came from heaven. Isn't that a bit like 2 + 2 = 1000? Scripture has lots of impossible equations. Remember marching 7 times around Jericho (Joshua 6)? Or that the unity of the first church did actually lead to new believers (Acts 2:44-47).
+
+> "Now the full number of those who believed were of one heart and soul, and no one said that any of the things that belonged to him was his own, but they had everything in common. And with great power the apostles were giving their testimony to the resurrection of the Lord Jesus, and great grace was upon them all. There was not a needy person among them, for as many as were owners of lands or houses sold them and brought the proceeds of what was sold and laid it at the apostles' feet, and it was distributed to each as any had need." - Acts 4:32-35 (ESV)
+
+Isn't this first church beautiful? Attractive? 
+
+> "Scripture is clear: there is a real connection between our unity and the believability of our message" (48).
+
+Read the following a few times.
+
+> "Only let your manner of life be worthy of the gospel of Christ, so that whether I come and see you or am absent, I may hear of you that you are standing firm in one spirit, with one mind striving side by side for the faith of the gospel, and not frightened in anything by your opponents. This is **a clear sign to them of their destruction**, but of your salvation, and that from God." - Philippians 1:27-28 (ESV)
+
+Have you tried to convince someone judgement day is coming? It's very difficult. Most people do not believe in a coming judgement. Yet! The unity of the church is a convincing sign to unbelievers of the coming judgement.
+
+Unity is easy talk but requires the kind of mutual commitment absent from our churches.
+
+> "Obedience often grates against our natural desires, but if we obey only when it feels natural, then Jesus is not truly Lord of our lives."
+
+How many strategies have we come up with to convince people of the truth of the Gospel when God has already given us the method that will work?
+
+### Have We Given Up?
+
 
 
 
