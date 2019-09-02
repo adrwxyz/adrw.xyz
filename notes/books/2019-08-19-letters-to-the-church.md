@@ -365,6 +365,32 @@ Do we believe that “the word of God is living and active, sharper than any two
 
 If we believed it, we would read and speak them and expect things to happen, not wait on a preacher to "make Scriptures come alive".
 
+> "It is the Spirit who gives life; the flesh is no help at all. The words that I have spoken to you are spirit and life." - John 6:63 (ESV)
+
+If you had LeBron James on your basketball team, you would find every reason to pass the ball to him and watch the magic happen. If we believe in the power of the scripture, we would read it publicly and encourage others to read it too, and 
+"watch in amazement as the Word of God accomplishes what it sets out to do" (36).
+
+> "For as the rain and the snow come down from heaven and do not return there but water the earth, making it bring forth and sprout, giving seed to the sower and bread to the eater, so shall **my word** be that goes out from my mouth; it shall not return to me empty, but it **shall accomplish that which I purpose, and shall succeed in the thing for which I sent it**." - Isaiah 55:10-11 (ESV)
+
+One of Francis' friend gathered some people for a time of public Bible reading. They read in shifts, from Genesis 1 to Revelation 22 three days later. In 72 hours, they had the entire Bible aloud! Their feeling afterwards was unexplainable, the Word did something beyond their expectations.
+
+**In three days, they did what most American Christians won't do in their entire lifetime.**
+
+At one of Francis' home church gathering, they read all of Revelation. Remember God's promise to all who read it?
+
+> "Blessed is the one who reads aloud the words of this prophecy, and blessed are those who hear, and who keep what is written in it, for the time is near." - Revelation 1:3 (ESV)
+
+A blessing is promised just for reading the book! The group read through all 22 chapters, without embellishment, and it was powerful.
+
+### The Breaking of Bread
+
+The New Testament describes breaking of bread as a shared meal what includes celebrating the Lord's Supper.
+
+Imagine what this meant for the early believers. Meeting with those who love you unconditionally, whose lives changed like yours did, remembering those who have been killed for proclaiming His death, those with scars and injuries from persecution.
+
+> "You break the bread and eat it, remembering that Jesus had broken His body so you could find life in Him. Imagine drinking wine with these fellow believers as you recall how His blood was shed. He did this for you so you could be cleansed and forgiven of all your sins. Can you see how powerful this experience would have been for the church every time they gathered?" (38)
+
+
 
 
 
