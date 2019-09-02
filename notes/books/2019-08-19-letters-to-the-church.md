@@ -303,8 +303,67 @@ Consider Jesus' parable in Luke 12 of the servant given specific tasks from his 
 
 Are we more worried of falling short of expectations of church we've made up or disobedience towards commands from God? Consider Mark 7:1-13 in Jesus' response to the Pharisees complaining that His disciples were not following their traditions. He decried them as hypocrites and was upset! This wasn't a small thing.
 
-God gave 613 commands in the Old Testament to be obeyed.
+God gave 613 commands in the Old Testament to be obeyed. Along the way though, people created additional traditions that they thought God would like but that he didn't ask them to do. 
 
+> "Honoring traditions made the Pharisees feel like they were obeying God when they actually weren’t. If we are not careful, we can be guilty of the same sin resulting in the same divine displeasure." (29)
+
+Complaints about absence Sunday school, the worship music style, sermon length or countless other traditions seem to be proclaimed loudly while shoulders shrug at the practice of the Lord's Supper, plight of widows, orphans, and bearing one another's burdens.
+
+### What Works
+
+Too many pastors, Francis included, have fallen into being willing to try anything that works to increase church attendance.
+
+Yet, when the Corinthians wanted an eloquent orator, Paul deliberately simplified his speech so that nothing, including his rhetorical skill would diminish the power of the Gospel.
+
+> "For Christ did not send me to baptize but to preach the gospel, and not with words of eloquent wisdom, lest the cross of Christ be emptied of its power." - 1 Corinthians 1:17 (ESV)
+
+> "And I, when I came to you, brothers, did not come proclaiming to you the testimony of God with lofty speech or wisdom. For I decided to know nothing among you except Jesus Christ and him crucified. And I was with you in weakness and in fear and much trembling, and my speech and my message were not in plausible words of wisdom, but in demonstration of the Spirit and of power, so that your faith might not rest in the wisdom of men but in the power of God." - 1 Corinthians 2:1-5 (ESV)
+
+The same patterns of attempting to improve church popularity by diminishing the power of the cross have lasted from the days of Paul until now. 
+
+Famous philosopher Søren Kierkegaard was similarly appalled at the attempts in the 19th century to make Christianity more palatable, popular, and less offensive.  Falling church attendance in the West is no new reason to try it again.
+
+Alan Hirsch, from his experience building a megachurch in Australia, learned that people expect to get what attracted them.
+
+> "Win them with entertainment, and you have to keep them there by entertaining them." - Alan Hirsch
+
+The more that church leadership focuses on addressing people's complaints, the more complaints there are. If a child asks for coffee at 11pm because they're tired, the solution isn't coffee, it's sleep.
+
+> "There are times when the most loving thing we can do is teach people that joy will come only when they stop screaming for attention and save their voices for the throne." (31)
+
+Consider this from Revelation.
+
+> "Then I looked, and I heard around the throne and the living creatures and the elders the voice of many angels, numbering myriads of myriads and thousands of thousands, saying with a loud voice, `“Worthy is the Lamb who was slain, to receive power and wealth and wisdom and might and honor and glory and blessing!”` And I heard every creature in heaven and on earth and under the earth and in the sea, and all that is in them, saying, `“To him who sits on the throne and to the Lamb be blessing and honor and glory and might forever and ever!”` And the four living creatures said, `“Amen!”` and the elders fell down and worshiped." - Revelation 5:11-14 (ESV)
+
+Could this really be bored to you? No way! This is what we were made for!
+
+> "If the sheep don’t hear His voice, let them walk away. Don’t call out with your own voice. [...] By catering our worship to the worshippers and not to the Object of our worship, I fear we have created human-centered churches." (33)
+
+### Devoted to His Orders
+
+The first church built on what pleased God most.
+
+> "It was their focus on the right things that actually made them attractive. You can’t read through the book of Acts without thinking, That’s a community of people I want to be part of." (33)
+
+What did this look like?
+
+> "And they devoted themselves to the apostles' teaching and the fellowship, to the breaking of bread and the prayers. And awe came upon every soul, and many wonders and signs were being done through the apostles. And all who believed were together and had all things in common. And they were selling their possessions and belongings and distributing the proceeds to all, as any had need. And day by day, attending the temple together and breaking bread in their homes, they received their food with glad and generous hearts, praising God and having favor with all the people. And the Lord added to their number day by day those who were being saved." - Acts 2:42-47 (ESV)
+
+The first believers were not trying to conjure up this experience, they weren't strategizing. They were devoting themselves to prayer, gathering to ask God to direct them and work through them.
+
+No modern church movement would take this approach. How could you attract people "with just the apostles’ teaching, fellowship, breaking of bread, and prayer" (33)? Haven't people tried this before and not found the same _awe_? The key word though is: **devoted**.
+
+Only 90 minutes once a week? Devotion does not look like squishing prayer, teaching, fellowship, and Communion into 90 minutes.
+
+Devotion can't be forced, but gatherings can stop being structured so that it's easy not to be.
+
+The early church weren't constantly bouncing from strategy to strategy. They were devoted on a few core things.
+
+### The Apostles' Teaching
+
+Do we believe that “the word of God is living and active, sharper than any two-edged sword, piercing to the division of soul and of spirit, of joints and of marrow, and discerning the thoughts and intentions of the heart” (Hebrews 4:12 ESV)?
+
+If we believed it, we would read and speak them and expect things to happen, not wait on a preacher to "make Scriptures come alive".
 
 
 
