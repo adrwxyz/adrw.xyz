@@ -489,7 +489,9 @@ It's not supposed to be natural... it's supposed to be supernatural!
 
 > "One thing the New Testament makes clear is that the Church is supposed to be known for its love. Jesus says our love for one another is the very thing that will attract the world." (44)
 
-Why does is no church known for supernaturally exemplifying the "one another" commands (there are over 100 in the New Testament – love for, care for, pray for, admonish...)?
+Why is no church known for supernaturally exemplifying the "one another" commands? There are over 100 in the New Testament: love for one another, care for, pray for, admonish...
+
+Too quickly, we can mislabel our church experience as "Christian love", yet Jesus warned that even sinners know how to love one another (Luke 6:32-34).
 
 
 
