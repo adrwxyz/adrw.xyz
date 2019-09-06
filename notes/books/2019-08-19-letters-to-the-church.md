@@ -661,6 +661,22 @@ Imagine opening Chan's Healthy Juice Shop. At first, you make healthy smoothies 
 
 ### Forcing the Issue
 
+Christ, our model, came to serve, yet many people are called Christians who don't serve. It's like keeping a soldier in an army who won't fight, or a player on a sports team who refuses to contribute.
+
+Scripture commands us to serve.
+
+> "As each has received a gift, use it to serve one another, as good stewards of God's varied grace:" - 1 Peter 4:10 (ESV)
+
+> "So whoever knows the right thing to do and fails to do it, for him it is sin." - James 4:17 (ESV)
+
+We can't force people to serve, but we can stop giving them a free pass.
+
+> "We confront sexual immorality in our churches because we are commanded to live holy lives. The adulterous person does not represent Christ well. But neither does the consumer." (59)
+
+Consider bringing your firstborn home from the hospital. You are utterly unprepared but you are forced to figure it out, to love your baby, to learn how to be good parents.
+
+Ministry is the same. No one is born ready, everyone is forced to step up when thrown in to a position.
+
 
 
 
