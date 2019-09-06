@@ -5,9 +5,8 @@ date: 2019-08-19T14:11:36.758Z
 path: /2019-08-19-letters-to-the-church
 author:
   - Francis Chan
-year: "2018"
+year: '2018'
 ---
-
 Francis Chan's latest book outlines in a series of thematic Revelation-style letters to the modern church, the failings and path forward of a Western church often more concerned with attendance, worship style, and age-denominated ministries, than with raising up disciples who mirror the devotion of the first believers.
 
 > "And they devoted themselves to the apostles' teaching and the fellowship, to the breaking of bread and the prayers." – Acts 2:42 (ESV)
@@ -17,7 +16,6 @@ Francis Chan's latest book outlines in a series of thematic Revelation-style let
 Deeply thought provoking, I'm excited for what the rest of the book holds. It draws deeply from Chan's learnings in founding a megachurch, Cornerstone Community Church, and resigning to start a house church movement, We Are Church.
 
 # Resources
-
 - Letters to the Church [Website](https://letterstothechurchbook.com/)
 - We Are Church [Website](https://www.wearechurch.com/)
 - Reading Scripture App [Website](https://www.readscripture.org/)
@@ -34,33 +32,31 @@ Bringing this model back to the US as the Spirit led him, Chan started the We Ar
 1. We Meet in Homes: Less capital requirements, easier to multiply and grow, more intimacy.
 1. Everyone Discipled and Discipling: Everyone is a disciple or future disciple. Spiritual growth is collective responsibility, not just on the pastor.
 1. Everyone Exercises Their Gifts: Not just a few key people preaching and leading worship, everyone is given gifts by the Holy Spirit in order to benefit the church.
+ > "To each is given the manifestation of the Spirit for the common good." - 1 Corinthians 12:7 (ESV)
 
-   > "To each is given the manifestation of the Spirit for the common good." - 1 Corinthians 12:7 (ESV)
+    The full passage expands to describe all the gifts of the spirit that can be endowed to people in the church to benefit the church.
 
-   The full passage expands to describe all the gifts of the spirit that can be endowed to people in the church to benefit the church.
+    > "There are diversities of gifts, but the same Spirit. There are differences of ministries, but the same Lord. And there are diversities of activities, but it is the same God who works all in all. But the manifestation of the Spirit is given to each one for the profit of all: for to one is given the word of wisdom through the Spirit, to another the word of knowledge through the same Spirit, to another faith by the same Spirit, to another gifts of healings by the same Spirit, to another the working of miracles, to another prophecy, to another discerning of spirits, to another different kinds of tongues, to another the interpretation of tongues. But one and the same Spirit works all these things, distributing to each one individually as He wills." - 1 Corinthians 12:6-11 (NKJV)
 
-   > "There are diversities of gifts, but the same Spirit. There are differences of ministries, but the same Lord. And there are diversities of activities, but it is the same God who works all in all. But the manifestation of the Spirit is given to each one for the profit of all: for to one is given the word of wisdom through the Spirit, to another the word of knowledge through the same Spirit, to another faith by the same Spirit, to another gifts of healings by the same Spirit, to another the working of miracles, to another prophecy, to another discerning of spirits, to another different kinds of tongues, to another the interpretation of tongues. But one and the same Spirit works all these things, distributing to each one individually as He wills." - 1 Corinthians 12:6-11 (NKJV)
-
-1. Regular Multiplication of Churches: Split the group when numbers grow beyond 20-40 people. Preserve intimacy, accountability, and engagement that is only possible in smaller numbers.
+1. Regular Multiplication of Churches: Split the group when numbers grow beyond 20-40 people. Preserve intimacy, accountability, and engagement that is only possible in smaller numbers. 
 1. Simple Gatherings: Rely on Jesus, not someone's amazing teaching or worship band
 
 # Letters to the Church Notes
 
-## 1. The Departure
+## The Departure
 
 Imagine yourself on an island with just a Bible. How would a church function based only on what you can read, not your knowledge of what church in the West is today? Is it different than your current church experience? Can you live with that?
 
-### Some Background / Why I Left My Megachurch
+### Some Background /  Why I Left My Megachurch
 
 Francis built the megachurch, Cornerstone Church in Simi Valley, California, in 1994 from his living room to thousands of people and then left in 2007. Many have asked, why?
 
 In 1994, Francis was 26 years old and had previously been attending a church where there was a lot of infighting and division. That could not be pleasing to God. Francis had been married to Lisa for less than a month when he opened up to her about starting a church out of their house.
 
 Their new church's priorities would be
-
-- Sing directly to God, really sing! Sing with reverence and emotion. Sing as though God is really listening to our voices.
-- Hear the Word of God. No self-help nonsense. No ignoring half the Bible. Dig deep into scripture, even the parts that make us uncomfortable, and take it seriously. Truly hear everything the Word of God was saying to us.
-- Live holy lives. Too many churches are packed with Christians with no interest in doing what the Bible says.
+* Sing directly to God, really sing! Sing with reverence and emotion. Sing as though God is really listening to our voices.
+* Hear the Word of God. No self-help nonsense. No ignoring half the Bible. Dig deep into scripture, even the parts that make us uncomfortable, and take it seriously. Truly hear everything the Word of God was saying to us.
+* Live holy lives. Too many churches are packed with Christians with no interest in doing what the Bible says.
   > "These people would come back week after week to hear from a Book that demands that they “be doers of the word, and not hearers only” (James 1:22), but they never seemed to do anything." (8)
 
 God worked, things took off! The church grew to thousands flocking to join in the passionate worship and hear the Word of God. They moved from building to bigger building. The podcast gained in popularity. The congregation would cheer and donate generously to foreign missions. Families began adoption children out of the foster care system. But something was missing.
@@ -69,7 +65,7 @@ The elders landed on the question: was this definition of success adequate? Is t
 
 A key question was the level of love for one another.
 
-> "Jesus said the world should know us by our love (John 13:35), [but] when unbelievers came to our services, they weren’t observing anything supernatural about the way we loved one another." (10)
+  > "Jesus said the world should know us by our love (John 13:35), [but] when unbelievers came to our services, they weren’t observing anything supernatural about the way we loved one another." (10)
 
 Another issue was the increasing reliance on a single person: Francis Chan. What would happen if he left? Could the church sustain membership to support their large buildings and staff, a huge waste of money if false? People should come to church to experience almighty God and the moving of the Holy Spirit, not to hear Francis Chan.
 
@@ -81,17 +77,17 @@ The church elders repented for how they had neglected Biblical commands and trie
 
 One young person felt as if the rules had been changed under him. It was as if at first he was taught that salvation was a free gift from belief in Christ, like receiving a pair of ice skates and now being free to learn and do tricks on the local rink, and now being told that the skates were actually given to him because he was supposed to be part of a hockey team, not just to twirl around by himself.
 
-Francis admits he did not lead the congregation through this attempted transition very well. He had been losing peace and humility as his popularity as speaker and author grew.
+Francis admits he did not lead the congregation through this attempted transition very well. He had been losing peace and humility as his popularity as speaker and author grew. 
 
 As he began to debate internally the thought of leaving Cornerstone, a chance conversation on the way to an event with Lisa confirmed that she too thought they had done what they could in Simi Valley and it was time to move on. 15 minutes after that, a member at Cornerstone called him to say that God told him to tell Francis "Just go. Don't worry about the church. There are others here who will step up and take care of the church."
 
 And so things fell into place, they sold the house, and moved their family of 6 overseas for a time traveling through India, Thailand, and China. It knit the family together with a focus on mission and opened their eyes to the fearless dedication and boldness of pastors in India, how humble men and women faithfully served widows and orphans in rural Thailand, and the gospel spreading as wildfire despite persecution through the house churches in China.
 
-After a time overseas, Francis felt that the Lord was speaking to him one day to go back to the United States. He emphasizes that his background is extremely conservative, and he doesn't say that he heard from God lightly, leaning and comparing always with what he sees written in the Bible.
+After a time overseas, Francis felt that the Lord was speaking to him one day to go back to the United States. He emphasizes that his background is extremely conservative, and he doesn't say that he heard from God lightly, leaning and comparing always with what he sees written in the Bible. 
 
 While overseas, Francis had seen a glimpse of what the power of the church could be. God now wanted him to take that vision back. Francis felt daunted by a mission that he felt his intelligence and leadership skills were inadequate to accomplish.
 
-> "It was a sad day when I told Lisa and the kids that I felt God wanted me back in the States. We were so happy overseas. We were closer as a family, more dependent on God, and more fixated on eternal matters. While there were feelings of fear when we left the United States, now there was greater fear in returning. We didn’t want to lose our focus." (12)
+  > "It was a sad day when I told Lisa and the kids that I felt God wanted me back in the States. We were so happy overseas. We were closer as a family, more dependent on God, and more fixated on eternal matters. While there were feelings of fear when we left the United States, now there was greater fear in returning. We didn’t want to lose our focus." (12)
 
 ### The Journey Home
 
@@ -105,7 +101,7 @@ Asking his oldest daughter what this life now felt like, she blurted "It felt li
 
 Daily outreaches were going well but the ministry had weakness from a lack of an elder-led church. Francis, like in the beginning, a few new friends into their home and starting We Are Church, asking God to build His church through them.
 
-In the 5 years since planting, We are Church, Francis and Lisa have grown in their scriptural understanding and entered one of the happiest and most peaceful seasons of life. Not because life is easy, "but a peace from knowing God more deeply than ever" (15).
+In the 5 years since planting, We are Church, Francis and Lisa have grown in their scriptural understanding and entered one of the happiest and most peaceful seasons of life. Not because life is easy, "but a peace from knowing God more deeply than ever" (15). 
 
 > "While I believe I have loved Jesus for years, it feels totally different now. Lately I have become obsessed with knowing and experiencing Him. [Strangely], my intimacy with God has been directly tied to my connection with the Church. This is really weird for me because for years, I felt closest to God when I was away from people and alone in my prayer room. [Now], I actually feel closer to God while praying alongside my church family! It’s as if I can sense His actual presence in the room with us. [...] Just the other day, a one-hour teaching session spontaneously turned into thirteen hours of prayer! We were enjoying His presence together so much that no one wanted to leave!" (15)
 
@@ -113,7 +109,7 @@ In the 5 years since planting, We are Church, Francis and Lisa have grown in the
 
 While traveling and speaking, Francis often hears people complaining about their churches, many who have left altogether. The church has real issues, but this is a serious problem! The church is Christ's bride, whom we must love, not gripe or leave.
 
-Some who've abandoned are rebellious and arrogant, others are confused. They love Jesus but struggle to see how their church connects to what they read in scripture. Francis doesn't condone their actions, but instead writes the book as encouragement to return.
+Some who've abandoned are rebellious and arrogant, others are confused. They love Jesus but struggle to see how their church connects to what they read in scripture. Francis doesn't condone their actions, but instead writes the book as encouragement to return.  
 
 > "The Scriptures tell me you are indispensable and the body cannot function perfectly without you." (15)
 
@@ -137,7 +133,7 @@ He doesn't say that lightly and encourages readers to have a Bible at their side
 
 ### A Humble Warning
 
-Francis writes with a spirit of unity, not that these words would be taken to confront church leadership with arrogance and division.
+Francis writes with a spirit of unity, not that these words would be taken to confront church leadership with arrogance and division. 
 
 Now is a difficult time to be a church leader. Everyone has a voice, few are followers, strong opinions applauded, humility is not. Have grace. "Imagine how difficult it would be to coach a team where each player refuses to follow because he or she has a better plan than the coach" (15).
 
@@ -163,14 +159,14 @@ Often when speaking, Francis has a clock at the back of the room counting down t
 
 Francis has written this book with the same spirit, trying to write what God has given him to write without fear of the backlash.
 
-## 2. Sacred
+## Sacred
 
 Consider the following situations where it seems Scripture documents a punishment too severe for the crime:
 
-- 2 Samuel 6: God killed Uzzah because he touched the ark of the covenant (which God had forbid anyone from touching) trying to keep it from falling on the ground.
-- 1 Samuel 13: King Saul waited seven days for the priest, Samuel, to come and make an offering. When Samuel didn't show up, Saul took it upon himself to make the sacrifice, as a result God took the Kingdom from him.
-- Numbers 20: Moses didn't get to see the Promised Land because he struck a rock, instead of speaking to it.
-- Acts 5: Ananias and Sapphira were struck dead after selling their land, claiming to donate all proceeds to the church, but secretly keeping some for themselves.
+* 2 Samuel 6: God killed Uzzah because he touched the ark of the covenant (which God had forbid anyone from touching) trying to keep it from falling on the ground.
+* 1 Samuel 13: King Saul waited seven days for the priest, Samuel, to come and make an offering. When Samuel didn't show up, Saul took it upon himself to make the sacrifice, as a result God took the Kingdom from him.
+* Numbers 20: Moses didn't get to see the Promised Land because he struck a rock, instead of speaking to it.
+* Acts 5: Ananias and Sapphira were struck dead after selling their land, claiming to donate all proceeds to the church, but secretly keeping some for themselves.
 
 We don't understand "sacred" anymore. Too quickly we say "That isn't fair" believing that certain rights are deserved as humans, yet giving little thought to the rights God deserves as God.
 
@@ -185,12 +181,12 @@ While others are quick to judge God's actions and question His commands, we are 
 While others pray quickly through opinions and demands, we are to approach His throne with reverance, like a priest entering the Holy of Holies.
 
 > "Walk prudently when you go to the house of God; and draw near to hear rather than to give the sacrifice of fools, for they do not know that they do evil.
-> Do not be rash with your mouth,
-> And let not your heart utter anything hastily before God.
-> For God is in heaven, and you on earth;
-> Therefore let your words be few.
-> For a dream comes through much activity,
-> And a fool’s voice is known by his many words." - Ecclesiastes 5:1-3 (NKJV)
+Do not be rash with your mouth,
+And let not your heart utter anything hastily before God.
+For God is in heaven, and you on earth;
+Therefore let your words be few.
+For a dream comes through much activity,
+And a fool’s voice is known by his many words." - Ecclesiastes 5:1-3 (NKJV)
 
 Remember that those who talk a lot sin a lot.
 
@@ -203,7 +199,7 @@ Francis admits caution in approaching this topic at all because of the sacred na
 He at times wanted to delete this book and not publish, yet couldn't walk away from what God was calling him to do. Sometimes it is sinful to not speak.
 
 > "For whenever I speak, I cry out, I shout, “Violence and destruction!” For the word of the Lord has become for me a reproach and derision all day long. If I say, “I will not mention him, or speak any more in his name,”
-> there is in my heart as it were a burning fire shut up in my bones, and I am weary with holding it in, and I cannot." - Jermiah 20:8-9 (ESV)
+there is in my heart as it were a burning fire shut up in my bones, and I am weary with holding it in, and I cannot." - Jermiah 20:8-9 (ESV)
 
 ### Sacred Ministry
 
@@ -213,7 +209,7 @@ Marvel and be awestruck at the mystery and honour that we get to be part of the 
 
 > "This mystery is profound, and I am saying that it refers to Christ and the church." - Ephesians 5:32 (ESV)
 
-Take time to meditate on these mysteries. Pause for worship when you encounter them reading. Are we that busy that we don't?
+Take time to meditate on these mysteries. Pause for worship when you encounter them reading. Are we that busy that we don't? 
 
 > "It’s no wonder we aren’t known as those who “rejoice with joy that is inexpressible” (1 Pet. 1:8). We don’t make time to meditate on His mysteries." (22)
 
@@ -229,7 +225,7 @@ Yet, the New Testament describes something greater!
 
 > "So then you are no longer strangers and aliens, but you are fellow citizens with the saints and members of the household of God, built on the foundation of the apostles and prophets, Christ Jesus himself being the cornerstone, in whom the whole structure, being joined together, grows into a holy temple in the Lord. In him you also are being built together into a dwelling place for God by the Spirit." - Ephesians 2:19-22 (ESV)
 
-How are we not more astounded at us being a dwelling for God's spirit than we are at the thought of God descending on the Old Testament temple? We don't need to imagine the temple, we can experience the Spirit!
+How are we not more astounded at us being a dwelling for God's spirit than we are at the thought of God descending on the Old Testament temple? We don't need to imagine the temple, we can experience the Spirit! 
 
 We are "living stones" (1 Peter 2:5), Jesus is the cornerstone (Ephesians 2:20), God has descended onto a living temple formed of believers and Christ: the church.
 
@@ -269,7 +265,7 @@ We are part of an eternal plan. Think about it!
 
 We have been included in God's eternal plans for His sacred church. Self-deprecation then in turn is as wicked as slandering the church, since we are the church.
 
-Even the heavenly beings look at the church in awe.
+Even the heavenly beings look at the church in awe. 
 
 > "To me, though I am the very least of all the saints, this grace was given, to preach to the Gentiles the unsearchable riches of Christ, and to bring to light for everyone what is the plan of the mystery hidden for ages in God, who created all things, so that through the church the manifold wisdom of God might now be made known to the rulers and authorities in the heavenly places." - Ephesians 3:8-10 (ESV)
 
@@ -281,7 +277,7 @@ The first church was in awe at simply hearing the gospel.
 
 > "Aren’t you at least a little embarrassed that you have needed the extra stuff? It’s not all your fault. For decades church leaders like myself have lost sight of the powerful mystery inherent in the Church and have instead run to other methods to keep people interested. In all honesty, we have trained you to become addicted to lesser things. We have cheapened something sacred, and we must repent." (27)
 
-## 3. The Order
+## The Order
 
 Imagine you order a steak at a restaurant, but the waiter comes back 20 minutes later and gives you a bowl of pasta. You'd send it back! It wasn't what you asked for!
 
@@ -289,25 +285,25 @@ This is what we have done with the church. We've arrogantly done things our own 
 
 ### Commands Versus Expectations
 
-Consider this simple exercise Francis gives to church leaders.
+Consider this simple exercise Francis gives to church leaders. 
 
 First, write down all the things that people expect from church. Then write down all the commands God gave the Church in scripture.
 
-| People expect from Church                         | God's commands to the Church                                |
-| ------------------------------------------------- | ----------------------------------------------------------- |
-| Good service                                      | “love one another as I have loved you” (John 15:12)         |
-| Age specific ministries                           | “visit orphans and widows in their affliction” (James 1:27) |
-| Certain style/volume/length of singing            | “make disciples of all nations” (Matt. 28:19)               |
-| Well communicated sermon                          | “bear one another’s burdens” (Gal. 6:2)                     |
-| Parking, clean church building, coffee, childcare |                                                             |
+| People expect from Church | God's commands to the Church |
+| --- | --- |
+| Good service | “love one another as I have loved you” (John 15:12) |
+| Age specific ministries | “visit orphans and widows in their affliction” (James 1:27) |
+| Certain style/volume/length of singing | “make disciples of all nations” (Matt. 28:19) |
+| Well communicated sermon | “bear one another’s burdens” (Gal. 6:2) |
+| Parking, clean church building, coffee, childcare | |
 
 What would upset their church's people more, if items on the first list were not provided or if the church didn't obey the commands in the second list?
 
-Consider Jesus' parable in Luke 12 of the servant given specific tasks from his master, those tasks then neglected, and the servant punished harshly on the master's return. How can we shrug this off and not realize that this could be our fate?
+Consider Jesus' parable in Luke 12 of the servant given specific tasks from his master, those tasks then neglected, and the servant punished harshly on the master's return. How can we shrug this off and not realize that this could be our fate? 
 
 Are we more worried of falling short of expectations of church we've made up or disobedience towards commands from God? Consider Mark 7:1-13 in Jesus' response to the Pharisees complaining that His disciples were not following their traditions. He decried them as hypocrites and was upset! This wasn't a small thing.
 
-God gave 613 commands in the Old Testament to be obeyed. Along the way though, people created additional traditions that they thought God would like but that he didn't ask them to do.
+God gave 613 commands in the Old Testament to be obeyed. Along the way though, people created additional traditions that they thought God would like but that he didn't ask them to do. 
 
 > "Honoring traditions made the Pharisees feel like they were obeying God when they actually weren’t. If we are not careful, we can be guilty of the same sin resulting in the same divine displeasure." (29)
 
@@ -323,9 +319,9 @@ Yet, when the Corinthians wanted an eloquent orator, Paul deliberately simplifie
 
 > "And I, when I came to you, brothers, did not come proclaiming to you the testimony of God with lofty speech or wisdom. For I decided to know nothing among you except Jesus Christ and him crucified. And I was with you in weakness and in fear and much trembling, and my speech and my message were not in plausible words of wisdom, but in demonstration of the Spirit and of power, so that your faith might not rest in the wisdom of men but in the power of God." - 1 Corinthians 2:1-5 (ESV)
 
-The same patterns of attempting to improve church popularity by diminishing the power of the cross have lasted from the days of Paul until now.
+The same patterns of attempting to improve church popularity by diminishing the power of the cross have lasted from the days of Paul until now. 
 
-Famous philosopher Søren Kierkegaard was similarly appalled at the attempts in the 19th century to make Christianity more palatable, popular, and less offensive. Falling church attendance in the West is no new reason to try it again.
+Famous philosopher Søren Kierkegaard was similarly appalled at the attempts in the 19th century to make Christianity more palatable, popular, and less offensive.  Falling church attendance in the West is no new reason to try it again.
 
 Alan Hirsch, from his experience building a megachurch in Australia, learned that people expect to get what attracted them.
 
@@ -371,7 +367,7 @@ If we believed it, we would read and speak them and expect things to happen, not
 
 > "It is the Spirit who gives life; the flesh is no help at all. The words that I have spoken to you are spirit and life." - John 6:63 (ESV)
 
-If you had LeBron James on your basketball team, you would find every reason to pass the ball to him and watch the magic happen. If we believe in the power of the scripture, we would read it publicly and encourage others to read it too, and
+If you had LeBron James on your basketball team, you would find every reason to pass the ball to him and watch the magic happen. If we believe in the power of the scripture, we would read it publicly and encourage others to read it too, and 
 "watch in amazement as the Word of God accomplishes what it sets out to do" (36).
 
 > "For as the rain and the snow come down from heaven and do not return there but water the earth, making it bring forth and sprout, giving seed to the sower and bread to the eater, so shall **my word** be that goes out from my mouth; it shall not return to me empty, but it **shall accomplish that which I purpose, and shall succeed in the thing for which I sent it**." - Isaiah 55:10-11 (ESV)
@@ -410,7 +406,7 @@ Consider the first church.
 
 > "And when they had prayed, the place in which they were gathered together was shaken, and they were all filled with the Holy Spirit and continued to speak the word of God with boldness." - Acts 4:31 (ESV)
 
-Don't regular modern church activities sound boring compared to this?
+Don't regular modern church activities sound boring compared to this? 
 
 ### A Better Experience
 
@@ -420,7 +416,7 @@ Some people are not interested in God. If they are not interested in Him alone, 
 
 ### The Party
 
-Consider asking a teenage daughter how many kids would come to her party if there was just cake, no other entertainment.
+Consider asking a teenage daughter how many kids would come to her party if there was just cake, no other entertainment. 
 
 "Maybe just a couple."
 
@@ -450,12 +446,12 @@ Or this by David Platt.
 
 Let's dream of...
 
-- trembling believers on their knees
-- people going house to house to take Communion
-- groups that tremble as Scripture is read
-- true fellowship where people are living in perfect harmony with God and one another
+* trembling believers on their knees
+* people going house to house to take Communion
+* groups that tremble as Scripture is read
+* true fellowship where people are living in perfect harmony with God and one another
 
-## 4. The Gang
+## The Gang
 
 Good Christians today "go to a building on Sunday mornings, attend an hour-long service, and call themselves members of the Church." (43)
 
@@ -464,12 +460,11 @@ That should be a shocking statement.
 Reading the New Testament is there ever mention of someone "going to church"?
 
 Imagine Peter and Paul talking as we do today.
-
 ```
 "Hey, Peter, where do you go to church now?"
 "I go to The River. They have great music and I love the kids' program."
 "Cool. Can I check out your church next Sunday? I'm not getting much out of mine."
-"Totally. I'm not going to be there next Sunday because little Matthew has soccer.
+"Totally. I'm not going to be there next Sunday because little Matthew has soccer. 
     But how about the week after?"
 "Sounds good. Hey do they have a singles' group?" (43)
 ```
@@ -486,7 +481,7 @@ How has this become expected and normal in the church! God's design for a family
 
 ### Supernatural Love
 
-Isn't this just a cute exaggeration? Aren't our _families_ supposed to be our families? Why should we be so close with some people we wouldn't even be friends with?
+Isn't this just a cute exaggeration? Aren't our *families* supposed to be our families? Why should we be so close with some people we wouldn't even be friends with?
 
 It's not supposed to be natural... it's supposed to be supernatural!
 
@@ -510,7 +505,7 @@ Shouldn't this greatest love that we have experience from Jesus by flowing out o
 
 > "Beloved, let us love one another, for love is from God, and whoever loves has been born of God and knows God. Anyone who does not love does not know God, because God is love. In this the love of God was made manifest among us, that God sent his only Son into the world, so that we might live through him. In this is love, not that we have loved God but that he loved us and sent his Son to be the propitiation for our sins. Beloved, if God so loved us, we also ought to love one another. No one has ever seen God; if we love one another, God abides in us and his love is perfected in us." - 1 John 4:7-12 (ESV)
 
-God promises "that _if we love one another_, He will _abide_ in us and His love will be _perfected_ in us" (46).
+God promises "that *if we love one another*, He will *abide* in us and His love will be *perfected* in us" (46).
 
 Love is emphasized throughout scripture (Romans 12:9-10, 1 Corinthians 13, 1 Peter 4:8 ...). Couldn't we be missing out on something from our lack of love?
 
@@ -526,7 +521,7 @@ Jesus prays that a unity like that would be the sign to others that Jesus truly 
 
 > "Now the full number of those who believed were of one heart and soul, and no one said that any of the things that belonged to him was his own, but they had everything in common. And with great power the apostles were giving their testimony to the resurrection of the Lord Jesus, and great grace was upon them all. There was not a needy person among them, for as many as were owners of lands or houses sold them and brought the proceeds of what was sold and laid it at the apostles' feet, and it was distributed to each as any had need." - Acts 4:32-35 (ESV)
 
-Isn't this first church beautiful? Attractive?
+Isn't this first church beautiful? Attractive? 
 
 > "Scripture is clear: there is a real connection between our unity and the believability of our message" (48).
 
@@ -570,7 +565,7 @@ This can happen in the West.
 
 > "Holy Spirit love and unity are not confined to persecuted countries." (51)
 
-## 5. Servants
+## Servants
 
 How would you respond to Jesus washing your feet? How unbelievable? How unworthy? How uncomfortable, yet secure and honoured?
 
@@ -582,7 +577,7 @@ We've accepted the foolish reality of must people attending church as consumers 
 
 > "So if there is any encouragement in Christ, any comfort from love, any participation in the Spirit, any affection and sympathy, complete my joy by being of the same mind, having the same love, being in full accord and of one mind. Do nothing from selfish ambition or conceit, but in humility count others more significant than yourselves. Let each of you look not only to his own interests, but also to the interests of others. Have this mind among yourselves, which is yours in Christ Jesus, who, though he was in the form of God, did not count equality with God a thing to be grasped, but emptied himself, by taking the form of a servant, being born in the likeness of men. And being found in human form, he humbled himself by becoming obedient to the point of death, even death on a cross." - Philippians 2:1-8 (ESV)
 
-Our lives are already busy, what if we don't have time to serve?
+Our lives are already busy, what if we don't have time to serve? 
 
 > "In all things I have shown you that by working hard in this way we must help the weak and remember the words of the Lord Jesus, how he himself said, `‘It is more blessed to give than to receive.’`" - Acts 20:35 (ESV)
 
@@ -592,11 +587,11 @@ God promised that those who give will be most blessed. Takers are miserable, foc
 
 ### Experiencing God
 
-Paul in scripture talks about every person in a congregation receiving supernatural ability to bless others in the church, a "manifestation of the Spirit" (1 Corinthians 12:7, 14:12).
+Paul in scripture talks about every person in a congregation receiving supernatural ability to bless others in the church, a "manifestation of the Spirit" (1 Corinthians 12:7, 14:12). 
 
 > "Why is it that most of us have a clearer picture of demon possession than manifestations of the Holy Spirit? [...] We need to expect more! Wouldn’t you be thrilled about the next church gathering if you knew that the Holy Spirit was going to literally manifest through someone? Everyone?" (53)
 
-We are too easily satisfied. Is leaving pleased enough? God wants us to be awed. That doesn't mean leaning into an emotion driven craze not led by the Spirit.
+We are too easily satisfied. Is leaving pleased enough? God wants us to be awed. That doesn't mean leaning into an emotion driven craze not led by the Spirit. 
 
 But is it a surprise we end up with gatherings that are explainable, mechanical, and sometimes obligatory, when they are devoid of the Holy Spirit?
 
@@ -650,7 +645,7 @@ Lisa went to a step class at the gym but came back not getting much out of the w
 
 > "When I read about the apostle Paul, I am challenged to become like him. When I read of his longing for Christ (Phil. 1:21–26), perseverance through suffering (2 Cor. 11:16–33), and love for people (Rom. 9:1–3), it stirs me. I want to look like him. I want his peace. Like Paul, I want to come to the end of my life and know that I didn’t waste it. It’s his example, not his words, that moves me." (57)
 
-Talk is cheap. Bloggers, speakers, YouTubers, few admire them. They just talk. We expect people to be capivated by our speech, while living non-compelling lifestyles.
+Talk is cheap. Bloggers, speakers, YouTubers, few admire them. They just talk. We expect people to be capivated by our speech, while living non-compelling lifestyles. 
 
 Happy families with virgin non-swearing children are not proof God is with us and not with them.
 
@@ -681,3 +676,153 @@ We can't force people to serve, but we can stop giving them a free pass.
 Consider bringing your firstborn home from the hospital. You are utterly unprepared but you are forced to figure it out, to love your baby, to learn how to be good parents.
 
 Ministry is the same. No one is born ready, everyone is forced to step up when thrown in to a position.
+
+All of the pastors of We Are Church in San Francisco also have full time jobs. They haven't received formal ministry training, only on-the-job training from elders. They now are great pastors, making disciples, and equipping others to step up and make disciples and become pastors.
+
+> "The Church was supposed to be a breeding ground for pastors and elders. Every church should be equipping people and sending them out." (59)
+
+Leader development is only possible when the organizational structure requires others to step up.
+
+> "I had to learn how to limit the use of my gifts in order to make space for others to lead. The result has been an army of equipped leaders who could be dropped off in any city in the world and they would be capable of making a living while making disciples." (59)
+
+## Good Shepherds
+
+As pastor for 30 years, this chapter was written with the most prayer and love, writing to "full-time pastors, to bivocational pastors, and to many of you reading this, who, unbeknownst to you, will be called to shepherd others" (62).
+
+> "I also write with eternity in mind. Not all of you will hear “Well done” from the mouth of God, but I want you to." (62)
+
+The Enemey is working hard to lure away pastors from serving Christ and becoming people pleasers. Paul had many loving warnings for Timothy that he would not fall into the many pitfalls.
+
+Throughout the book, Francis focused on the topics that God spoke most strongly about, near the top of the list are leaders. God reserves the most tender and honouring speech for leaders, yet at the same time was most severe with leaders who led His sheep astray.
+
+* Miriam was struck with leprosy when she spoke against Moses (Numbers 12:1-10)
+* A couple of bears mauled 42 people when they mocked the prophet Elisha (2 Kings 2:23-24)
+* John was call "beloved" (John 21:20-24)
+* Abraham was "a friend of God" (James 2:23)
+* Leaders will be judged more harshly (James 3:1)
+* Leaders will give an account of how they shepherd (Hebrews 13:17)
+* Jesus addressed the religious leaders as children of hell (Matthew 23:15)
+
+Not every person in spiritual authority deserves to be there.
+
+With care to not be arrogant or disrespectful in writing this chapter, the model of Christ, Peter, and Paul admonishing false teaching is one that can't be ignored.
+
+Francis admits times he's been overly critical and disrespectful, and others he's been too political. He doesn't have all the answers or is a perfect model. God has been patient teaching him how to say tough things with spirit of love instead of judgement, that he needs to start with examining himself first. This a good starting place for all.
+
+> "For those in church leadership, we can’t assume we belong there. We have to ask ourselves, Am I sure I should be in this position? Am I in a good place to lead? Is my relationship with Jesus one that I want replicated?" (62)
+
+For those not leading others, don't assume you shouldn't. Your fear of failure could keep you from being used by God. No one is called to be fed without in turn leading and feeding others. If no one is following you, something is wrong. God called us to make disciples, which involves leading in some capacity.
+
+Don't use this chapter to judge your leaders, their life is hard enough leading highly opinionated individuals. This chapter is written to make us evaluate our own lives.
+
+We are all called to pastor, or shepherd.
+
+* Older women are to shepherd the younger (Titus 2:3-5)
+* Parents are to shepherd their children (Ephesians 6:4)
+* Timothy was told to teach others what he had been taught (2 Timothy 2:2)
+* We are called to make disciples (Matthew 28:19-20)
+
+> "If you can’t find a single person who looks to you as a mentor, something is wrong with you. And social media doesn’t count. I’m talking about flesh-and-blood humans who mimic your actions. This requires living a life that’s worth duplicating, which is quite a bit harder than posting pictures and quotes." (64)
+
+### The Traps of Ministry
+
+Many leaders entered ministry with a deep love for God and people, a fearless and radical mindset, ready to risk it all for the Kingdom. But they fell into one of the following traps and became distracted, deceived, or depressed.
+
+* **The Trap of Avoiding Critisim.** People say harsh things to pastors. No sermon goes uncriticized. In this trap, the leader becomes too aware of people's responses and only preach to avoid criticims rather than fearlessly proclaiming the truth.
+* **The Trap of Fund-Raising.** No one enters ministry because of a love of fundraising, yet many are regularly worried about church budget or building projects.
+* **The Trap of Comparison.** Church members listen to sermon podcasts, read books, and watch videos from gifted speakers, theologians, and church leaders. It's hard for leaders and followers to not become discouraged by the comparisons.
+* **The Trap of Meeting Expectations.** People come Sunday expecting coffee, parking, music at their volume, 30 minute sermon, all the ministries (children, preteen, middle school, high school, college/singles...). Leaders can get caught up in creating everything that people expect instead of pursuing what God commands.
+* **The Trap of Popularity.** Empty seats and people flooding to the church down the street can be depressing. It's hard not to become envious, and hard for those who have "made it" to not become proud.
+* **The Trap of Safety.** "We place our pastors in a church office surrounded by Christians for forty hours a week and then ask them to teach us about living by faith." (64)
+* **The Trap of Greed.** Everyone feels entitled, pastors are no exception. Larger church, larger paycheque. Higher book sales, higher royalties. Church growth can have mixed motives for those who like to live comfortably.
+* **The Trap of Demonic Attack.** On top of all of this, the Enemy seeks to devour all (1 Peter 5:8), pastors at the top of the list. Every temptation for a pastor to sin can harm the reputation of the Church.
+
+How can we expect Spirit-filled disciples be produced by leaders that fall into these traps?
+
+### The Times Have Changed
+
+When Francis started Cornerstone Church in 1994, people were more respectful of pastors and authority. There was no social media, few cell phones, encouragement or criticism came in person.
+
+Francis became both inflated and hurt from listening too much to compliments and harsh statements made online when social media emerged.
+
+Large crowds, like social media, subconsciously push you to preach to avoid criticism rather than teaching truth regardless of response. People are now so volatile, one wrong word in public can wreak havoc.
+
+A pastor in China said, "In America, pastors think they have to become famous to have a big impact. In China, the most influential Christian leaders had to be the most hidden" (66).
+
+> "Remember your leaders, those who spoke to you the word of God. Consider the outcome of their way of life, and imitate their faith." - Hebrews 13:7 (ESV)
+
+Leaders, examine your lives. Can you tell people in good conscience to follow you as you follow Christ?
+
+Those not yet leading, examine your leaders with grace and humility when considering whether their faith and way of life is worth imitating. God may be calling you to step into leadership, devote yourself to growing in the following areas.
+
+### The Christian Pastor
+
+But isn't every pastor a Christian?
+
+After 5 years in theological school, Francis says they were the worst years of his life. A degree proves intelligence, discipline, but not spirituality.
+
+Jesus warned of religious leaders as some of the most evil. Scripture warns us to be on guard for false teachers.
+
+> "But false prophets also arose among the people, just as there will be false teachers among you, who will secretly bring in destructive heresies, even denying the Master who bought them, bringing upon themselves swift destruction. And many will follow their sensuality, and because of them the way of truth will be blasphemed. And in their greed they will exploit you with false words. Their condemnation from long ago is not idle, and their destruction is not asleep." - 2 Peter 2:1-3 (ESV)
+
+Jesus taught that wolves will come in sheep's clothing (Matthew 7:15). A minister is the best camouflage.
+
+Some will teach false doctrine, desiring to be accepted. Some will preach truth, while living a lie. Both are condemned.
+
+2 Peter 2 lays out the terrifying judgement reserved for false teachers. Paul does too.
+
+> "**Examine yourselves, to see whether you are in the faith.** Test yourselves. Or do you not realize this about yourselves, that Jesus Christ is in you? — unless indeed you fail to meet the test!" - 2 Corinthians 13:5 (ESV)
+
+Is there real evidence that your pastors have foresaken all to follow Him?
+
+### The Praying Pastor
+
+Francis once told his staff to let him know if they were not praying at least an hour a day. That way he would know who would need to be replaced.
+
+Harsh sounding, but prayer is critical. It is not a task of ministry, it unveils our pride, revealing whether we belive we are powerless apart from God.
+
+Prayer is an expression of surrender and reliance on God's infinite wisdom and sovreignty. Even Jesus prayed instead of taking problems into his own hands.
+
+> "Simon, Simon, behold, Satan demanded to have you, that he might sift you like wheat, **but I have prayed for you** that your faith may not fail. And when you have turned again, strengthen your brothers." - Luke 22:31-32 (ESV)
+
+"Prayer is the mark of a lover. Those who deeply love Jesus can’t help but pray often" (68). 
+
+Pastors not drawn to prayer, should not become pastors. In prayer, we seek the Lord and the welfare of our people.
+
+A pastor in India remarked after researching movements that, "movements of God always start with a leader who knows God deeply, and they always end when the followers know only the leader deeply" (68). Pastors must make disciples with their primary attachement not the pastor, but to Christ.
+
+### The Humble Pastors
+
+Another pastor from India whose ministry lead 3+ million people to Jesus remarked, "Americans always want to know about strategy. This is what I will tell you: my leaders are the most humble men I know, and they know Jesus deeply" 68). His biggest mistake and regrets have been releasing leaders who were not humble.
+
+We don't admit it but we search for leaders like the world does, by outward appearances. God chooses the humble who passionately seek Him.
+
+Too many pastors started as humble prayer warriors but have been swayed by people's expectations. Others have little pretense of humility but are only encouraged to stay as leader by their charisma.
+
+> "Or do you suppose it is to no purpose that the Scripture says, `“He yearns jealously over the spirit that he has made to dwell in us”`? But he gives more grace. Therefore it says, `“**God opposes the proud** but gives grace to the humble.”` Submit yourselves therefore to God. Resist the devil, and he will flee from you. Draw near to God, and he will draw near to you. Cleanse your hands, you sinners, and purify your hearts, you double-minded. Be wretched and mourn and weep. Let your laughter be turned to mourning and your joy to gloom. Humble yourselves before the Lord, and he will exalt you." - James 4:5-10 (ESV)
+
+God opposes the proud.
+
+Before preaching ask yourself, will this sermon draw attention to Christ or to me? Don't fall into the default of self-preservation and self-exhalation.
+
+> "In speaking of humankind, Jesus said there was “no one greater” than John the Baptist (Matt. 11:11). He was great in God’s eyes because he didn’t seek to be great in people’s eyes. John said of Jesus, “He must increase, but I must decrease” (John 3:30)." (69)
+
+### The Loving Pastor
+
+Is there a pastor who doesn't genuinely love people?
+
+Turns out it is very easy to "do ministry" without loving people. Ministry "success" does not require love. 
+
+Francis admits many seasons of ministering to people without real feelings of love for them. People are seen as projects to fix, than children to deeply love.
+
+> "For we never came with words of flattery, as you know, nor with a pretext for greed — God is witness. Nor did we seek glory from people, whether from you or from others, though we could have made demands as apostles of Christ. But we were gentle among you, **like a nursing mother taking care of her own children**. So, being affectionately desirous of you, we were ready to share with you not only the gospel of God but also our own selves, because you had become very dear to us. For you remember, brothers, our labor and toil: we worked night and day, that we might not be a burden to any of you, while we proclaimed to you the gospel of God. You are witnesses, and God also, how holy and righteous and blameless was our conduct toward you believers. For you know how, **like a father with his children**, we exhorted each one of you and encouraged you and charged you to walk in a manner worthy of God, who calls you into his own kingdom and glory." - 1 Thessalonians 2:5-12 (ESV)
+
+Too many pastors long to be great writers, speakers, and leaders, and don't want to follow Paul's example of longing to be a great mom and dad to their flock. 
+
+Achieving the goal of perfect unity in the church (John 17) requires leaders who love their people sacrificially; as parents, not babysitters.
+
+### The Equipping Pastor
+
+The responsibility of a good dad is to raise kids so when they are capable, they can leave home and start their own.
+
+
