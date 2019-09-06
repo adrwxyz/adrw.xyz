@@ -19,7 +19,7 @@ Deeply thought provoking, I'm excited for what the rest of the book holds. It dr
 - Letters to the Church [Website](https://letterstothechurchbook.com/)
 - We Are Church [Website](https://www.wearechurch.com/)
 - Reading Scripture App [Website](https://www.readscripture.org/)
-- "Does God Enjoy Your Church Service?" Francis Chan Sermon [YouTube](https://www.youtube.com/watch?v=5widcv2Nx-c)
+- "Does God Enjoy Your Church Service?" Francis Chan Sermon [YouTube](https://www.youtube.com/watch?v=5widcv2Nx-c) [Crazy Love Podcast](https://overcast.fm/+Ex5ne_An0)
 - "We are Church Documentary" [YouTube](https://www.youtube.com/watch?v=2qheANo68eo)
 
 # We Are Church
