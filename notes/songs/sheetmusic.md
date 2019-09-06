@@ -1,3 +1,8 @@
+---
+title: Sheetmusic
+path: /sheetmusic
+artist: Various
+---
 # Sheetmusic
 
 ## Jazz
