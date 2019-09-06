@@ -1,12 +1,13 @@
 ---
 templateKey: note
-title: 'Prayer: Experiencing Awe and Intimacy with God'
+title: "Prayer: Experiencing Awe and Intimacy with God"
 date: 2019-09-06T01:34:22.793Z
 path: /2019-09-05-prayer-experiencing-awe-and-intimacy-with-god
 author:
   - Tim Keller
-year: '2016'
+year: "2016"
 ---
+
 Tim Keller sets out to write the book he wish he had when trying to learn to prayer, echoing the cry from author Flannery O'Connor, "Can’t Anyone Teach Me to Pray?"
 
 Updated with examples and descriptions for a modern audience while building on the legacy of teaching on prayer from historical authors on prayer, Keller explains that many pit two types of prayer against each other: communion vs. kingdom.
