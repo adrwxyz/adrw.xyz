@@ -6,12 +6,9 @@ artist: Kari Jobe
 ---
 ```
 [Intro]
-
 G   D   Em   C
 
-
 [Verse 1]
-
 G                        D
 The moon and stars they wept
                      Em
@@ -25,14 +22,10 @@ His blood poured out for us
                       C
 The weight of every curse upon Him
 
-
 [Interlude]
-
 G   D   Em   C
 
-
 [Verse 2]
-
 G                    D
 One final breath He gave
                   Em
@@ -46,9 +39,7 @@ The war on death was waged
                      C
 The power of hell forever broken
 
-
 [Pre-Chorus]
-
 G                     D
 The ground began to shake
                       Em
@@ -62,9 +53,7 @@ Our resurrected King
                     C
 Has rendered you defeated
 
-
 [Chorus]
-
    G               D
 Forever, He is glorified
 Em               C
@@ -74,9 +63,7 @@ Forever, He is risen
        Em            C
 He is alive; He is alive
 
-
 [Pre-Chorus]
-
 G                     D
 The ground began to shake
                       Em
@@ -90,9 +77,7 @@ Our resurrected King
                     C
 Has rendered you defeated
 
-
 [Chorus]
-
    G               D
 Forever, He is glorified
 Em               C
@@ -101,10 +86,8 @@ Forever, He is lifted high
 Forever, He is risen
        Em            C
 He is alive; He is alive
-
 
 [Bridge]
-
 G            D
 We sing hallelujah
              Em
@@ -114,9 +97,7 @@ We sing hallelujah
                  G
 The Lamb has overcome (x2)
 
-
 [Chorus]
-
    G               D
 Forever, He is glorified
 Em               C
