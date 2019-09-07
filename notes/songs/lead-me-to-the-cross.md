@@ -1,6 +1,6 @@
 ---
 templateKey: song
-title: Lead me to the Cross
+title: Lead Me to the Cross
 path: /lead-me-to-the-cross
 artist: Hillsong
 ---
@@ -25,17 +25,13 @@ for my ransom
 
 
 [PreChorus]
-
 Em           A
 everything I once held dear
    Bm      A      G
 I count it all as lost
 
-
 [Chorus]
-
                G
-
 lead me to the cross
            D           A
 where Your love poured out
@@ -52,15 +48,11 @@ lead me
  G      A      Bm
 lead me to the cross
 
-
 [Other]
-
 Bm  A  G  D
 Bm  A  G  D
-
 
 [Verse 2]
-
 Bm          A
 You were as I
                 G
@@ -74,9 +66,7 @@ bore my sin and death
 D          A
 now You're risen
 
-
 [Bridge]
-
         D    G  A
 to your heart
         D    G  A
