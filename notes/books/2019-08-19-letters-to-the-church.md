@@ -823,6 +823,69 @@ Achieving the goal of perfect unity in the church (John 17) requires leaders who
 
 ### The Equipping Pastor
 
-The responsibility of a good dad is to raise kids so when they are capable, they can leave home and start their own.
+The responsibility of a good dad is to raise kids so when they are capable, they can leave home and start their own. A dad's job is to train them to stand on their own.
+
+A good pastor raises up good pastors. The goal isn't full pews of people complaining that they aren't being fed. Success isn't full pews of people "who sing loud, don’t divorce, and give to missions" (71).
+
+> "And he gave the apostles, the prophets, the evangelists, the shepherds and teachers, **to equip the saints for the work of ministry**, for building up the body of Christ, until we all attain to the unity of the faith and of the knowledge of the Son of God, to mature manhood, to the measure of the stature of the fullness of Christ, so that we may no longer be children, tossed to and fro by the waves and carried about by every wind of doctrine, by human cunning, by craftiness in deceitful schemes." - Ephesians 4:11-14 (ESV)
+
+Paul is clear that church leaders are to equip the saints for work, not for consumption.
+
+> "One of the most debilitating issues facing the Church is the lack of maturing her members. Churches are filled with children who never grow up to become parents. And they’re not expected to." (71)
+
+> "Many vocational ministers are stuck doing the work of ministry because they take a paycheck from consumer Christians who fail to see the full scope of their calling." - Hugh Halter
+
+How fast would society collapse if parents didn't expect their children to start their own families? This has already happened to the church, pastors plague their members with low expectations.
+
+Stop doing all their chores. Prepare them for a lifetime of work.
+
+Many will rebel when the easy consumption is cut off, focus on the "faithful" ones who will go teach others (2 Timothy 2:2).
+
+> "While many pastors boast of how many children sit under their care, doesn’t it make more sense to boast of how many have graduated from their care? Isn’t it more a sign of failure when children are unable to leave the house? Raising thousands of consumers is not success." (71)
+
+### The Spirit-Filled Pastor
+
+What do you picture when you think of *Spirit-filled*?
+
+Consider Paul's description of a Spirit-filled person.
+
+> "And do not get drunk with wine, for that is debauchery, but be filled with the Spirit, **addressing one another in psalms and hymns and spiritual songs**, singing and making melody to the Lord with your heart, giving thanks always and for everything to God the Father in the name of our Lord Jesus Christ, submitting to one another out of reverence for Christ." - Ephesians 5:18-21
+
+Paul compared it to being drunk. Noticeable. Visible. Speech and movements changed. The Spirit changes everything. Paul says that Spirit-filled people are:
+
+* "addressing one another in psalms and hymns and spiritual songs"
+* "singing and making melody to the Lord with [their] heart"
+* "giving thanks always and for everything to God the Father in the name of our Lord Jesus Christ"
+* "submitting to one another out of reverence for Christ"
+
+Galatians 5:22-23 lists the fruit of the Holy Spirit. We're familiar with them. But shouldn't they be so exemplary, outstanding, and noticeable if the fruit is from the Spirit, and not from our own efforts?
+
+Don't we all want our pastor to be truly filled with the Spirit? "If pastors don’t exemplify these qualities to supernatural proportions, what hope do our churches have?" (73)
+
+### The Missional Pastor
+
+Jesus' Great Commission (Matthew 28:16-20) commands us to reach the ends of the earth, for His glory, their salavation, and our well-being. A mission focus gives us fulfillment.
+
+Pastors must set the pace of urgency to help the suffering and long to reach the billions who haven't heard the Gospel even once.
+
+> "Religion that is pure and undefiled before God the Father is this: to visit orphans and widows in their affliction, and to keep oneself unstained from the world." - James 1:27 (ESV)
+
+God's heart is to be a Father to the Fatherless (Psalm 68:5). Filled with the Spirit, our compassion should be for those who suffer. Without perspective of the starvation, suffering, and Spiritual darkness encompassing this world, pastors and churches can focus and complain about trivial matters.
+
+Pastors must lead their flock to learn to love helping the lost and desperate around the world.
+
+### The Suffering Pastor
+
+People need to see examples of a leader who rejoices amid suffering. Our words matter when we go through rough times. More on this in the next chapter.
+
+> "We are too quick to get discouraged and quit because we have not learned to rejoice in suffering. Show me a pastor who rejoices in suffering, and I will show you a pastor who will be in ministry a long time. When pastors who rejoice in suffering make disciples, you end up with an unstoppable church." (73)
+
+### Unlikely Leaders
+
+> "Some of you may have read this chapter and thought, My pastor doesn’t match up. This may be true, and in some cases it might be best to walk away from your current leader. That is a very serious decision and should be made only after lots of prayer, humility, and biblical reasoning." (75)
+
+Yet, the point of this chapter was that "each person who reads this would seek to rise up and become that godly leader" (75). This may feel daunting to picture, but it is what the Holy Spirit longs to do in you. In the flesh it is impossible, but in the Spirit it is possible.
+
+Shepherds can become corrupt, in the Old Testament (Ezekiel 34), with the religious leaders in Jesus' day. The solution was to replace the professionals and train up ordinary, uneducated people to change the world. People like you.
 
 
