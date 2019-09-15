@@ -5,7 +5,7 @@ date: 2019-08-19T14:11:36.758Z
 path: /2019-08-19-letters-to-the-church
 author:
   - Francis Chan
-year: "2018"
+year: '2018'
 ---
 
 Francis Chan's latest book outlines in a series of thematic Revelation-style letters to the modern church, the failings and path forward of a Western church often more concerned with attendance, worship style, and age-denominated ministries, than with raising up disciples who mirror the devotion of the first believers.
@@ -892,3 +892,25 @@ People need to see examples of a leader who rejoices amid suffering. Our words m
 Yet, the point of this chapter was that "each person who reads this would seek to rise up and become that godly leader" (75). This may feel daunting to picture, but it is what the Holy Spirit longs to do in you. In the flesh it is impossible, but in the Spirit it is possible.
 
 Shepherds can become corrupt, in the Old Testament (Ezekiel 34), with the religious leaders in Jesus' day. The solution was to replace the professionals and train up ordinary, uneducated people to change the world. People like you.
+
+> "God hates it when we underestimate the potential He created us with. He has always valued faith; people take His words literally. Ephesians 3:20 must be a verse we shape our lives around, not just a catchy quote we paint on our walls. The Church is in dire need of a fresh wave of godly leadership. I pray all existing leaders would be renewed or replaced. May God continue to raise up an army of good shepherds who love Him above all else and live to make the Church become everything God designed it to be." (75)
+
+> "Now to him who is able to do far more abundantly than all that we ask or think, according to the power at work within us," - Ephesians 3:20 (ESV)
+
+## Crucified
+
+> "I have been crucified with Christ. It is no longer I who live, but Christ who lives in me. And the life I now live in the flesh I live by faith in the Son of God, who loved me and gave himself for me." - Galatians 2:20 (ESV)
+
+Consider an Ironman Triathalon. If asked to watch one with me, many would consider it. If asked to compete in one with me, the number would drop off considerably.
+
+Christ's life is not simply an example, it is a call to follow, a call to be crucified with Christ.
+
+How different is the reality of a Christian's need to suffer different than what modern preachers and writers convey as the essense of Jesus and being a Christian? Millions believe and have been taught that following Jesus will cost them nothing; Jesus taught the exact opposite!
+
+Interpret Jesus' words for yourself, they are far more important than any of Francis'.
+
+> "Now great crowds accompanied him, and he turned and said to them, “If anyone comes to me and does not hate his own father and mother and wife and children and brothers and sisters, yes, and even his own life, he cannot be my disciple. Whoever does not bear his own cross and come after me cannot be my disciple. For which of you, desiring to build a tower, does not first sit down and count the cost, whether he has enough to complete it? Otherwise, when he has laid a foundation and is not able to finish, all who see it begin to mock him, saying, `‘This man began to build and was not able to finish.’` Or what king, going out to encounter another king in war, will not sit down first and deliberate whether he is able with ten thousand to meet him who comes against him with twenty thousand? And if not, while the other is yet a great way off, he sends a delegation and asks for terms of peace. So therefore, any one of you who does not renounce all that he has cannot be my disciple." - Luke 14:25-33 (ESV)
+
+Forget about what you've been told about just praying a prayer. After reading that, do you still want to follow Jesus?
+
+Jesus had so few disciples because the call to follow was a call to die. We focus on the grace and mercy of the gospel far more than the other side, the costliness of the gospel that Jesus explained bluntly, not in fine print.
