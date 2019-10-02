@@ -22,7 +22,7 @@ His [lecture to parents in 2011](https://m.youtube.com/watch?v=p_akH6Cin6E) ring
   * Significance. Feeling we matter and are needed by our special person. Toddlers aim to please and win approval and earn the happy face of who we are attached to. Peer oriented kids call “nice” kids who accept and include them, even if the same kid is mean in other situations.
   * Feeling. Warm, loving, affectionate feelings. Emotion is always involved with attachement, but preschoolers especially feel deeply and vulnerable. A child that feels emotional intimacy, love, with a parent can last much longer periods of physical separation while being content remembering the image of the loving parent. When love is perceived to be scorned or rejected, kids revert to less risky more direct forms of attachement (ie. senses). “Emotional intimacy is much less common among peer-oriented kids” (38).
   * Being Known. To feel close to someone is to be known by them. Closeness often is defined by the secrets shared and kept. Parent oriented kids often don’t keep secrets from their parents because of the resulting lack of closeness. Peer oriented often have a best friend that they keep no secrets. Being vulnerable opens one to rejection, a risk not worth taking according to many people. Without being vulnerable, many miss out on attachement prompted by being known. Peer oriented kids often don’t understand why parent oriented kids tell their parents so much. 
-
+* Peer oriented kids learn to rely on more direct forms of attachment like senses and sameness which stunts their ability to attach as adults using all 6 methods. 
 
 
 
