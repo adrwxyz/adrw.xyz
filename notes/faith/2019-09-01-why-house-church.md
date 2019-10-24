@@ -4,9 +4,10 @@ title: Why House Church
 date: 2019-09-15T20:16:47.025Z
 path: /2019-09-01-why-house-church
 ---
-The Holy Spirit used my time reading Francis Chan's book "Letters to the Church" to open my eyes to house churches and set my on fire for building a Spirit led devoted community of believers in the West. 
 
-The house church model is what is set out in Acts and has continued to multiply in foreign countries where believers face persecution. 
+The Holy Spirit used my time reading Francis Chan's book "Letters to the Church" to open my eyes to house churches and set my on fire for building a Spirit led devoted community of believers in the West.
+
+The house church model is what is set out in Acts and has continued to multiply in foreign countries where believers face persecution.
 
 The believers in China have grown to number over 100 million over the past few decades thanks to their underground house church movement.
 

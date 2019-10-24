@@ -5,7 +5,7 @@ date: 2019-08-19T14:11:36.758Z
 path: /2019-08-19-letters-to-the-church
 author:
   - Francis Chan
-year: '2018'
+year: "2018"
 ---
 
 Francis Chan's latest book outlines in a series of thematic Revelation-style letters to the modern church, the failings and path forward of a Western church often more concerned with attendance, worship style, and age-denominated ministries, than with raising up disciples who mirror the devotion of the first believers.
