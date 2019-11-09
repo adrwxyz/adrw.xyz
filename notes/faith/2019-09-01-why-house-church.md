@@ -24,6 +24,7 @@ Read more about my learnings from the book in [Notes on Letters to the Church](/
 - Reading Scripture App [Website](https://www.readscripture.org/)
 - "Does God Enjoy Your Church Service?" Francis Chan Sermon [YouTube](https://www.youtube.com/watch?v=5widcv2Nx-c) [Crazy Love Podcast](https://overcast.fm/+Ex5ne_An0)
 - "We are Church Documentary" [YouTube](https://www.youtube.com/watch?v=2qheANo68eo)
+- Missional Communities [Christianity Today](https://www.christianitytoday.com/pastors/2019/november-web-exclusives/church-model-post-christian-missional-communities.html)
 
 # We Are Church
 
