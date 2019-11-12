@@ -12,3 +12,32 @@ This ended up being quite the hassle.
 
 So, I've documented the final fix below.
 
+# static/admin/config.yml
+
+Update the configuration of Netlify CMS in the repo.
+
+### Before
+
+```yml
+backend:
+  name: git-gateway
+  branch: master
+```
+
+### After
+
+```yml
+backend:
+  name: github
+  repo: adrw/cook
+  site_domain: cook.alexanders.xyz
+  branch: master
+```
+
+# Netlify
+
+* Turn off Netlify Identity (if used).
+* In `Deploys`, stop auto-publishing to prevent the site instance from contributing to your monthly build minutes.
+* In `Settings/Build & Deploy`, in `Deploy contexts`, turn off deploy previews.
+* In `Settings/Access Control`, add Github as an OAuth authentication provider. You'll need to set up a new OAuth app in Github settings to get the secret values.
+* In `Settings/Domain management`, add the value you used for `site_domain` in `static/admin/config.yml` as a custom domain. This will allow Netlify's redirect after auth to correctly redirect to the correct domain.
