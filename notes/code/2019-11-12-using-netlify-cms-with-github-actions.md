@@ -43,3 +43,11 @@ backend:
 * In `Settings/Build & Deploy`, in `Deploy contexts`, turn off deploy previews.
 * In `Settings/Access Control`, add Github as an OAuth authentication provider. You'll need to set up a new OAuth app in Github settings to get the secret values.
 * In `Settings/Domain management`, add the value you used for `site_domain` in `static/admin/config.yml` as a custom domain. This will allow Netlify's redirect after auth to correctly redirect to the correct domain.
+
+
+# Resources
+
+* [Netlify docs](https://www.netlifycms.org/docs/authentication-backends/#external-oauth-clients)
+* [Stack Overflow](https://stackoverflow.com/questions/52410225/gatsby-cms-failed-to-load-settings-from-netlify-identity)
+* [cnly.github.io](https://cnly.github.io/2018/04/14/just-3-steps-adding-netlify-cms-to-existing-github-pages-site-within-10-minutes.html)
+* [tylergaw.com](https://tylergaw.com/articles/netlify-cms-custom-oath-provider/)
