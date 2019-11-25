@@ -28,9 +28,11 @@ path: /2019-buying-a-house
 - Reduced willingness to travel and leave house vacant for long periods of time
 - Reduced cash flow / increased % spent on housing leads to higher income requirement and tighter margin of error if either person loses employment or wants to take leave for a period of time
 - 30+ year bull Canadian RE housing market, willing to bet it will continue another 40 to cover our lifetime (I’m not sure...)
-- Near peak for short term and long term debt cycle (Ray Dalio), thus deleveraging of some sort is coming, likely leading to reduction or pause in growth in house prices as most overleveraged sell houses and others decide not to buy or upgrade because of overextended debt levels.
+- Near peak for short term and long term debt cycle (Ray Dalio), thus deleveraging of some sort is coming, likely leading to reduction or pause in growth in house prices as most over leveraged sell houses and others decide not to buy or upgrade because of overextended debt levels.
 
 # Calculators
 
+- Rent vs Buy [Autorite des Marches Financiers](https://lautorite.qc.ca/en/general-public/calculators-and-tools/calculators/buy-or-rent-a-residence/)
+- Mortgage rates and monthly costs [Realtor.ca](https://www.realtor.ca/calculator.aspx)
 - Rent vs Buy [NY Times](https://www.nytimes.com/interactive/2014/upshot/buy-rent-calculator.html)
 - [Mortgage Calculator](https://www.mortgagecalculator.org/)
