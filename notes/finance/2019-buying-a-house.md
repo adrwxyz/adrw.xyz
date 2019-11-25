@@ -38,3 +38,4 @@ path: /2019-buying-a-house
 - Mortgage Amortization Schedule [CalculateStuff](https://www.calculatestuff.com/financial/mortgage-calculator)
 - Accelerated Mortgage Payoff [TD](https://tools.td.com/mortgage-payment-calculator/)
 - Mortgage Amortization Schedule [MortgageCalculator](https://www.mortgagecalculator.org/)
+- Affordability Calculator [Realtor.ca](https://www.realtor.ca/calculator.aspx#v=affordability)
