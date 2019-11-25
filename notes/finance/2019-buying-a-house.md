@@ -35,4 +35,6 @@ path: /2019-buying-a-house
 - Rent vs Buy [Autorite des Marches Financiers](https://lautorite.qc.ca/en/general-public/calculators-and-tools/calculators/buy-or-rent-a-residence/)
 - Mortgage rates and monthly costs [Realtor.ca](https://www.realtor.ca/calculator.aspx)
 - Rent vs Buy [NY Times](https://www.nytimes.com/interactive/2014/upshot/buy-rent-calculator.html)
-- [Mortgage Calculator](https://www.mortgagecalculator.org/)
+- Mortgage Amortization Schedule [CalculateStuff](https://www.calculatestuff.com/financial/mortgage-calculator)
+- Accelerated Mortgage Payoff [TD](https://tools.td.com/mortgage-payment-calculator/)
+- Mortgage Amortization Schedule [MortgageCalculator](https://www.mortgagecalculator.org/)
