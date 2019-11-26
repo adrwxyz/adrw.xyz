@@ -61,7 +61,8 @@ lyrics: |
 ---
 
 ```
-Tuning: Standard (Capo 4th Fret)
+Capo 4
+
 [Intro]
 Em   D   C    G
 Em   D   C    G
