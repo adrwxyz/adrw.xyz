@@ -12,6 +12,7 @@ artist: Various
 - [Jazz Real Book III](/assets/files/sheetmusic/The-Real-Book-of-Jazz-Volume-III.pdf)
 
 ## Worship
+- [Worship Songs](/notes/songs/worship/)
 - [Worship Chords EYA 1](/assets/files/sheetmusic/Chord-Book-SubHub-1.pdf)
 - [Worship Chords EYA 2](/assets/files/sheetmusic/KW-Sub-Hub-2018-Music.pdf)
 - [Big Life Praise & Worship Chords](/assets/files/sheetmusic/big-life-praise-worship-chords.pdf)

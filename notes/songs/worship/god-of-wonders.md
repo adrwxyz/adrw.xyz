@@ -1,12 +1,9 @@
 ---
-title:  "God of Wonders"
-date:   2010-10-10 00:00:00
+templateKey: song
+title:  God of Wonders
 path: /song/god-of-wonders
-layout: song
 artist: Third Day
 source: https://tabs.ultimate-guitar.com/tab/third_day/god_of_wonders_chords_96406
-seo_title: "God of Wonders | Songs | Andrew Paradi Alexander"
-description: "God of Wonders | Songs | Andrew Paradi Alexander"
 lyrics: |
   [Intro]
 
