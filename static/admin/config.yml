@@ -311,6 +311,7 @@ collections:
           default: "{{year}}-{{month}}-{{day}}-{{slug}}",
         }
       - { label: "Artist", name: "artist", widget: "text" }
+      - { label: "Source", name: "source", widget: "text", required: false }
       - { label: "Body", name: "body", widget: "markdown" }
       - { label: "Tags", name: "tags", widget: "list", required: false }
       - {

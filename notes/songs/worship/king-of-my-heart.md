@@ -1,12 +1,9 @@
 ---
-title:  "King of my Heart"
-date:   2010-10-10 00:00:00
+templateKey: song
+title:  King of my Heart
 path: /song/king-of-my-heart
-layout: song
 artist: John Mark McMillan
 source: https://tabs.ultimate-guitar.com/tab/john_mark_mcmillan/king_of_my_heart_chords_1748669
-seo_title: "King of my Heart | Songs | Andrew Paradi Alexander"
-description: "King of my Heart | Songs | Andrew Paradi Alexander"
 lyrics: |
   [Intro]
 
