@@ -1,6 +1,6 @@
 ---
 templateKey: song
-title:  Like an Avalanche
+title: Like an Avalanche
 path: /song/like-an-avalanche
 artist: Hillsong United (Dylan Thomas & Joel Houston)
 source: https://tabs.ultimate-guitar.com/tab/hillsong-united/like-an-avalanche-chords-1027319

@@ -1,5 +1,5 @@
 ---
-title:  "Castle On The Hill"
+title: "Castle On The Hill"
 date:   2010-10-10 00:00:00
 path: /song/castle-on-the-hill
 layout: song

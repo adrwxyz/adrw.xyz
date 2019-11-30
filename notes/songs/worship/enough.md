@@ -1,6 +1,6 @@
 ---
 templateKey: song
-title:  Enough
+title: Enough
 date:   2010-10-10 00:00:00
 path: /song/enough
 artist: Chris Tomlin

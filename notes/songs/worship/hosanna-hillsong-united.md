@@ -1,6 +1,6 @@
 ---
 templateKey: song
-title:  Hosanna (Hillsong United)
+title: Hosanna (Hillsong United)
 path: /song/hosanna-hillsong-united
 artist: Hillsong United
 source: https://tabs.ultimate-guitar.com/tab/hillsong-united/hosanna-chords-664549

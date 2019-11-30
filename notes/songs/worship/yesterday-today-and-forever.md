@@ -1,6 +1,6 @@
 ---
 templateKey: song
-title:  "Yesterday Today And Forever"
+title: "Yesterday Today And Forever"
 path: /song/yesterday-today-and-forever
 artist: Vicky Beeching
 source: https://tabs.ultimate-guitar.com/tab/vicky_beeching/yesterday_today_and_forever_chords_885818

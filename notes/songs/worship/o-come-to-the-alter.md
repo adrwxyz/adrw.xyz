@@ -1,6 +1,6 @@
 ---
 templateKey: song
-title:  O Come to the Alter
+title: O Come to the Alter
 path: /song/o-come-to-the-alter
 artist: Elevation Worship
 source: https://tabs.ultimate-guitar.com/tab/elevation-worship/o-come-to-the-altar-chords-1757938

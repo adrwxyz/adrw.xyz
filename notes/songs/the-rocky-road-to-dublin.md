@@ -1,5 +1,5 @@
 ---
-title:  "The Rocky Road to Dublin"
+title: "The Rocky Road to Dublin"
 date:   2010-10-10 00:00:00
 path: /song/the-rocky-road-to-dublin
 layout: song

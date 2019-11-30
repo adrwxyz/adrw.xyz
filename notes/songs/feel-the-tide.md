@@ -1,5 +1,5 @@
 ---
-title:  "Feel The Tide"
+title: "Feel The Tide"
 date:   2010-10-10 00:00:00
 path: /song/feel-the-tide
 layout: song

@@ -1,6 +1,6 @@
 ---
 templateKey: song
-title:  Lord I Life Your Name On High
+title: Lord I Life Your Name On High
 path: /song/lord-i-lift-your-name-on-high
 artist: Hillsong
 source: https://tabs.ultimate-guitar.com/tab/hillsongs/lord-i-lift-your-name-on-high-chords-196902

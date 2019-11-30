@@ -1,6 +1,6 @@
 ---
 templateKey: song
-title:  God of Wonders
+title: God of Wonders
 path: /song/god-of-wonders
 artist: Third Day
 source: https://tabs.ultimate-guitar.com/tab/third_day/god_of_wonders_chords_96406

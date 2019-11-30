@@ -1,5 +1,5 @@
 ---
-title:  "Raised on Black & Tans"
+title: "Raised on Black & Tans"
 date:   2010-10-10 00:00:00
 path: /song/raised-on-black-and-tans
 layout: song

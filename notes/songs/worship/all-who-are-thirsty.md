@@ -1,6 +1,6 @@
 ---
 templateKey: song
-title:  All Who Are Thirsty
+title: All Who Are Thirsty
 path: /song/all-who-are-thirsty
 artist: Vineyard Music
 source: https://tabs.ultimate-guitar.com/tab/vineyard_music/all_who_are_thirsty_chords_642368

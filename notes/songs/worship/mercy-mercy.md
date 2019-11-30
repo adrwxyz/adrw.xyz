@@ -1,6 +1,6 @@
 ---
 templateKey: song
-title:  Mercy Mercy
+title: Mercy Mercy
 path: /song/mercy-mercy
 artist: Hillsong United
 source: https://andrew.fm/assets/files/sheetmusic/Chord-Book-SubHub-1.pdf

@@ -1,5 +1,5 @@
 ---
-title:  "Redemption Song"
+title: "Redemption Song"
 date:   2010-10-10 00:00:00
 path: /song/redemption-song
 layout: song

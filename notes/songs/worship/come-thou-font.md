@@ -1,6 +1,6 @@
 ---
 templateKey: song
-title:  Come Thou Font
+title: Come Thou Font
 path: /song/come-thou-font
 artist: Hymn
 source: https://tabs.ultimate-guitar.com/tab/david-crowderband/come-thou-fount-chords-1483119

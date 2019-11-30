@@ -1,5 +1,5 @@
 ---
-title:  "Flowers In Your Hair"
+title: "Flowers In Your Hair"
 date:   2010-10-10 00:00:00
 path: /song/flowers-in-your-hair
 layout: song

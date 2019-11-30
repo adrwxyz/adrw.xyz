@@ -1,6 +1,6 @@
 ---
 templateKey: song
-title:  Oceans
+title: Oceans
 path: /song/oceans
 artist: Hillsong United
 source: https://tabs.ultimate-guitar.com/tab/hillsong-united/oceans-where-feet-may-fail-chords-1218238

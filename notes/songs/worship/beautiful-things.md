@@ -1,6 +1,6 @@
 ---
 templateKey: song
-title:  Beautiful Things
+title: Beautiful Things
 path: /song/beautiful-things
 artist: Gungor
 source: https://tabs.ultimate-guitar.com/tab/gungor/beautiful-things-chords-974919

@@ -1,6 +1,6 @@
 ---
 templateKey: song
-title:  Hungry (Falling on my Knees)
+title: Hungry (Falling on my Knees)
 path: /song/hungry-falling-on-my-knees
 artist: Kathryn Scott
 source: https://tabs.ultimate-guitar.com/tab/kathryn-scott/hungry-falling-on-my-knees-chords-159309

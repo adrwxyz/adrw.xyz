@@ -1,6 +1,6 @@
 ---
 templateKey: song
-title:  Cornerstone
+title: Cornerstone
 path: /song/cornerstone
 artist: Hillsong
 source: https://tabs.ultimate-guitar.com/tab/hillsongs/cornerstone_chords_1165926

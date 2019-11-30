@@ -1,6 +1,6 @@
 ---
 templateKey: song
-title:  Great Are You Lord
+title: Great Are You Lord
 path: /song/great-are-you-lord
 artist: All Sons & Daughters
 source: https://tabs.ultimate-guitar.com/tab/all_sons_daughters/great_are_you_lord_chords_1401417

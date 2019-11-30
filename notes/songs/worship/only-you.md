@@ -1,6 +1,6 @@
 ---
 templateKey: song
-title:  Only You
+title: Only You
 path: /song/only-you
 artist: David Crowder Band
 source: https://tabs.ultimate-guitar.com/tab/david-crowderband/only-you-chords-610412

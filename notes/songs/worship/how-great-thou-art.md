@@ -1,6 +1,6 @@
 ---
 templateKey: song
-title:  How Great Thou Art
+title: How Great Thou Art
 path: /song/how-great-thou-art
 artist: Hymn
 source: https://tabs.ultimate-guitar.com/tab/charlie-hall/how-great-thou-art-chords-1130952

@@ -1,5 +1,5 @@
 ---
-title:  "Mountain Sound"
+title: "Mountain Sound"
 date:   2010-10-10 00:00:00
 path: /song/mountain-sound
 layout: song

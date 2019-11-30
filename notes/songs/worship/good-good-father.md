@@ -1,6 +1,6 @@
 ---
 templateKey: song
-title:  Good Good Father
+title: Good Good Father
 path: /song/good-good-father
 artist: Chris Tomlin
 source: https://tabs.ultimate-guitar.com/tab/chris-tomlin/good-good-father-chords-1772968

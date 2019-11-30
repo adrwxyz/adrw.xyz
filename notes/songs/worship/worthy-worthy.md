@@ -1,6 +1,6 @@
 ---
 templateKey: song
-title:  Worthy Worthy
+title: Worthy Worthy
 path: /song/worthy-worthy
 artist: Vertical Church Band
 source: https://tabs.ultimate-guitar.com/tab/vertical_church_band/worthy_worthy_chords_1453643
