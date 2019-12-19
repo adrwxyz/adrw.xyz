@@ -13,7 +13,7 @@ Given the recent progression of Github Actions to broader release, I figured I'd
 
 This ended up being quite the hassle.
 
-So, I've documented the final fix below.
+So, I've documented the final fix below. [Example commit](https://github.com/adrw/andrew.fm/commit/a35277bb6e3cf62c9a9125248201e68d9e5b37f6).
 
 # static/admin/config.yml
 
