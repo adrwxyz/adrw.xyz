@@ -15,6 +15,28 @@ This ended up being quite the hassle.
 
 So, I've documented the final fix below. [Example commit](https://github.com/adrw/andrew.fm/commit/a35277bb6e3cf62c9a9125248201e68d9e5b37f6).
 
+# Github
+
+- On master branch, create and push a `gh-pages` branch
+  ```
+  $ gco -b gh-pages
+  $ git push --set-upstream origin gh-pages
+  ```
+- Turn on Github Pages for this branch in repo settings
+- Set it to your existing custom domain
+
+# DNS
+
+- Update domain registrar (ie. Namecheap) with the following new DNS records to point at Github Pages instead of Netlify. Note, use subdomain instead of `@` and `www` below if it is a subdomain.
+
+  ```
+  A     @     185.199.108.153       TTL(Auto)
+  A     @     185.199.109.153       TTL(Auto)
+  A     @     185.199.110.153       TTL(Auto)
+  A     @     185.199.111.153       TTL(Auto)
+  CNAME www   username.github.io.   TTL(Auto)
+  ```
+
 # static/admin/config.yml
 
 Update the configuration of Netlify CMS in the repo.
