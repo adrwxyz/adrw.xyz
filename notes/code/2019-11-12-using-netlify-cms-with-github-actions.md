@@ -4,7 +4,7 @@ title: Using Netlify CMS with Github Actions
 date: 2019-11-12T18:02:24.125Z
 path: /2019-11-12-using-netlify-cms-with-github-actions
 tags:
-  - ''
+  - ""
 ---
 
 # Using Netlify CMS with Github Actions
@@ -19,6 +19,7 @@ So, I've documented the final fix below. [Example commit](https://github.com/adr
 
 # Github
 
+- Add a file `CNAME` to your repo with your domain (ie. `andrew.fm`)
 - On master branch, create and push a `gh-pages` branch
   ```
   $ gco -b gh-pages
