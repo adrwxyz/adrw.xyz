@@ -3,6 +3,8 @@ templateKey: note
 title: Using Netlify CMS with Github Actions
 date: 2019-11-12T18:02:24.125Z
 path: /2019-11-12-using-netlify-cms-with-github-actions
+tags:
+  - ''
 ---
 
 # Using Netlify CMS with Github Actions
@@ -64,7 +66,7 @@ backend:
 - Turn off Netlify Identity (if used).
 - In `Deploys`, stop auto-publishing to prevent the site instance from contributing to your monthly build minutes.
 - In `Settings/Build & Deploy`, in `Deploy contexts`, turn off deploy previews.
-- In `Settings/Access Control`, add Github as an OAuth authentication provider. You'll need to set up a new OAuth app in Github settings to get the secret values.
+- In `Settings/Access Control`, add Github as an OAuth authentication provider. You'll need to set up a new OAuth app in Github settings to get the secret values. Use `https://api.netlify.com/auth/done` as the success url.
 - In `Settings/Domain management`, add the value you used for `site_domain` in `static/admin/config.yml` as a custom domain. This will allow Netlify's redirect after auth to correctly redirect to the correct domain.
 
 # Resources
