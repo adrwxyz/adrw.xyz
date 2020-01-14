@@ -13,7 +13,7 @@
     "react-dom": "16.12.0"
   },
   "devDependencies": {
-    "@misk/prettier": "0.1.23",
+    "@misk/prettier": "0.1.24",
     "gatsby-plugin-mdx": "1.0.67"
   },
   "prettier": "@misk/prettier"
