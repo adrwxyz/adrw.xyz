@@ -14,4 +14,5 @@ Let's read scripture together!
 
 # The Gospel of Mark
 
+* [Videos](https://www.rightnowmedia.org/Content/Series/289491?episode=Trailer)
 * [Facilitator's Guide](https://s3.amazonaws.com/static.rightnow/Resources/Media/PDF/The_Gospel_of_Mark_5236.PDF)
