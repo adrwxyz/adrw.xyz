@@ -38,6 +38,8 @@ path: /2019-12-30-nextcloud
 * Set higher memory limits for php `snap set nextcloud php.memory-limit=512M`
 * Get HTTPS certificates from Let's Encrypt `nextcloud.enable-https lets-encrypt`
 * Go to your domain and create an Admin user, leave checked the box to auto install core apps (Contacts, Calendar, Mail, Talk, OnlyOffice)
+  * Note: until all of these core apps are updated for Nextcloud 18, they won't be installed
+  * You'll need to manually go and install Contacts, Calendar, ONLYOFFICE from the apps menu, clicking the red button that you are sure you want to install an untested app
 
 
 
