@@ -22,6 +22,7 @@ path: /2019-12-30-nextcloud
 
 * Install using Ubuntu Snap `snap install nextcloud --edge`. We're install edge to get the latest Nextcloud version (18) since Snap stable is still on 16.X.
 * Set higher memory limits for php `snap set nextcloud php.memory-limit=512M`
+* Get HTTPS certificates from Let's Encrypt `nextcloud.enable-https lets-encrypt`
 
 
 
