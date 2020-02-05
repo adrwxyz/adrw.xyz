@@ -10,6 +10,11 @@ path: /2019-12-30-nextcloud
 
 - Freshly provisioned Kimsufi dedicated server with Ubuntu 18.04 installed
 
+## DNS
+
+- Add an A record to your domain provider DNS records pointing to the IP address of the provisioned server. Using a subdomain like `cloud.` is a good pattern. 
+  - Example: `A 192.222.162.212 cloud.andrew.fm`
+
 ## SSH
 
 - Kimsufi will send email with ssh password for `root@IP`
@@ -18,11 +23,21 @@ path: /2019-12-30-nextcloud
 * Once on the server, follow these steps to add the ssh keys from your computer to the `~/.ssh/authorized_keys` file on the server: [guide](https://www.cyberciti.biz/faq/how-to-set-up-ssh-keys-on-linux-unix/)
 * Once you've confirmed login works with keys and not password, disable `PasswordAuthentication` in server SSH config (likely in `/etc/ssh/sshd_config`).
 
+## Firewall
+
+* TODO
+
+## Filesystem Encrypted
+
+* TODO
+* Look into full disk encryption or encrypting the snap directory
+
 ## Nextcloud
 
 * Install using Ubuntu Snap `snap install nextcloud --edge`. We're install edge to get the latest Nextcloud version (18) since Snap stable is still on 16.X.
 * Set higher memory limits for php `snap set nextcloud php.memory-limit=512M`
 * Get HTTPS certificates from Let's Encrypt `nextcloud.enable-https lets-encrypt`
+* Go to your domain and create an Admin user, leave checked the box to auto install core apps (Contacts, Calendar, Mail, Talk, OnlyOffice)
 
 
 
