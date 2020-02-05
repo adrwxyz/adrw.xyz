@@ -27,7 +27,9 @@ path: /2019-12-30-nextcloud
 
 * TODO
 
-## Filesystem Encrypted
+## Encrypt Nextcloud Folders
+
+* Use [eCryptfs](https://help.ubuntu.com/lts/serverguide/ecryptfs.html) to encrypt the Nextcloud Snap directories to protect user data 
 
 * TODO
 * Look into full disk encryption or encrypting the snap directory
