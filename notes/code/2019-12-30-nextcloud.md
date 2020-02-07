@@ -45,10 +45,18 @@ path: /2019-12-30-nextcloud
 
 
 
-
 # AWS Install Steps
 
 * Install on AWS: <https://medium.com/@n.moretto/nextcloud-on-aws-ad244739c586>
 * Create second EC2 instance for OnlyOffice
 * SSH in and use snap to install `onlyoffice-ds`
 * Use EFF certbot instructions to get SSL certificate for `onlyoffice-ds` server <https://certbot.eff.org/lets-encrypt/ubuntubionic-nginx>
+
+# Minio Key Generation
+
+* Use Python REPL and [secrets library](https://docs.python.org/3/library/secrets.html)
+
+```
+import secrets
+secrets.token_urlsafe(30)
+```
