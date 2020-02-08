@@ -33,6 +33,7 @@ path: /2019-buying-a-house
 # Indexes
 
 * House Price Index [Teranet & National Bank of Canada](https://housepriceindex.ca/)
+* General per-city living affordability [Numbeo](https://www.numbeo.com/property-investment/country_result.jsp?country=Canada)
 
 # Calculators
 
