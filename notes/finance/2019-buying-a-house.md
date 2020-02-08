@@ -30,6 +30,10 @@ path: /2019-buying-a-house
 - 30+ year bull Canadian RE housing market, willing to bet it will continue another 40 to cover our lifetime (I’m not sure...)
 - Near peak for short term and long term debt cycle (Ray Dalio), thus deleveraging of some sort is coming, likely leading to reduction or pause in growth in house prices as most over leveraged sell houses and others decide not to buy or upgrade because of overextended debt levels.
 
+# Indexes
+
+* House Price Index [Teranet & National Bank of Canada](https://housepriceindex.ca/)
+
 # Calculators
 
 - Rent vs Buy [Autorite des Marches Financiers](https://lautorite.qc.ca/en/general-public/calculators-and-tools/calculators/buy-or-rent-a-residence/)
