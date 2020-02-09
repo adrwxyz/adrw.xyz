@@ -43,7 +43,11 @@ path: /2019-12-30-nextcloud
   * Note: until all of these core apps are updated for Nextcloud 18, they won't be installed
   * You'll need to manually go and install Contacts, Calendar, ONLYOFFICE from the apps menu, clicking the red button that you are sure you want to install an untested app
 
+# Cloudron
 
+## PTR Record
+
+* Needs to be configured with Kimsufi since it is a reverse lookup
 
 # AWS Install Steps
 
