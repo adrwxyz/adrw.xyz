@@ -57,6 +57,9 @@ path: /2019-12-30-nextcloud
 ## Nextcloud Email
 * Though Cloudron will recommend using encrypted ports for IMAP and SMTP, the [forum](https://forum.cloudron.io/topic/1319/nextcloud-email-client-cannot-be-setup) recommends using unencrypted port 25 for SMTP since the encrypted port 587 doesn't currently work and communication is internal to VM so it isn't a security concern.
 
+## Nextcloud Contacts & Calendar
+* Log in to Contacts (CardDAV) and Calendar (CalDAV) in respective clients with the URL `https://nextcloud.domain/remote.php/dav/`. In testing, iOS with this URL works automatically without any further custom settings.
+
 # AWS Install Steps
 
 * Install on AWS: <https://medium.com/@n.moretto/nextcloud-on-aws-ad244739c586>
