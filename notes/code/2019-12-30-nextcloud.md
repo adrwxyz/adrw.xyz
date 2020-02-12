@@ -54,6 +54,9 @@ path: /2019-12-30-nextcloud
 * Turn on Namecheap API in your account / settings / tools. You may need to live message support to get them to enable it.
 * Cloudron can configure DNS records for you using the API for ease of use.
 
+## Nextcloud Email
+* Though Cloudron will recommend using encrypted ports for IMAP and SMTP, the [forum](https://forum.cloudron.io/topic/1319/nextcloud-email-client-cannot-be-setup) recommends using unencrypted port 25 since the encrypted ports don't currently work and communication is internal to VM so it isn't a security concern.
+
 # AWS Install Steps
 
 * Install on AWS: <https://medium.com/@n.moretto/nextcloud-on-aws-ad244739c586>
