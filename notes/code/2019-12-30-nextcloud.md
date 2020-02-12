@@ -34,15 +34,6 @@ path: /2019-12-30-nextcloud
 * TODO
 * Look into full disk encryption or encrypting the snap directory
 
-## Nextcloud
-
-* Install using Ubuntu Snap `snap install nextcloud --edge`. We're install edge to get the latest Nextcloud version (18) since Snap stable is still on 16.X.
-* Set higher memory limits for php `snap set nextcloud php.memory-limit=512M`
-* Get HTTPS certificates from Let's Encrypt `nextcloud.enable-https lets-encrypt`
-* Go to your domain and create an Admin user, leave checked the box to auto install core apps (Contacts, Calendar, Mail, Talk, OnlyOffice)
-  * Note: until all of these core apps are updated for Nextcloud 18, they won't be installed
-  * You'll need to manually go and install Contacts, Calendar, ONLYOFFICE from the apps menu, clicking the red button that you are sure you want to install an untested app
-
 # Cloudron
 
 ## PTR Record
@@ -59,6 +50,15 @@ path: /2019-12-30-nextcloud
 
 ## Nextcloud Contacts & Calendar
 * Log in to Contacts (CardDAV) and Calendar (CalDAV) in respective clients with the URL `https://nextcloud.domain/remote.php/dav/`. In testing, iOS with this URL works automatically without any further custom settings.
+
+# Nextcloud Install with Snap
+
+* Install using Ubuntu Snap `snap install nextcloud --edge`. We're install edge to get the latest Nextcloud version (18) since Snap stable is still on 16.X.
+* Set higher memory limits for php `snap set nextcloud php.memory-limit=512M`
+* Get HTTPS certificates from Let's Encrypt `nextcloud.enable-https lets-encrypt`
+* Go to your domain and create an Admin user, leave checked the box to auto install core apps (Contacts, Calendar, Mail, Talk, OnlyOffice)
+  * Note: until all of these core apps are updated for Nextcloud 18, they won't be installed
+  * You'll need to manually go and install Contacts, Calendar, ONLYOFFICE from the apps menu, clicking the red button that you are sure you want to install an untested app
 
 # AWS Install Steps
 
