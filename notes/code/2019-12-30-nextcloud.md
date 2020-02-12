@@ -55,7 +55,7 @@ path: /2019-12-30-nextcloud
 * Cloudron can configure DNS records for you using the API for ease of use.
 
 ## Nextcloud Email
-* Though Cloudron will recommend using encrypted ports for IMAP and SMTP, the [forum](https://forum.cloudron.io/topic/1319/nextcloud-email-client-cannot-be-setup) recommends using unencrypted port 25 since the encrypted ports don't currently work and communication is internal to VM so it isn't a security concern.
+* Though Cloudron will recommend using encrypted ports for IMAP and SMTP, the [forum](https://forum.cloudron.io/topic/1319/nextcloud-email-client-cannot-be-setup) recommends using unencrypted port 25 for SMTP since the encrypted port 587 doesn't currently work and communication is internal to VM so it isn't a security concern.
 
 # AWS Install Steps
 
