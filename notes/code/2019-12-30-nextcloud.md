@@ -49,6 +49,11 @@ path: /2019-12-30-nextcloud
 
 * Needs to be configured with Kimsufi since it is a reverse lookup. Go to IP from main dashboard, then settings for the primary IP, then add `my.domain.com` as the reverse.
 
+## Namecheap API
+
+* Turn on Namecheap API in your account / settings / tools. You may need to live message support to get them to enable it.
+* Cloudron can configure DNS records for you using the API for ease of use.
+
 # AWS Install Steps
 
 * Install on AWS: <https://medium.com/@n.moretto/nextcloud-on-aws-ad244739c586>
