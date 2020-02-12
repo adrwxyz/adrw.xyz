@@ -47,7 +47,7 @@ path: /2019-12-30-nextcloud
 
 ## PTR Record
 
-* Needs to be configured with Kimsufi since it is a reverse lookup
+* Needs to be configured with Kimsufi since it is a reverse lookup. Go to IP from main dashboard, then settings for the primary IP, then add `my.domain.com` as the reverse.
 
 # AWS Install Steps
 
