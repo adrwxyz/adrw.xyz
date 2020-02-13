@@ -8,13 +8,13 @@
   },
   "dependencies": {
     "@westegg/gatsby-theme-digital-garden": "0.0.48",
-    "gatsby": "2.19.5",
+    "gatsby": "2.19.17",
     "react": "16.12.0",
     "react-dom": "16.12.0"
   },
   "devDependencies": {
     "@misk/prettier": "0.1.25",
-    "gatsby-plugin-mdx": "1.0.67"
+    "gatsby-plugin-mdx": "1.0.72"
   },
   "prettier": "@misk/prettier"
 }
