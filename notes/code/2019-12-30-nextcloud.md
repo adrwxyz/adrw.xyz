@@ -52,7 +52,7 @@ path: /2019-12-30-nextcloud
 
 In testing of Nextcloud (Mail, Contacts, Calendar), SOGo (Mail, Contacts, Calendar), and Rainloop (Mail), SOGo seems to have the best balance of full features (Mail, Contacts, Calendar), robust DAV connectivity integration, and UI (Material Design). 
 
-SOGo install and configuration is easy with Cloudron. Install the app and it comes automatically configured. Cloudron docs and SOGo app have URLs to assist in setup of mobile and desktop CardDAV and CalDAV clients.
+SOGo install and configuration is easy with Cloudron. Install the app and it comes automatically configured. [Cloudron docs](https://cloudron.io/documentation/apps/sogo/) and SOGo app have URLs to assist in setup of mobile and desktop CardDAV and CalDAV clients.
 
 ### Nextcloud
 
