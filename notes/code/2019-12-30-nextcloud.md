@@ -54,9 +54,15 @@ In testing of Nextcloud (Mail, Contacts, Calendar), SOGo (Mail, Contacts, Calend
 
 SOGo install and configuration is easy with Cloudron. Install the app and it comes automatically configured. [Cloudron docs](https://cloudron.io/documentation/apps/sogo/) and SOGo app have URLs to assist in setup of mobile and desktop CardDAV and CalDAV clients.
 
+### DAV DNS Configuration
+
+Adding additional TXT and SRV records to DNS can make configuring DAV clients (Contacts, Calendar, WebDAV file browsing) easier.
+
+* [Cloudron Forum](https://forum.cloudron.io/topic/1296/add-dns-dav-registring/4)
+
 ### Nextcloud
 
-As an alternative, Nextcloud can be used by installing their Mail, Contacts, and Calendar apps. They are much less full featured and aspects (clicking on certain icons/functionality, importing contacts) seemed buggy even in initial testing.
+As an alternative to SOGo, Nextcloud can be used by installing their Mail, Contacts, and Calendar apps. They are much less full featured and aspects (clicking on certain icons/functionality, importing contacts) seemed buggy even in initial testing.
 
 * Log in to Contacts (CardDAV) and Calendar (CalDAV) in respective clients with the URL `https://nextcloud.domain/remote.php/dav/`. In testing, iOS with this URL works automatically without any further custom settings.
 
