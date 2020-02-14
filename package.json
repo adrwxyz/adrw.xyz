@@ -14,7 +14,7 @@
   },
   "devDependencies": {
     "@misk/prettier": "0.1.25",
-    "gatsby-plugin-mdx": "1.0.72"
+    "gatsby-plugin-mdx": "1.0.73"
   },
   "prettier": "@misk/prettier"
 }
