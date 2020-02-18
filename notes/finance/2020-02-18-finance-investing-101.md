@@ -24,7 +24,8 @@ Below are resources that educated and formed my knowledge and understanding of e
   * Concise (30 mins) overview of a very accurate mental model of how the economy works. Extremely good place to start to start to understand the big picture of what an economy is.
 * [10 Secrets to Achieve Financial Success](https://youtu.be/4a51wQAOGR4) (Anton Kriel, Institute of Trading & former Goldmand Sacs trader)
   * Key insight: not seeing money as what you can buy with it but just a number and becoming emotionally unattached in order to make investing decisions not motivated by greed or fear
-
+* [Rent, Don't Buy!](https://youtu.be/Oj2WNHNQSbM) (Alex Avery, author The Wealthy Renter)
+  * Though I haven't read the book, this interview on TVO's The Agenda provided an overview of the author's views and his counterpoints to the common notion that buying a house is always a good financial decision.
 
 ## Other
 * High school/uni investments classes (good overview of interest math and portfolio theory)
