@@ -27,6 +27,7 @@ Below are resources that educated and formed my knowledge and understanding of e
 * [How the Economic Machine Works](https://youtu.be/PHe0bXAIuk0) (Ray Dalio, Founder of Bridgewater Capital)
   * Concise (30 mins) overview of a very accurate mental model of how the economy works. Extremely good place to start to start to understand the big picture of what an economy is.
 * [10 Secrets to Achieve Financial Success](https://youtu.be/4a51wQAOGR4) (Anton Kriel, Institute of Trading & former Goldmand Sacs trader)
+  * Warning! Take this video with a grain of salt, Anton runs Institute of Trading and makes money from selling stock market education and training. I agree with many of his points in this video though am well aware that the filming (exotic locations, club music...etc) and general narrative is also targeted to encourage purchase of his training.
   * Key insight: not seeing money as what you can buy with it but just a number and becoming emotionally unattached in order to make investing decisions not motivated by greed or fear
 * [Rent, Don't Buy!](https://youtu.be/Oj2WNHNQSbM) (Alex Avery, author The Wealthy Renter)
   * Though I haven't read the book, this interview on TVO's The Agenda provided an overview of the author's views and his counterpoints to the common notion that buying a house is always a good financial decision.
