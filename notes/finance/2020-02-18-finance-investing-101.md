@@ -21,6 +21,9 @@ Below are resources that educated and formed my knowledge and understanding of e
   * [Read here](https://cloud.alexanders.xyz/s/26MA6P2amrSJAAw)
   * Haven't read the full book (fairly academic) but the introduction and first few chapters document succinctly how the commonly spouted assumption that markets (specifically the stock market) are efficient (priced correctly) is verifiably wrong, and how markets are influenced by investor emotions and many other factors. 
   * This realization and thus removing the commong "Efficient Market Hypothesis" assumption, ends up changing and inverting the assumed risk of many investing strategies (some low risk strategies are actually high risk, some high risk are not as high as we think), and explaining why smaller companies with higher information assymetry can be great opportunities given the new allowance that they are not priced efficiently.
+* [Mr. Money Moustache](https://www.mrmoneymustache.com/category/mmm-classics/)
+  * This classic blog blew my mind early in university when I realized that retirement didn't have to wait until I was 65+. The author saved aggresively in his 20s and could effectively retire in his early 30s thanks to his very low ($30k) annual expenses (note: he has a paid off house so the $30k doesn't include rent). 
+  * Many great posts that cut against the materialist societal norms that lock most people in lifelong drudgery.
 
 ## Videos
 
