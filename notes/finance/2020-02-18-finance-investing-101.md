@@ -30,6 +30,10 @@ Below are resources that educated and formed my knowledge and understanding of e
   * Key insight: not seeing money as what you can buy with it but just a number and becoming emotionally unattached in order to make investing decisions not motivated by greed or fear
 * [Rent, Don't Buy!](https://youtu.be/Oj2WNHNQSbM) (Alex Avery, author The Wealthy Renter)
   * Though I haven't read the book, this interview on TVO's The Agenda provided an overview of the author's views and his counterpoints to the common notion that buying a house is always a good financial decision.
+* Matt McKeever YouTube
+  * This channel includes many informative videos explaining the strategy of becoming a landlord, specifically in Ontario, as well as why owning a home for personal use doesn't financially make sense in many cases.
+  * [Multi Family Real Estate Investing - Buying Apartment Buildings in Waterloo](https://youtu.be/QEzkxGwjip0), this is an interview with a Waterloo landlord who explains one of his recent property purchases, expected revenue, costs, and buildings he targets for owning to rent
+  * [Why Buying a House is a BAD IDEA! Don't buy a house to live in. Lifestyle Inflation.](https://youtu.be/-em-ial9xoc), Matt explains his analysis of personal home ownership and why he doesn't think it makes sense
 
 ## Other
 * High school/uni investments classes (good overview of interest math and portfolio theory)
