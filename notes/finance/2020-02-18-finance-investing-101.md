@@ -40,6 +40,10 @@ Below are resources that educated and formed my knowledge and understanding of e
   * [Why Buying a House is a BAD IDEA! Don't buy a house to live in. Lifestyle Inflation.](https://youtu.be/-em-ial9xoc), Matt explains his analysis of personal home ownership and why he doesn't think it makes sense
 
 ## Other
+* [The 10 Best Days](https://becomeabetterinvestor.net/the-10-best-days/) (A. Stotz Investment Research)
+  * Excellent overview of the literature and studies documenting the benefits of staying invested in the market and tragic effects to your returns of trading in and out of positions
+  > "We looked at Seyhun’s 2003 paper. He calculated US returns over a long (1926-1993) and a medium-term (1963-1993) period of time. He found: missing the 12 best months reduced terminal wealth by 86%; missing the 10 best days reduced terminal wealth by 38%; and missing the 10 worst days increased return by 92%."
+
 * High school/uni investments classes (good overview of interest math and portfolio theory)
 
 
