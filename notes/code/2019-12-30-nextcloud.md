@@ -56,6 +56,10 @@ SOGo install and configuration is easy with Cloudron. Install the app and it com
 
 ### Migration from Google Calendar/Contacts
 
+First, do not use the default "Personal" contacts address book or calendar as your SOGO import target. These can not be deleted so if you mess up the import, you'll need to reinstall the instance in order to clear the address book / calendar. 
+
+Start with creating additional address book / calendars that you can import into without risk of not being able to wipe it.
+
 To migrate from Contacts, download the export VCF file and upload to SOGO.
 
 To migrate from calendar, download the ICS files for all calendars in your Google account. Now open in Sublime Text, VS Code or your text editor of choice. Search for your Gmail email address and replace with your new SOGO one.
