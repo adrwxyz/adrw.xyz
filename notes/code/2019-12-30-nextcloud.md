@@ -54,6 +54,24 @@ In testing of Nextcloud (Mail, Contacts, Calendar), SOGo (Mail, Contacts, Calend
 
 SOGo install and configuration is easy with Cloudron. Install the app and it comes automatically configured. [Cloudron docs](https://cloudron.io/documentation/apps/sogo/) and SOGo app have URLs to assist in setup of mobile and desktop CardDAV and CalDAV clients.
 
+### Migration from Google Calendar/Contacts
+
+To migrate from Contacts, download the export VCF file and upload to SOGO.
+
+To migrate from calendar, download the ICS files for all calendars in your Google account. Now open in Sublime Text, VS Code or your text editor of choice. Search for your Gmail email address and replace with your new SOGO one.
+
+Note that you should check a couple variations of your Gmail address because ICS files do manual linewraps. Example below.
+
+```
+// Original
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=johnd
+ oe@gmail.com;X-NUM-GUESTS=0:mailto:johndoegmail.com
+
+// Replaced
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=john@d
+ oe.xyz;X-NUM-GUESTS=0:mailto:john@doe.xyz
+```
+
 ### DAV DNS Configuration
 
 Adding additional TXT and SRV records to DNS can make configuring DAV clients (Contacts, Calendar, WebDAV file browsing) easier.
