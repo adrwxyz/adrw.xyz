@@ -1,7 +1,7 @@
 ---
-title: Buying a House in Canada in 2019
+title: Buying a House in Canada
 date: 2019-01-15T00:00:00.000Z
-path: /2019-buying-a-house
+path: /buying-a-house
 ---
 # Pros
 
@@ -41,6 +41,7 @@ path: /2019-buying-a-house
 * Renting vs. Buying a Home: The 5% Rule [YouTube](https://youtu.be/Uwl3-jBNEd4)
   * Take house price * 5% (total unrecoverable annual cost: 1% property tax + 1% maintenance + 3% cost of interest) / 12 to find the monthly break even of home ownership compared to rent at equivalent location.
   * Video notes that if individual will be investing rent / own difference in a taxable investment account (ie. RRSP and TFSA room are maxed) then the rule may be closer to 4% because of the reduced difference between investing in stocks and home ownership from the taxation of investment gains.
+* Mortgage Comparison and Amortization Calculator [SuperBrokers](https://www.superbrokers.ca/tools/mortgage-calculator/), very useful at comparing different mortgage plans such as lump sum payments to shrink the mortgage length.
 * Rent vs Buy [NY Times](https://www.nytimes.com/interactive/2014/upshot/buy-rent-calculator.html)
 * Mortgage Amortization Schedule [CalculateStuff](https://www.calculatestuff.com/financial/mortgage-calculator)
 * Accelerated Mortgage Payoff [TD](https://tools.td.com/mortgage-payment-calculator/)
