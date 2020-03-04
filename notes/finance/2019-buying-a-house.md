@@ -40,6 +40,7 @@ path: /2019-buying-a-house
 * Mortgage rates and monthly costs [Realtor.ca](https://www.realtor.ca/calculator.aspx)
 * Renting vs. Buying a Home: The 5% Rule [YouTube](https://youtu.be/Uwl3-jBNEd4)
   * Take house price * 5% (total unrecoverable annual cost: 1% property tax + 1% maintenance + 3% cost of interest) / 12 to find the monthly break even of home ownership compared to rent at equivalent location.
+  * Video notes that if individual will be investing rent / own difference in a taxable investment account (ie. RRSP and TFSA room are maxed) then the rule may be closer to 4% because of the reduced difference between investing in stocks and home ownership from the taxation of investment gains.
 * Rent vs Buy [NY Times](https://www.nytimes.com/interactive/2014/upshot/buy-rent-calculator.html)
 * Mortgage Amortization Schedule [CalculateStuff](https://www.calculatestuff.com/financial/mortgage-calculator)
 * Accelerated Mortgage Payoff [TD](https://tools.td.com/mortgage-payment-calculator/)
