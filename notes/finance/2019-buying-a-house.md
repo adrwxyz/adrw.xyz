@@ -1,13 +1,16 @@
 ---
-title: Buying a House in Canada
+title: 2019 Buying a House in Canada
 date: 2019-01-15T00:00:00.000Z
-path: /buying-a-house
+path: /2019-buying-a-house
 ---
 # Pros
 
 * Housing is a highly subsidized and incentivized investment (RRSP withdrawal program, no capital gains on primary residence, various homebuyer and renovations tax credits...)
+* In wilder markets in Canadian cities, RE price index has been increasing at >5% for the past 20 years. Recent years (2020) has seen year over year price index increase by 8-10% in Toronto and Kitchener-Waterloo. (Index link below). Locking in prices before they continue to go up could make sense.
+* Interest rates are extremely low and will likely be for the next 5-10 years. Rates haven't been this low since the 1920s making this an optimal time for a mortgage.
+* Cities like Kitchener-Waterloo outside of Toronto haven't been exposed to the same extent to the frenzied RE run up that GTA and Vancouver have faced meaning ownership prices could be closer to rent/buy breakeven price (see The 5% Rule in calculators below). For example, a $600,000 house in Kitchener, by the 5% rule, would make sense if a comparable house can't be found long term for rent of $2500 or less. If your registered investment accounts are maxed out, then expected opportunity cost of your ownership sunk cost if you had invested in stocks is lower (since stock gains in non-registered accounts are taxable) so 4% can end up being more accurate. Rent equivalent for $600,000 house with the 4% rule is $2500. The bulk of houses on Kijiji are renting in KW for $2000-2800, meaning that the rent/buy difference that is much more clear cut in the condo market or in Toronto housing market, is a bit more of a tossup in KW right now.
 * They ain’t making more land
-* You eventually own where you live which could ideally drop your monthly costs to utilities and property tax
+* You eventually own where you live which could ideally drop your monthly costs to utilities, maintenance, and property tax
 * Forced savings vehicle (won’t ever not make a mortgage payment, might skip savings some months if not disciplined)
 
 # Cons
