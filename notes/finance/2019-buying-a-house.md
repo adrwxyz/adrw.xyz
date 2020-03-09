@@ -50,3 +50,23 @@ path: /2019-buying-a-house
 * Accelerated Mortgage Payoff [TD](https://tools.td.com/mortgage-payment-calculator/)
 * Mortgage Amortization Schedule [MortgageCalculator](https://www.mortgagecalculator.org/)
 * Affordability Calculator [Realtor.ca](https://www.realtor.ca/calculator.aspx#v=affordability)
+
+
+# Common Questions and Answers
+
+* What if you rent part of your primary residence, still eligible for primary residence capital gains exemption on sale? You will encounter a "deemed disposition that normally arises on a partial change in use of property", aka you loss exemption status on the % of the house that you're now renting. [CRA](https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/about-your-tax-return/tax-return/completing-a-tax-return/personal-income/line-127-capital-gains/principal-residence-other-real-estate/changes-use/changing-part-your-principal-residence-a-rental-business-property.html)
+* Can you refinance every year to maximize ongoing leverage? Nope, refinancing essentially results in a brand new mortgage and thus new paperwork and closing costs. You can get a Home Equity Line of Credit (HELOC) but only of an amount surplus to 20% of the mortgage value. For example, for a $500k mortgage, you can't get a HELOC until $100k of principle has been paid down, and then your HELOC is only in the best case the amount above that. So if you've paid down $150k of principle, you can get a $50k HELOC to flexibly withdraw equity out of the house at slightly above prime rates, and less than an unsecured line of credit.
+
+# Raw notes
+
+
+Want to consider the effects of unconvention mortgage home ownership strategies including annual refinancing and lump sum repayment of mortgage
+Research revealed some caveats: 1) refinancing costs money to get new contracts 2) HELOC is only on the difference between paid off equity and 80% of the mortgage
+Thus, The Smith Manoeuvre has you 1) aggressively pay down your "readvanceable mortgage" (such as Scotiabank’s STEP or BMO’s Readiline) 2) HELOC room expands $ for $ of repayment 3) Use HELOC only for income paying investments (must have some dividend component)
+https://maplemoney.com/the-basics-of-the-smith-manoeuvre/
+https://www.theglobeandmail.com/real-estate/mortgages-and-rates/the-smith-maneuver-a-canadian-mortgage-tax-deductible-plan/article12059456/
+http://www.moneysmartsblog.com/leveraged-investments-%E2%80%93-my-grand-plan/
+BMO/Scotiabank/National Bank (Scotia apparently more flexble offering) offer readvanceable mortgages that allow borrowing up to 65% of the house value as long as 20% remains as equity
+Contrasting views: https://canadiancapitalist.com/the-smith-manoeuvre-debate/
+https://www.reddit.com/r/PersonalFinanceCanada/comments/f5q762/borrow_to_invest_would_like_to_hear_your/
+Use balance transfer cheques / CC to pay the mortgage then withdraw from HELOC https://www.reddit.com/r/CanadianInvestor/comments/eljuxf/started_smith_manoeuvretoday_those_who_are_doing/
