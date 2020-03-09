@@ -1,5 +1,5 @@
 ---
-title: 2019 Buying a House in Canada
+title: 2019-2020 Buying a House in Canada
 date: 2019-01-15T00:00:00.000Z
 path: /2019-buying-a-house
 ---
