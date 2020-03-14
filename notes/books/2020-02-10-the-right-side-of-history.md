@@ -5,9 +5,10 @@ date: 2020-02-18T15:59:15.272Z
 path: 2020-02-10-the-right-side-of-history
 author:
   - Ben Shapiro
-year: '2019'
+year: "2019"
 ---
-This is the first book that I've listened to by Ben Shapiro. I first came to know about him in 2016 through his university lectures published on YouTube and for a time listened to his daily podcast. 
+
+This is the first book that I've listened to by Ben Shapiro. I first came to know about him in 2016 through his university lectures published on YouTube and for a time listened to his daily podcast.
 
 Unlike other news and politics shows, Ben often was comfortable straying into more philosophical and religious topics when answering viewer questions, talking candidly about his life as a practicing Orthodox Jew, and analysing the changing cultural morals taking place in the West.
 
