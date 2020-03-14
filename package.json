@@ -9,6 +9,7 @@
   "dependencies": {
     "@westegg/gatsby-theme-digital-garden": "0.0.48",
     "gatsby": "2.19.43",
+    "gatsby-plugin-matomo": "0.8.1",
     "react": "16.13.0",
     "react-dom": "16.13.0"
   },

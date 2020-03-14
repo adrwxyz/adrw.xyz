@@ -4,6 +4,7 @@ title: Kobo Backlog
 date: 2020-02-29T05:37:08.546Z
 path: /kobo-backlog
 ---
+
 Books that I've marked as "Finished" on my Kobo since 2013.
 
 - Letters to the Church, Francis Chan
