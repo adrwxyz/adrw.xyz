@@ -1,3 +1,3 @@
-# andrew.fm
+# adrw.xyz
 
-[Tune in.](https://www.andrew.fm/)
+[Tune in.](https://adrw.xyz/)

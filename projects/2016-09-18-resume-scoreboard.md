@@ -32,7 +32,7 @@ summary: |
 
 ## [Check out the repo on GitHub.](https://github.com/adrw/resume-scoreboard)
 
-[Play around with the app at andrew.fm/resume-scoreboard](andrew.fm/resume-scoreboard/)
+[Play around with the app at adrw.ch/resume-scoreboard](adrw.ch/resume-scoreboard/)
 
 When you apply for jobs through Jobmine, Monster, or a company website, your resume can easily get lost among hundreds or thousands of others. Internal hiring managers use keyword searches to find relevant applicants who have the right experience, job titles, or languages.
 

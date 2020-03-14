@@ -1,8 +1,8 @@
 backend:
   name: github
-  repo: adrw/andrew.fm
+  repo: adrwxyz/adrw.xyz
   preview_context: my-provider/deployment
-  site_domain: andrew.fm
+  site_domain: adrw.xyz
   branch: master
   squash_merges: true
   commit_messages:
@@ -15,7 +15,7 @@ backend:
 media_folder: static/img
 public_folder: /img
 
-logo_url: https://andrew.fm/img/logos/andrew-fm.svg
+logo_url: https://adrw.xyz/img/logos/h.png
 
 slug:
   encoding: "ascii"

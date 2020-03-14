@@ -1,6 +1,6 @@
 {
   "private": true,
-  "name": "andrew.fm",
+  "name": "adrw.xyz",
   "scripts": {
     "start": "npm run lint && gatsby develop",
     "build": "npm run lint && gatsby build",

@@ -12,7 +12,7 @@ Below are resources that educated and formed my knowledge and understanding of e
 ## Books
 
 - MoneySense Guide to the Perfect Portfolio 2013 (Dan Bortolotti)
-  - [Review here](https://andrew.fm/blog/books-part-3)
+  - [Review here](/blog/books-part-3)
   - [Read here](https://cloud.alexanders.xyz/s/sTSKWL6kSoTD7jW)
   - Excellent overview assuming little to no prior knowledge of interest rates, time value of money, stocks, bonds, RRSPs, and how to confidently understand personal finance and investing terms and concepts
 - Venture Deals (Brad Feld)

@@ -14,7 +14,7 @@ path: /2019-12-30-nextcloud
 ## DNS
 
 - Add an A record to your domain provider DNS records pointing to the IP address of the provisioned server. Using a subdomain like `cloud.` is a good pattern.
-  - Example: `A 192.222.162.212 cloud.andrew.fm`
+  - Example: `A 192.222.162.212 cloud.your.domain`
 
 ## SSH
 

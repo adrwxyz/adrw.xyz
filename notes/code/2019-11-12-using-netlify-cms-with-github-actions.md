@@ -15,11 +15,11 @@ Given the recent progression of Github Actions to broader release, I figured I'd
 
 This ended up being quite the hassle.
 
-So, I've documented the final fix below. [Example commit](https://github.com/adrw/andrew.fm/commit/a35277bb6e3cf62c9a9125248201e68d9e5b37f6).
+So, I've documented the final fix below. [Example commit](https://github.com/adrwxyz/adrw.xyz/commit/a35277bb6e3cf62c9a9125248201e68d9e5b37f6).
 
 # Github
 
-- Add a file `CNAME` to your repo with your domain (ie. `andrew.fm`)
+- Add a file `CNAME` to your repo with your domain (ie. `adrw.xyz`)
 - On master branch, create and push a `gh-pages` branch
   ```
   $ gco -b gh-pages
