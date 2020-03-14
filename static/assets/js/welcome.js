@@ -1,8 +1,8 @@
-console.log("      ___              __                   ");
-console.log("     /   |  ____  ____/ /_______ _      __  ");
-console.log("    / /| | / __ \\/ __  / ___/ _ \\ | /| / /");
-console.log("   / ___ |/ / / / /_/ / /  /  __/ |/ |/ /  /");
-console.log("  /_/  |_/_/ /_/\\__,_/_/   \\___/|__/|__/  ");
+console.log("          ___    ____  ____ _       __    ");
+console.log("         /   |  / __ \/ __ \ |     / /    ");
+console.log("        / /| | / / / / /_/ / | /| / /     ");
+console.log("       / ___ |/ /_/ / _, _/| |/ |/ /      ");
+console.log("      /_/  |_/_____/_/ |_| |__/|__/       ");
 console.log("");
 console.log("$ Welcome to adrw.xyz!                       ");
 console.log("$ If you find any bugs or have any questions,");
