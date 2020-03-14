@@ -9,7 +9,7 @@ module.exports = {
         header: {
           home: {
             href: "/",
-            label: "/img/logos/hfm.png"
+            label: "/img/logos/h.png"
           },
           links: [
             {
