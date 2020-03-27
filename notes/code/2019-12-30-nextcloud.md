@@ -45,9 +45,11 @@ path: /2019-12-30-nextcloud
 - Turn on Namecheap API in your account / settings / tools. You may need to live message support to get them to enable it.
 - Cloudron can configure DNS records for you using the API for ease of use.
 
-## Nextcloud Email
+## Cloudron Email
 
 - Though Cloudron will recommend using encrypted ports for IMAP and SMTP, the [forum](https://forum.cloudron.io/topic/1319/nextcloud-email-client-cannot-be-setup) recommends using unencrypted port 25 for SMTP since the encrypted port 587 doesn't currently work and communication is internal to VM so it isn't a security concern.
+- SMTP Port 25 also lets Cloudron Email be set up with certain pickey mobile phone clients like Microsoft Outlook.
+- Using SOGo as front end for email, labels are not available in automatic filtering so use of folders can be an alternative.
 
 ## Contacts & Calendar
 
