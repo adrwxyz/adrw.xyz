@@ -20,6 +20,7 @@ Below are resources that educated and formed my knowledge and understanding of e
   - This book has been instrumental in my understanding of current events with the 2020 COVID-19 recession and related actions by governments and central banks and made the news much more predictable with respect to those aspects.
   - It also formed my analysis framework when I've looked at whether the Canadian Real Estate market is a bubble and how it could pop, [written in 2019](/notes/finance/2019-state-of-canadian-real-estate)
   - Read the book for free at Ray Dalio's site [principles.com](https://www.principles.com/big-debt-crises/)
+  - Find other resources including Ray Dalio's book on life and work principles at [principles.com](https://www.principles.com/) and [economicprinciples.org](https://economicprinciples.org/)
 - Venture Deals (Brad Feld)
   - [Read here](https://cloud.alexanders.xyz/s/MtYd9kSejpB8iKq)
   - Great overview from two lawyers of venture capital financing instruments and private company investments
