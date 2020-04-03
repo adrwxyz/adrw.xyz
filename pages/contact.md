@@ -2,4 +2,4 @@
 title: Contact
 ---
 
-**[contact@adrw.xyz](mailto:contact@adrw.xyz)**
+**[hello@adrw.xyz](mailto:hello@adrw.xyz)**
