@@ -37,8 +37,12 @@ path: /2019-buying-a-house
 
 - House Price Index [Teranet & National Bank of Canada](https://housepriceindex.ca/)
 - General per-city living affordability [Numbeo](https://www.numbeo.com/property-investment/country_result.jsp?country=Canada)
-- Per City Canada Rent Index [Canadian Rental Housing Index](http://www.rentalhousingindex.ca/en/#cost_cd)
+- Per City Canada Rent Index (unknown year unfortunately) [Canadian Rental Housing Index](http://www.rentalhousingindex.ca/en/#cost_cd)
+
+# Analysis
+
 - Analysis of 1989 Toronto Real Estate Crash [TorontoCondoBubble](http://www.torontocondobubble.com/2013/02/toronto-housing-bubble-in-1980s.html)
+- Ongoing Twitter Analysis of Upcoming Crash [Jesse Colombo, Forbes, ZeroHedge](https://twitter.com/TheBubbleBubble)
 
 # Calculators
 
