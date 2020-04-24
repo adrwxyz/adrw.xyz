@@ -48,15 +48,19 @@ path: /2019-buying-a-house
 
 - Rent vs Buy [Autorite des Marches Financiers](https://lautorite.qc.ca/en/general-public/calculators-and-tools/calculators/buy-or-rent-a-residence/)
 - Mortgage rates and monthly costs [Realtor.ca](https://www.realtor.ca/calculator.aspx)
-- Renting vs. Buying a Home: The 5% Rule [YouTube](https://youtu.be/Uwl3-jBNEd4)
-  - Take house price \* 5% (total unrecoverable annual cost: 1% property tax + 1% maintenance + 3% cost of interest) / 12 to find the monthly break even of home ownership compared to rent at equivalent location.
-  - Video notes that if individual will be investing rent / own difference in a taxable investment account (ie. RRSP and TFSA room are maxed) then the rule may be closer to 4% because of the reduced difference between investing in stocks and home ownership from the taxation of investment gains.
 - Mortgage Comparison and Amortization Calculator [SuperBrokers](https://www.superbrokers.ca/tools/mortgage-calculator/), very useful at comparing different mortgage plans such as lump sum payments to shrink the mortgage length.
 - Rent vs Buy [NY Times](https://www.nytimes.com/interactive/2014/upshot/buy-rent-calculator.html)
 - Mortgage Amortization Schedule [CalculateStuff](https://www.calculatestuff.com/financial/mortgage-calculator)
 - Accelerated Mortgage Payoff [TD](https://tools.td.com/mortgage-payment-calculator/)
 - Mortgage Amortization Schedule [MortgageCalculator](https://www.mortgagecalculator.org/)
 - Affordability Calculator [Realtor.ca](https://www.realtor.ca/calculator.aspx#v=affordability)
+
+# Videos
+- Rent vs Buy Matt McKeever (Rental Real Estate Investor) [2017](https://youtu.be/-em-ial9xoc), [2018](https://youtu.be/w8i3lh7kgXw), [2019](https://youtu.be/tkWl95chAgs)
+  - YouTube videos updated each year reviewing how purchasing a house can often not be the best financial decision compared to renting for primary residence
+- Renting vs. Buying a Home: The 5% Rule [YouTube](https://youtu.be/Uwl3-jBNEd4)
+  - Take house price \* 5% (total unrecoverable annual cost: 1% property tax + 1% maintenance + 3% cost of interest) / 12 to find the monthly break even of home ownership compared to rent at equivalent location.
+  - Video notes that if individual will be investing rent / own difference in a taxable investment account (ie. RRSP and TFSA room are maxed) then the rule may be closer to 4% because of the reduced difference between investing in stocks and home ownership from the taxation of investment gains.
 
 # Common Questions and Answers
 
