@@ -56,6 +56,7 @@ path: /2019-buying-a-house
 - Affordability Calculator [Realtor.ca](https://www.realtor.ca/calculator.aspx#v=affordability)
 
 # Videos
+
 - Rent vs Buy Matt McKeever (Rental Real Estate Investor) [2017](https://youtu.be/-em-ial9xoc), [2018](https://youtu.be/w8i3lh7kgXw), [2019](https://youtu.be/tkWl95chAgs)
   - YouTube videos updated each year reviewing how purchasing a house can often not be the best financial decision compared to renting for primary residence
 - Renting vs. Buying a Home: The 5% Rule [YouTube](https://youtu.be/Uwl3-jBNEd4)
