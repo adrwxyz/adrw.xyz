@@ -41,7 +41,26 @@ module.exports = {
         appName: "adrw.xyz", // Inferred with your package.json
         appDescription: "Andrew Alexander | ADRW Digital",
         developerName: "Andrew Alexander",
-        developerURL: "adrw.xyz"
+        developerURL: "adrw.xyz",
+        dir: "auto",
+        lang: "en-US",
+        background: "#fff",
+        theme_color: "#fff",
+        display: "standalone",
+        orientation: "any",
+        start_url: "/?homescreen=1",
+        version: "1.0",
+
+        icons: {
+          android: true,
+          appleIcon: true,
+          appleStartup: true,
+          coast: false,
+          favicons: true,
+          firefox: true,
+          yandex: false,
+          windows: false
+        }
       }
     },
     {
