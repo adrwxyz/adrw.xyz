@@ -24,16 +24,6 @@ path: /2019-12-30-nextcloud
 - Once on the server, follow these steps to add the ssh keys from your computer to the `~/.ssh/authorized_keys` file on the server: [guide](https://www.cyberciti.biz/faq/how-to-set-up-ssh-keys-on-linux-unix/)
 - Once you've confirmed login works with keys and not password, disable `PasswordAuthentication` in server SSH config (likely in `/etc/ssh/sshd_config`).
 
-## Firewall
-
-- TODO
-
-## Encrypt Nextcloud Folders
-
-- Use [eCryptfs](https://help.ubuntu.com/lts/serverguide/ecryptfs.html) to encrypt the Nextcloud Snap directories to protect user data
-- TODO
-- Look into full disk encryption or encrypting the snap directory
-
 # Cloudron
 
 ## PTR Record
@@ -86,6 +76,24 @@ Import into your non-Personal calendar in SOGO and you're done!
 Adding additional TXT and SRV records to DNS can make configuring DAV clients (Contacts, Calendar, WebDAV file browsing) easier.
 
 - [Cloudron Forum](https://forum.cloudron.io/topic/1296/add-dns-dav-registring/4)
+- I think Cloudron 5.0.5+ has fixed and automated this for `.well-known/*` paths like DAV
+
+## Nextcloud
+
+After installing in Cloudron, the first time you launch it you can login as admin using basic credentials that Cloudron initialized.
+
+- Login and immediately change the admin password for that account.
+- Add your named user (your Cloudron login johndoe@) to the admins group so you can administer Nextcloud with your primary Cloudron login.
+
+## Minio Key Generation
+
+- Minio is a S3 API compatible bucket storage app that is available on most platforms including Synology and Cloudron. I use it for now to have a bucket on my Synology that Cloudron uses for backup. To setup, it needs a key (hence the steps below).
+- Use Python REPL and [secrets library](https://docs.python.org/3/library/secrets.html)
+
+```
+import secrets
+secrets.token_urlsafe(30)
+```
 
 ### Nextcloud
 
@@ -93,7 +101,19 @@ As an alternative to SOGo, Nextcloud can be used by installing their Mail, Conta
 
 - Log in to Contacts (CardDAV) and Calendar (CalDAV) in respective clients with the URL `https://nextcloud.domain/remote.php/dav/`. In testing, iOS with this URL works automatically without any further custom settings.
 
-# Nextcloud Install with Snap
+# Rough Notes (Not used in Production)
+
+## Firewall
+
+- TODO
+
+## Encrypt Nextcloud Folders
+
+- Use [eCryptfs](https://help.ubuntu.com/lts/serverguide/ecryptfs.html) to encrypt the Nextcloud Snap directories to protect user data
+- TODO
+- Look into full disk encryption or encrypting the snap directory
+
+## Nextcloud Install with Snap
 
 - Install using Ubuntu Snap `snap install nextcloud --edge`. We're install edge to get the latest Nextcloud version (18) since Snap stable is still on 16.X.
 - Set higher memory limits for php `snap set nextcloud php.memory-limit=512M`
@@ -102,18 +122,9 @@ As an alternative to SOGo, Nextcloud can be used by installing their Mail, Conta
   - Note: until all of these core apps are updated for Nextcloud 18, they won't be installed
   - You'll need to manually go and install Contacts, Calendar, ONLYOFFICE from the apps menu, clicking the red button that you are sure you want to install an untested app
 
-# AWS Install Steps
+## AWS Install Steps
 
 - Install on AWS: <https://medium.com/@n.moretto/nextcloud-on-aws-ad244739c586>
 - Create second EC2 instance for OnlyOffice
 - SSH in and use snap to install `onlyoffice-ds`
 - Use EFF certbot instructions to get SSL certificate for `onlyoffice-ds` server <https://certbot.eff.org/lets-encrypt/ubuntubionic-nginx>
-
-# Minio Key Generation
-
-- Use Python REPL and [secrets library](https://docs.python.org/3/library/secrets.html)
-
-```
-import secrets
-secrets.token_urlsafe(30)
-```
