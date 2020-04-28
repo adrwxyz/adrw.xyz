@@ -1,7 +1,7 @@
 ---
 templateKey: note
 title: The Right Side of History
-date: 2020-02-18T15:59:15.272Z
+date: 2020-02-10T15:59:15.272Z
 path: 2020-02-10-the-right-side-of-history
 author:
   - Ben Shapiro
