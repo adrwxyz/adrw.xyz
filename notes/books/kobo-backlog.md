@@ -17,6 +17,7 @@ Books that I've marked as "Finished" on my Kobo since 2013.
 - Every Good Endeavor: Connecting Your Work to God's Work, Tim Keller
 - The Help, Kathryn Stockett
 - The Hobbit, J.R.R. Tolkien
+- Being Mortal: Medicine and What Matters in the End, Atul Gawande
 - Crazy Love, Francis Chan
 - Erasing Hell: What God Said about Eternity, and the Things We've Made Up, Francis Chan
 - The Prodigal God, Timothy Keller
