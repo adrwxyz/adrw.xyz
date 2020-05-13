@@ -1,8 +1,8 @@
 ---
 templateKey: note
-title: Kobo Backlog
+title: Backlog
 date: 2020-02-29T05:37:08.546Z
-path: /kobo-backlog
+path: /backlog
 ---
 
 Books that I've marked as "Finished" on my Kobo since 2013.
@@ -45,3 +45,31 @@ Books that I've marked as "Reading" on my Kobo since 2013.
 - The Reason For God, Timothy Keller
 - Multiply, Francis Chan & Mark Beuving
 - Mere Christianity, C.S. Lewis
+
+Books that I've marked as "Finished" on my iPhone Books app (Audiobook/Ebook) since 2013.
+
+- Deep Work, Cal Newport
+- Contagious: Why Things Catch On, Jonah Berge
+- Freakonomics, Steven Levitt & Stephen Dubner
+- Boundaries, Dr Henry Cloud & Dr John Townsend
+- Hidden Figures: The American Dream and the Untold Story of the Black Women Mathematicians Who Helped Win the Space, Margot Lee Shetterly
+- 1984, George Orwell
+- Stasiland, Anna Funder
+- A Life: C.S. Lewis, Alister McGrath
+- Crime and Punishment, Fyodor Dostoyevsky
+- What are you Trusting God For? 8 Practical Steps to Maximize Your Kingdom Impact, Gregg Hinzelman
+- Principles: Life and Work, Ray Dalio
+- God's Smuggler, Brother Andrew
+- Animal Farm, George Orwell
+- Basic Economics, 5th Edition, Thomas Sowell
+- Ethnic America: A History, Thomas Sowell
+- Economic Facts and Falacies, Thomas Sowell
+- The Thomas Sowell Reader, Thomas Sowell
+- Paul: In Fresh Perspective, N.T. Wright
+- Flash Boys: A Wall Street Revolt, Michael Lewis
+- The Long Walk to Freedom, Nelson Mandela
+- Steve Jobs, Walter Issacson
+- Quiet, Susan Cain
+- Seeking Allah, Finding Jesus: A Devout Muslim Encounters Christianity, Nabeel Quereshi
+- Zero to One, Peter Thiel
+- Venture Deals, Brad Feld
