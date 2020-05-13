@@ -1,7 +1,7 @@
 ---
 templateKey: song
 title: You Won't Relent
-path: /song/you-wont-relent
+path: you-wont-relent
 artist: Jesus Culture
 source: https://tabs.ultimate-guitar.com/tab/jesus-culture/you-wont-relent-chords-806193
 ---

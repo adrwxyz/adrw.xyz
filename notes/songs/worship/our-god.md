@@ -1,7 +1,7 @@
 ---
 templateKey: song
 title: Our God
-path: /song/our-god
+path: our-god
 artist: Chris Tomlin
 source: https://tabs.ultimate-guitar.com/tab/chris-tomlin/our-god-chords-910102
 ---

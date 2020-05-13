@@ -1,7 +1,7 @@
 ---
 templateKey: song
 title: When I Survey The Wondrous Cross
-path: /song/when-i-survey-the-wondrous-cross
+path: when-i-survey-the-wondrous-cross
 artist: Hymn
 source: https://tabs.ultimate-guitar.com/tab/misc-praise-songs/when-i-survey-the-wondrous-cross-chords-1757900
 ---

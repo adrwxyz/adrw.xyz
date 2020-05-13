@@ -1,7 +1,7 @@
 ---
 templateKey: song
 title: Revelation Song
-path: /song/revelation-song
+path: revelation-song
 artist: Kari Jobe
 source: https://tabs.ultimate-guitar.com/tab/kari-jobe/revelation-song-chords-976879
 ---

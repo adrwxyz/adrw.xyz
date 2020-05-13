@@ -1,7 +1,7 @@
 ---
 templateKey: song
 title: It Is Well
-path: /song/it-is-well
+path: it-is-well
 artist: Hymn
 source: https://tabs.ultimate-guitar.com/tab/misc-praise-songs/it-is-well-with-my-soul-chords-503157
 ---

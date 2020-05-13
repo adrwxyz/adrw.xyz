@@ -1,7 +1,7 @@
 ---
 templateKey: song
 title: On Christ the Solid Rock I Stand
-path: /song/on-christ-the-solid-rock-i-stand
+path: on-christ-the-solid-rock-i-stand
 artist: Hymn
 source: https://tabs.ultimate-guitar.com/tab/misc-praise-songs/on-christ-the-solid-rock-i-stand-chords-1227647
 ---

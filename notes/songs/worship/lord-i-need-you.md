@@ -1,7 +1,7 @@
 ---
 templateKey: song
 title: Lord I Need You
-path: /song/lord-i-need-you
+path: lord-i-need-you
 artist: Matt Maher
 source: https://tabs.ultimate-guitar.com/tab/matt-maher/lord-i-need-you-chords-1241695
 ---

@@ -1,7 +1,7 @@
 ---
 templateKey: song
 title: 10,000 Reasons (Bless the Lord, Oh my Soul)
-path: /song/10000-reasons-bless-the-lord-oh-my-soul
+path: 10000-reasons-bless-the-lord-oh-my-soul
 artist: Matt Redman
 source: https://tabs.ultimate-guitar.com/tab/matt-redman/10000-reasons-bless-the-lord-chords-1076668
 ---

@@ -1,7 +1,7 @@
 ---
 templateKey: song
 title: Lord of Lords
-path: /song/lord-of-lords
+path: lord-of-lords
 artist: Hillsong
 source: https://tabs.ultimate-guitar.com/tab/hillsongs/lord-of-lords-chords-606549
 ---

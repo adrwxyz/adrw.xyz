@@ -1,7 +1,7 @@
 ---
 templateKey: song
 title: Amazing Grace (My Chains Are Gone)
-path: /song/amazing-grace-my-chains-are-gone
+path: amazing-grace-my-chains-are-gone
 artist: Vineyard Music
 source: https://tabs.ultimate-guitar.com/tab/vineyard_music/all_who_are_thirsty_chords_642368
 ---

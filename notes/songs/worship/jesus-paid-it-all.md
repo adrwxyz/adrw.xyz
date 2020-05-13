@@ -1,7 +1,7 @@
 ---
 templateKey: song
 title: Jesus Paid it All
-path: /song/jesus-paid-it-all
+path: jesus-paid-it-all
 artist: Chris Tomlin
 source: https://tabs.ultimate-guitar.com/tab/chris-tomlin/jesus-paid-it-all-chords-1148858
 ---

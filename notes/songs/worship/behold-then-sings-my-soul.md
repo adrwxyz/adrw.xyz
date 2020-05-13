@@ -1,7 +1,7 @@
 ---
 templateKey: song
 title: Behold Then Sings My Soul
-path: /song/behold-then-sings-my-soul
+path: behold-then-sings-my-soul
 artist: Hillsong Worship
 source: https://tabs.ultimate-guitar.com/tab/hillsong-worship/behold-then-sings-my-soul-chords-1896022
 ---

@@ -1,7 +1,7 @@
 ---
 templateKey: song
 title: The House of God Forever
-path: /song/the-house-of-god-forever
+path: the-house-of-god-forever
 artist: Jon Foreman
 source: https://tabs.ultimate-guitar.com/tab/jon-foreman/the-house-of-god-forever-chords-688486
 ---

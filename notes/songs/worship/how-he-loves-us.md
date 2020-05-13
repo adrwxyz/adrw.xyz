@@ -1,7 +1,7 @@
 ---
 templateKey: song
 title: How He Loves Us
-path: /song/how-he-loves-us
+path: how-he-loves-us
 artist: David Crowder Band
 source: https://tabs.ultimate-guitar.com/tab/david-crowderband/how-he-loves-chords-847349
 ---

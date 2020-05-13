@@ -1,7 +1,7 @@
 ---
 templateKey: song
 title: In Christ Alone
-path: /song/in-christ-alone
+path: in-christ-alone
 artist: Keith Getty
 source: https://tabs.ultimate-guitar.com/tab/keith-getty/in-christ-alone-chords-1161935
 ---

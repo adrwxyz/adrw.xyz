@@ -1,7 +1,7 @@
 ---
 templateKey: song
 title: You Are My All in All
-path: /song/you-are-my-all-in-all
+path: you-are-my-all-in-all
 artist: Dennis Jernigan, Aaron Shust
 source: https://tabs.ultimate-guitar.com/tab/vineyard_music/all_who_are_thirsty_chords_642368
 ---

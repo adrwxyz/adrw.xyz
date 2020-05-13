@@ -1,7 +1,7 @@
 ---
 templateKey: song
 title: Forever Reign
-path: /song/forever-reign
+path: forever-reign
 artist: Hillsong
 source: https://tabs.ultimate-guitar.com/tab/hillsongs/forever-reign-chords-968753
 ---

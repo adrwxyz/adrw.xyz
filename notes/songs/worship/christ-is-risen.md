@@ -1,7 +1,7 @@
 ---
 templateKey: song
 title: Christ Is Risen
-path: /song/christ-is-risen
+path: christ-is-risen
 artist: Matt Maher
 source: https://tabs.ultimate-guitar.com/tab/matt-maher/christ-is-risen-chords-934075
 ---

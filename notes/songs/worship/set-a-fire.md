@@ -1,7 +1,7 @@
 ---
 templateKey: song
 title: Set a Fire
-path: /song/set-a-fire
+path: set-a-fire
 artist: Will Reagan
 source: https://tabs.ultimate-guitar.com/tab/will_reagan/set_a_fire_chords_1879778
 ---

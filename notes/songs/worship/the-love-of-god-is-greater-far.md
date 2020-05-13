@@ -1,7 +1,7 @@
 ---
 templateKey: song
 title: The Love of God is Greater Far
-path: /song/the-love-of-god-is-greater-far
+path: the-love-of-god-is-greater-far
 artist: Hymn
 source: https://tabs.ultimate-guitar.com/tab/mercyme/the-love-of-god-chords-1425456
 ---

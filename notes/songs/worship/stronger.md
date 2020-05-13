@@ -1,7 +1,7 @@
 ---
 templateKey: song
 title: Stronger
-path: /song/stronger
+path: stronger
 artist: Hillsong
 source: https://tabs.ultimate-guitar.com/tab/hillsongs/stronger-chords-1041085
 ---

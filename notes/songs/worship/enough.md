@@ -2,7 +2,7 @@
 templateKey: song
 title: Enough
 date:   2010-10-10 00:00:00
-path: /song/enough
+path: enough
 artist: Chris Tomlin
 source: https://tabs.ultimate-guitar.com/tab/chris_tomlin/enough_chords_167481
 lyrics: |

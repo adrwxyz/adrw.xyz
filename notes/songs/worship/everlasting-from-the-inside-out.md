@@ -1,7 +1,7 @@
 ---
 templateKey: song
 title: Everlasting (From the Inside Out)
-path: /song/everlasting-from-the-inside-out
+path: everlasting-from-the-inside-out
 artist: Hillsong (Joel Houston)
 source: https://tabs.ultimate-guitar.com/tab/hillsongs/from-the-inside-out-chords-352755
 ---

@@ -1,7 +1,7 @@
 ---
 templateKey: song
 title: Came to My Rescue
-path: /song/came-to-my-rescue
+path: came-to-my-rescue
 artist: Hillsong United
 source: https://tabs.ultimate-guitar.com/tab/hillsongs/came-to-my-rescue-chords-352784
 ---

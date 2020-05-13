@@ -1,7 +1,7 @@
 ---
 templateKey: song
 title: Your Great Name
-path: /song/your-great-name
+path: your-great-name
 artist: Natalie Grant
 source: https://tabs.ultimate-guitar.com/tab/natalie-grant/your-great-name-chords-1410135
 ---

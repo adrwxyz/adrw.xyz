@@ -1,7 +1,7 @@
 ---
 templateKey: song
 title: Called Me Higher
-path: /song/called-me-higher
+path: called-me-higher
 artist: All Sons & Daughters
 source: https://tabs.ultimate-guitar.com/tab/all_sons_daughters/called_me_higher_chords_1418548
 ---

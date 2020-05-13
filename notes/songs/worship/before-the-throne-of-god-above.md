@@ -1,7 +1,7 @@
 ---
 templateKey: song
 title: Before the Throne of God Above
-path: /song/before-the-throne-of-god-above
+path: before-the-throne-of-god-above
 artist: Hymn
 source: https://tabs.ultimate-guitar.com/tab/shane_shane/before_the_throne_of_god_above_chords_986952
 ---

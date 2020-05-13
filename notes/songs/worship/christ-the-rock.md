@@ -1,7 +1,7 @@
 ---
 templateKey: song
 title: Christ the Rock
-path: /song/christ-the-rock
+path: christ-the-rock
 artist: Kim Walker-Smith
 source: https://tabs.ultimate-guitar.com/tab/kim-walker-smith/christ-the-rock-chords-1736234
 ---

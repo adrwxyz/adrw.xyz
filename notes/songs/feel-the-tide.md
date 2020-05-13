@@ -1,7 +1,7 @@
 ---
 title: "Feel The Tide"
 date:   2010-10-10 00:00:00
-path: /song/feel-the-tide
+path: feel-the-tide
 layout: song
 artist: Mumford & Sons
 source: https://tabs.ultimate-guitar.com/tab/mumford_sons/feel_the_tide_chords_1024990

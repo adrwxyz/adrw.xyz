@@ -1,7 +1,7 @@
 ---
 templateKey: song
 title: The Creed (I Believe)
-path: /song/the-creed-i-believe
+path: the-creed-i-believe
 artist: Hillsong Live
 source: https://tabs.ultimate-guitar.com/tab/hillsong-live/this-i-believe-chords-1493736
 ---

@@ -1,7 +1,7 @@
 ---
 templateKey: song
 title: How Great is Our God
-path: /song/how-great-is-our-god
+path: how-great-is-our-god
 artist: Vineyard Music
 source: https://tabs.ultimate-guitar.com/tab/chris-tomlin/how-great-is-our-god-chords-166109
 ---

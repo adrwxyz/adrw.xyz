@@ -1,7 +1,7 @@
 ---
 templateKey: song
 title: What A Beautiful Name It is
-path: /song/what-a-beautiful-name-it-is
+path: what-a-beautiful-name-it-is
 artist: Hillsong Live
 source: https://tabs.ultimate-guitar.com/tab/hillsong-live/what-a-beautiful-name-it-is-chords-1877979
 ---

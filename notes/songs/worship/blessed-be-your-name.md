@@ -1,7 +1,7 @@
 ---
 templateKey: song
 title: Blessed Be Your Name
-path: /song/blessed-be-your-name
+path: blessed-be-your-name
 artist: Matt Redman
 source: https://tabs.ultimate-guitar.com/tab/matt_redman/blessed_be_your_name_chords_52780
 lyrics: |
