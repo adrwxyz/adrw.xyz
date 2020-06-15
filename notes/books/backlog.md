@@ -23,6 +23,22 @@ Books that I've marked as "Finished" on my Kobo since 2013.
 - The Prodigal God, Timothy Keller
 - The Screwtape Letters, C.S. Lewis
 - Outliers: The Story of Success, Malcolm Gladwell
+- Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future, Ashlee Vance
+- Losing the Signal: The Spectacular Rise and Fall of Blackberry, Jacquie McNish & Sean Silcoff
+- Little Brother, Cory Doctorow
+- Homeland, Cory Doctorow
+- Good to Great, Jim Collins
+- Great by Choice, Jim Collins
+- The Rosie Project: A Novel, Graeme Simsion
+- The Rosie Effect, Graeme Simsion
+- The Autobiography of Malcolm X, Malcolm X & Alex Haley
+- The Hard Thing About Hard Things, Ben Horowitz
+- Zero to One, Peter Thiel
+- The Monuments Men, Robert M. Edsel & Bret Witter
+- Unbroken: A World War II Story of Survival, Resilience, and Redemption, Laura Hillenbrand
+- David and Goliath: Underdogs, Misfits, and the Art of Battling Giants, Malcolm Gladwell
+- The Blind Side, Michael Lewis
+- The Big Short, Michael Lewis
 
 Books that I've marked as "Reading" on my Kobo since 2013.
 
@@ -45,6 +61,7 @@ Books that I've marked as "Reading" on my Kobo since 2013.
 - The Reason For God, Timothy Keller
 - Multiply, Francis Chan & Mark Beuving
 - Mere Christianity, C.S. Lewis
+- The Bully Pulpit: Theodore Roosenvelt, William Howard Taft, and the Golden Age of Journalism, Doris Kearns Goodwin
 
 Books that I've marked as "Finished" on my iPhone Books app (Audiobook/Ebook) since 2013.
 
