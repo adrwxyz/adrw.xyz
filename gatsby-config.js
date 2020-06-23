@@ -15,7 +15,33 @@ module.exports = {
     // Used for og:image and must be placed inside the `static` folder
     siteImage: `/img/logos/h.png`,
     // Twitter Handle
-    author: `Andrew Alexander`
+    author: `Andrew Alexander`,
+    // Links displayed in the header on the right side
+    externalLinks: [
+      {
+        name: `Kitchen Alexander`,
+        url: `https://kitchen.alxdr.ca`
+      },
+      {
+        name: `Instagram`,
+        url: `https://www.instagram.com/andrew.alxdr`
+      }
+    ],
+    // Navigation links
+    navigation: [
+      {
+        title: `Now`,
+        slug: `/now`
+      },
+      {
+        title: `Notes`,
+        slug: `/tags`
+      },
+      {
+        title: `Feed`,
+        slug: `/blog`
+      }
+    ]
   },
   plugins: [
     {
@@ -23,32 +49,6 @@ module.exports = {
       options: {
         // Date format
         formatString: "YYYY-MM-DD",
-        // Links displayed in the header on the right side
-        externalLinks: [
-          {
-            name: `Kitchen Alexander`,
-            url: `https://kitchen.alxdr.ca`
-          },
-          {
-            name: `Instagram`,
-            url: `https://www.instagram.com/andrew.alxdr`
-          }
-        ],
-        // Navigation links
-        navigation: [
-          {
-            title: `Now`,
-            slug: `/now`
-          },
-          {
-            title: `Notes`,
-            slug: `/tags`
-          },
-          {
-            title: `Feed`,
-            slug: `/blog`
-          }
-        ],
         // Title for RSS feed
         feedTitle: `Andrew Alexander // adrw`
       }
@@ -63,6 +63,7 @@ module.exports = {
         }
       }
     },
+    "gatsby-plugin-sharp"
     // {
     //   resolve: "@westegg/gatsby-theme-digital-garden",
     //   options: {
@@ -93,14 +94,14 @@ module.exports = {
     //   }
     // },
 
-    {
-      resolve: "gatsby-plugin-matomo",
-      options: {
-        siteId: "1",
-        matomoUrl: "https://matomo.adrw.xyz",
-        siteUrl: "https://adrw.xyz"
-      }
-    },
+    // {
+    //   resolve: "gatsby-plugin-matomo",
+    //   options: {
+    //     siteId: "1",
+    //     matomoUrl: "https://matomo.adrw.xyz",
+    //     siteUrl: "https://adrw.xyz"
+    //   }
+    // },
     `gatsby-plugin-sitemap`,
     {
       resolve: `gatsby-plugin-manifest`,

@@ -14,9 +14,10 @@
   "dependencies": {
     "@lekoarts/gatsby-theme-minimal-blog": "2.3.9",
     "@westegg/gatsby-theme-core": "0.0.49",
-    "gatsby": "2.23.9",
+    "gatsby": "2.23.10",
     "gatsby-plugin-manifest": "2.4.13",
     "gatsby-plugin-matomo": "0.8.3",
+    "gatsby-plugin-sharp": "2.6.13",
     "gatsby-plugin-sitemap": "2.4.6",
     "react": "16.13.1",
     "react-dom": "16.13.1"
