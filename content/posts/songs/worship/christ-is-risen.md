@@ -1,0 +1,113 @@
+---
+date: 2000-01-24T00:00:00.000Z
+tags:
+  - Songs
+  - Songs(Worship)
+title: Christ Is Risen
+slug: songs/worship/christ-is-risen
+artist: Matt Maher
+source: https://tabs.ultimate-guitar.com/tab/matt-maher/christ-is-risen-chords-934075
+---
+
+```
+Capo 2
+
+[Verse 1]
+E
+Let no one caught in sin remain
+  A                 B
+Inside the lie of inward shame
+E
+But fix our eyes upon the cross
+      A            C#m          B
+And run to Him who showed great love
+      E  A   B
+And bled for us
+Freely You’ve bled for us
+
+
+[Chorus]
+          E
+Christ is risen from the dead
+Trampling over death by death
+      A
+Come awake, come awake
+         C#m              B
+Come and rise up from the grave
+         E
+Christ is risen from the dead
+We are one with Him again
+                  A
+Come awake, come awake
+      C#m                 B
+Come and rise up from the grave
+
+
+[Verse 2]
+E
+Beneath the weight of all our sin
+A
+You bowed to none but heaven’s will
+E
+No scheme of hell, no scoffer's crown
+      A            C#m          B
+No burden great can hold You down
+   E         A      B
+In strength You reign
+Forever let Your church proclaim
+
+
+[Chorus]
+          E
+Christ is risen from the dead
+Trampling over death by death
+      A
+Come awake, come awake
+         C#m              B
+Come and rise up from the grave
+         E
+Christ is risen from the dead
+We are one with Him again
+                  A
+Come awake, come awake
+      C#m                 B
+Come and rise up from the grave
+
+
+[Bridge]
+E  A     C#m            B
+O death, where is your sting?
+E  A     C#m            B
+O hell, where is your victory?
+E  A             C#m            B
+O church, come stand in the light
+E             A     C#m            B
+The glory of God has defeated the night
+E  A     C#m            B
+O death, where is your sting?
+E  A     C#m            B
+O hell, where is your victory?
+E  A             C#m            B
+O church, come stand in the light
+E  A
+Our God is not dead
+C#m            B
+He's alive! He's alive!
+
+
+[Chorus]
+          E
+Christ is risen from the dead
+Trampling over death by death
+      A
+Come awake, come awake
+         C#m              B
+Come and rise up from the grave
+         E
+Christ is risen from the dead
+We are one with Him again
+                  A
+Come awake, come awake
+      C#m                 B
+Come and rise up from the grave
+```
