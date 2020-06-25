@@ -1,15 +1,15 @@
 module.exports = {
   siteMetadata: {
     // Used for the title template on pages other than the index site
-    siteTitle: `Andrew Alexander // adrw`,
+    siteTitle: `adrw // Andrew Alexander`,
     // Default title of the page
-    siteTitleAlt: `Andrew Alexander // adrw`,
+    siteTitleAlt: `adrw // Andrew Alexander`,
     // Can be used for e.g. JSONLD
-    siteHeadline: `Andrew Alexander // adrw`,
+    siteHeadline: `adrw // Andrew Alexander`,
     // Will be used to generate absolute URLs for og:image etc.
     siteUrl: `https://adrw.xyz`,
     // Used for SEO
-    siteDescription: `Typography driven, feature-rich blogging theme with minimal aesthetics. Includes tags/categories support and extensive features for code blocks such as live preview, line numbers, and line highlighting.`,
+    siteDescription: `Now, Notes, and Feed from adrw // Andrew Alexander`,
     // Will be set on the <html /> tag
     siteLanguage: `en`,
     // Used for og:image and must be placed inside the `static` folder
@@ -28,10 +28,6 @@ module.exports = {
           {
             name: `Kitchen Alexander`,
             url: `https://kitchen.alxdr.ca`
-          },
-          {
-            name: `Instagram`,
-            url: `https://www.instagram.com/andrew.alxdr`
           }
         ],
         // Navigation links
@@ -50,7 +46,7 @@ module.exports = {
           }
         ],
         // Title for RSS feed
-        feedTitle: `Andrew Alexander // adrw`
+        feedTitle: `adrw // Andrew Alexander`
       }
     },
     {
