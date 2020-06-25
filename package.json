@@ -2,8 +2,8 @@
   "private": true,
   "name": "adrw.xyz",
   "scripts": {
-    "build": "gatsby build",
-    "develop": "gatsby develop",
+    "build": "yarn run lint && gatsby build",
+    "develop": "yarn run lint && gatsby develop",
     "develop:cypress": "cross-env CYPRESS_SUPPORT=y yarn develop",
     "build:cypress": "cross-env CYPRESS_SUPPORT=y yarn build",
     "start": "gatsby develop",
