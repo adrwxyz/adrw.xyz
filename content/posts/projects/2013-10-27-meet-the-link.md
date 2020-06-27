@@ -12,8 +12,8 @@ tags:
   - Projects
   - Skill(Video-Production)
   - Wilfrid-Laurier-University
-image: /assets/article_images/2013-10-27-meet-the-link/thelink.jpg
-image2: /assets/article_images/2013-10-27-meet-the-link/thelink-c.png
+banner: ../images/2013-10-27-meet-the-link/thelink.jpg
+image2: ../images/2013-10-27-meet-the-link/thelink-c.png
 description: As marketing specialist for Laurier's The Link business club, I got diverse experience in digital marketing and was awarded Executive of the Year.
 seo_title: "The Link - 2014 Executive of the Year | Andrew Paradi Alexander"
 position: Marketing Specialist

@@ -15,7 +15,7 @@ tags:
   - Skill(Bloomberg API)
   - Pitch
   - Skill(Video-Production)
-image: /assets/article_images/2014-09-30-stockslate-hack-the-north/stock-slate-demo-retail-c.png
+banner: ../images/2014-09-30-stockslate-hack-the-north/stock-slate-demo-retail-c.png
 description: StockSlate let investors choose stocks from Bloomberg data and then see how their portfolios would be judged by successful investors like Warren Buffet.
 seo_title: "StockSlate - How we brought Warren Buffet to Hack the North | Andrew Paradi Alexander"
 position: StockSlate

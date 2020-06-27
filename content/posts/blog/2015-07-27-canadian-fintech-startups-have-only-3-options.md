@@ -8,8 +8,8 @@ tags:
 categories:
   - Blog
   - Featured
-image: /assets/article_images/2015-07-27-canadian-fintech-startups-have-only-3-options/old-new-building.jpg
-image2: /assets/article_images/2015-07-27-canadian-fintech-startups-have-only-3-options/old-new-building-1000c.png
+banner: ../images/2015-07-27-canadian-fintech-startups-have-only-3-options/old-new-building.jpg
+image2: ../images/2015-07-27-canadian-fintech-startups-have-only-3-options/old-new-building-1000c.png
 description: Canadian banks can't innovate and are hunting for startups that can. Insights from Communitech panel with bank CDOs on the future of Canadian fintech.
 seo_title: "Canadian Fintech Startups Have Only 3 Options | Andrew Paradi Alexander"
 ---
@@ -28,7 +28,7 @@ Almost every answer from the CDOs of TD, CIBC, BMO, and Scotiabank was laced wit
 
 The entire panel of CDOs knew the features that consumers wanted whether it was easier transfers to other people, contactless payments, or more powerful mobile apps. Yet they had few explanations for why these relatively simple fixes for an awful banking experience weren&#8217;t already in place. <a href="https://squareup.com/ca" target="_blank">Square</a> has solved easy transfers. <a href="https://www.apple.com/apple-pay" target="_blank">Apple Pay</a> and <a href="http://officialandroid.blogspot.ca/2015/05/pay-your-way-with-android.html" target="_blank">Android Pay</a> standardize the most convenient payment technologies yet. And you only need to give <a href="https://www.mint.com" target="_blank">Mint</a> or <a href="https://www.acorns.com" target="_blank">Acorns</a> a try to understand just how much the bank&#8217;s online and mobile experiences could improve.
 
-![Acorns investing for iOS & Android: both gorgeous design and an innovative approach to investing. Both of which you won't find in big bank apps. <a href='https://www.acorns.com/' target='_blank'>https://www.acorns.com/</a>](/assets/article_images/2015-07-27-canadian-fintech-startups-have-only-3-options/Portfolio-Allocation-c.jpg)
+![Acorns investing for iOS & Android: both gorgeous design and an innovative approach to investing. Both of which you won't find in big bank apps. <a href='https://www.acorns.com/' target='_blank'>https://www.acorns.com/</a>](../images/2015-07-27-canadian-fintech-startups-have-only-3-options/Portfolio-Allocation-c.jpg)
 
 Banks whether limited by regulation, Apple Pay&#8217;s rollout schedule, or &#8220;design by committee&#8221; internal bureaucracy, are desperate for startups to do the innovation that they can&#8217;t.
 
@@ -48,13 +48,13 @@ Banks already collect and store these mountains of data, they just need ways to 
 
 When asked about their 5 year forecast for Canadian banks one CDO mused that &#8220;of course in <em>5 years</em> we will still have brick &amp; mortar branches.&#8221; Implicitly, he points to a potentially inevitable time when there are banks that don&#8217;t have branches.
 
-![Brick & mortar bank branches may fade over the long term but aren't going anywhere according to the Canadian banking executives.](/assets/article_images/2015-07-27-canadian-fintech-startups-have-only-3-options/brick-mortar.jpg)
+![Brick & mortar bank branches may fade over the long term but aren't going anywhere according to the Canadian banking executives.](../images/2015-07-27-canadian-fintech-startups-have-only-3-options/brick-mortar.jpg)
 
 Tangerine (formerly ING Direct) was the first glimmer of a future where opening accounts, transferring funds, and investing could all be done easily online without dealing with any bank staff. A bank that had a user experience as easy and pain-free as Uber would certainly attract my business.
 
 However, unlike the transportation bylaws that Uber lobbies against, Canadian banking regulations would be significantly more difficult for an innovator to overcome. Federal regulation instead of local bylaws would render a divide and conquer <a href="http://www.theverge.com/2015/7/27/9035731/future-of-uber-regulation-illegal-violations" target="_blank">city by city attack</a> useless. Where Uber could simply skip <a href="http://www.businessinsider.com/nevada-bans-uber-2014-11" target="_blank">Las</a> <a href="http://www.theverge.com/2015/7/27/9035731/future-of-uber-regulation-illegal-violations" target="_blank">Vegas</a> and move onto another city when lawsuits made Uber illegal, the dodging whack-a-mole routine doesn&#8217;t work when lawsuits and judgements come down at a federal level. Simply ask <a href="http://www.theverge.com/2014/6/25/5842524/what-does-the-aereo-ruling-mean-for-television" target="_blank">Aereo</a>.
 
-![Even innovative upstart ING Direct with strong online-first banking growth over a decade still ended in acquisition. Scotiabank acquired ING Direct for over $3.1 billion in 2012 and rebranded it as Tangerine soon after. Feature advances have stalled since purchase.](/assets/article_images/2015-07-27-canadian-fintech-startups-have-only-3-options/tangerine.jpg)
+![Even innovative upstart ING Direct with strong online-first banking growth over a decade still ended in acquisition. Scotiabank acquired ING Direct for over $3.1 billion in 2012 and rebranded it as Tangerine soon after. Feature advances have stalled since purchase.](../images/2015-07-27-canadian-fintech-startups-have-only-3-options/tangerine.jpg)
 
 Tangerine was only possible because established bank, ING, expanded into Canada in 1997 with enough resources to deal with the regulation. With expansive established business around the world, they could pay to get over the regulatory hurdles keeping them from Canadian customers. Most startups will never start with a war chest big enough to get past the regulation to truly disrupt the banking experience in Canada.
 

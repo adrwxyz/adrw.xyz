@@ -9,7 +9,7 @@ tags:
   - University-of-Waterloo
 categories:
   - Blog
-image: https://raw.githubusercontent.com/adrw/high-resolution-compressed-images/master/img/00011c.png
+banner: https://raw.githubusercontent.com/adrw/high-resolution-compressed-images/master/img/00011c.png
 description: Follow this framework to help show how awesome your hack is in the short time you have.
 seo_title: "The Hacker's ABC Framework for Doing a Kickass Demo | Andrew Paradi Alexander"
 ---

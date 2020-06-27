@@ -14,8 +14,8 @@ tags:
   - Skill(Javascript ES5/ES6/ES7)
   - Skill(HTML)
   - Skill(CSS)
-image: /assets/article_images/2016-02-02-progress-pebble/progress-pebble-app-store-2000c.png
-image2: /assets/article_images/2016-02-02-progress-pebble/progress-pebble-app-store-1000c.png
+banner: ../images/2016-02-02-progress-pebble/progress-pebble-app-store-2000c.png
+image2: ../images/2016-02-02-progress-pebble/progress-pebble-app-store-1000c.png
 description: Log workouts from dumb fitness trackers to the cloud!
 seo_title: "Progress Pebble - Log workouts from dumb fitness trackers | Andrew Paradi Alexander"
 position: Progress Pebble
@@ -37,7 +37,7 @@ I wanted to see if I was making any progress in my endurance and speed without a
 
 So I started building on a Pebble app to solve this problem.
 
-![Make your dumb fitness tracker smart!](/assets/article_images/2016-02-02-progress-pebble/mheader_v0.1c.png)
+![Make your dumb fitness tracker smart!](../images/2016-02-02-progress-pebble/mheader_v0.1c.png)
 
 With a basic app called Progress, I could use my Pebble to track my progress as a cyclist. From my wrist I could:
 
@@ -45,7 +45,7 @@ With a basic app called Progress, I could use my Pebble to track my progress as 
 - Track stats like average speed, total distance, and total time
 - Scroll through my recent workouts or trips
 
-![Screenshots from my Pebble.](/assets/article_images/2016-02-02-progress-pebble/pebble-screenshots.png)
+![Screenshots from my Pebble.](../images/2016-02-02-progress-pebble/pebble-screenshots.png)
 
 Though I've stopped working on it, you can still install it from the [Pebble store](https://apps.getpebble.com/en_US/application/56ad85eed3cf022d44000001) and check out the [source code on Github](https://github.com/adrw/progress-pebble).
 

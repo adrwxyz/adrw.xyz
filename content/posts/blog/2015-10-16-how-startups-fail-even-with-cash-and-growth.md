@@ -7,8 +7,8 @@ tags:
   - Blog(Startups)
 categories:
   - Blog
-image: /assets/article_images/2015-10-16-how-startups-fail-even-with-cash-and-growth/DSC_8213.jpg
-image2: /assets/article_images/2015-10-16-how-startups-fail-even-with-cash-and-growth/DSC_8213-1000c.jpg
+banner: ../images/2015-10-16-how-startups-fail-even-with-cash-and-growth/DSC_8213.jpg
+image2: ../images/2015-10-16-how-startups-fail-even-with-cash-and-growth/DSC_8213-1000c.jpg
 description: Are you Default Alive or Default Dead? You need to read Paul Graham's latest post and honestly figure out your startup's answer.
 seo_title: "How Startups Fail Even with Cash and Growth | Andrew Paradi Alexander"
 ---

@@ -15,7 +15,7 @@ tags:
   - Skill(Wordpress)
   - Skill(Video-Production)
   - Wilfrid-Laurier-University
-image: /assets/article_images/2014-02-26-sam-campaign/SamDisplayPicture.png
+banner: ../images/2014-02-26-sam-campaign/SamDisplayPicture.png
 description: Sam Lambert won a tight race for President. Andrew helped develop the winning strategy, web, and video marketing.
 seo_title: "Bowtie - How We Won a Presidential Campaign | Andrew Paradi Alexander"
 position: Marketing Co-Lead
@@ -39,6 +39,6 @@ I was actively involved in marketing strategy meetings, developed his campaign w
 
 Sam was elected by under 300 votes in one of the tightest elections in years. In talking to voters and those involved, many attributed the win to our bow tie strategy which pushed for both higher impressions on students and pushing the campaign to be one on character, not politics.
 
-![](/assets/article_images/2014-02-26-sam-campaign/sam-site-c3.png)
+![](../images/2014-02-26-sam-campaign/sam-site-c3.png)
 
 - = Wilfrid Laurier University Students' Union

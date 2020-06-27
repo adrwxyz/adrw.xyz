@@ -8,8 +8,8 @@ tags:
   - Blog(Teknically)
 categories:
   - Blog
-image: /assets/article_images/2015-04-02-7-personal-lessons-from-founding-a-startup/field-truck.jpg
-image2: /assets/article_images/2015-04-02-7-personal-lessons-from-founding-a-startup/field-truck-1000c.png
+banner: ../images/2015-04-02-7-personal-lessons-from-founding-a-startup/field-truck.jpg
+image2: ../images/2015-04-02-7-personal-lessons-from-founding-a-startup/field-truck-1000c.png
 description: 7 personal lessons I learned from founding a startup at 18, developing into a young adult, interviewing at Y Combinator, and why I decided to exit.
 seo_title: "7 Personal Lessons from Founding a Startup | Andrew Paradi Alexander"
 ---
@@ -58,7 +58,7 @@ In high school I read a book called <a href="http://www.chapters.indigo.ca/en-ca
 He suggests in his book that leadership isn't simple like a straight line. It's not just leading those below you by setting goals or casting vision; as a team leader,
 club president, or even startup founder. True leadership extends for 360º.
 
-![Illustration of the 360º Leader (attr: ajoconnor.com).](/assets/article_images/2015-04-02-7-personal-lessons-from-founding-a-startup/360Leader.png)
+![Illustration of the 360º Leader (attr: ajoconnor.com).](../images/2015-04-02-7-personal-lessons-from-founding-a-startup/360Leader.png)
 
 It involves leading by example and helpful words nudging in the right direction those beside you; as peers, classmates, or good friends. Leadership includes proving by example a better work ethic, a better way to live, addressing those above you respectfully; your bosses, executives, or elders.
 
@@ -74,7 +74,7 @@ If you want to be serious about becoming a great leader, be serious about leadin
 I have two distinct memories of becoming overwhelmed by failure in the course of our startup. Both revealed an immovable reliance I had put on success to justify my understanding of who I was as a person.
 
 <h3>i) Laurier Entrepreneurship Competition</h3>
-![](/assets/article_images/2015-04-02-7-personal-lessons-from-founding-a-startup/LEC-c.jpg)
+![](../images/2015-04-02-7-personal-lessons-from-founding-a-startup/LEC-c.jpg)
 
 In February 2014 we competed in the Laurier Entrepreneurship Competition and blew away the crowd with a very polished presentation. Compared to others who presented in terms of their idea and presentation I was sure without much of any doubt that we would win.
 
@@ -88,7 +88,7 @@ I was shocked and kept desperately wanting to know what did we do wrong? How cou
 It took a while but I have. When we competed later in Halifax and Provo, my mindset going in was very different. I didn't have any assumption that we would win simply based on being the best, we needed to tailor to the judges. In Halifax we successfully did that and won first place. In Provo, we weren't as successful. Regardless of the results I was still very happy with how we did, separate from our place in the standings.
 
 <h3>ii) Y Combinator</h3>
-![](/assets/article_images/2015-04-02-7-personal-lessons-from-founding-a-startup/SFstation-c.jpg)
+![](../images/2015-04-02-7-personal-lessons-from-founding-a-startup/SFstation-c.jpg)
 
 In November 2014, we interviewed unsuccessfully at Y Combinator in Mountain View, California. My reaction then was different. I began to think back over everything we had accomplished; competitions won, mentors impressed, co-op students hired, innovative software designs, overflowing waitlists of customers. Had it all been false positives, had it all been for nothing?
 
@@ -99,7 +99,7 @@ We had succeeded in so many different ways. We had learned so much. No, we didn'
 <strong>One of the greatest legacies of this failure will be not my complete rehabilitation, but the beginning of a new journey to root my self-worth in a foundation that doesn't sway in the winds of failure or the rising tides of success.</strong>
 
 <h2>Faith</h2>
-![](/assets/article_images/2015-04-02-7-personal-lessons-from-founding-a-startup/field-cross-c.jpg)
+![](../images/2015-04-02-7-personal-lessons-from-founding-a-startup/field-cross-c.jpg)
 
 I wouldn't be honest with you if I didn't bring this up. Any founder will admit to the anxiety that can sink in late at night or right before an important presentation, the stress that can seem to compound with each day, the doubts of whether this is all going to be worth it.
 

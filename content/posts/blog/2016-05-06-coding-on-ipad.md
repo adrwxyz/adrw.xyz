@@ -9,8 +9,8 @@ tags:
   - University-of-Waterloo
 categories:
   - Blog
-image: /assets/article_images/2016-05-06-coding-on-ipad/IMG_1418.jpg
-image2: /assets/article_images/2016-05-06-coding-on-ipad/IMG_1418-1000c.jpg
+banner: ../images/2016-05-06-coding-on-ipad/IMG_1418.jpg
+image2: ../images/2016-05-06-coding-on-ipad/IMG_1418-1000c.jpg
 description: How a year working on iPad convinced me the Post-PC era is almost here.
 seo_title: "I code on my iPad, the world will soon | Andrew Paradi Alexander"
 ---
@@ -45,13 +45,13 @@ Productivity on an iPad is a function of how well you can manage with a bluetoot
 
 After years trying different keyboards, I found the [Brydge Air](http://www.brydgekeyboards.com/collections/ipad-air-air-2-pro-9-7-inch). It has a pesky `Siri` key where the `fn` key should be but is otherwise flawless.
 
-![Brydge Air is an awesome keyboard](/assets/article_images/2016-05-06-coding-on-ipad/IMG_1421-1000c.png)
+![Brydge Air is an awesome keyboard](../images/2016-05-06-coding-on-ipad/IMG_1421-1000c.png)
 
 For math and economics classes, I've come to rely on the Pencil from [Paperby53](http://www.fiftythree.com/pencil) or the [Adonit Jot Pro](http://www.adonit.net/jot)to write notes in OneNote that has ever improving drawing support.
 
 This past year, iOS9's keyboard support and split view multitasking has made doing real work on the iPad possible. I've found the two app limit often liberating as it lets me focus on a single task with no visual clutter.
 
-![iPad can handle CS246](/assets/article_images/2016-05-06-coding-on-ipad/coda-documents-ipadc.png)
+![iPad can handle CS246](../images/2016-05-06-coding-on-ipad/coda-documents-ipadc.png)
 
 - Take notes from my textbook in iBooks with [OneNote](https://itunes.apple.com/us/app/microsoft-onenote-lists-photos/id410395246?mt=8) open side by side.
 - Code a CS assignment with the spec open in [Documents](https://itunes.apple.com/us/app/documents-5-fast-pdf-reader/id364901807?mt=8) and a terminal in [Coda 2](https://www.panic.com/coda-ios)to work on the school linux server.
@@ -73,7 +73,7 @@ Each generation of computers has been disrupted by a cheaper, less powerful, les
 
 Microcomputers (Macs & PCs) of the 1980s _disrupted_ the minicomputers of the 1970s which _disrupted_ the supercomputers of the 1960s.
 
-![NSA Supercomputer in 1971](/assets/article_images/2016-05-06-coding-on-ipad/Supercomputer_NSA-IBM360_85c.jpg)
+![NSA Supercomputer in 1971](../images/2016-05-06-coding-on-ipad/Supercomputer_NSA-IBM360_85c.jpg)
 
 And yet, most regular people are not crying about the slow down of desktop computing.
 
@@ -148,7 +148,7 @@ The future is here.
 
 **May 12: Featured on Spain tech site applesfera.com**
 
-![](/assets/article_images/2016-05-06-coding-on-ipad/coding-ipad-applesferac.png)
+![](../images/2016-05-06-coding-on-ipad/coding-ipad-applesferac.png)
 
 Read Eduardo Archanco's piece [here](http://www.applesfera.com/ipad/programar-codigo-en-un-ipad-todos-los-dias-es-posible).
 

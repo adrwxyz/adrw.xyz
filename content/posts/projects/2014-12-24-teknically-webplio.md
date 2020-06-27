@@ -20,7 +20,7 @@ tags:
   - Pitch
   - Skill(Sales-Copy)
   - Skill(Video-Production)
-image: /assets/article_images/2014-12-24-teknically-webplio/webplio-c.png
+banner: ../images/2014-12-24-teknically-webplio/webplio-c.png
 description: Brandon Chow &amp; Andrew Paradi interviewed at Y Combinator, were part of Google for Entrepreneurs, developed Webplio&#58; machine learning for Google Analytics.
 seo_title: "Teknically &amp; Webplio - the future of Google Analytics | Andrew Paradi Alexander"
 position: CEO & Founder
@@ -89,12 +89,12 @@ May 2, 2014. Utah Valley Convention Center in Provo, Utah.
   <br/>**The Globe and Mail** - Sept 19, 2014
 - [Google for Entrepreneurs Cohort 2 set to launch in Communitech Hub](http://news.communitech.ca/news/google-for-entrepreneurs-cohort-2-set-to-launch-in-communitech-hub)
   <br/>**Communitech News** - Sept 9, 2014
-- [570 News #TechHour: The Inside Scoop on Google 4 Entrepreneurs at Communitech](/assets/article_images/2014-12-24-teknically-webplio/TechHour570News-Sept9-2014.mp3)
+- [570 News #TechHour: The Inside Scoop on Google 4 Entrepreneurs at Communitech](../images/2014-12-24-teknically-webplio/TechHour570News-Sept9-2014.mp3)
   <br/>**570 News** - Sept 9, 2014
 - [Five New Startups Awarded Residency at the Google Innovation Space at Communitech](http://www.betakit.com/five-new-startups-awarded-residency-in-the-google-innovation-space-at-communitech-hub)
   <br/>**BetaKit** - Sept 2, 2014
 
-![Google for Entrepreneurs Cohort 2, Sept 2014](/assets/article_images/2014-12-24-teknically-webplio/G4E.jpg)
+![Google for Entrepreneurs Cohort 2, Sept 2014](../images/2014-12-24-teknically-webplio/G4E.jpg)
 
 ## Webplio Demo
 
@@ -102,11 +102,11 @@ May 2, 2014. Utah Valley Convention Center in Provo, Utah.
 
 ## Press
 
-![Our debut in the Globe & Mail.](/assets/article_images/2014-12-24-teknically-webplio/insta-globe-mail-crop.jpg)
+![Our debut in the Globe & Mail.](../images/2014-12-24-teknically-webplio/insta-globe-mail-crop.jpg)
 
 - [Featured Company Profile](http://www.oce-ontario.org/our-companies)
   <br/>**Ontario Centres of Excellence** - March 17, 2016
-- [Laurier Business School Highlights to Alumni for 2014-2015](/assets/article_images/2014-12-24-teknically-webplio/lazaridis-sbe-highlights.pdf)
+- [Laurier Business School Highlights to Alumni for 2014-2015](../images/2014-12-24-teknically-webplio/lazaridis-sbe-highlights.pdf)
   <br/>**Wilfrid Laurier University** - April 23, 2015
 - [Five Canadian startups turn to Google for their big push](http://business.financialpost.com/2014/10/05/five-canadian-startups-turn-to-google-for-their-big-push)
   <br/>**Financial Post** - Oct 5, 2014
@@ -114,7 +114,7 @@ May 2, 2014. Utah Valley Convention Center in Provo, Utah.
   <br/>**The Globe and Mail** - Sept 19, 2014
 - [Google for Entrepreneurs Cohort 2 set to launch in Communitech Hub](http://news.communitech.ca/news/google-for-entrepreneurs-cohort-2-set-to-launch-in-communitech-hub)
   <br/>**Communitech News** - Sept 9, 2014
-- [#TechHour: The Inside Scoop on Google 4 Entrepreneurs at Communitech](/assets/article_images/2014-12-24-teknically-webplio/TechHour570News-Sept9-2014.mp3)
+- [#TechHour: The Inside Scoop on Google 4 Entrepreneurs at Communitech](../images/2014-12-24-teknically-webplio/TechHour570News-Sept9-2014.mp3)
   <br/>**570 News** - Sept 9, 2014
 - [Five New Startups Awarded Residency at the Google Innovation Space at Communitech](http://www.betakit.com/five-new-startups-awarded-residency-in-the-google-innovation-space-at-communitech-hub)
   <br/>**BetaKit** - Sept 2, 2014

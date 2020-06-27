@@ -16,8 +16,8 @@ tags:
   - Skill(Wordpress)
   - Skill(Training)
   - Skill(Systems-Administration)
-image: /assets/article_images/2017-09-04-corkscrewnet/corkscrewnet-new-2000c.png
-image2: /assets/article_images/2017-09-04-corkscrewnet/corkscrewnet-new-1000c.png
+banner: ../images/2017-09-04-corkscrewnet/corkscrewnet-new-2000c.png
+image2: ../images/2017-09-04-corkscrewnet/corkscrewnet-new-1000c.png
 description: CorkscrewNet.com has been online since 1999 but needed an easy to edit, new Wordpress website.
 seo_title: "New Wordpress site for CorkscrewNet | Andrew Paradi Alexander"
 position: Freelance Website Dev
@@ -28,10 +28,10 @@ summary: |
 
 CorkscrewNet.com has been online since 1999 and been a central hub for corkscrew collectors. After a website design that hasn't been updated in nearly a decade, it was time for an upgrade.
 
-![Old CorkscrewNet.com website 1999-2017.](/assets/article_images/2017-09-04-corkscrewnet/corkscrewnet-old-1500c.png)
+![Old CorkscrewNet.com website 1999-2017.](../images/2017-09-04-corkscrewnet/corkscrewnet-old-1500c.png)
 
 The new Wordpress design is mobile friendly, easy to edit, and a great change for the site moving forward.
 
-![New CorkscrewNet.com website.](/assets/article_images/2017-09-04-corkscrewnet/corkscrewnet-new-2000c.png)
+![New CorkscrewNet.com website.](../images/2017-09-04-corkscrewnet/corkscrewnet-new-2000c.png)
 
 Check it out at <a href="http://corkscrewnet.com/" target="_blank">corkscrewnet.com</a>.

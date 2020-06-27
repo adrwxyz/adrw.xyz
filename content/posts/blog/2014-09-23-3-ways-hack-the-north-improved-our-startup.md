@@ -7,13 +7,13 @@ tags:
   - Hackathon
   - Blog(Startups)
   - University-of-Waterloo
-banner: HTN-Photo-c.jpg
+banner: ../images/2014-09-23-3-ways-hack-the-north-improved-our-startup/HTN-Photo-c.jpg
 description: From September 19th to the 21st, University of Waterloo's Engineering 5 building was over run by a native species of the region&#58; hackers...
 ---
 
 **From September 19th to the 21st, University of Waterloo's Engineering 5 building was over run by a native species of the region: hackers...**
 
-> ![Update May 2015: We've been featured on Hack the North's Press <a href="http://hackthenorth.com/press" target=_blank">page</a>!](HTN-press-c.jpg)
+> ![Update May 2015: We've been featured on Hack the North's Press <a href="http://hackthenorth.com/press" target=_blank">page</a>!](../images/2014-09-23-3-ways-hack-the-north-improved-our-startup/HTN-press-c.jpg)
 
 Hack the North at UW gave 1,000 top hackers the opportunity to build something awesome in just 36 hours. Sponsored by top tech companies (Apple, Microsoft, Google, Facebook, Bloomberg, Uber <a href="http://hackthenorth.com" target="_blank">...</a>), <a href="http://www.ycombinator.com" target="_blank">Y Combinator</a>, and with opportunities to use the newest technologies from Oculus Rifts to Thalmic Lab's Myo, Canada had never seen a hackathon like this.
 
@@ -48,7 +48,7 @@ When we contemplated entering Hack the North we were a bit worried whether we'd 
 - Andrew Paradi: Finance lead and algorithms expert
 - Jason Kurian: A MEAN ninja
 
-![Stock Slate Team: Yutong Luo, Brandon Chow, Andrew Paradi, Jason Kurian](HTN-Photo-c.jpg)
+![Stock Slate Team: Yutong Luo, Brandon Chow, Andrew Paradi, Jason Kurian](../images/2014-09-23-3-ways-hack-the-north-improved-our-startup/HTN-Photo-c.jpg)
 
 Thanks to our shared interest in learning new technologies and matching skills, our team was just filled with <a href="https://youtu.be/VFqbGbU8f8o" target="_blank">synergy</a>. We also had the skills to tackle new technologies. From the MEAN stack to the Bloomberg Open API it was a lot of fun working with new technologies to build out Stock Slate as a fluid one page web app. We even ended up winning the Bloomberg API Prize for best use of their API (each of us will be get a <a href="http://ardrone2.parrot.com" target="_blank">Parrot AR Elite Drone</a> in the mail soon)!
 
@@ -60,7 +60,7 @@ Everyone at the event is there in good spirit to have a good time and show what 
 
 <video controls>
   <source
-    src="/assets/article_images/2014-09-23-3-ways-hack-the-north-improved-our-startup/silicon-man.mp4"
+    src="../images/2014-09-23-3-ways-hack-the-north-improved-our-startup/silicon-man.mp4"
     type="video/mp4"
   />
 </video>
@@ -81,7 +81,7 @@ We wanted to leave enough time for hacking so we decided to only go to the keyno
 
 Saturday afternoon's headline act was Y Combinator's new President Sam Altman. He was interviewed by University of Waterloo's Dean of Engineering Dr. Pearl Sullivan but we found the panel discussion that followed much more applicable to startup life. Moderated by Sam, the panel consisted of UW's most successful YCom alumni with founders and CEOs of Pebble, Thalmic Labs, Vidyard, and A Thinking Ape all sharing valuable insights on what it's really like to build a startup.
 
-![UW + YC: Sam Altman moderates a panel of alumni from both University of Waterloo and Y Combinator: Eric Migicovsky (Founder, Pebble), Eric Diep (Founder, A Thinking Ape), Wilkins Chung (A Thinking Ape), Michael Litt (CEO, Vidyard), Stephen Lake (CEO, Thalmic Labs)](uw-yc-alumni.jpg)
+![UW + YC: Sam Altman moderates a panel of alumni from both University of Waterloo and Y Combinator: Eric Migicovsky (Founder, Pebble), Eric Diep (Founder, A Thinking Ape), Wilkins Chung (A Thinking Ape), Michael Litt (CEO, Vidyard), Stephen Lake (CEO, Thalmic Labs)](../images/2014-09-23-3-ways-hack-the-north-improved-our-startup/uw-yc-alumni.jpg)
 
 Both speakers and the panel confirmed both that Waterloo is an awesome place to build a startup, but there's nothing that can come close to the access to capital and mentorship that you get in Silicon Valley. Even though all of the UW YCom founders have since moved their companies back to Waterloo (or Vancouver for A Thinking Ape), each founder talked about how they still spend time regularly in the valley to maintain their networks and receive corporate guidance. For our startup, these two talks pushed us to set more concrete goals of how we will somehow make our way to the valley in coming years.
 

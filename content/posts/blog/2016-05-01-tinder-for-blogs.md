@@ -6,8 +6,8 @@ tags:
   - Blog
 categories:
   - Blog
-image: /assets/article_images/2016-05-01-tinder-for-blogs/DSC_1702.jpg
-image2: /assets/article_images/2016-05-01-tinder-for-blogs/DSC_1702-1000c.jpg
+banner: ../images/2016-05-01-tinder-for-blogs/DSC_1702.jpg
+image2: ../images/2016-05-01-tinder-for-blogs/DSC_1702-1000c.jpg
 description: Every week I'm writing a post, and you can swipe right or left to choose what I write next!
 seo_title: "Tinder for Blogs | Andrew Paradi Alexander"
 ---
@@ -50,7 +50,7 @@ So that's the plan! _andrewnotes_ is getting a reboot...and this next chapter is
 
 **Swipe left or right below &amp; enter your email, don't miss it!**
 
-![Original Tinder Feedback Form (Not accepting responses anymore)](/assets/article_images/2016-05-01-tinder-for-blogs/tinder-blitzen.png)
+![Original Tinder Feedback Form (Not accepting responses anymore)](../images/2016-05-01-tinder-for-blogs/tinder-blitzen.png)
 
 **Top Posts**
 
