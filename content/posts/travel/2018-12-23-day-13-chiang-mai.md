@@ -6,13 +6,13 @@ description: >-
   The shadows of the women weaving new cloth bounced across the floors, the
   different colours of thread moving in and around each other becoming a
   masterpiece to add to the wall of blankets and scarves.
-img: /img/b0fe8da6-346d-431d-83d5-78997c5ec389.jpeg
+img: ../images/uploads/b0fe8da6-346d-431d-83d5-78997c5ec389.jpeg
 tags:
   - Travel
   - Travel(2018 South East Asia)
 ---
 
-![Thai woven blanket](/img/b0fe8da6-346d-431d-83d5-78997c5ec389.jpeg)
+![Thai woven blanket](../images/uploads/b0fe8da6-346d-431d-83d5-78997c5ec389.jpeg)
 
 Taking over 2 months to weave, the Thai blanket was made in a small village comprising of Catholic refugees from Cambodia and Laos allowed in to Thailand decades ago.
 

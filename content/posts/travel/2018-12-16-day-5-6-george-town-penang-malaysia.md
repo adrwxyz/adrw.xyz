@@ -3,13 +3,13 @@ title: "Day 5-7: George Town, Penang, Malaysia"
 date: 2018-12-16T01:17:13.519Z
 slug: travel/2018-12-16-day-5-6-george-town-penang-malaysia
 description: "Beautiful streets and delicious food"
-img: /img/e2588e6f-0100-43dd-acf2-6f26070bb9f0.jpeg
+img: ../images/uploads/e2588e6f-0100-43dd-acf2-6f26070bb9f0.jpeg
 tags:
   - Travel
   - Travel(2018 South East Asia)
 ---
 
-![](/img/256120c6-40ba-467c-ba95-616223bdfd81.jpeg)
+![](../images/uploads/256120c6-40ba-467c-ba95-616223bdfd81.jpeg)
 
 ```
 The streets are alive, with the smell of food.
@@ -22,7 +22,7 @@ So I will eat once more.
 
 Our first morning in George Town started with fried chicken, rajuk (fruit with a peanut sauce poured over top), honeydew pudding, and a coconut shake, not bought from regular street vendors, but from university students.
 
-![University business students at their food stalls](/img/84de6950-269e-463b-b242-8a8cb55359b1.jpeg)
+![University business students at their food stalls](../images/uploads/84de6950-269e-463b-b242-8a8cb55359b1.jpeg)
 
 As we learned from the students, the day we were there turned out to be a big fundraiser across town for a local orphanage. Classes of business students from the local university had been tasked with creating a food stall business and using it to support the orphanage and prove their acumen in operations, accounting, and marketing.
 
@@ -42,7 +42,7 @@ The streets were noticeably cleaner than Bangkok, as was most of Malaysia.
 
 The food was filled with flavour, many food stands only making a single dish and still having long lines of locals and tourists waiting to eat.
 
-![Joo Hooi Cafe](/img/e2588e6f-0100-43dd-acf2-6f26070bb9f0.jpeg)
+![Joo Hooi Cafe](../images/uploads/e2588e6f-0100-43dd-acf2-6f26070bb9f0.jpeg)
 
 We sat with a family from Singapore in the packed Joo Hooi cafe who had come for a short 3 day vacation and had been looking forward to the food in Penang. As we continued travelling through Malaysia and mentioned that we had been to Penang, most locals mouths began to water as their eyes darted up and they reminisced about the last time they had been to the island known for its excellent cuisine.
 

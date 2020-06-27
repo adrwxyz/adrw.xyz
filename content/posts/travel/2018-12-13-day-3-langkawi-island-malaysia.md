@@ -3,7 +3,7 @@ title: "Day 3: From the Border to Langkawi"
 date: 2018-12-13T09:28:23.100Z
 slug: travel/2018-12-13-day-3-langkawi-island-malaysia
 description: I think we’re going to like it here...
-img: "/img/12a47347-6a0e-4672-a47f-0586cd58df05.jpeg"
+img: "../images/uploads/12a47347-6a0e-4672-a47f-0586cd58df05.jpeg"
 tags:
   - Travel
   - Travel(2018 South East Asia)
@@ -23,7 +23,7 @@ When we got through without any troubles, a helpful Malaysian man approached us 
 
 A young university student aged boy seemed to be listening intently and I asked if he was going there too. He was, and accepted our offer to share a taxi there. Azim-Jon, or John for short, was from Uzbekistan and just recently graduated from Informations Technology studies at a Malaysian university.
 
-![View from the bridge over the tracks](/img/1ef6a772-f24a-4b8c-a20a-c6a20465626f.jpeg)
+![View from the bridge over the tracks](../images/uploads/1ef6a772-f24a-4b8c-a20a-c6a20465626f.jpeg)
 
 We headed up over the bridge out of the station and still found ourselves a bit lost on the other side as the cars and trucks rushed past approaching the land border crossing.
 
@@ -43,7 +43,7 @@ At one point, an approaching police motorcycle with flashers approached waving u
 
 We asked John and the driver what this was all about, and they were mum not saying anything.
 
-![Mountains emerge from the field](/img/a10c59fa-9312-477c-973d-21226818dfd8.jpeg)
+![Mountains emerge from the field](../images/uploads/a10c59fa-9312-477c-973d-21226818dfd8.jpeg)
 
 The lush tropical vegetation was beautiful. Large rock mountains seemed to emerge from the ground in places, some even with carved out caves.
 
@@ -53,7 +53,7 @@ We caught the ferry from Kuala Perlis after trying some local street food. The f
 
 Coming from a North American culture that continues to add trigger warnings to much more tame content, this was a bit of a surprise to see, especially given all the children on the ferry.
 
-![The Eagle](/img/c56c549b-77e1-442a-8085-57f7043fbccb.jpeg)
+![The Eagle](../images/uploads/c56c549b-77e1-442a-8085-57f7043fbccb.jpeg)
 
 The port of Kuah on Langkawi Island has Legends Park which was beautiful and intriguing even as we saw it from just the ferry exit with a soaring eagle overlooking the bay.
 
@@ -61,4 +61,4 @@ We caught a Grab to our Airbnb on the North coast of the island. On arrival, our
 
 Safe to say, I think we’re going to like it here.
 
-![Private beach](/img/12a47347-6a0e-4672-a47f-0586cd58df05.jpeg)
+![Private beach](../images/uploads/12a47347-6a0e-4672-a47f-0586cd58df05.jpeg)

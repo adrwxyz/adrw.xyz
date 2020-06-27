@@ -5,7 +5,7 @@ slug: travel/2018-12-13-day-2-bangkok
 description: >-
   A vibrant stroll down bustling alleys of vendors, local busses, and an
   overnight train to Malaysia.
-img: /img/d6d3dbd5-e997-4fd0-85a7-1e363218f5e8.jpeg
+img: ../images/uploads/d6d3dbd5-e997-4fd0-85a7-1e363218f5e8.jpeg
 tags:
   - Travel
   - Travel(2018 South East Asia)
@@ -15,11 +15,11 @@ tags:
 
 We decided to explore north of the Chan Road, the major road near our Airbnb. Littered with a variety of shops, restaurants, street food stands, and vendors, there was so much to see and smell.
 
-![Red Thai Curry and deep fried pork bits](/img/91f11d05-5062-463c-8a40-b6ea37c90809.jpeg)
+![Red Thai Curry and deep fried pork bits](../images/uploads/91f11d05-5062-463c-8a40-b6ea37c90809.jpeg)
 
 The 25 Baht (\$1 CAD) bubble tea was too inexpensive to resist and we tried a delicious red Thai curry and deep fried pork belly bits. From the first bite that curry was... wow!
 
-![A soi from another place](/img/d6d3dbd5-e997-4fd0-85a7-1e363218f5e8.jpeg)
+![A soi from another place](../images/uploads/d6d3dbd5-e997-4fd0-85a7-1e363218f5e8.jpeg)
 
 One of the alleys caught my attention as it looked full of raw food stalls for local restaurant or food vendors. We walked down found butchers and produce vendors, clothing stalls, an old electronics shop, and a 3 ton metal stamp press in one store front. Everyone looked at us as if few tourists ventured down their soi (alley).
 
@@ -31,11 +31,11 @@ That soi felt like another world, seeing people making the best of their circums
 
 As we were walking back to Chan Road, the main road in Sathon District, we saw the filming of what only can be an up and coming Anthony Bordaine of Thailand!
 
-![Thai Anthony Bordaine](/img/b32a8e6e-ec12-42e9-98ba-77f38a4d9728.jpeg)
+![Thai Anthony Bordaine](../images/uploads/b32a8e6e-ec12-42e9-98ba-77f38a4d9728.jpeg)
 
 ## Ride the Bus
 
-![A big, red, route 75 bus](/img/dbc4c37b-fe0e-41ef-ba9b-8fc60536a672.jpeg)
+![A big, red, route 75 bus](../images/uploads/dbc4c37b-fe0e-41ef-ba9b-8fc60536a672.jpeg)
 
 There are many different categories of buses in Thailand and you can save a lot of Baht if you take them instead of taxis or Grab.
 
@@ -48,15 +48,15 @@ For most buses there will be a person onboard in a blue uniform who will walk ar
 
 The Bangkok bus routes (including the songthaews are all on Google Maps too so finding the right bus to get us to the Hua Lamphong train station was a breeze.
 
-![Songthaew!](/img/a679d2c2-8d45-4929-bb33-7775e6f953da.jpeg)
+![Songthaew!](../images/uploads/a679d2c2-8d45-4929-bb33-7775e6f953da.jpeg)
 
 Riding the songthaew was an immersive experience riding up close with the rest of the Bangkok traffic, seeing motorcycles weave around you, and all the bustle of street life.
 
-![Motorcycles!](/img/a073ceb5-50b5-4302-b4d9-78f24ea6ac01.jpeg)
+![Motorcycles!](../images/uploads/a073ceb5-50b5-4302-b4d9-78f24ea6ac01.jpeg)
 
 ## Overnight to Malaysia
 
-![Platform 4](/img/1b56cf1b-b608-4ef3-936f-6016c228a17b.jpeg)
+![Platform 4](../images/uploads/1b56cf1b-b608-4ef3-936f-6016c228a17b.jpeg)
 
 We boarded train 45 on platform 4, our overnight train to Padang Besar, the border with Malaysia. The train station had beautiful stained glass and a European style to the architecture.
 
@@ -66,7 +66,7 @@ We sat beside an elderly couple who spoke fluent English and had visited Toronto
 
 They were now off to Georgetown and then the Cameron Highlands in Malaysia. We decided to add Georgetown to our itinerary after his (and Pastor Pye’s back home) recommendation.
 
-![Setting up the sleeping berths](/img/3fa800cd-1ed8-4054-9e02-7165a9d5450b.jpeg)
+![Setting up the sleeping berths](../images/uploads/3fa800cd-1ed8-4054-9e02-7165a9d5450b.jpeg)
 
 The train was loud with vendors coming every few minutes to sell food or drinks. Train staff came by around 6pm to start setting up the beds. This involves turning the facing bench seats into a flat bed, pulling down the upper bunk from the ceiling, and laying out fresh linens.
 

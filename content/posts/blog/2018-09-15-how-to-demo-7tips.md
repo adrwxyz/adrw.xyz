@@ -9,7 +9,7 @@ tags:
   - University-of-Waterloo
 categories:
   - Blog
-banner: https://raw.githubusercontent.com/adrw/high-resolution-compressed-images/master/img/00012c.png
+banner: https://raw.githubusercontent.com/adrw/high-resolution-compressed-images/master../images/uploads/00012c.png
 description: Follow these tips to help show how awesome your hack is in the short demo time you have.
 seo_title: "7 Tips for Doing a Kickass Demo | Andrew Paradi Alexander"
 ---
