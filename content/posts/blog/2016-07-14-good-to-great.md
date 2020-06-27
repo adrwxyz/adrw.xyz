@@ -8,8 +8,8 @@ tags:
   - Books
 categories:
   - Blog
-image: /assets/article_images/2016-07-14-good-to-great/DSC_0726c.jpg
-image2: /assets/article_images/2016-07-14-good-to-great/DSC_0726c-1000c.jpg
+banner: ../images/2016-07-14-good-to-great/DSC_0726c.jpg
+image2: ../images/2016-07-14-good-to-great/DSC_0726c-1000c.jpg
 description: Good to Great is the &#35;1 book I would recommend if you want to improve your startup &amp; identify winning businesses.
 seo_title: "Why startup founders should read Good to Great | Andrew Paradi Alexander"
 ---
@@ -35,7 +35,7 @@ Next week, I will release [part 3](/blog/books-part-3)of my every-6ish-months bo
 
 ## Good to Great – Jim Collins
 
-![Good to Great by Jim Collins](/assets/article_images/2016-07-14-good-to-great/Good-to-Great-946608.jpg)
+![Good to Great by Jim Collins](../images/2016-07-14-good-to-great/Good-to-Great-946608.jpg)
 
 Author Jim Collins and his research team started with a question:
 
@@ -51,7 +51,7 @@ And more importantly for leaders of any team, **how did they become great?**
 
 After interviewing management teams and employees, Collins distilled **8 key characteristics** that defined the great companies and their leaders (and were noticeably lacking from their "good", but not great, peers).
 
-![Good to Great Flywheel illustration from book](/assets/article_images/2016-07-14-good-to-great/goodtogreatflywheel.png)
+![Good to Great Flywheel illustration from book](../images/2016-07-14-good-to-great/goodtogreatflywheel.png)
 
 1.  **Level 5 Leadership**: Defined not as the charismatic leaders society idolizes, Level 5's are quiet, humble, and determined. Working hard to listen, lead with integrity and by example, they are more Lincoln than Patton or Caesar.
 
@@ -119,7 +119,7 @@ Regular reading gave us new ideas and perspectives to bounce off each other. Wit
 
 ## Consider the Following
 
-![Bill Nye thinks you should consider this too](/assets/article_images/2016-07-14-good-to-great/consider-the-following-bill-nye.jpg)
+![Bill Nye thinks you should consider this too](../images/2016-07-14-good-to-great/consider-the-following-bill-nye.jpg)
 
 I would encourage every founder to start reading again.
 Admit that you do not know everything. Keep learning.

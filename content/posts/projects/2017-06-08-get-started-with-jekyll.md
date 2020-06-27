@@ -13,8 +13,8 @@ tags:
   - Skill(Jekyll)
   - Skill(Bash, ZSH, Shell)
   - Skill(Ansible)
-image: /assets/article_images/2017-06-08-get-started-with-jekyll/get-started-2000c.png
-image2: /assets/article_images/2017-06-08-get-started-with-jekyll/get-started-1000c.png
+banner: ../images/2017-06-08-get-started-with-jekyll/get-started-2000c.png
+image2: ../images/2017-06-08-get-started-with-jekyll/get-started-1000c.png
 description: "Faster than Wordpress, cheaper than Squarespace, and more professional than Wix."
 seo_title: "Jekyll Guide: Build your own Jekyll site on GitHub pages. | Andrew Paradi Alexander"
 position: Get Started with Jekyll

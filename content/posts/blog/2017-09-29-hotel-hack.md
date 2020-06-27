@@ -9,8 +9,8 @@ tags:
 categories:
   - Blog
   - Featured
-image: /assets/article_images/2017-09-29-hotel-hack/hotel-lock-c.jpg
-image2: /assets/article_images/2017-09-29-hotel-hack/hotel-lock-500c.jpg
+banner: ../images/2017-09-29-hotel-hack/hotel-lock-c.jpg
+image2: ../images/2017-09-29-hotel-hack/hotel-lock-500c.jpg
 description: A 2012 vulnerability still can let anyone break in to millions of hotel rooms.
 seo_title: "10 Million Hotel Rooms Still Vulnerable | Andrew Paradi Alexander"
 ---

@@ -17,8 +17,8 @@ tags:
   - Skill(HTML)
   - Skill(Sass)
   - Pitch
-image: /assets/article_images/2016-09-19-resume-scoreboard/htn-2c.png
-image2: /assets/article_images/2016-09-19-resume-scoreboard/htn-2-1000c.png
+banner: ../images/2016-09-19-resume-scoreboard/htn-2c.png
+image2: ../images/2016-09-19-resume-scoreboard/htn-2-1000c.png
 description: A resume comparison tool built at Hack the North 2016 in AngularJS.
 seo_title: "Resume Scoreboard - AngularJS, Firebase, Material Design | Andrew Paradi Alexander"
 position: Resume Scoreboard
@@ -39,7 +39,7 @@ But unlike with Google searches, you can't verify where you rank, whether you're
 
 _Resume Scoreboard_ changes this by giving applicants the chance to see how their resume compares to the job description before applying.
 
-![Resume Scoreboard](/assets/article_images/2016-09-19-resume-scoreboard/resume-scoreboard-htn-demo.gif)
+![Resume Scoreboard](../images/2016-09-19-resume-scoreboard/resume-scoreboard-htn-demo.gif)
 
 1. Copy the job title &amp; description you're applying to
 2. Copy in your resume text

@@ -52,6 +52,6 @@ We’d recommended only converting at the airport 500-600 Baht (\$25-30CAD) so y
 
 ## Long day
 
-![Suzie learning about our Airbnb](/img/c63d2183-d3f3-4c50-82af-8ec23157f8d4.jpeg)
+![Suzie learning about our Airbnb](../images/uploads/c63d2183-d3f3-4c50-82af-8ec23157f8d4.jpeg)
 
 Those are a few of our stories from our very long travel day. We’ve now settled in to our Airbnb in Bangkok and hope to get some sleep before exploring the city tomorrow.

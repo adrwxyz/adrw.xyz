@@ -13,7 +13,7 @@ tags:
   - Skill(Shopify)
   - Skill(HTML)
   - Skill(CSS)
-image: /assets/article_images/oakwearco/lawrence-desktop-1500c.png
+banner: ../images/oakwearco/lawrence-desktop-1500c.png
 description: Five storied sock styles in a responsive web store experience
 seo_title: "OAKWEAR & CO. – Five storied sock styles in a responsive web store experience | Andrew Paradi Alexander"
 position: Founder, Digital Operations
@@ -32,6 +32,6 @@ We hope you enjoy your socks!
 
 – Andrew Paradi, Mar 27, 2018
 
-<a href="https://www.instagram.com/oakwearco/">![@OAKWEARCO on Instagram](/assets/article_images/oakwearco/instagram-c.png)</a>
+<a href="https://www.instagram.com/oakwearco/">![@OAKWEARCO on Instagram](../images/oakwearco/instagram-c.png)</a>
 
-![Oxford Circus on iPad](/assets/article_images/oakwearco/oxford-circus-ipad-c.png)
+![Oxford Circus on iPad](../images/oakwearco/oxford-circus-ipad-c.png)

@@ -16,8 +16,8 @@ tags:
   - Skill(HTML)
   - Skill(Sass)
   - Skill(Javascript ES5/ES6/ES7)
-image: /assets/article_images/adrw-jekyll/index-1-1500c.png
-image2: /assets/article_images/adrw-jekyll/index-1-1000c.png
+banner: ../images/adrw-jekyll/index-1-1500c.png
+image2: ../images/adrw-jekyll/index-1-1000c.png
 description: Personal portfolio and blog website, Jekyll on GitHub Pages
 seo_title: "Building ADRW Jekyll Theme | Andrew Paradi Alexander"
 position: ADRW Jekyll Theme
@@ -38,21 +38,21 @@ If you find any bugs or have any questions, please [email me](mailto:account+git
 
 Menu that dynamically scales to all screen sizes and auto-hides on mobile.
 
-![Desktop Menu Closed](/assets/article_images/adrw-jekyll/menu-closed-1c.png)
-![Desktop Menu](/assets/article_images/adrw-jekyll/desktop-menu-1c.png)
-![Mobile Menu](/assets/article_images/adrw-jekyll/mobile-menu-1c.png)
+![Desktop Menu Closed](../images/adrw-jekyll/menu-closed-1c.png)
+![Desktop Menu](../images/adrw-jekyll/desktop-menu-1c.png)
+![Mobile Menu](../images/adrw-jekyll/mobile-menu-1c.png)
 
 ## Cards
 
 Built image grid to feature images from posts and projects for use on homepage, project, and blog pages. Displays all posts in a given category.
 
-![Cards](/assets/article_images/adrw-jekyll/cards-1c.png)
+![Cards](../images/adrw-jekyll/cards-1c.png)
 
 ## Card Sections
 
 Extension of cards to allow for sections of posts by category with buttons to more related posts. See on [`/index`](http://classic.adrw.xyz/), [`/projects`](http://classic.adrw.xyz/projects), and [`/blog`](http://classic.adrw.xyz/blog) pages.
 
-![Card Sections](/assets/article_images/adrw-jekyll/card_sections-2-1500c.png)
+![Card Sections](../images/adrw-jekyll/card_sections-2-1500c.png)
 
 ## Resume Layout
 
@@ -64,7 +64,7 @@ Resume layout that pulls from `work`, `hackathon`, `project`, `freelance`, and `
 - `company` : firm or organization
 - `summary` : markdown description of experience
 
-![Resume Layout](/assets/article_images/adrw-jekyll/resume-1.png)
+![Resume Layout](../images/adrw-jekyll/resume-1.png)
 
 ## Tag and Category Clouds
 
@@ -72,7 +72,7 @@ Tags on category, page, project, &amp; post layouts. Used `{ % for % }` loops an
 
 Archive layout that pulls from categories and tags to create easy navigation of all categories and tags with their respective totals of posts. See on [`/c`](http://classic.adrw.xyz/c) and [`/t`](http://classic.adrw.xyz/t) pages.
 
-![Category Cloud](/assets/article_images/adrw-jekyll/archive-cloud-1c.png)
+![Category Cloud](../images/adrw-jekyll/archive-cloud-1c.png)
 
 ## Modularized Footer and Social Bar
 

@@ -7,8 +7,8 @@ tags:
   - Blog(Startups)
 categories:
   - Blog
-image: /assets/article_images/2015-04-29-innovation-in-the-6/oce-founder-forum.jpg
-image2: /assets/article_images/2015-04-29-innovation-in-the-6/oce-founder-forum-c.png
+banner: ../images/2015-04-29-innovation-in-the-6/oce-founder-forum.jpg
+image2: ../images/2015-04-29-innovation-in-the-6/oce-founder-forum-c.png
 description: OCE Discover 2015&#58; Thousands of entrepreneurs, researchers, policy makers, & community organizations together to celebrate and foster innovation in Ontario.
 seo_title: "OCE Discovery 2015: Innovation in the #6ix? | Andrew Paradi Alexander"
 ---
@@ -20,7 +20,7 @@ In August 2014, Teknically (see part <a href="/blog/the-389-day-laurier-bba/">1<
 
 Every year in April, OCE hosts the Discovery conference at the Toronto Metro Convention Centre to celebrate the innovation that funded companies have produced in the past year. I attended to represent Teknically at the exclusive Founder's Forum event before the conference opened.
 
-![Bruce Croxon: Founder of Lavalife, Dragon on Dragon's Den Season 6-8. Photo: <a href='http://www.techvibes.com/blog/why-bruce-croxon-dragons-den-2014-03-17' target='_blank'>TechVibes</a>](/assets/article_images/2015-04-29-innovation-in-the-6/Croxon_Bruce.jpg)
+![Bruce Croxon: Founder of Lavalife, Dragon on Dragon's Den Season 6-8. Photo: <a href='http://www.techvibes.com/blog/why-bruce-croxon-dragons-den-2014-03-17' target='_blank'>TechVibes</a>](../images/2015-04-29-innovation-in-the-6/Croxon_Bruce.jpg)
 
 Bruce Croxon anchored the event with an initial talk and panel discussion afterwards. He seemed very down to earth and honest in ways I hadn't heard before from other entrepreneurs. One thing he said stood out for me.
 
@@ -62,7 +62,7 @@ As with most things in life, I've begun to learn first hand that serving others 
 Since I wasn't working on Webplio anymore, there was no distraction to try and get the person to sign up. I was able to listen and think of the best insights or lessons I could share to help them. I can't speak for others but I found this approach to networking much more rewarding.
 
 <h2>The State of Innovation</h2>
-![](/assets/article_images/2015-04-29-innovation-in-the-6/oce-founder-forum.jpg)
+![](../images/2015-04-29-innovation-in-the-6/oce-founder-forum.jpg)
 
 It's an honour to attend these events with so many hard working, down to earth people. I didn't know what to expect at Discovery but I walked away very impressed with the individuals in many aspects of Ontario's entrepreneurship ecosystem, the growing synergy between government and startup sector, and the state of innovation in Ontario.
 

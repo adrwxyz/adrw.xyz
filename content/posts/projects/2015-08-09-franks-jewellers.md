@@ -17,8 +17,8 @@ tags:
   - Skill(Sales-Copy)
   - Skill(Training)
   - Skill(Systems-Administration)
-image: /assets/article_images/2015-08-09-franks-jewellers/franks.png
-image2: /assets/article_images/2015-08-09-franks-jewellers/franks-1000c.png
+banner: ../images/2015-08-09-franks-jewellers/franks.png
+image2: ../images/2015-08-09-franks-jewellers/franks-1000c.png
 description: Frank's Jewellers has been a trusted store in Uptown Waterloo since 1919. When they needed a new website, Andrew delivered with a responsive, modern Wordpress website.
 seo_title: "New website boosts historic Frank's Jewellers | Andrew Paradi Alexander"
 position: Freelance Website Dev
@@ -31,11 +31,11 @@ Frank's Jewellers has been trusted by couples and jewellery shoppers in Uptown W
 
 Against the intuitive local search of Yelp and improving competitors, owner Bob Frank knew they needed a more effective website.
 
-![Old Frank's Jewellers website 2002-2015.](/assets/article_images/2015-08-09-franks-jewellers/frank-jewellers-oldc.png)
+![Old Frank's Jewellers website 2002-2015.](../images/2015-08-09-franks-jewellers/frank-jewellers-oldc.png)
 
 Built on Wordpress, I heavily customized a base theme in PHP, coded page templates, wrote new sales copy, built a custom Google Analytics dashboard, and trained staff how to edit content and understand Google Analytics.
 
-![New Frank's Jewellers website.](/assets/article_images/2015-08-09-franks-jewellers/franks.png)
+![New Frank's Jewellers website.](../images/2015-08-09-franks-jewellers/franks.png)
 
 The new site is extremely easy to edit, cost efficient to maintain long term, and is beautifully responsive on any device.
 

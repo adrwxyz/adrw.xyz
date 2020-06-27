@@ -9,8 +9,8 @@ tags:
   - Blog(Teknically)
 categories:
   - Blog
-image: /assets/article_images/2014-12-24-the-dream-fades/ChristmasAndrewBridge.jpg
-image2: /assets/article_images/2014-12-24-the-dream-fades/ChristmasAndrewBridge-1000c.jpg
+banner: ../images/2014-12-24-the-dream-fades/ChristmasAndrewBridge.jpg
+image2: ../images/2014-12-24-the-dream-fades/ChristmasAndrewBridge-1000c.jpg
 description: To Y Combinator and back again, our biggest lessons at Teknically Inc. building Webplio&#58; a Google Analytics dashboard that anybody could use.
 seo_title: "Teknically Part 2: The Dream Fades | Andrew Paradi Alexander"
 ---
@@ -21,7 +21,7 @@ Well I suppose this deserves a bit more explanation. Let's go back to where we l
 
 As seemed to be the pattern with our startup journey so far, life without classes didn't slow down, it only got faster. Within days of signing final deferral paperwork, we had decided to apply for Y Combinator and I already had plans to go to California!
 
-![Andrew at the Kairos Global Summit, Ritz-Carlton Laguna Beach October 2014.](/assets/article_images/2014-12-24-the-dream-fades/AndrewRitz.jpg)
+![Andrew at the Kairos Global Summit, Ritz-Carlton Laguna Beach October 2014.](../images/2014-12-24-the-dream-fades/AndrewRitz.jpg)
 
 ## Writing with a Dying Pen
 
@@ -41,7 +41,7 @@ The Kairos Global Summit was an annual invite only gathering of 300 of the brigh
 
 I was very surprised and honoured to be invited to the summit. Not only was this a very cool personal opportunity but with such a broad representation of entrepreneurs, VCs, and mentors, it was a great networking opportunity for Teknically. I quickly purchased plane tickets and 2 days after we submitted our YC application, I was on a flight to Los Angeles!
 
-![The Communitech Mafia Goes to California: Mike Reid, Desmond Choi, and Andrew at Kairos Global Summit.](/assets/article_images/2014-12-24-the-dream-fades/KGS-Mike-Desmond.jpg)
+![The Communitech Mafia Goes to California: Mike Reid, Desmond Choi, and Andrew at Kairos Global Summit.](../images/2014-12-24-the-dream-fades/KGS-Mike-Desmond.jpg)
 
 It was hard to believe my eyes. Our hotel room overlooked the ocean and the conference events were held at the Ritz-Carlton Laguna Beach down the road. I had never attended an event with such luxuries and sponsorship subsidized costs for all attendees.
 
@@ -73,7 +73,7 @@ To San Francisco we flew and each minute got more exciting. From the airport we 
 
 > It was my childhood dreams coming true...I really like(d) trains.
 
-![](/assets/article_images/2014-12-24-the-dream-fades/train.jpg)
+![](../images/2014-12-24-the-dream-fades/train.jpg)
 
 Once in Mountain View, we struck two vital aspects of valley life off the bucket list: we took an Uber to our Airbnb. A bit more practice and nap time and then we went exploring. We ended up at a nice local Italian restaurant right on the downtown Mountain View strip.
 
@@ -81,7 +81,7 @@ Once in Mountain View, we struck two vital aspects of valley life off the bucket
 
 I thought by this time we already had a right to celebrate. We were in Silicon Valley interviewing at Y Combinator. Pretty awesome for a pair of 19 year olds straight outta the 905.
 
-![Y Combinator. 335 Pioneer Way, Mountain View, California.](/assets/article_images/2014-12-24-the-dream-fades/YC.jpg)
+![Y Combinator. 335 Pioneer Way, Mountain View, California.](../images/2014-12-24-the-dream-fades/YC.jpg)
 
 Our interview was at 11:45am on a Thursday. We had a very calm morning leading up to it. We stopped by a Turkish bakery in town for breakfast, Uber-ed to YC, and had an hour to just bask in the glow of the orange walls.
 
@@ -89,17 +89,17 @@ It was exciting to finally be in the place we had dreamed of, the common thread 
 
 <strong>"Though I walk through the valley of the shadow of death, I will fear no evil." <a href="https://www.biblegateway.com/passage/?search=Psalm+23&version=NIV">Psalm 23</a> (KJV)</strong>
 
-![Andrew and Brandon interview at Y Combinator, November 2014.](/assets/article_images/2014-12-24-the-dream-fades/Duo-at-YC.jpg)
+![Andrew and Brandon interview at Y Combinator, November 2014.](../images/2014-12-24-the-dream-fades/Duo-at-YC.jpg)
 
 We interviewed with Sam Altman (YC President), Jessica Livingston (Founder of YC), Trevor Blackwell (Founder of YC), Jon Levy (YC lawyer), and Elizabeth Iorns (part time YC partner). Even when speaking with one of the toughest interviewing panels in the valley, I realized I wasn't stressed. They were still just people, not "gods" of the startup world.
 
 The ten minute interview flew by. I was happy, we had done our best, but now we had an afternoon to kill. Judgement would be passed down that evening in the form of an email (rejection) or a phone call (acceptance). Brandon and I both had our own coping strategies.
 
-![Different Coping Methods: Andrew finds out what's at the bottom of a Ben & Jerry's. Brandon...why so serious?](/assets/article_images/2014-12-24-the-dream-fades/YC-Coping-Methods.jpg)
+![Different Coping Methods: Andrew finds out what's at the bottom of a Ben & Jerry's. Brandon...why so serious?](../images/2014-12-24-the-dream-fades/YC-Coping-Methods.jpg)
 
 We got caught up on some Hawaii Five-0 episodes and then took the CalTrain up to San Francisco where we'd be spending the night at our friend Mike's apartment. I got my camera out and had some fun capturing some of the cityscape and soon were eating at a California Pizza Kitchen...in California.
 
-![Classic streetcar on Market Street in San Francisco as we get the YC email.](/assets/article_images/2014-12-24-the-dream-fades/Streetcar.jpg)
+![Classic streetcar on Market Street in San Francisco as we get the YC email.](../images/2014-12-24-the-dream-fades/Streetcar.jpg)
 
 As we were walking to the Canadians @ YC meetup we got the email. It felt like being hit by a truck but with less blood. I was intellectually prepared for the email but not emotionally. I took a few minutes to pray and collect my thoughts.
 

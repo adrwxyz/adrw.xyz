@@ -12,8 +12,8 @@ tags:
   - Projects
   - Skill(HTML)
   - Skill(CSS)
-image: /assets/article_images/2017-02-25-torduckgo/torduckgo-2000c.png
-image2: /assets/article_images/2017-02-25-torduckgo/torduckgo-1000c.png
+banner: ../images/2017-02-25-torduckgo/torduckgo-2000c.png
+image2: ../images/2017-02-25-torduckgo/torduckgo-1000c.png
 description: Search .onion version of DuckDuckGo by default in Tor browser.
 seo_title: "TorDuckGo - Tor version of DuckDuckGo | Andrew Paradi Alexander"
 position: TorDuckGo
@@ -34,10 +34,10 @@ I did the research to create and embed the XML so you can go to a single website
 
 1. Go to [adrw.ch/torduckgo](/torduckgo/) in [Tor Browser](https://www.torproject.org/projects/torbrowser.html)
 2. Click the green + in the search box
-   ![](/assets/article_images/2017-02-25-torduckgo/green-search.png)
+   ![](../images/2017-02-25-torduckgo/green-search.png)
 3. Add TorDuckGo to your search options
 4. Set TorDuckGo as your default browser in Preferences -> Search
-   ![](/assets/article_images/2017-02-25-torduckgo/choose-default-search.png)
+   ![](../images/2017-02-25-torduckgo/choose-default-search.png)
 5. Enjoy getting to default search [DuckDuckGo](https://duckduckgo.com) with [3g2upl4pq6kufc4m.onion](https://3g2upl4pq6kufc4m.onion/)
 
 ## Resources
