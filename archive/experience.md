@@ -40,7 +40,7 @@ Resume coming soon...
   - **Ontario Centres of Excellence** - March 17, 2016
 - [Great Study on Optimizing Growth](https://twitter.com/copyhackers/status/657363804162949121?ref_src=twsrc%5Etfw&ref_url=http%3A%2F%2F0.0.0.0%3A4000%2Fblog%2Fvideostream-how-growth-starts-with-great-customer-support)
   - **CopyHackers, Joanna Wiebe** - October 22, 2015
-- [Laurier Business School Highlights to Alumni for 2014-2015](/assets/article_images/2014-12-24-teknically-webplio/lazaridis-sbe-highlights.pdf)
+- [Laurier Business School Highlights to Alumni for 2014-2015](../images/2014-12-24-teknically-webplio/lazaridis-sbe-highlights.pdf)
   - **Wilfrid Laurier University** - April 23, 2015
 - [Five Canadian startups turn to Google for their big push](http://business.financialpost.com/2014/10/05/five-canadian-startups-turn-to-google-for-their-big-push)
   - **Financial Post** - Oct 5, 2014
@@ -48,7 +48,7 @@ Resume coming soon...
   - **The Globe and Mail** - Sept 19, 2014
 - [Google for Entrepreneurs Cohort 2 set to launch in Communitech Hub](http://news.communitech.ca/news/google-for-entrepreneurs-cohort-2-set-to-launch-in-communitech-hub)
   - **Communitech News** - Sept 9, 2014
-- [#TechHour: The Inside Scoop on Google 4 Entrepreneurs at Communitech](/assets/article_images/2014-12-24-teknically-webplio/TechHour570News-Sept9-2014.mp3)
+- [#TechHour: The Inside Scoop on Google 4 Entrepreneurs at Communitech](../images/2014-12-24-teknically-webplio/TechHour570News-Sept9-2014.mp3)
   - **570 News** - Sept 9, 2014
 - [Five New Startups Awarded Residency at the Google Innovation Space at Communitech](http://www.betakit.com/five-new-startups-awarded-residency-in-the-google-innovation-space-at-communitech-hub)
   - **BetaKit** - Sept 2, 2014

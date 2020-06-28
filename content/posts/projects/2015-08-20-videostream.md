@@ -11,6 +11,8 @@ categories:
   - Featured
 layout: project
 tags:
+  - Experience
+  - Experience(Work)
   - Projects
   - Skill(Javascript ES5/ES6/ES7)
   - Skill(HTML)
