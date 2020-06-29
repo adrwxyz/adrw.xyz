@@ -60,7 +60,7 @@ Everyone at the event is there in good spirit to have a good time and show what 
 
 <video controls>
   <source
-    src="../images/2014-09-23-3-ways-hack-the-north-improved-our-startup/silicon-man.mp4"
+    src="/img/silicon-man.mp4"
     type="video/mp4"
   />
 </video>

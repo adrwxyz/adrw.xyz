@@ -22,7 +22,7 @@ seo_title: "FAQ: Why Does Andrew Salsa Dance? | Andrew Paradi Alexander"
 
 <strong>11 weeks in, I had run out of excuses.</strong>
 
-![](/assets/article_images/2014-11-23-faq-why-does-andrew-salsa-dance/salsa-1.jpg)
+![](../images/2014-11-23-faq-why-does-andrew-salsa-dance/salsa-1.jpg)
 
 <h2>La Prima</h2>
 
@@ -36,7 +36,7 @@ Through the winter I attended Level 1 and 2 classes simultaneously. In the summe
 
 I made new friends from more faculties and backgrounds than I could imagine. We learned more complex moves than I thought I could ever pull off. Salsa was the fun that made the summer fly by.
 
-![](/assets/article_images/2014-11-23-faq-why-does-andrew-salsa-dance/salsa-2.jpg)
+![](../images/2014-11-23-faq-why-does-andrew-salsa-dance/salsa-2.jpg)
 
 <h2>La Hermana</h2>
 When I auditioned for the EOT performance team earlier this fall, I did it more of a test of my skills than anything. I had no idea if I'd get in when there were many more experienced dancers auditioning.
@@ -53,7 +53,7 @@ Along each step of the journey, the leaders, instructors, and TAs have been so f
 
 <strong>It really takes a village to raise a dancer.</strong>
 
-![](/assets/article_images/2014-11-23-faq-why-does-andrew-salsa-dance/salsa-instagram-eot.jpg)
+![](../images/2014-11-23-faq-why-does-andrew-salsa-dance/salsa-instagram-eot.jpg)
 
 It's never too late to find your passion. Even if it's not salsa dancing, find a supportive community and go for it! Then again, it may be salsa dancing and you just don't know it yet...;) Salsa class returns in January, so check out <a href="https://www.facebook.com/kwsalseros" target="_blank">KW Salseros</a> for more information.
 
