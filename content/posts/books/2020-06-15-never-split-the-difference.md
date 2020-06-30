@@ -15,9 +15,11 @@ Voss intersperces his techniques with stories from the field and from personal l
 
 Tone of voice matters. For hostage and intense negotations, he often goes with a midnight DJ smooth baritone tone that exudes calmness, confidence, and omniprescence. An aggressive posture and tone as recommended in many negotiating seminars may "get to yes", but that yes will simply be so you shut up and go away.
 
-Mirroring is the tactic of repeating back 2-3 words from what the other person recently said to encourage them to keep talking. The mirroring shows that you are listening but also often fools the other persons' unconcious empathy judgement into thinking that you are not a threat. This makes the other person much more open to negotiating in good faith and trusting what you are saying.
+Mirroring is the tactic of repeating back 2-3 words from what the other person recently said to encourage them to keep talking. The mirroring shows that you are listening but also often is convincing for the other persons' unconcious empathy judgement into thinking that you are not a threat. This makes the other person much more open to negotiating in good faith and trusting what you are saying.
 
 Silence is a secret tactic. Leaving time for a statement or question to sit puts unconscious social pressure on the other person to respond. When used in interrogations, people in periods of awkward silence can often end up rambling and sometimes fully confessing simply to stop the awkward encounter. During negotiations, using silence gives the other person the chance to actually listen to what you said above the noise of you talking, them trying to process your words, and their inner voice.
+
+Additionally, the uncomfortbility of silence implies that you are unwilling to budge on a given term. Your counterpart will now start negotiating against themself to back down enough to get out of the situation amicably, doing the hard work of the negotiation for you!
 
 "That's right", means they agree. "You're right", means they have tuned you out and just want to exit the conversation.
 
