@@ -20,3 +20,7 @@ Mirroring is the tactic of repeating back 2-3 words from what the other person r
 Silence is a secret tactic. Leaving time for a statement or question to sit puts unconscious social pressure on the other person to respond. When used in interrogations, people in periods of awkward silence can often end up rambling and sometimes fully confessing simply to stop the awkward encounter. During negotiations, using silence gives the other person the chance to actually listen to what you said above the noise of you talking, them trying to process your words, and their inner voice.
 
 "That's right", means they agree. "You're right", means they have tuned you out and just want to exit the conversation.
+
+Don't split the difference. Compromise and accepting worse deals is a tactic for feelings or discomfort minimization, not good negotiating.
+
+Deadlines cause people to do many things against the best interest and to rush a situation. Across countless private industry clients of Voss, only one example over decades could be given of a real deadline. Almost all are fake and with minimal blowback if it is missed, and thus a tool to imply deadlines for counterparts and not to get frantic yourself.
