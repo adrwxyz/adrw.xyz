@@ -17,6 +17,6 @@ Tone of voice matters. For hostage and intense negotations, he often goes with a
 
 Mirroring is the tactic of repeating back 2-3 words from what the other person recently said to encourage them to keep talking. The mirroring shows that you are listening but also often fools the other persons' unconcious empathy judgement into thinking that you are not a threat. This makes the other person much more open to negotiating in good faith and trusting what you are saying.
 
-Silence is a secret tactic. Leaving room for a statement or question to sit puts unconscious social pressure on the other person to respond. Often with silence, they have the chance to actually listen to what you said above the noise of you talking or their inner voice.
+Silence is a secret tactic. Leaving time for a statement or question to sit puts unconscious social pressure on the other person to respond. When used in interrogations, people in periods of awkward silence can often end up rambling and sometimes fully confessing simply to stop the awkward encounter. During negotiations, using silence gives the other person the chance to actually listen to what you said above the noise of you talking, them trying to process your words, and their inner voice.
 
 "That's right", means they agree. "You're right", means they have tuned you out and just want to exit the conversation.
