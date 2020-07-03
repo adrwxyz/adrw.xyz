@@ -1,8 +1,8 @@
 ---
 date: 2000-01-24
 tags:
-	- Songs
-	- Songs(Other)
+  - Songs(Other)
+  - Songs
 
 title: Allentown
 slug: songs/allentown

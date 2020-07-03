@@ -1,8 +1,8 @@
 ---
 date: 2000-01-24
 tags:
-  - Songs
   - Songs(Other)
+  - Songs
 
 title: Mamma Mia
 slug: songs/mamma-mia

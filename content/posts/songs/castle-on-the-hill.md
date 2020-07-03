@@ -1,8 +1,8 @@
 ---
 date: 2000-01-24
 tags:
-  - Songs
   - Songs(Other)
+  - Songs
 
 title: "Castle On The Hill"
 slug: songs/castle-on-the-hill

@@ -1,8 +1,8 @@
 ---
 date: 2000-01-24
 tags:
-  - Songs
   - Songs(Other)
+  - Songs
 
 title: "Flowers In Your Hair"
 slug: songs/flowers-in-your-hair

@@ -1,8 +1,8 @@
 ---
 date: 2000-01-24
 tags:
-  - Songs
   - Songs(Other)
+  - Songs
 
 title: What a Wonderful World
 slug: songs/what-a-wonderful-world-sam-cooke

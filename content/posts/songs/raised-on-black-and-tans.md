@@ -1,8 +1,8 @@
 ---
 date: 2000-01-24
 tags:
-  - Songs
   - Songs(Other)
+  - Songs
 
 title: "Raised on Black & Tans"
 slug: songs/raised-on-black-and-tans

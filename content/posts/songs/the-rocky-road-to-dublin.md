@@ -1,8 +1,8 @@
 ---
 date: 2000-01-24
 tags:
-  - Songs
   - Songs(Other)
+  - Songs
 
 title: "The Rocky Road to Dublin"
 slug: songs/the-rocky-road-to-dublin
