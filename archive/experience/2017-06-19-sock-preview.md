@@ -2,7 +2,7 @@
 title: "Help Us Make Sock Shopping Suck Less"
 date: 2017-06-19 08:00:00
 startdate: 2017-05-09 9:05:00
-path: /project/socks-preview
+slug: project/socks-preview
 order: 96
 categories:
   - Blog

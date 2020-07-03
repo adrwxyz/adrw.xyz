@@ -2,7 +2,7 @@
 title: "Square Cash"
 date: 2018-05-01 16:34:25
 startdate: 2018-05-07 17:26:13
-path: /project/square-cash
+slug: project/square-cash
 order: 1
 categories:
   - Experience

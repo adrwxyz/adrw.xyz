@@ -1,7 +1,7 @@
 ---
 title: Finance and Investing 101
 date: 2020-02-18T15:45:09.380Z
-path: finance/101
+slug: finance/101
 tags:
   - Finance
 ---
@@ -9,6 +9,8 @@ tags:
 # Finance and Investing 101
 
 Below are resources that educated and formed my knowledge and understanding of economics, finance, investing, and budgeting.
+
+For a specific deep dive on the question of home ownership, see [Buying a House?](/finance/real-estate).
 
 ## Books
 
@@ -19,7 +21,7 @@ Below are resources that educated and formed my knowledge and understanding of e
 - Principles for Navigating Big Debt Crises (Ray Dalio)
   - Released in 2018 with key case studies of the 1929 Great Depression, 1920s Weimar Germany Hyperinflation, and 2008 Great Recession, and over 15 other studies of big debt crises of the past 100 years, Ray Dalio teaches you to pattern match these crises and understand the levers that governments and central bankers will use to try (sometimes unsuccessfully) to navigate a country's economy back on course.
   - This book has been instrumental in my understanding of current events with the 2020 COVID-19 recession and related actions by governments and central banks and made the news much more predictable with respect to those aspects.
-  - It also formed my analysis framework when I've looked at whether the Canadian Real Estate market is a bubble and how it could pop, [written in 2019](/notes/finance/2019-state-of-canadian-real-estate)
+  - It also formed my analysis framework when I've looked at whether the Canadian Real Estate market is a bubble and how it could pop, [written in 2019](/finance/2019-state-of-canadian-real-estate)
   - Read the book for free at Ray Dalio's site [principles.com](https://www.principles.com/big-debt-crises/)
   - Find other resources including Ray Dalio's book on life and work principles at [principles.com](https://www.principles.com/) and [economicprinciples.org](https://economicprinciples.org/)
 - [Canadian Couch Potato](https://canadiancouchpotato.com/)

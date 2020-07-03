@@ -2,6 +2,7 @@
 date: 2000-01-24T00:00:00.000Z
 tags:
   - Songs
+  - Songs(Other)
 title: Happy Birthday
 slug: songs/happy-birthday-traditional
 artist: Traditional

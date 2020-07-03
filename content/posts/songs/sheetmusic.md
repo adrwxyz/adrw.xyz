@@ -2,6 +2,8 @@
 date: 2000-01-24T00:00:00.000Z
 tags:
   - Songs
+  - Songs(Index)
+  - Songs(Other)
 title: Sheetmusic
 slug: songs/sheetmusic
 artist: Various
@@ -18,7 +20,7 @@ artist: Various
 
 ## Worship
 
-- [Worship Songs](/notes/songs/worship/)
+- [Worship Songs](/tags/songs-worship)
 - [Worship Chords EYA 1](/assets/files/sheetmusic/Chord-Book-SubHub-1.pdf)
 - [Worship Chords EYA 2](/assets/files/sheetmusic/KW-Sub-Hub-2018-Music.pdf)
 - [Big Life Praise & Worship Chords](/assets/files/sheetmusic/big-life-praise-worship-chords.pdf)
@@ -27,6 +29,7 @@ artist: Various
 
 ## Other
 
+- [Classic Songs](/tags/songs-other)
 - [88 Guitar Chords](/assets/files/guitar-chords-chart.pdf)
 - [Reader's Digest Christmas](/assets/files/sheetmusic/Readers-Digest-Christmas.pdf)
 - [Standard Ukulele Chords](/assets/files/standard-ukulele-chord-chart.pdf)

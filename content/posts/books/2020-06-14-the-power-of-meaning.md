@@ -1,5 +1,5 @@
 ---
-title: The Power of Meaning – Crafting a Life That Matters
+title: "The Power of Meaning: Crafting a Life That Matters"
 date: 2020-06-14T15:59:15.272Z
 slug: books/the-power-of-meaning
 tags:

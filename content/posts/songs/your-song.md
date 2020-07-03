@@ -2,6 +2,7 @@
 date: 2000-01-24T00:00:00.000Z
 tags:
   - Songs
+  - Songs(Other)
 title: Your Song
 slug: songs/your-song
 artist: Elton John

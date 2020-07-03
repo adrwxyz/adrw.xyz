@@ -16,7 +16,7 @@ Churches in the West leave congregants as consumers and do not equip them to sha
 
 If we want a Spirit filled church that displays a love for each other, unity, and willingness to suffer so attractive to non-believers, that is not going to result from 90 minute once a week large group gatherings. House churches provide the intimacy, accountability, and opportunity for people's gifts to be used, for them to love each other through trials and suffering, and to devote themselves to God's word and to the Spirit.
 
-Read more about my learnings from the book in [Notes on Letters to the Church](/notes/books/2019-08-19-letters-to-the-church).
+Read more about my learnings from the book in [Notes on Letters to the Church](/books/letters-to-the-church).
 
 # Resources
 

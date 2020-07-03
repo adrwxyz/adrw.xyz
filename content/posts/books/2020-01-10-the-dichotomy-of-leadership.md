@@ -10,7 +10,7 @@ tags:
 
 **2018 | Jocko Willink, Leif Babin**
 
-A follow up to their book [Extreme Ownership](/notes/books/2020-01-06-extreme-ownership), former Navy Seal leaders Jocko Willink and Leif Babin outline the key tradeoffs in leadership, emphasizing that the ideal is not to be out on an extreme end of a spectrum for any given principle (which some had miniterpreted the title of their first book to imply), but to have a reasonable and effective medium that balances the tension of any given principle spectrum.
+A follow up to their book [Extreme Ownership](/books/extreme-ownership), former Navy Seal leaders Jocko Willink and Leif Babin outline the key tradeoffs in leadership, emphasizing that the ideal is not to be out on an extreme end of a spectrum for any given principle (which some had miniterpreted the title of their first book to imply), but to have a reasonable and effective medium that balances the tension of any given principle spectrum.
 
 Example dichotomies include (from the Amazon book description):
 

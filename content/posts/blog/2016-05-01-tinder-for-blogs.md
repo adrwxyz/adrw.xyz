@@ -20,7 +20,7 @@ Here's what I've written so far
 - [6 Questions to Focus your Resume on Impact](/blog/hired-part-1)
 - [Why Your Resume Needs SEO, and How](/blog/hired-part-2)
 - [Get More Interviews with This Resume Structure](/blog/hired-part-3)
-- [To Achieve Greatness, Don't Settle for Goodness](blog/good-to-great)
+- [To Achieve Greatness, Don't Settle for Goodness](/blog/good-to-great)
 - [Hackers, Portfolios, & Camp David](/blog/books-part-3)
 - [Blitzen: Signups Up 64% in Weeks](/project/blitzen)
 

@@ -1,7 +1,8 @@
 ---
 date: 2000-01-24T00:00:00.000Z
 tags:
-  - Songs
+	- Songs
+	- Songs(Other)
 title: Allentown
 slug: songs/allentown
 artist: Billy Joel

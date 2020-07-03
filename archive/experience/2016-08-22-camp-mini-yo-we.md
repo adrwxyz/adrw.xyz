@@ -2,7 +2,7 @@
 title: "Camp Mini-Yo-We"
 date: 2016-08-22 16:34:25
 startdate: 2012-06-23 17:26:13
-path: /project/camp-mini-yo-we
+slug: project/camp-mini-yo-we
 categories:
   - Experience
   - Volunteer

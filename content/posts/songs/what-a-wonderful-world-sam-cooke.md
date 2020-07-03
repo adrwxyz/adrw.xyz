@@ -2,6 +2,7 @@
 date: 2000-01-24T00:00:00.000Z
 tags:
   - Songs
+  - Songs(Other)
 title: What a Wonderful World
 slug: songs/what-a-wonderful-world-sam-cooke
 artist: Sam Cooke

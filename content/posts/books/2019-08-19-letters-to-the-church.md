@@ -17,7 +17,7 @@ Francis Chan's latest book outlines in a series of thematic Revelation-style let
 
 Deeply thought provoking, I'm excited for what the rest of the book holds. It draws deeply from Chan's learnings in founding a megachurch, Cornerstone Community Church, and resigning to start a house church movement, We Are Church.
 
-Read about my learnings and continued discovery of house churches in [Why House Church](/notes/faith/2019-09-01-why-house-church).
+Read about my learnings and continued discovery of house churches in [Why House Church](/faith/why-house-church).
 
 # Resources
 

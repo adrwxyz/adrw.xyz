@@ -2,7 +2,7 @@
 title: "Hack the Fire"
 date: 2017-09-21 16:34:25
 startdate: 2017-09-19 17:26:13
-path: /project/hack-the-fire
+slug: project/hack-the-fire
 order: 98
 categories:
   - Experience

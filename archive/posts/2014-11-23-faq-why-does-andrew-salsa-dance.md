@@ -1,7 +1,7 @@
 ---
 title: "FAQ: Why Does Andrew Salsa Dance?"
 date: 2014-11-23 20:42:25
-path: /blog/faq-why-does-andrew-salsa-dance
+slug: blog/faq-why-does-andrew-salsa-dance
 tags:
   - Life
   - Student

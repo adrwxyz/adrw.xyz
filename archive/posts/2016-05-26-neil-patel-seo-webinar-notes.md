@@ -1,7 +1,7 @@
 ---
 title: "Neil Patel SEO Webinar Notes"
 date: 2016-05-26 15:00:00
-path: /raw/2016-05-26-neil-patel-notes
+slug: raw/2016-05-26-neil-patel-notes
 tags:
 categories:
   - Hidden

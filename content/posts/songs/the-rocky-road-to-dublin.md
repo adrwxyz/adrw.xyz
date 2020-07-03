@@ -2,6 +2,7 @@
 date: 2000-01-24T00:00:00.000Z
 tags:
   - Songs
+  - Songs(Other)
 title: "The Rocky Road to Dublin"
 slug: songs/the-rocky-road-to-dublin
 artist: The Dubliners

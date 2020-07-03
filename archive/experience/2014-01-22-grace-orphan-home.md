@@ -2,7 +2,7 @@
 title: "Grace Orphan Home, India"
 date: 2015-08-15 16:34:25
 startdate: 2014-01-23 17:26:13
-path: /project/grace-orphan-home-india
+slug: project/grace-orphan-home-india
 order: 3
 categories:
   - Experience
