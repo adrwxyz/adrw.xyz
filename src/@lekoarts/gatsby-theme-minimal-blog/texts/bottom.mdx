@@ -1,6 +1,10 @@
 import Title from "@lekoarts/gatsby-theme-minimal-blog/src/components/title"
+import { Link } from "gatsby"
 
-<Title text={"Pinned"} />
+<Title text={"Pinned"}>
+  <Link to={"/tags"}>{"Read all notes by tag"}</Link>
+</Title>
+
 
 [Finance & Investing 101](/finance/101)
 
