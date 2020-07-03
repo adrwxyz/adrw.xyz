@@ -1,8 +1,9 @@
 ---
-date: 2000-01-24T00:00:00.000Z
+date: 2000-01-24
 tags:
   - Songs
   - Songs(Other)
+
 title: Rainbow Connection
 slug: songs/rainbow-connection
 artist: The Muppets

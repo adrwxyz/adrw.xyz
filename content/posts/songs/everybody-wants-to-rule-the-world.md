@@ -1,8 +1,9 @@
 ---
-date: 2000-01-24T00:00:00.000Z
+date: 2000-01-24
 tags:
   - Songs
   - Songs(Other)
+
 title: Everybody Wants to Rule the World
 slug: songs/everybody-wants-to-rule-the-world
 artist: Tears for Fears
