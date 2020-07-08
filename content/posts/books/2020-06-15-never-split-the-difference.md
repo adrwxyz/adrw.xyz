@@ -70,3 +70,19 @@ When returning with a counter-offer, using a range for the monetary value of pre
 Studies show even exposure to an extreme anchor adjusts the willingness of the counter party in that direction, sometimes even to their maximum offer.
 
 For example, a new hire at a job where the employer goes in wanting to pay $125k could bring up in the negotiations that "Well, I know that at ABC Corp, they pay similarly qualified new grads $130-170k". This doesn't come off aggresive or put the employer in a defensive position but moves their anchor up.
+
+### Pivot to Non-Monetary Terms
+
+Numbers in isolation leads to bargainning, limited by emotions of fairness and pride.
+
+Pivoting to non-monetary terms can make a high-anchored offer seem reasonable by offering them things that matter more to them, or by anchoring them a bit lower you can extract non-monetary terms more easily.
+
+For example, the author accepted a reduced monetary offer for a speech from a lawyer organization when they offered to feature him on the cover of their industry magazine, very valuable advertising that was more than the discount.
+
+### Exact Numbers Imply Pre-Meditated Thought
+
+Exact numbers imply that deep thought and analysis has gone into generating the offer. Round numbers imply a roughness and that they are movable.
+
+### The Gift
+
+Lean into people's intuition for reciprocity by offering a gift or something generous after an initially high anchor offer is rebuffed. The intuition for reciprocity and fairness will take over and the counter party will often increase their willingness to move towards your offer.
