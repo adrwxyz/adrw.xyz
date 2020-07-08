@@ -45,6 +45,16 @@ Don't split the difference. Compromise and accepting worse deals is a tactic for
 
 Deadlines cause people to do many things against the best interest and to rush a situation. Across countless private industry clients of Voss, only one example over decades could be given of a real deadline. Almost all are fake and with minimal blowback if it is missed, and thus a tool to imply deadlines for counterparts and not to get frantic yourself.
 
+### Give them the chance to say "No"
+
+In many aggresive interactive door-to-door sales pitches, questions are all phrased so that the counter party always answers "Yes" as they are aggresively led towards an unavoidable purchase.
+
+In that moment, the counter party has an aggresive urge to want to say "No" just to prove that they still can. Phrasing questions in a way that you want the other person to say "No" drops their defences, especially early in the negotiation or when things have gotten tense.
+
+For example, if someone is no longer replying to emails a follow up of "It's been 3 weeks, could we please move forward with approval of the pilot?" could be rephrased to be "Have you decided to not proceed with the pilot at all?".
+
+If thoughtfully written to not come off too passive aggressively, it warrants a response that is easier to give since it lets the person say "No".
+
 ### The "F" Word
 
 Use and be aware of the emotional power of the "F" word: _fair_. People intuitively do not want to be seen as being unfair. Starting the negotiation stating that you want to operate the negotiations fairly and using the word to describe the deal you're presenting puts the moral quandry on the other person. Similarly if they complain of a deal not being fair, and you're not aware of this potentially unconscious tactic, you can easily end up providing irrational concessions to be seen as _fair_ in the eyes of the other party.
@@ -86,3 +96,21 @@ Exact numbers imply that deep thought and analysis has gone into generating the 
 ### The Gift
 
 Lean into people's intuition for reciprocity by offering a gift or something generous after an initially high anchor offer is rebuffed. The intuition for reciprocity and fairness will take over and the counter party will often increase their willingness to move towards your offer.
+
+### Calibrated Open Ended Questions
+
+Give the other party the illusion of control so you can get them to come up with your offer as their idea.
+
+Don't use easy to answer and single word respondable questions. Use What, How, and sometimes Why questions to get the counter to think and respond expansively. _Why_ often comes across acusatorely and should only be used when the defensive position it puts the counter is exactly where you want them to be.
+
+Rephrasing an open ended question to the reverse of a demand will soften the other party and switch them to help you problem solve.
+
+For example, a patient gets up to leave when not allowed after surgery. A nurse demands that he must stay, he ignores her and continues to pack. A doctor comes in and asks "What are you trying to accomplish by leaving?"
+
+The patient pauses, thinks, and responds, "I have some errands that I have to do."
+
+Doctor replies that the patient can be connected to a service that will help him do that. The patient calms down and agrees to stay since he has now come up with the reason why he wanted to leave and that is now resolved.
+
+### Backed into a Corner, "How can I do that?"
+
+When in a supposed corner against an immovable party, often laying out the situation and turning the tables back on them with an open ended question of "How can I do that?" can soften them to see the position you are in.
