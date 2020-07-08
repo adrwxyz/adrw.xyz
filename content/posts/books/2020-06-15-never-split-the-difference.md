@@ -155,7 +155,7 @@ In contrast to pushy salesmen that hammer home the counter party with use of the
 
 Saying, "Hi, my name is ____", with a calm deferential tone of voice can disarm the most unruly situations, and even get special discounts or provisions in retail situations!
 
-### Getting Them to Negotiate Themselves
+### Getting Them to Negotiate Against Themselves
 
 Tell them "No" a few times without ever saying the word to have the counter party continue to negotiate against themselves upon each response.
 
@@ -165,3 +165,10 @@ Tell them "No" a few times without ever saying the word to have the counter part
 * "I'm sorry, no": if delivered gently, it barely sounds negative at all
 * "No": tone of downward inflection with regard
 
+### Haggling
+
+The key is to rattle the other guy ever so slightly to leave them on their heels.
+
+Any response that isn't an outright rejection to the offer means you have the upper hand.
+
+Sometimes presenting humbly "I'm so embaressed, I can't make that price work" and "Your offer is very generous, but I can't do that" along with silence through continuing to say "No" without saying the word can be the perfect combination.
