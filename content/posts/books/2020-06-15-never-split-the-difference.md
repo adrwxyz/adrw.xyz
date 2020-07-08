@@ -26,3 +26,5 @@ Additionally, the uncomfortbility of silence implies that you are unwilling to b
 Don't split the difference. Compromise and accepting worse deals is a tactic for feelings or discomfort minimization, not good negotiating.
 
 Deadlines cause people to do many things against the best interest and to rush a situation. Across countless private industry clients of Voss, only one example over decades could be given of a real deadline. Almost all are fake and with minimal blowback if it is missed, and thus a tool to imply deadlines for counterparts and not to get frantic yourself.
+
+Use and be aware of the emotional power of the "F" word: _fair_. People intuitively do not want to be seen as being unfair. Starting the negotiation stating that you want to operate the negotiations fairly and using the word to describe the deal you're presenting puts the moral quandry on the other person. Similarly if they complain of a deal not being fair, and you're not aware of this potentially unconscious tactic, you can easily end up providing irrational concessions to be seen as _fair_ in the eyes of the other party.
