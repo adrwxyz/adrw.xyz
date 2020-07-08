@@ -59,6 +59,8 @@ If thoughtfully written to not come off too passive aggressively, it warrants a 
 
 Use and be aware of the emotional power of the "F" word: _fair_. People intuitively do not want to be seen as being unfair. Starting the negotiation stating that you want to operate the negotiations fairly and using the word to describe the deal you're presenting puts the moral quandry on the other person. Similarly if they complain of a deal not being fair, and you're not aware of this potentially unconscious tactic, you can easily end up providing irrational concessions to be seen as _fair_ in the eyes of the other party.
 
+Be aware that throwing this word around will not come kindly. For example, implying that disagreeing with an offer would be "unfair" could end up with deal blowing up since it backs the counter party in a corners where they don't feel they have the option to freely say "no".
+
 ### Loss Aversion
 
 People naturally avoid loss. If competition can be presented amongst bidders and offers anchored low, often bidders will accept a much worse offer than if presented flat out due to not wanting to lose even the low bid to someone else.
@@ -153,4 +155,13 @@ In contrast to pushy salesmen that hammer home the counter party with use of the
 
 Saying, "Hi, my name is ____", with a calm deferential tone of voice can disarm the most unruly situations, and even get special discounts or provisions in retail situations!
 
+### Getting Them to Negotiate Themselves
+
+Tell them "No" a few times without ever saying the word to have the counter party continue to negotiate against themselves upon each response.
+
+* "How can I do that?": they will empathize with your situation and give a better offer
+* "Though your offer is generous, I'm sorry but it won't work for me": nurture counter part to live up to the word, soften with an apology
+* "I'm sorry but I can't do that": inability to perform triggers more empathy
+* "I'm sorry, no": if delivered gently, it barely sounds negative at all
+* "No": tone of downward inflection with regard
 
