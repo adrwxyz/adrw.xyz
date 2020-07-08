@@ -111,6 +111,46 @@ The patient pauses, thinks, and responds, "I have some errands that I have to do
 
 Doctor replies that the patient can be connected to a service that will help him do that. The patient calms down and agrees to stay since he has now come up with the reason why he wanted to leave and that is now resolved.
 
-### Backed into a Corner, "How can I do that?"
+### Backed into a Corner, "How am I supposed to do that?"
 
 When in a supposed corner against an immovable party, often laying out the situation and turning the tables back on them with an open ended question of "How can I do that?" can soften them to see the position you are in.
+
+It is especially useful when negotiating downwards as a way to not have to give a firm "no" which can stimey negotiations.
+
+Ensure that your tone of voice isn't accusational but beckoning help. For example, when a kidnapper demanded daily payments and threatened cutting off limbs if payment wasn't made, a negoitators question after many "How" and "What" questions  of "When we run out of money, what will happen?" led the kidnapper to unknowingly promise "It will be okay", or that no harm will be done to the hostage. A huge win and a deescalation on the result of many open ended questions.
+
+### Regulate your Emotions
+
+Even with the best tactics, letting your emotions get the best of you ruins any negotiation.
+
+Bight your tongue. Give yourself time to pause, let passions ease, and think through what you want to say.
+
+Do not counter-attack verbal attacks, use a calibrated question in response to ease tensions. People can respond aggresively like hostages when they feel like they lack power. Grant them the illusion of power to ease their worries.
+
+Do not try to force the opponent to admit you are right. This may satisfy your emotions but will not move the nogotiation forward.
+
+Quick response or "yes" questions extract little information and use up your capital given the expected reciprocity of conversation.
+
+### 3 Types of Yes
+
+Three types of "Yes" that a negotiation can reach: commitment, confirmation, and counterfeit.
+
+Pushy salesmen often end up getting counterfeit, instead of the desired commitment yes.
+
+The rule of 3 of getting "yes" 3 times in the same conversation reduces the chance of you mistaking a counterfeit "yes" for a commitment "yes" since the lie repeated may not be as convincing each time.
+
+Tactics for not sounding like a pushy broken record include varying tactics for attempts 2 and 3 using a summary to get them to say "that's right" and then a calibration question for implementation like "What do we do if we get off track?". Rephrasing the same initial question differently each time can also help reveal any falsehoods.
+
+### Lying
+
+Most people have tells when they are lying. Often they use more words through complex sentences and third-person pronouns (him, her, not I) to separate themselves from their lie.
+
+The deferral away from first-person pronouns (I) and use of plural (we) also shows up as a tactic to defer any major decisions to parties (real or not) who are not sitting at the table to reduce the implication that the negotiator is actually the one with the power to make the deicision of concession.
+
+### Use Your Name
+
+In contrast to pushy salesmen that hammer home the counter party with use of their name to imply mutual trust, flip the tactic and use your name to force the counter party to have empathy with you. This forces them to see you as a person.
+
+Saying, "Hi, my name is ____", with a calm deferential tone of voice can disarm the most unruly situations, and even get special discounts or provisions in retail situations!
+
+
