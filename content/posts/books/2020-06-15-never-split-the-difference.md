@@ -172,3 +172,23 @@ The key is to rattle the other guy ever so slightly to leave them on their heels
 Any response that isn't an outright rejection to the offer means you have the upper hand.
 
 Sometimes presenting humbly "I'm so embaressed, I can't make that price work" and "Your offer is very generous, but I can't do that" along with silence through continuing to say "No" without saying the word can be the perfect combination.
+
+### Negotiating Personality Types
+
+The key to negotiating the person across the table is not the "Golden Rule" (how _you_ want to be treated), but to treat them how they _need_ to be treated. Ensuring that you address their personality needs is vital to a successfuly negotiation.
+
+#### Accomodator
+
+Desires to be liked regardless of negotiation outcome. When encountered with silence, assumes someone is angry and something is wrong.
+
+When an accomodator is negotiating an accomodator, their mutual desire to listen and propensity for small talk risk not accomplishing much.
+
+#### Assertive
+
+Desires to be efficient in negotiations and not waste time even more than getting the best result. Perceives silence as an opportunity for them to keep talking. Will not listen to the other party unless they think that they have been understood.
+
+Mirroring and calibrating questions work especially well when negotiating an assertive personality since they are happy to keep talking and to feel heard.
+
+#### Analyst
+
+Desires to get the best result. Is comfortable with silence and uses the opportunity to think.
