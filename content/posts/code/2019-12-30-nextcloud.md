@@ -108,11 +108,11 @@ As an alternative to SOGo, Nextcloud can be used by installing their Mail, Conta
 
 - TODO
 
-## Encrypt Nextcloud Folders
+## Ubuntu Encrypted Boot Partition
 
-- Use [eCryptfs](https://help.ubuntu.com/lts/serverguide/ecryptfs.html) to encrypt the Nextcloud Snap directories to protect user data
-- TODO
-- Look into full disk encryption or encrypting the snap directory
+- [Ubuntu 20.04 Full Disk Encryption (LUKS) on the cloud](https://blog.suenotek.com/post/ubuntu-20-04-full-disk-encryption-luks-on-the-cloud/)
+- [How to unlock a LUKS encrypted root partition via SSH on Ubuntu](https://kreationnext.com/support/howto-unlock-a-luks-encrypted-root-partition-via-ssh-on-ubuntu/)
+- [Raspberry Pi Encrypted Boot with SSH](https://github.com/ViRb3/pi-encrypted-boot-ssh)
 
 ## Nextcloud Install with Snap
 
