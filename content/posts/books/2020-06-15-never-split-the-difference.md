@@ -192,3 +192,13 @@ Mirroring and calibrating questions work especially well when negotiating an ass
 #### Analyst
 
 Desires to get the best result. Is comfortable with silence and uses the opportunity to think.
+
+### Strategic Umbridge
+
+Sometimes letting some anger slide into a threat can be very effective at pushing the counterpart to a better deal. Yet, it is also a risk to be aware lest you fall into.
+
+Honest anger, channeled at the proposal, and not the person, can be very effective.
+
+"That simply is not ever going to work"
+
+People on the receiving end of strategic umbridge rated themselves as overly assertive leading to them to buckle to not appear so heavy handed.
