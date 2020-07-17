@@ -110,12 +110,12 @@ As an alternative to SOGo, Nextcloud can be used by installing their Mail, Conta
 
 ## Ubuntu Encrypted Boot Partition
 
-- [SSH to decrypt encrypted LVM during headless server boot?](https://unix.stackexchange.com/questions/5017/ssh-to-decrypt-encrypted-lvm-during-headless-server-boot)
-  - [Using Mandos for unatteneded full disk encryption headless server](https://blog.boyeau.com/booting-an-unattended-full-disk-encrypted-server-ubuntu-server-16-04-setup-with-mandos/)
 - [Hamy | How to install LUKS encrypted Ubuntu 18.04.x Server and enable remote unlocking](https://hamy.io/post/0009/how-to-install-luks-encrypted-ubuntu-18.04.x-server-and-enable-remote-unlocking/#gsc.tab=0)
 - [Ubuntu 20.04 Full Disk Encryption (LUKS) on the cloud](https://blog.suenotek.com/post/ubuntu-20-04-full-disk-encryption-luks-on-the-cloud/)
 - [How to unlock a LUKS encrypted root partition via SSH on Ubuntu](https://kreationnext.com/support/howto-unlock-a-luks-encrypted-root-partition-via-ssh-on-ubuntu/)
 - [Raspberry Pi Encrypted Boot with SSH](https://github.com/ViRb3/pi-encrypted-boot-ssh)
+- [SSH to decrypt encrypted LVM during headless server boot?](https://unix.stackexchange.com/questions/5017/ssh-to-decrypt-encrypted-lvm-during-headless-server-boot)
+  - [Using Mandos for unatteneded full disk encryption headless server](https://blog.boyeau.com/booting-an-unattended-full-disk-encrypted-server-ubuntu-server-16-04-setup-with-mandos/)
 
 ## Nextcloud Install with Snap
 
