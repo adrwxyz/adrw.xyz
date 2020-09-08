@@ -68,6 +68,12 @@ For my 2019 rough notes application of the [Principles for Navigating Big Debt C
 - Renting vs. Buying a Home: The 5% Rule [YouTube](https://youtu.be/Uwl3-jBNEd4)
   - Take house price \* 5% (total unrecoverable annual cost: 1% property tax + 1% maintenance + 3% cost of interest) / 12 to find the monthly break even of home ownership compared to rent at equivalent location.
   - Video notes that if individual will be investing rent / own difference in a taxable investment account (ie. RRSP and TFSA room are maxed) then the rule may be closer to 4% because of the reduced difference between investing in stocks and home ownership from the taxation of investment gains.
+- Three Common Mortgage Mistakes (higher cost of breaking for 5 year fixed, not checking terms so that future refinance or other may be off the table, not using broker to shop around banks, rates, terms) [YouTube](https://youtu.be/OL6woftG4cQ)
+- The Real cost of DIY Home Renovations [YouTube](https://youtu.be/weTsUYj0FXI)
+  - Be realistic in estimating costs and tactics ahead of a big renovation or taking on a fixer-upper house. Costs and stress can be higher than expected, certain tactics and doing certain tasks yourself can reduce both.
+- IKEA Kitchen Cabinets [YouTube](https://youtu.be/w-H3SczRL7s) Great step-by-step instructions on instal of these cost efficient cabinets
+- Second Story Additions [YouTube](https://youtu.be/wnoVwzTOxQA)
+
 
 # Common Questions and Answers
 
