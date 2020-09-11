@@ -71,11 +71,13 @@ Everyone clapped politely as John took his seat and the teacher Nancy moved on t
 
 Little did John know but that speech and those 45 minutes of shared experience with a man named Gary Justice was a pivotal moment in his life.
 
-Going for
+Going for...
 
 That speech was an inflection point in John's life. It was one of his first solo presentations, and one that instilled an identity of a presenter and led to him pursuing clubs and roles that would put him on stage. He
 
 Inflection point in John's life that carried on that trajectory until he came to know the Lord personally in university.
+
+...
 
 Why now does the story of Gary sound so hollow?
 
