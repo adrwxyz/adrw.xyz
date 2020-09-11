@@ -16,14 +16,14 @@ House buyer
 
 ## Renter Case Analysis
 
-house price up/down
+house price up/same/down
 x
 renter doesn't buy at the end
 renter buys
 
 ## Investor Case Analysis
 
-house price up/down
+house price up/same/down
 x
 renter doesn't buy at the end
 renter buys
