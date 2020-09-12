@@ -15,7 +15,9 @@ In practice, a RTO deal from the perspective of the investor is an interesting c
 
 ## Example
 
-House buyer
+The numbers for this example have been copied from a [video by JAAG Properties](https://youtu.be/eZaWC_FNDts) explaining one of their past deals. They additionally have other videos covering [exit strategies if the purchase doesn't go through](https://youtu.be/MiQ2u6JGfzc), and [other information from tenant-buyer and owner-investor perspectives](https://jaagproperties.com/jaagtv/).
+
+...
 
 ## Renter Case Analysis
 
