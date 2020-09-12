@@ -45,7 +45,9 @@ Extending credit to less worthy borrowers can be noble, if it allows them to res
 
 Another [video from Community Legal Services of Philadelphia](https://youtu.be/BBoAkglLM0I) explained one of their cases of a naive tenant-buyer entering into a poorly documented fraudulent RTO deal, and finding out she had been burned by it when she got notice that the house she was living in and believed to be renting-to-own was being set up for Sheriff Sale (it was being foreclosed) and the owner-investor was unreachable and never to be seen again.
 
-Surprisingly though, the conclusion of the legal case was that the naive tenant-buyer found a new RTO deal and used the legal services to confirm that the agreement was legitimate and the terms were fair. This led me to believe that though RTOs can be both exploitive and legal, or fraudulent and illegal, there are cases where the tenant-buyer is happy, thankful, and financially benefits from a legitimate RTO deal.
+Surprisingly though, the conclusion of the legal case was not that the tenant-buyer swore to never trust an RTO again. Instead, the naive tenant-buyer found a new RTO deal and used the legal services to confirm that the agreement was legitimate and the terms were fair.
+
+The persistence of the tenant-buyer to find and stick with RTOs led me to believe that though RTOs can be both exploitive and legal, or fraudulent and illegal, there are cases where the tenant-buyer is happy, thankful, and financially benefits from a legitimate RTO deal.
 
 ### Educational
 
