@@ -1,6 +1,6 @@
 ---
-title: Buying a House?
-date: 2019-01-15T00:00:00.000Z
+title: Rent to Own
+date: 2019-09-08T00:00:00.000Z
 slug: finance/rent-to-own
 tags:
   - Finance
