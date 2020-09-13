@@ -15,9 +15,9 @@ I think Home Assistant might be the trick. Self hosted smart home server with a 
 ### Other Resources
 
 - [Setting up Z-Wave or Zigbee stick with Synology](https://khaz.me/using-a-z-wave-or-zigbee-stick-on-synology-dsm-for-use-with-homeassistant-and-docker/): Get the benefits of a smart home without using insecure wi-fi IoT devices
-- [Home Assistant on Synology NAS with Docker](https://youtu.be/bvl3-iBUOto) – Phil Hawthorne
-- [Home Assistant on a Synology NAS with Docker and Z-wave](https://youtu.be/ouPbYLbmfyI) – Phil Hawthorne
+- [Home Assistant on Synology NAS with Docker](https://philhawthorne.com/installing-home-assistant-io-on-a-synology-diskstation-nas/) – Phil Hawthorne
 - [Rented Automated Apartment Kit](https://kit.co/philhawthorne/rented-automated-apartment-kit) – Phil Hawthorne
+- [Remote Access to Your Home Assistant Using DuckDNS](https://www.youtube.com/watch?v=fNzngoXfxzw)
 - [Wi-Fi, Z-Wave, or Zigbee](https://familyelectronics.net/2020/01/18/why-i-prefer-z-wave-and-zigbee-over-wifi-and-bluetooth/)
 
 ### Hardware
