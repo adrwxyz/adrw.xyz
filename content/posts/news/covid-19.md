@@ -20,4 +20,3 @@ An aggregation of resources (list is unsorted) specifically for Ontario resident
 * [Ontario COVID-19 Graphs by Russell Pollari](https://russell-pollari.github.io/ontario-covid19/)
 * [Ontario COVID-19 R0 Calculation](https://public.tableau.com/profile/bill.comeau#!/vizhome/OntarioCovid-19TestsCasesandHospitalizations/Dashboard1)
 * [Ontario Per Home R0](https://howsmyflattening.ca/#/home)
-* 
