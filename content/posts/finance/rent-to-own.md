@@ -21,17 +21,19 @@ The numbers for this example have been copied from a [video by JAAG Properties](
 
 ## Renter Case Analysis
 
-house price up/same/down
-x
-renter doesn't buy at the end
-renter buys
+| Scenarios \ House Price                                           | Below SP | At SP | Above SP |
+| ----------------------------------------------------------------- | -------- | ----- | -------- |
+| Renter completes the RTO and purchases house at end of term at SP |          |       |          |
+| Renter misses two rent payments and is evicted in month 24 of 36  |          |       |          |
+| Renter completes RTO and doesn't purchase home                    |          |       |          |
 
 ## Investor Case Analysis
 
-house price up/same/down
-x
-renter doesn't buy at the end
-renter buys
+| Scenarios \ House Price                                           | Below SP | At SP | Above SP |
+| ----------------------------------------------------------------- | -------- | ----- | -------- |
+| Renter completes the RTO and purchases house at end of term at SP |          |       |          |
+| Renter misses two rent payments and is evicted in month 24 of 36  |          |       |          |
+| Renter completes RTO and doesn't purchase home                    |          |       |          |
 
 ## Implementation Differences (Exploitive vs Educational)
 
