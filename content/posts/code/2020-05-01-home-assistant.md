@@ -8,9 +8,19 @@ tags:
 
 I've been curious about ways to do IoT and smart home without accepting the surveillance, hacking, and privacy intrusion of suspect companies like Nest or potentially incompetent implementations from legacy thermostat or camera manufacturers.
 
-I think Home Assistant might be the trick. Self hosted smart home server with a huge community of maintained integrations for cameras, themostats, and more.
+I think [Home Assistant](https://www.home-assistant.io/) might be the trick. Self hosted smart home server with a huge community of maintained integrations for cameras, themostats, and more.
 
-[Synology Install Instructions](https://www.home-assistant.io/docs/installation/synology/)
+## Adding Z-Wave USB to Synology
+
+- Find the USB path corresponding to `cp210x`, there should be two for the GoControl HUSBZB-1, one for Z-Wave and one for Zigbee
+  ```
+  $ dmesg | grep tty
+  [186337.625263] usb 3-1: cp210x converter now attached to ttyUSB0
+  [186337.640052] cp210x ttyUSB0: cp210x converter now disconnected from ttyUSB0
+  [186339.975206] usb 3-1: cp210x converter now attached to ttyUSB0
+  [186339.982087] usb 3-1: cp210x converter now attached to ttyUSB1
+  ```
+- Add the Z-Wave integration in HASS UI and the `/dev/ttyUSB0` path
 
 ### Other Resources
 
