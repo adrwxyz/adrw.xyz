@@ -42,6 +42,7 @@ For my 2019 rough notes application of the [Principles for Navigating Big Debt C
 # Indexes
 
 - House Price Index [Teranet & National Bank of Canada](https://housepriceindex.ca/)
+- Moody's Canada Real Estate Forecast [RPS Real Solutions](https://www.rpsrealsolutions.com/solutions/data-and-analytics/house-price-forecasts)
 - General per-city living affordability [Numbeo](https://www.numbeo.com/property-investment/country_result.jsp?country=Canada)
 - Per City Canada Rent Index (unknown year unfortunately) [Canadian Rental Housing Index](http://www.rentalhousingindex.ca/en/#cost_cd)
 
@@ -73,7 +74,6 @@ For my 2019 rough notes application of the [Principles for Navigating Big Debt C
   - Be realistic in estimating costs and tactics ahead of a big renovation or taking on a fixer-upper house. Costs and stress can be higher than expected, certain tactics and doing certain tasks yourself can reduce both.
 - IKEA Kitchen Cabinets [YouTube](https://youtu.be/w-H3SczRL7s) Great step-by-step instructions on instal of these cost efficient cabinets
 - Second Story Additions [YouTube](https://youtu.be/wnoVwzTOxQA)
-
 
 # Common Questions and Answers
 
