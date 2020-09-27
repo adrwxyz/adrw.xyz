@@ -94,8 +94,17 @@ tags:
 
 # Todo
 
-- Check Radium Hot Spring / Banff Hot Spring
-- Order tortuga day bag
+- book time off
+- book flights
+- book rental car
+- plan days
+  - Check Radium Hot Spring / Banff Hot Spring
+- book accommodations
+- buy
+  - Order tortuga day bag
+  - get hiking boots
+  - get hiking clothing
+  - get proper water bottles
 
 # Raw Notes
 
