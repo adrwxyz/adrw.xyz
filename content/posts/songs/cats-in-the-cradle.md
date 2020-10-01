@@ -4,7 +4,7 @@ tags:
   - Songs(Other)
   - Songs
 
-title: Cat's in the Cradle
+title: Cats in the cradle
 slug: songs/cats-in-the-cradle
 artist: Harry Chapin
 ---
@@ -30,7 +30,7 @@ He'd say "I'm gonna be like you dad
 You know I'm gonna be like you"
 
         F                           D#
-And the cat's in the cradle and the silver spoon
+And the cats in the cradle and the silver spoon
 G#                      A#
 Little boy blue and the man on the moon
 F
@@ -58,7 +58,7 @@ And said, "I'm gonna be like him, yeah
 You know I'm gonna be like him"
 
         F                           D#
-And the cat's in the cradle and the silver spoon
+And the cats in the cradle and the silver spoon
 G#                      A#
 Little boy blue and the man on the moon
 F
@@ -84,7 +84,7 @@ G#                   F
 See you later, can I have them please?"
 
         F                           D#
-And the cat's in the cradle and the silver spoon
+And the cats in the cradle and the silver spoon
 G#                      A#
 Little boy blue and the man on the moon
 F
@@ -119,7 +119,7 @@ He'd grown up just like me
 My boy was just like me
 
         F                           D#
-And the cat's in the cradle and the silver spoon
+And the cats in the cradle and the silver spoon
 G#                      A#
 Little boy blue and the man on the moon
 F
@@ -155,7 +155,7 @@ He'd say "I'm gonna be like you dad
 You know I'm gonna be like you"
 
         E                           D
-And the cat's in the cradle and the silver spoon
+And the cats in the cradle and the silver spoon
 G                       A
 Little boy blue and the man on the moon
 E
@@ -183,7 +183,7 @@ And said, "I'm gonna be like him, yeah
 You know I'm gonna be like him"
 
         E                           D
-And the cat's in the cradle and the silver spoon
+And the cats in the cradle and the silver spoon
 G                       A
 Little boy blue and the man on the moon
 E
@@ -209,7 +209,7 @@ G                    E
 See you later, can I have them please?"
 
         E                           D
-And the cat's in the cradle and the silver spoon
+And the cats in the cradle and the silver spoon
 G                       A
 Little boy blue and the man on the moon
 E
@@ -244,7 +244,7 @@ He'd grown up just like me
 My boy was just like me
 
         E                           D
-And the cat's in the cradle and the silver spoon
+And the cats in the cradle and the silver spoon
 G                       A
 Little boy blue and the man on the moon
 E
