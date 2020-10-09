@@ -1,9 +1,9 @@
 ---
 title: Using Netlify CMS with Github Actions
 date: 2019-11-12T18:02:24.125Z
-slug: code/2019-11-12-using-netlify-cms-with-github-actions
+slug: tech/2019-11-12-using-netlify-cms-with-github-actions
 tags:
-  - Code
+  - Tech
 ---
 
 # Using Netlify CMS with Github Actions

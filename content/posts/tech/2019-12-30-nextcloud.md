@@ -1,9 +1,9 @@
 ---
 title: NextCloud
 date: 2019-12-30T21:45:05.554Z
-slug: code/2019-12-30-nextcloud
+slug: tech/2019-12-30-nextcloud
 tags:
-  - Code
+  - Tech
 ---
 
 # Kimsufi Install Steps

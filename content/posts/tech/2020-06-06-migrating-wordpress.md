@@ -1,9 +1,9 @@
 ---
 title: Migrating Wordpress
 date: 2020-06-06T21:45:05.554Z
-slug: code/2020-06-06-migrating-wordpress
+slug: tech/2020-06-06-migrating-wordpress
 tags:
-  - Code
+  - Tech
 ---
 
 Migrating Wordpress hosts is something I rarely do and generally procrastinated since messing with moving wordpress files, migrating mySQL DBs, and grep-ing to change domains all sounded like a pain.

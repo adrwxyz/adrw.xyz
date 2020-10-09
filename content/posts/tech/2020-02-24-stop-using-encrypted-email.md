@@ -1,9 +1,9 @@
 ---
 title: Stop Using Encrypted Email
 date: 2020-02-24T13:43:39.822Z
-slug: code/2020-02-24-stop-using-encrypted-email
+slug: tech/2020-02-24-stop-using-encrypted-email
 tags:
-  - Code
+  - Tech
 ---
 
 This provocative post, [Stop Using Encrypted Email](https://latacora.micro.blog/2020/02/19/stop-using-encrypted.html), came in the middle of my current migration away from Protonmail to self-hosted email, contacts, and calendar.
