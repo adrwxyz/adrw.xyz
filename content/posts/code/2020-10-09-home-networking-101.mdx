@@ -1,6 +1,6 @@
 ---
 title: "Home Networking 101"
-date: 2020-07-07 00:00:00
+date: 2020-10-09 00:00:00
 slug: code/home-networking-101
 tags:
   - Code
@@ -20,6 +20,7 @@ Let's quickly review the basic components of a network:
 - Wi-Fi Access Point: The hardware antennas used to communicate with the wi-fi antennas in your LAN devices. A home or large office can end up having many Access Points on the same network in order to nicely handoff your device as you move around without losing signal or forcing you to connect to an entirely new network.
 - Switch: A switch, like a street intersection, lets packets pass to whatever destination is designated without any smarts of how they will get there. A dedicated switch generally looks like a flat box with a lot of Ethernet ports on it, though any consumer router often has a small 4-port switch to let you hook up a desktop computer to your network for example.
 - SSID: the name of your network (like "WaffleHouse" or "MrStealYourWifi")
+- PoE: Power-over-Ethernet is supported by certain routers, switches, and Wi-Fi access points which allow them to draw or give power over the Ethernet cable which handles the data. This can mean less cords and power adapters and more flexibility in where you put Wi-Fi access points but there is some complexity. For example, among Ubiquity products alone, there are 4 different PoE standards that in varying ways do not play well with each other so you'll need to confirm that your devices on either end of the Ethernet support. This [YouTube video from Crosstalk Solutions](https://youtu.be/O9_34dCrFFc) and corresponding [Ubiquity help article](https://help.ui.com/hc/en-us/articles/115000263008--UniFi-Understanding-PoE-and-How-UniFi-Devices-are-Powered) are very helpful.
 
 Most consumer Wi-Fi products act as a 4-in-1 device combining a Security Gateway, Router, Wi-Fi Access Point, and Switch, with varying success given how complex each element is (let alone stitching them all together).
 
