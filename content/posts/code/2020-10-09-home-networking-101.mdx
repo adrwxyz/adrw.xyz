@@ -1,0 +1,30 @@
+---
+title: "Home Networking 101"
+date: 2020-07-07 00:00:00
+slug: code/home-networking-101
+tags:
+  - Code
+---
+
+Managing a home Wi-Fi network so that you have good coverage everywhere can be challenging.
+
+Let's quickly review the basic components of a network:
+
+- Modem: the modem converts the signal from your Internet provider (often over Coax cable or something similar) into usable WAN signal over Ethernet
+- Ethernet: The cable looks like a slightly wider wired phone cable and handles networking in homes and offices
+- Packets: A virtual envelope that carries data across a network
+- WAN: Wide-Area-Network is used to refer to your home network connecting to the outside world (ie. the Internet)
+- LAN: Local-Area-Network is used to refer to the network of devices within your home.
+- Security Gateway / Firewall: The separation between WAN and LAN is necessary given the disparity in trust afforded to devices on either side. Devices in your home can be trusted, devices on the internet can not. Thus, a Security Gateway or Firewall checks traffic and limits access of WAN devices attempting to communicate with your LAN devices.
+- Router: A router, like a post office, handles directing packets to and from the right devices. It additionally handles the complexity of all Internet interactions from your many LAN devices going through a single Gateway. A router must keep track of when your phone requests data from Instagram's servers and your laptop requests data from Github's servers and make sure that the packets returned from Instagram and Github go to the respective device.
+- Wi-Fi Access Point: The hardware antennas used to communicate with the wi-fi antennas in your LAN devices. A home or large office can end up having many Access Points on the same network in order to nicely handoff your device as you move around without losing signal or forcing you to connect to an entirely new network.
+- Switch: A switch, like a street intersection, lets packets pass to whatever destination is designated without any smarts of how they will get there. A dedicated switch generally looks like a flat box with a lot of Ethernet ports on it, though any consumer router often has a small 4-port switch to let you hook up a desktop computer to your network for example.
+- SSID: the name of your network (like "WaffleHouse" or "MrStealYourWifi")
+
+Most consumer Wi-Fi products act as a 4-in-1 device combining a Security Gateway, Router, Wi-Fi Access Point, and Switch, with varying success given how complex each element is (let alone stitching them all together).
+
+There are different approaches you can take depending on your willingness to take on more technically intensive solutions.
+
+- Consumer Cheap & Basic: Use off the shelf consumer routers and mesh systems from Asus, Netgear, Linksys, D-Link and others which depending on the model can work well but often have very limited dashboards and rarely receive further firmware updates (security patches are even limited)
+- Consumer IoT: Google Wi-Fi, Amazon Eero, and others are a new wave of consumer smart routers fitting more into the Internet-of-Things category. They have slick apps and dashboards to manage them and attempt to remove all the technical knowledge requirements from having a home Wi-Fi network. For the most part, they succeed but often at the cost of leveraging each customer's usage and home layout data to improve their router software.
+- Prosumer: Ubiquity UniFi and similar lines provide much more flexibility in addressing specifically the unique needs of your home network with numerous different separated options for routers, switches, and wi-fi access points. They require more technical knowledge to setup but can result in better networks when compared to Consumer IoT which attempt to provide the same quality of network but by leveraging software instead of hardware solutions. Prosumer lines also differentiate themselves from Consumer Cheap & Basic with unified dashboards and management of all network components.

@@ -43,7 +43,7 @@ For a specific deep dive on the question of home ownership, see [Buying a House?
 
 - [How the Economic Machine Works](https://youtu.be/PHe0bXAIuk0) (Ray Dalio, Founder of Bridgewater Capital)
   - Concise (30 mins) overview of a very accurate mental model of how the economy works. Extremely good place to start to start to understand the big picture of what an economy is.
-  - This [Medium post](https://medium.com/@SteveGlaveski/ray-dalios-economic-machine-a-summary-6f22206a2c6c) is a great written summary if you don't want to watch the video.
+  - This [Medium post](https://medium.com/@SteveGlaveski/ray-dalios-economic-machine-a-summary-6f22206a2c6cgs) is a great written summary if you don't want to watch the video.
 - [10 Secrets to Achieve Financial Success](https://youtu.be/4a51wQAOGR4) (Anton Kriel, Institute of Trading & former Goldmand Sacs trader)
   - Warning! Take this video with a grain of salt, Anton runs Institute of Trading and makes money from selling stock market education and training. I agree with many of his points in this video though am well aware that the filming (exotic locations, club music...etc) and general narrative is also targeted to encourage purchase of his training.
   - Key insight: not seeing money as what you can buy with it but just a number and becoming emotionally unattached in order to make investing decisions not motivated by greed or fear
