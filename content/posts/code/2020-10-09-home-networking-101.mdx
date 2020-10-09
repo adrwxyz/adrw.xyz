@@ -8,9 +8,10 @@ tags:
 
 Managing a home Wi-Fi network so that you have good coverage everywhere can be challenging.
 
-Let's quickly review the basic components of a network:
+## Network Components & Glossary
+Let's quickly review the basic components of a network.
 
-- Modem: the modem converts the signal from your Internet provider (often over Coax cable or something similar) into usable WAN signal over Ethernet
+- Modem: the modem converts the signal from your Internet provider (often over Coax cable or something similar) into usable WAN signal over Ethernet. Sometimes Internet providers will offer combination modem + routers to provide a single box for your entire home networking needs, though alluring in simplicity these often fall into the bucket of "you get what you pay for".
 - Ethernet: The cable looks like a slightly wider wired phone cable and handles networking in homes and offices
 - Packets: A virtual envelope that carries data across a network
 - WAN: Wide-Area-Network is used to refer to your home network connecting to the outside world (ie. the Internet)
@@ -22,6 +23,8 @@ Let's quickly review the basic components of a network:
 - SSID: the name of your network (like "WaffleHouse" or "MrStealYourWifi")
 - PoE: Power-over-Ethernet is supported by certain routers, switches, and Wi-Fi access points which allow them to draw or give power over the Ethernet cable which handles the data. This can mean less cords and power adapters and more flexibility in where you put Wi-Fi access points but there is some complexity. For example, among Ubiquity products alone, there are 4 different PoE standards that in varying ways do not play well with each other so you'll need to confirm that your devices on either end of the Ethernet support. This [YouTube video from Crosstalk Solutions](https://youtu.be/O9_34dCrFFc) and corresponding [Ubiquity help article](https://help.ui.com/hc/en-us/articles/115000263008--UniFi-Understanding-PoE-and-How-UniFi-Devices-are-Powered) are very helpful.
 
+## Different Home Network Approaches
+
 Most consumer Wi-Fi products act as a 4-in-1 device combining a Security Gateway, Router, Wi-Fi Access Point, and Switch, with varying success given how complex each element is (let alone stitching them all together).
 
 There are different approaches you can take depending on your willingness to take on more technically intensive solutions.
@@ -29,3 +32,7 @@ There are different approaches you can take depending on your willingness to tak
 - Consumer Cheap & Basic: Use off the shelf consumer routers and mesh systems from Asus, Netgear, Linksys, D-Link and others which depending on the model can work well but often have very limited dashboards and rarely receive further firmware updates (security patches are even limited)
 - Consumer IoT: Google Wi-Fi, Amazon Eero, and others are a new wave of consumer smart routers fitting more into the Internet-of-Things category. They have slick apps and dashboards to manage them and attempt to remove all the technical knowledge requirements from having a home Wi-Fi network. For the most part, they succeed but often at the cost of leveraging each customer's usage and home layout data to improve their router software.
 - Prosumer: Ubiquity UniFi and similar lines provide much more flexibility in addressing specifically the unique needs of your home network with numerous different separated options for routers, switches, and wi-fi access points. They require more technical knowledge to setup but can result in better networks when compared to Consumer IoT which attempt to provide the same quality of network but by leveraging software instead of hardware solutions. Prosumer lines also differentiate themselves from Consumer Cheap & Basic with unified dashboards and management of all network components.
+
+## Ubiquity
+
+After
