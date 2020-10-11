@@ -36,3 +36,29 @@ There are different approaches you can take depending on your willingness to tak
 ## Ubiquity
 
 After
+
+
+## Raw Ubiquity UAP-AP-LITE + EdgeRouter X SFP Setup
+
+https://help.ui.com/hc/en-us/articles/115006567467-EdgeRouter-Hardware-Offloading
+The following improve throughput performance so that they are not handled by the router CPU which is underpowered:
+$ set system offload hwnat enable
+$ set system offload ipsec enable
+
+configure
+
+set system offload hwnat enable
+set system offload ipsec enable
+
+commit ; save
+
+
+[Download updated firmware](https://ubnt.com/download/) and install in the System tab at the bottom of the dashboard screen.
+
+## Running UNMS on Synology Docker
+If using Synology or another NAS to host your UNMS dashboard, you'll need to open in the Firewall TCP ports `8080,8443,8843,8880,6789` and UDP ports `3478,10001` in Security > Firewall > Edit Rules.
+
+You'll also need to set environment variables for the container `BIND_PRIV` and `RUNAS_UID0` to `false`. The `RUNAS_UID0` environment variable when set to off defaults to running the dashboard more securely with a non-root custom user/group of 999/999. You'll need to create a user in Synology with minimal permissions (except for the Docker folder where UNMS runs) and then edit the uid/gid to be 999 in `/etc/passwd` with the command `sudo vim /etc/passwd`.
+
+
+Setup UNMS using the [following helpful instructions](https://lazyadmin.nl/home-network/unifi-controller-on-a-synology-nas-with-docker/). 
