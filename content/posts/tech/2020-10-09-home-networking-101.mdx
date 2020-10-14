@@ -9,6 +9,7 @@ tags:
 Managing a home Wi-Fi network so that you have good coverage everywhere can be challenging.
 
 ## Network Components & Glossary
+
 Let's quickly review the basic components of a network.
 
 - Modem: the modem converts the signal from your Internet provider (often over Coax cable or something similar) into usable WAN signal over Ethernet. Sometimes Internet providers will offer combination modem + routers to provide a single box for your entire home networking needs, though alluring in simplicity these often fall into the bucket of "you get what you pay for".
@@ -37,7 +38,6 @@ There are different approaches you can take depending on your willingness to tak
 
 After
 
-
 ## Raw Ubiquity UAP-AP-LITE + EdgeRouter X SFP Setup
 
 https://help.ui.com/hc/en-us/articles/115006567467-EdgeRouter-Hardware-Offloading
@@ -47,6 +47,7 @@ The following improve throughput performance so that they are not handled by the
 $ set system offload hwnat enable
 $ set system offload ipsec enable
 ```
+
 or
 
 ```
@@ -58,10 +59,10 @@ set system offload ipsec enable
 commit ; save
 ```
 
-
 [Download updated firmware](https://ubnt.com/download/) and install in the System tab at the bottom of the dashboard screen.
 
 ## Unifi Controller on Synology Docker
+
 If using Synology or another NAS to host your Unifi Controller dashboard, you'll need to open in the Firewall TCP ports `8080,8443,8843,8880,6789` and UDP ports `3478,10001` in Security > Firewall > Edit Rules.
 
 You'll also need to set environment variables for the container `BIND_PRIV` and `RUNAS_UID0` to `false`. The `RUNAS_UID0` environment variable when set to off defaults to running the dashboard more securely with a non-root custom user/group of 999/999. You'll need to create a user in Synology with minimal permissions (except for the Docker folder where UNMS runs) and then edit the uid/gid to be 999 in `/etc/passwd` with the command `sudo vim /etc/passwd`.
@@ -76,8 +77,8 @@ Setup Unifi Network Management System (UNMS) using these great Docker image and 
 
 ### General
 
-* [LED Status Light Codes](https://help.ui.com/hc/en-us/articles/204910134): what does the color and sequence of blinks on the access point mean
-* [Controller AP Status Codes](https://help.ui.com/hc/en-us/articles/205231710-UniFi-UAP-Status-Meaning-Definitions): What does the status text in the controller for the AP mean
+- [LED Status Light Codes](https://help.ui.com/hc/en-us/articles/204910134): what does the color and sequence of blinks on the access point mean
+- [Controller AP Status Codes](https://help.ui.com/hc/en-us/articles/205231710-UniFi-UAP-Status-Meaning-Definitions): What does the status text in the controller for the AP mean
 
 ### Failure to Adopt a Unifi AP
 
@@ -103,3 +104,9 @@ Alternatively, you can have certain discovery ports for the controller that aren
 ## Guest Network
 
 [Tutorial](https://youtu.be/C7CGY0BTFCM)
+
+## Local Custom DNS
+
+A local DNS server can be very useful for ad-blocking a la Pi-Hole or for having custom DNS records for local devices.
+
+- [Redirect Hard-coded DNS To Pi-hole Using EdgeRouter X](https://www.myhelpfulguides.com/2018/07/30/redirect-hard-coded-dns-to-pi-hole-using-edgerouter-x/)
