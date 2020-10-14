@@ -69,8 +69,14 @@ You'll also need to set environment variables for the container `BIND_PRIV` and 
 
 Setup UNMS using the [following helpful instructions](https://lazyadmin.nl/home-network/unifi-controller-on-a-synology-nas-with-docker/).
 
+## Unifi Acess Point Debugging
 
-## Failure to Adopt a Unifi AP
+### General
+
+* [LED Status Light Codes](https://help.ui.com/hc/en-us/articles/204910134): what does the color and sequence of blinks on the access point mean
+* [Controller AP Status Codes](https://help.ui.com/hc/en-us/articles/205231710-UniFi-UAP-Status-Meaning-Definitions): What does the status text in the controller for the AP mean
+
+### Failure to Adopt a Unifi AP
 
 Sometimes, an Access Point will fail to adopt in the Controller and cycle between adopting and disconnecting. This can because the adoption process requires the AP to ping the controller and if the DNS is not configured in a way that the hostname `unifi` resolves to your controller IP address, then the AP will fail to connect.
 
