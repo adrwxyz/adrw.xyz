@@ -61,13 +61,16 @@ commit ; save
 
 [Download updated firmware](https://ubnt.com/download/) and install in the System tab at the bottom of the dashboard screen.
 
-## Running UNMS on Synology Docker
-If using Synology or another NAS to host your UNMS dashboard, you'll need to open in the Firewall TCP ports `8080,8443,8843,8880,6789` and UDP ports `3478,10001` in Security > Firewall > Edit Rules.
+## Unifi Controller on Synology Docker
+If using Synology or another NAS to host your Unifi Controller dashboard, you'll need to open in the Firewall TCP ports `8080,8443,8843,8880,6789` and UDP ports `3478,10001` in Security > Firewall > Edit Rules.
 
 You'll also need to set environment variables for the container `BIND_PRIV` and `RUNAS_UID0` to `false`. The `RUNAS_UID0` environment variable when set to off defaults to running the dashboard more securely with a non-root custom user/group of 999/999. You'll need to create a user in Synology with minimal permissions (except for the Docker folder where UNMS runs) and then edit the uid/gid to be 999 in `/etc/passwd` with the command `sudo vim /etc/passwd`.
 
+Setup Unifi Controller using the [following helpful instructions](https://lazyadmin.nl/home-network/unifi-controller-on-a-synology-nas-with-docker/) and the great [jacobalberty/unifi-docker](https://github.com/jacobalberty/unifi-docker) image.
 
-Setup UNMS using the [following helpful instructions](https://lazyadmin.nl/home-network/unifi-controller-on-a-synology-nas-with-docker/).
+## UNMS on Synology Docker
+
+Setup Unifi Network Management System (UNMS) using these great Docker image and instructions: [nico640/docker-unms](https://github.com/Nico640/docker-unms).
 
 ## Unifi Acess Point Debugging
 
