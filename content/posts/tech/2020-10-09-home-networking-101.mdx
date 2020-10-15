@@ -99,6 +99,8 @@ $ UBNT-BZ.v4.3.21# set-inform http://A.B.C.D:8080/inform
 Adoption request sent to 'http://A.B.C.D:8080/inform'.  Use the controller to complete the adopt process.
 ```
 
+As a long term solution, in EdgeRouter you can go to `Services > DHCP Server > LAN > Actions > View Leases` and then `Map Static IP` for the device that the Unifi Controller is running. Once it is assigned a static IP, you can set that IP in the `Details > Unifi Controller` box to prevent future adoption problems long term.
+
 Alternatively, you can have certain discovery ports for the controller that aren't open or a myriad of other issues but for my setup, the missing DNS record for the controller and failure for the AP to `set-inform` was my problem. Many thanks to this [community help article](https://community.ui.com/questions/AP-disconnected-after-adoption/d113094b-256f-4e1a-afa6-7025196c80d9) that spelled it all out.
 
 ## Guest Network
@@ -106,6 +108,24 @@ Alternatively, you can have certain discovery ports for the controller that aren
 [Tutorial](https://youtu.be/C7CGY0BTFCM)
 
 ## Local Custom DNS
+
+EdgeRouter can have custom DNS records. Login using the CLI and run the following ([help article](https://community.ui.com/questions/Create-DNS-enteries/ab712740-d579-4c89-824a-cda582a6bdd4)):
+
+```
+$ configure
+$ set system static-host-mapping host-name host1 inet 1.1.1.1
+commit
+$ save
+```
+
+You can also add CNAME records to redirect to name (not an IP address) ([CNAME records](https://www.loganmarchione.com/2019/02/edgerouter-cname-records/)) as follows:
+
+```
+$ configure
+$ set service dns forwarding options cname=storage.localdomain,backup01.localdomain
+$ commit
+$ save
+```
 
 A local DNS server can be very useful for ad-blocking a la Pi-Hole or for having custom DNS records for local devices.
 
