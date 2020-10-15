@@ -26,6 +26,8 @@ I think [Home Assistant](https://www.home-assistant.io/) might be the trick. Sel
 
 Remember to set the [WebSocket Custom Header](https://github.com/home-assistant/core/issues/24750) on the rules for login to work.
 
+Follow instructions on [duckdns.org](https://duckdns.org) to create a DDNS account (preferably using Github login) and then reserve a `*.duckdns.org` subdomain that will redirect to your external IP. It has instructions on how to configure Synology DDNS client to keep duckdns.org updated if (and when) the external IP is changed by the internet provider.
+
 ## Other Resources
 
 - [Setting up Z-Wave or Zigbee stick with Synology](https://khaz.me/using-a-z-wave-or-zigbee-stick-on-synology-dsm-for-use-with-homeassistant-and-docker/): Get the benefits of a smart home without using insecure wi-fi IoT devices
