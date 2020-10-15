@@ -102,6 +102,7 @@ Adoption request sent to 'http://A.B.C.D:8080/inform'.  Use the controller to co
 Alternatively, you can have certain discovery ports for the controller that aren't open or a myriad of other issues but for my setup, the missing DNS record for the controller and failure for the AP to `set-inform` was my problem. Many thanks to this [community help article](https://community.ui.com/questions/AP-disconnected-after-adoption/d113094b-256f-4e1a-afa6-7025196c80d9) that spelled it all out.
 
 #### Static IPs and Unifi Controller Setting in EdgeRouter
+
 As a long term solution to the above adoption problem, in EdgeRouter you can go to `Services > DHCP Server > LAN > Actions > View Leases` and then `Map Static IP` for the device that the Unifi Controller is running. Once it is assigned a static IP, you can set that IP in the `Details > Unifi Controller` box to prevent future adoption problems long term.
 
 ## Guest Network
@@ -133,17 +134,15 @@ A local DNS server can be very useful for ad-blocking a la Pi-Hole or for having
 - [Redirect Hard-coded DNS To Pi-hole Using EdgeRouter X](https://www.myhelpfulguides.com/2018/07/30/redirect-hard-coded-dns-to-pi-hole-using-edgerouter-x/)
 
 ## Port Forwarding with EdgeRouter
+
 In `Firewall/Nat > Port Forwarding` you can add configuration so requests to certain ports on your external IP address are forwarded to a specific device that can handle them. For example, I've setup all requests on ports `80` (HTTP) and `443` (HTTPS) to forward to my home Synology Server where the different dashboards and other services run in Docker.
 
 Note, you'll need to set the WAN interface to `eth0` and use `switch0` to have port forwarding take effect (thanks to this [help article](https://community.ui.com/questions/ER-X-1-9-1-1-cant-forward-ports-Is-port-forwarding-broken-in-1-9/8514db59-0065-420c-a121-94ba456b56af#answer/254be129-5cbe-4fa3-9ded-90657f72bb79)).
 
 ## Reverse Proxy Synology External Access
+
 All requests on `80` and `443` arriving at our external IP address are terminated at the Synology server, but how does it know which requests are for which Docker service?
 
 A Reverse Proxy allows you to define rules (generally based on domain name of the request) to handle routing from the generic public ports `80,443` to the specific local Docker ones that your services are running on `8080,8443,8143,8123...`.
 
-The following help article explains it thoroughly though the process is straight forward from the
-
-
-
-[Article](https://www.vdr.one/synology-nas-reverse-httphttps-proxy/)
+The following [help article](https://www.vdr.one/synology-nas-reverse-httphttps-proxy/) explains it thoroughly though the process is straight forward from the `Control Panel > Application Portal > Reverse Proxy` settings page.
