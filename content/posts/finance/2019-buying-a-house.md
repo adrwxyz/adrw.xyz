@@ -70,6 +70,7 @@ For my 2019 rough notes application of the [Principles for Navigating Big Debt C
 - [Mortgage Broker Regulator Search](http://mbsweblist.fsco.gov.on.ca/agents.aspx): Though not related to rates, this tool lets you see if your broker has had any regulatory infractions
 - [Canadian Bankers Association Mortgages Information](https://cba.ca/understanding-mortgages): Overview of different aspects of a mortgage
 - [Government of Canada Mortgages Information](https://www.canada.ca/en/financial-consumer-agency/services/mortgages.html): Overview of different aspects of a mortgage
+- [r/PersonalFinanceCanada What should I know before going to a mortgage broker](https://www.reddit.com/r/PersonalFinanceCanada/comments/i2wodf/what_should_i_know_before_going_to_a_mortgage/): Lots of great tips
 
 # Videos
 
