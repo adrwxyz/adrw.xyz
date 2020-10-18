@@ -71,6 +71,7 @@ For my 2019 rough notes application of the [Principles for Navigating Big Debt C
 - [Canadian Bankers Association Mortgages Information](https://cba.ca/understanding-mortgages): Overview of different aspects of a mortgage
 - [Government of Canada Mortgages Information](https://www.canada.ca/en/financial-consumer-agency/services/mortgages.html): Overview of different aspects of a mortgage
 - [r/PersonalFinanceCanada What should I know before going to a mortgage broker](https://www.reddit.com/r/PersonalFinanceCanada/comments/i2wodf/what_should_i_know_before_going_to_a_mortgage/): Lots of great tips
+- [Standard vs Collateral Charge Mortgage](https://www.canadianmortgagetrends.com/2019/08/what-you-should-know-about-collateral-charge-mortgages/): You'll need collateral charge if you want a re-advanceable mortgage, with certain lenders, or for a HELOC but it does come with some consequences.
 
 # Videos
 
