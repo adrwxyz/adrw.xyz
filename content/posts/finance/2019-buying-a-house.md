@@ -62,11 +62,13 @@ For my 2019 rough notes application of the [Principles for Navigating Big Debt C
 - Mortgage Amortization Schedule [MortgageCalculator](https://www.mortgagecalculator.org/)
 - Affordability Calculator [Realtor.ca](https://www.realtor.ca/calculator.aspx#v=affordability)
 
-# Mortgage Rates
+# Mortgages
 
 - [RateHub](https://www.ratehub.ca/): Note, it is owned by CanWise a mortgage lender who they happen to often show as the best rate. Good educational articles and overview of rates from other banks.
 - [RateSpy](https://www.ratespy.com/)
 - [IntelliMortgage](https://intellimortgage.com/)
+- [Mortgage Broker Regulator Search](http://mbsweblist.fsco.gov.on.ca/agents.aspx): Though not related to rates, this tool lets you see if your broker has had any regulatory infractions
+- [Government of Canada Mortgages Information](https://www.canada.ca/en/financial-consumer-agency/services/mortgages.html): Overview of different aspects of a mortgage
 
 # Videos
 
