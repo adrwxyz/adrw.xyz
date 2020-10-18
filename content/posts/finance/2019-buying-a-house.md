@@ -62,6 +62,12 @@ For my 2019 rough notes application of the [Principles for Navigating Big Debt C
 - Mortgage Amortization Schedule [MortgageCalculator](https://www.mortgagecalculator.org/)
 - Affordability Calculator [Realtor.ca](https://www.realtor.ca/calculator.aspx#v=affordability)
 
+# Mortgage Rates
+
+- [RateHub](https://www.ratehub.ca/): Note, it is owned by CanWise a mortgage lender who they happen to often show as the best rate. Good educational articles and overview of rates from other banks.
+- [RateSpy](https://www.ratespy.com/)
+- [IntelliMortgage](https://intellimortgage.com/)
+
 # Videos
 
 - Rent vs Buy Matt McKeever (Rental Real Estate Investor) [2017](https://youtu.be/-em-ial9xoc), [2018](https://youtu.be/w8i3lh7kgXw), [2019](https://youtu.be/tkWl95chAgs)
