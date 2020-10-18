@@ -68,6 +68,7 @@ For my 2019 rough notes application of the [Principles for Navigating Big Debt C
 - [RateSpy](https://www.ratespy.com/)
 - [IntelliMortgage](https://intellimortgage.com/)
 - [Mortgage Broker Regulator Search](http://mbsweblist.fsco.gov.on.ca/agents.aspx): Though not related to rates, this tool lets you see if your broker has had any regulatory infractions
+- [Canadian Bankers Association Mortgages Information](https://cba.ca/understanding-mortgages): Overview of different aspects of a mortgage
 - [Government of Canada Mortgages Information](https://www.canada.ca/en/financial-consumer-agency/services/mortgages.html): Overview of different aspects of a mortgage
 
 # Videos
