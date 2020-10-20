@@ -146,3 +146,7 @@ All requests on `80` and `443` arriving at our external IP address are terminate
 A Reverse Proxy allows you to define rules (generally based on domain name of the request) to handle routing from the generic public ports `80,443` to the specific local Docker ones that your services are running on `8080,8443,8143,8123...`.
 
 The following [help article](https://www.vdr.one/synology-nas-reverse-httphttps-proxy/) explains it thoroughly though the process is straight forward from the `Control Panel > Application Portal > Reverse Proxy` settings page.
+
+## Synology HTTP Redirect to HTTPS
+
+Great [instructions here](https://blog.golimb.com/2017/07/14/synology-reverse-proxy/) on how to add a virtual host with a basic `.htaccess` file to force all calling clients that request over HTTP to re-request using HTTPS.
