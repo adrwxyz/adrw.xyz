@@ -105,9 +105,148 @@ Alternatively, you can have certain discovery ports for the controller that aren
 
 As a long term solution to the above adoption problem, in EdgeRouter you can go to `Services > DHCP Server > LAN > Actions > View Leases` and then `Map Static IP` for the device that the Unifi Controller is running. Once it is assigned a static IP, you can set that IP in the `Details > Unifi Controller` box to prevent future adoption problems long term.
 
-## Guest Network
+## Separated Networks with VLANs
 
-[Tutorial](https://youtu.be/C7CGY0BTFCM)
+Using this [tutorial](https://youtu.be/C7CGY0BTFCM) and the following summarized steps, I set up separated networks using VLANs for guests and for work devices.
+
+The below example assumes a basic setup where all Unifi Access Points connect directly to EdgeRouter ports and not through a secondary switch. If another switch is involved, the setup will be a bit more complicated and use specific `ethX` interfaces instead of just using the entire `switch0` to apply this setup across all ports.
+
+### In EdgeRouter
+
+- Create the VLAN `Dashboard > Add Interface > Add VLAN`
+
+  ```
+  VLAN ID: 10
+  Interface: switch0
+  Description: VLAN10_GUEST
+  Address: 192.168.10.1/24
+  ```
+
+- Add a DHCP Server `Services > DHCP Server > Add DHCP Server`
+
+  ```
+  DHCP Name: VLAN10_GUEST
+  Subnet: 192.168.10.1/24
+  Range Start: 192.168.10.2
+  Range Stop: 192.168.10.254
+  Router: 192.168.10.1
+  DNS 1: 192.168.10.1
+  DNS 2:
+  Unifi Controller:
+  ```
+
+- Add DNS listener to the new VLAN `Services > DNS > DNS Forwarding > Add Listen Interface`.
+  - Add `switch0.10` and save so DNS requests on the new VLAN can resolve to the router.
+- Optionally support port forwarding over the new VLAN interface, I've done this only on the work device network, not for guest network to lock down internal services.
+  - Add `switch0.10`
+- Add Firewall rules to restrict VLAN talking to other devices on your primary LAN `Firewall/NAT > Firewall Policies`
+  - Add `IN` rule to drop all requests to primary LAN IP addresses
+    - `Add Ruleset`
+
+      ```
+      Name: VLAN10_GUEST_IN
+      Description: VLAN10_GUEST_IN
+      Default action: Accept
+      ```
+
+    - `Add New Rule` to block all traffic to primary LAN
+
+      ```
+      Basic
+      Description: DROP access to 192.168.1.0
+      Action: Drop
+      Protocol: All Protocols
+
+      Destination
+      Address: 192.168.1.0/24
+      ```
+
+    - Configure the applicable interface in `Interfaces`
+
+      ```
+      Interface: switch0.10
+      Direction: in
+      ```
+
+  - Add `LOCAL` rule to drop all requests to the router except for DNS requests
+    - `Add Ruleset`
+
+      ```
+      Name: VLAN10_GUEST_LOCAL
+      Description: VLAN10_GUEST_LOCAL
+      Default action: Accept
+      ```
+
+    - `Add New Rule` to allow DNS requests only
+
+      ```
+      Basic
+      Description: Allow VLAN10 DNS
+      Action: Accept
+      Protocol: TCP & UDP
+
+      Destination
+      Port: 53
+      ```
+
+    - `Add New Rule` to block all traffic to router
+
+      ```
+      Basic
+      Description: DROP access to 192.168.10.1
+      Action: Drop
+      Protocol: All Protocols
+
+      Destination
+      Address: 192.168.10.1
+      ```
+
+    - Configure the applicable interface in `Interfaces`
+
+      ```
+      Interface: switch0.10
+      Direction: in
+      ```
+
+### Unifi Controller
+
+In the controller you can now build on the new VLAN to create your new networks and wifi networks.
+
+- Create a new network for the VLAN in `Settings > Networks`
+
+  ```
+  Name: Guest
+
+  Advanced
+  VLAN ID: 10
+  Device Isolation: True
+  Auto Scale Network: False
+  Gateway IP/Subnet: 192.168.10.1/24
+  DHCP Range: 192.168.10.2 - 192.168.10.254
+  DHCP Guarding: 192.168.10.1
+  ```
+
+- Create a new wifi network for the VLAN in `Settings > WiFi`
+
+  ```
+  Name: Wafflehouse-Guest
+  Password: abc123
+  Network: Guest
+
+  Advanced
+  Client Group: Guest
+  ```
+
+- Optionally create a new Client Group to set rate limits in `Settings > Advanced Features` and then update your wifi network to use a custom Client Group.
+
+  ```
+  Add a Client Group
+  Name: Guest
+  Limit download bandwidth: 10 mbps
+  Limit upload bandwidth: 2 mbps
+  ```
+
+
 
 ## Local Custom DNS
 
