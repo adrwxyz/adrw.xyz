@@ -62,6 +62,31 @@ For my 2019 rough notes application of the [Principles for Navigating Big Debt C
 - Mortgage Amortization Schedule [MortgageCalculator](https://www.mortgagecalculator.org/)
 - Affordability Calculator [Realtor.ca](https://www.realtor.ca/calculator.aspx#v=affordability)
 
+# Videos
+
+- Rent vs Buy Matt McKeever (Rental Real Estate Investor) [2017](https://youtu.be/-em-ial9xoc), [2018](https://youtu.be/w8i3lh7kgXw), [2019](https://youtu.be/tkWl95chAgs)
+  - YouTube videos updated each year reviewing how purchasing a house can often not be the best financial decision compared to renting for primary residence
+- Renting vs. Buying a Home: The 5% Rule [YouTube](https://youtu.be/Uwl3-jBNEd4)
+  - Take house price \* 5% (total unrecoverable annual cost: 1% property tax + 1% maintenance + 3% cost of interest) / 12 to find the monthly break even of home ownership compared to rent at equivalent location.
+  - Video notes that if individual will be investing rent / own difference in a taxable investment account (ie. RRSP and TFSA room are maxed) then the rule may be closer to 4% because of the reduced difference between investing in stocks and home ownership from the taxation of investment gains.
+- Three Common Mortgage Mistakes (higher cost of breaking for 5 year fixed, not checking terms so that future refinance or other may be off the table, not using broker to shop around banks, rates, terms) [YouTube](https://youtu.be/OL6woftG4cQ)
+- The Real cost of DIY Home Renovations [YouTube](https://youtu.be/weTsUYj0FXI)
+  - Be realistic in estimating costs and tactics ahead of a big renovation or taking on a fixer-upper house. Costs and stress can be higher than expected, certain tactics and doing certain tasks yourself can reduce both.
+- IKEA Kitchen Cabinets [YouTube](https://youtu.be/w-H3SczRL7s) Great step-by-step instructions on instal of these cost efficient cabinets
+- Second Story Additions [YouTube](https://youtu.be/wnoVwzTOxQA)
+
+# Investigations
+
+- What if you rent part of your primary residence, still eligible for primary residence capital gains exemption on sale? You will encounter a "deemed disposition that normally arises on a partial change in use of property", aka you loss exemption status on the % of the house that you're now renting. [CRA](https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/about-your-tax-return/tax-return/completing-a-tax-return/personal-income/line-127-capital-gains/principal-residence-other-real-estate/changes-use/changing-part-your-principal-residence-a-rental-business-property.html)
+- Isn't buying real estate the best way to maximize leverage? Couldn't you then use that leverage for stock investing or other purposes?
+  - Leverage, yes! Usable for non-real estate, no. After research into HELOCs, readvanceable mortgages, and all sorts of other strategies, it's become clear that it's nearly impossible to use the leverage available in a mortgage outside of the specific real estate property that the mortgage is for.
+  - How do you maximize leverage?
+    - At best, you can get a 5% down mortgage and then once 20+% has been paid down in principle (usually past year 10 with a 25 year amortization), you can get a HELOC to keep pulling equity out and maintaining leverage long term. Some HELOCs have a loan limit set on setup based on assessment of the house.
+    - At the other end of the spectrum, you could pay for the house in cash and then withdraw up to 80% in a HELOC. The terms are important because some have payment plans similar to a mortgage so you lack the flexibility (that you get with a Line of Credit) that you need to put the money long term in stocks for example. Additionally the interest rate on HELOCs are often 1-2% higher than the rates you get with a mortgage, so it's difficult to see how the house purchase, which locks up 20% minimum in down payment / minimum HELOC equity, can provide any additional leverage than simply using the full 100% (used to initially pay the house).
+    - Other HELOCs, sometimes packaged as readvanceable mortgages (Scotiabank/BMO offers them), will automatically increase in credit room based on the principal parts of the continued regular mortgage payments. For example, if $1000 of your $2200 mortgage payment is going towards principle and you already have over 20% home equity, your HELOC will expand in room each month by \$1000. In this case, you could maintain high leverage on your house by withdrawing from HELOC the principle part of your payment and investing in stocks for example. Some readvanceable mortgages have lower limits than normal HELOCs only allowing borrowing up to 65% (vs HELOC normal 80%) of house value.
+  - Can you refinance every year to maximize ongoing leverage?
+    - Nope, refinancing essentially results in a brand new mortgage and thus new paperwork and closing costs. You can get a Home Equity Line of Credit (HELOC) but only of an amount surplus to 20% of the mortgage value. For example, for a $500k mortgage, you can't get a HELOC until $100k of principle has been paid down, and then your HELOC is only in the best case the amount above that. So if you've paid down $150k of principle, you can get a $50k HELOC to flexibly withdraw equity out of the house at slightly above prime rates, and less than an unsecured line of credit.
+
 # Mortgages
 
 - [RateHub](https://www.ratehub.ca/): Note, it is owned by CanWise a mortgage lender who they happen to often show as the best rate. Good educational articles and overview of rates from other banks.
@@ -93,30 +118,21 @@ For my 2019 rough notes application of the [Principles for Navigating Big Debt C
   - Unfortunately, their rates are much higher than other mortgages and they have surprise monthly fees that make it more of a trap for unsophisticated borrowers enticed by paying down their mortgage faster.
   - One Reddit user writes of how he was able to copy the pattern at a much lower rate using a TD HELOC for all of his regular banking and segmenting out his mortgage into different length fixed interest terms ([r/PersonalFinanceCanada](https://www.reddit.com/r/PersonalFinanceCanada/comments/cxaaqy/heloc_vs_traditional_mortgage/?utm_medium=android_app&utm_source=share))
 
-# Videos
+# The Smith Manoeuvre
+How to make mortgage interest deductible? With the Smith Manoeuvre.
 
-- Rent vs Buy Matt McKeever (Rental Real Estate Investor) [2017](https://youtu.be/-em-ial9xoc), [2018](https://youtu.be/w8i3lh7kgXw), [2019](https://youtu.be/tkWl95chAgs)
-  - YouTube videos updated each year reviewing how purchasing a house can often not be the best financial decision compared to renting for primary residence
-- Renting vs. Buying a Home: The 5% Rule [YouTube](https://youtu.be/Uwl3-jBNEd4)
-  - Take house price \* 5% (total unrecoverable annual cost: 1% property tax + 1% maintenance + 3% cost of interest) / 12 to find the monthly break even of home ownership compared to rent at equivalent location.
-  - Video notes that if individual will be investing rent / own difference in a taxable investment account (ie. RRSP and TFSA room are maxed) then the rule may be closer to 4% because of the reduced difference between investing in stocks and home ownership from the taxation of investment gains.
-- Three Common Mortgage Mistakes (higher cost of breaking for 5 year fixed, not checking terms so that future refinance or other may be off the table, not using broker to shop around banks, rates, terms) [YouTube](https://youtu.be/OL6woftG4cQ)
-- The Real cost of DIY Home Renovations [YouTube](https://youtu.be/weTsUYj0FXI)
-  - Be realistic in estimating costs and tactics ahead of a big renovation or taking on a fixer-upper house. Costs and stress can be higher than expected, certain tactics and doing certain tasks yourself can reduce both.
-- IKEA Kitchen Cabinets [YouTube](https://youtu.be/w-H3SczRL7s) Great step-by-step instructions on instal of these cost efficient cabinets
-- Second Story Additions [YouTube](https://youtu.be/wnoVwzTOxQA)
+Not natively part of Canadian tax code, it is possible with a readvanceable mortgage where increasing HELOC room is borrowed and invested in dividend paying stocks (which pay more than the HELOC or mortgage interest rate) to make mortgage interest tax deductible (like it is in the United States).
 
-# Common Questions and Answers
+Read more about the Smith Manoeuvre here:
 
-- What if you rent part of your primary residence, still eligible for primary residence capital gains exemption on sale? You will encounter a "deemed disposition that normally arises on a partial change in use of property", aka you loss exemption status on the % of the house that you're now renting. [CRA](https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/about-your-tax-return/tax-return/completing-a-tax-return/personal-income/line-127-capital-gains/principal-residence-other-real-estate/changes-use/changing-part-your-principal-residence-a-rental-business-property.html)
-- Isn't buying real estate the best way to maximize leverage? Couldn't you then use that leverage for stock investing or other purposes?
-  - Leverage, yes! Usable for non-real estate, no. After research into HELOCs, readvanceable mortgages, and all sorts of other strategies, it's become clear that it's nearly impossible to use the leverage available in a mortgage outside of the specific real estate property that the mortgage is for.
-  - How do you maximize leverage?
-    - At best, you can get a 5% down mortgage and then once 20+% has been paid down in principle (usually past year 10 with a 25 year amortization), you can get a HELOC to keep pulling equity out and maintaining leverage long term. Some HELOCs have a loan limit set on setup based on assessment of the house.
-    - At the other end of the spectrum, you could pay for the house in cash and then withdraw up to 80% in a HELOC. The terms are important because some have payment plans similar to a mortgage so you lack the flexibility (that you get with a Line of Credit) that you need to put the money long term in stocks for example. Additionally the interest rate on HELOCs are often 1-2% higher than the rates you get with a mortgage, so it's difficult to see how the house purchase, which locks up 20% minimum in down payment / minimum HELOC equity, can provide any additional leverage than simply using the full 100% (used to initially pay the house).
-    - Other HELOCs, sometimes packaged as readvanceable mortgages (Scotiabank/BMO offers them), will automatically increase in credit room based on the principal parts of the continued regular mortgage payments. For example, if $1000 of your $2200 mortgage payment is going towards principle and you already have over 20% home equity, your HELOC will expand in room each month by \$1000. In this case, you could maintain high leverage on your house by withdrawing from HELOC the principle part of your payment and investing in stocks for example. Some readvanceable mortgages have lower limits than normal HELOCs only allowing borrowing up to 65% (vs HELOC normal 80%) of house value.
-  - Can you refinance every year to maximize ongoing leverage?
-    - Nope, refinancing essentially results in a brand new mortgage and thus new paperwork and closing costs. You can get a Home Equity Line of Credit (HELOC) but only of an amount surplus to 20% of the mortgage value. For example, for a $500k mortgage, you can't get a HELOC until $100k of principle has been paid down, and then your HELOC is only in the best case the amount above that. So if you've paid down $150k of principle, you can get a $50k HELOC to flexibly withdraw equity out of the house at slightly above prime rates, and less than an unsecured line of credit.
-- How to make mortgage interest deductible?
-  - The Smith Manoeuvre. Not natively part of Canadian tax code, it is possible with a readvanceable mortgage where increasing HELOC room is borrowed and invested in dividend paying stocks (which pay more than the HELOC or mortgage interest rate) to make mortgage interest tax deductible (like it is in the United States).
-  - Read more about the Smith Manoeuvre here: [MillionDollarJourney](https://milliondollarjourney.com/use-smith-manoeuvre-tax-deductible-dividend-investing.htm) [MapleMoney](https://maplemoney.com/the-basics-of-the-smith-manoeuvre/), [EdRempel](https://edrempel.com/smith-manoeuvre), [The Globe and Mail](https://www.theglobeandmail.com/real-estate/mortgages-and-rates/the-smith-maneuver-a-canadian-mortgage-tax-deductible-plan/article12059456/), [MoneySmart Blog](http://www.moneysmartsblog.com/leveraged-investments-%E2%80%93-my-grand-plan/), [Counter Arguments](https://canadiancapitalist.com/the-smith-manoeuvre-debate/), [r/PersonalFinanceCanada](https://www.reddit.com/r/PersonalFinanceCanada/comments/f5q762/borrow_to_invest_would_like_to_hear_your/), [r/CanadianInvestor](https://www.reddit.com/r/CanadianInvestor/comments/eljuxf/started_smith_manoeuvretoday_those_who_are_doing/) (using balance transfer cheques from credit card to pay mortgage and then withdraw from HELOC)
+- [MillionDollarJourney](https://milliondollarjourney.com/use-smith-manoeuvre-tax-deductible-dividend-investing.htm)
+- [MapleMoney](https://maplemoney.com/the-basics-of-the-smith-manoeuvre/)
+- [EdRempel](https://edrempel.com/smith-manoeuvre),
+- [The Globe and Mail](https://www.theglobeandmail.com/real-estate/mortgages-and-rates/the-smith-maneuver-a-canadian-mortgage-tax-deductible-plan/article12059456/)
+- [MoneySmart Blog](http://www.moneysmartsblog.com/leveraged-investments-%E2%80%93-my-grand-plan/)
+- [Counter Arguments](https://canadiancapitalist.com/the-smith-manoeuvre-debate/)
+- [r/PersonalFinanceCanada](https://www.reddit.com/r/PersonalFinanceCanada/comments/f5q762/borrow_to_invest_would_like_to_hear_your/)
+- [r/CanadianInvestor](https://www.reddit.com/r/CanadianInvestor/comments/eljuxf/started_smith_manoeuvretoday_those_who_are_doing/): using balance transfer cheques from credit card to pay mortgage and then withdraw from HELOC
+- [Tax Planning And Interest Deductibility After Lipson](https://www.pallettvalo.com/news-centre/newsletters/tax-planning-and-interest-deductibility-after-lipson/): in depth review of 2009 Canadian Supreme Court Case where an elaborate interest tax deductibility achieved through a few transactions was struck down as invalid and taxable
+- [Making spousal attribution rules work for you](https://www.advisor.ca/tax/tax-news/george-making-spousal-attribution-rules-work-for-you/): the investment account you create to fund with your Smith Manoeuvre HELOC can be put in the name of one spouse (even if the other primarily funded the house and thus HELOC) without triggering spousal attribution rules which would cause all taxable events from the HELOC investment account to be attributed to the original spouse
+
