@@ -6,7 +6,9 @@ tags:
   - Finance
 ---
 
-When wrestling with the question of whether to buy or rent my primary residence in Canada, this has served as a living document frequently updated with latest resources and thoughts. Keeping them public and open to discussion has sharpened my thinking and kept me same as I've hashed out different ideas and approaches with others.
+When wrestling with the question of whether to buy or rent my primary residence in Ontario, Canada, this has served as a living document frequently updated with latest resources and thoughts. Keeping them public and open to discussion has sharpened my thinking and kept me sane as I've hashed out different ideas and approaches with others.
+
+Some of the notes below are out of date, and some will not be my final conclusions in a couple years, so come along for the ride and clarify with me any questions!
 
 For my 2019 rough notes application of the [Principles for Navigating Big Debt Crises](books/principles-for-navigating-big-debt-crises) to the Canadian Real Estate market, see [The State of Canadian Real Estate in 2019](/finance/2019-state-of-canadian-real-estate). It probably deserves fresh guidance given the changing winds from COVID-19 in 2020 but alas, I have not yet.
 
