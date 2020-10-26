@@ -12,7 +12,11 @@ Some of the notes below are out of date, and some will not be my final conclusio
 
 For my 2019 rough notes application of the [Principles for Navigating Big Debt Crises](books/principles-for-navigating-big-debt-crises) to the Canadian Real Estate market, see [The State of Canadian Real Estate in 2019](/finance/2019-state-of-canadian-real-estate). It probably deserves fresh guidance given the changing winds from COVID-19 in 2020 but alas, I have not yet.
 
-# Pros
+# Rent vs Buy
+
+Early in my investigation, I noted some pros/cons that immediately came to mind. Eventually, we landed on buying given the much more comparable rent vs buy dynamics in Kitchener (houses renting for $2000-2500, mortgage payment for similar house at $1800-2500) in contrast to other cities like Montreal where it can be strictly better to rent given larger rent supply and less rates.
+
+## Pros
 
 - Housing is a highly subsidized and incentivized investment (RRSP withdrawal program, no capital gains on primary residence, various homebuyer and renovations tax credits...)
 - In wilder markets in Canadian cities, RE price index has been increasing at >5% for the past 20 years. Recent years (2020) has seen year over year price index increase by 8-10% in Toronto and Kitchener-Waterloo. (Index link below). Locking in prices before they continue to go up could make sense.
@@ -22,7 +26,7 @@ For my 2019 rough notes application of the [Principles for Navigating Big Debt C
 - You eventually own where you live which could ideally drop your monthly costs to utilities, maintenance, and property tax
 - Forced savings vehicle (won’t ever not make a mortgage payment, might skip savings some months if not disciplined)
 
-# Cons
+## Cons
 
 - Responsible for maintenance
 - Almost certainly higher cash cost for just the mortgage let alone taxes, renovations, utilities on a per month basis
@@ -41,19 +45,19 @@ For my 2019 rough notes application of the [Principles for Navigating Big Debt C
 - 30+ year bull Canadian RE housing market, willing to bet it will continue another 40 to cover our lifetime (I’m not sure...)
 - Near peak for short term and long term debt cycle (Ray Dalio), thus deleveraging of some sort is coming, likely leading to reduction or pause in growth in house prices as most over leveraged sell houses and others decide not to buy or upgrade because of overextended debt levels.
 
-# Indexes
+## Indexes
 
 - House Price Index [Teranet & National Bank of Canada](https://housepriceindex.ca/)
 - Moody's Canada Real Estate Forecast [RPS Real Solutions](https://www.rpsrealsolutions.com/solutions/data-and-analytics/house-price-forecasts)
 - General per-city living affordability [Numbeo](https://www.numbeo.com/property-investment/country_result.jsp?country=Canada)
 - Per City Canada Rent Index (unknown year unfortunately) [Canadian Rental Housing Index](http://www.rentalhousingindex.ca/en/#cost_cd)
 
-# Analysis
+## Analysis
 
 - Analysis of 1989 Toronto Real Estate Crash [TorontoCondoBubble](http://www.torontocondobubble.com/2013/02/toronto-housing-bubble-in-1980s.html)
 - Ongoing Twitter Analysis of Upcoming Crash [Jesse Colombo, Forbes, ZeroHedge](https://twitter.com/TheBubbleBubble)
 
-# Calculators
+## Calculators
 
 - Rent vs Buy [Autorite des Marches Financiers](https://lautorite.qc.ca/en/general-public/calculators-and-tools/calculators/buy-or-rent-a-residence/)
 - Mortgage rates and monthly costs [Realtor.ca](https://www.realtor.ca/calculator.aspx)
@@ -64,7 +68,7 @@ For my 2019 rough notes application of the [Principles for Navigating Big Debt C
 - Mortgage Amortization Schedule [MortgageCalculator](https://www.mortgagecalculator.org/)
 - Affordability Calculator [Realtor.ca](https://www.realtor.ca/calculator.aspx#v=affordability)
 
-# Videos
+## Videos
 
 - Rent vs Buy Matt McKeever (Rental Real Estate Investor) [2017](https://youtu.be/-em-ial9xoc), [2018](https://youtu.be/w8i3lh7kgXw), [2019](https://youtu.be/tkWl95chAgs)
   - YouTube videos updated each year reviewing how purchasing a house can often not be the best financial decision compared to renting for primary residence
@@ -77,7 +81,7 @@ For my 2019 rough notes application of the [Principles for Navigating Big Debt C
 - IKEA Kitchen Cabinets [YouTube](https://youtu.be/w-H3SczRL7s) Great step-by-step instructions on instal of these cost efficient cabinets
 - Second Story Additions [YouTube](https://youtu.be/wnoVwzTOxQA)
 
-# Investigations
+## Investigations
 
 - What if you rent part of your primary residence, still eligible for primary residence capital gains exemption on sale? You will encounter a "deemed disposition that normally arises on a partial change in use of property", aka you loss exemption status on the % of the house that you're now renting. [CRA](https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/about-your-tax-return/tax-return/completing-a-tax-return/personal-income/line-127-capital-gains/principal-residence-other-real-estate/changes-use/changing-part-your-principal-residence-a-rental-business-property.html)
 - Isn't buying real estate the best way to maximize leverage? Couldn't you then use that leverage for stock investing or other purposes?
@@ -89,7 +93,7 @@ For my 2019 rough notes application of the [Principles for Navigating Big Debt C
   - Can you refinance every year to maximize ongoing leverage?
     - Nope, refinancing essentially results in a brand new mortgage and thus new paperwork and closing costs. You can get a Home Equity Line of Credit (HELOC) but only of an amount surplus to 20% of the mortgage value. For example, for a $500k mortgage, you can't get a HELOC until $100k of principle has been paid down, and then your HELOC is only in the best case the amount above that. So if you've paid down $150k of principle, you can get a $50k HELOC to flexibly withdraw equity out of the house at slightly above prime rates, and less than an unsecured line of credit.
 
-# Mortgages
+## Mortgages
 
 - [RateHub](https://www.ratehub.ca/): Note, it is owned by CanWise a mortgage lender who they happen to often show as the best rate. Good educational articles and overview of rates from other banks.
 - [RateSpy](https://www.ratespy.com/)
@@ -120,7 +124,7 @@ For my 2019 rough notes application of the [Principles for Navigating Big Debt C
   - Unfortunately, their rates are much higher than other mortgages and they have surprise monthly fees that make it more of a trap for unsophisticated borrowers enticed by paying down their mortgage faster.
   - One Reddit user writes of how he was able to copy the pattern at a much lower rate using a TD HELOC for all of his regular banking and segmenting out his mortgage into different length fixed interest terms ([r/PersonalFinanceCanada](https://www.reddit.com/r/PersonalFinanceCanada/comments/cxaaqy/heloc_vs_traditional_mortgage/?utm_medium=android_app&utm_source=share))
 
-# The Smith Manoeuvre
+## The Smith Manoeuvre
 How to make mortgage interest deductible? With the Smith Manoeuvre.
 
 Not natively part of Canadian tax code, it is possible with a readvanceable mortgage where increasing HELOC room is borrowed and invested in dividend paying stocks (which pay more than the HELOC or mortgage interest rate) to make mortgage interest tax deductible (like it is in the United States).
@@ -138,3 +142,6 @@ Read more about the Smith Manoeuvre here:
 - [Tax Planning And Interest Deductibility After Lipson](https://www.pallettvalo.com/news-centre/newsletters/tax-planning-and-interest-deductibility-after-lipson/): in depth review of 2009 Canadian Supreme Court Case where an elaborate interest tax deductibility achieved through a few transactions was struck down as invalid and taxable
 - [Making spousal attribution rules work for you](https://www.advisor.ca/tax/tax-news/george-making-spousal-attribution-rules-work-for-you/): the investment account you create to fund with your Smith Manoeuvre HELOC can be put in the name of one spouse (even if the other primarily funded the house and thus HELOC) without triggering spousal attribution rules which would cause all taxable events from the HELOC investment account to be attributed to the original spouse
 
+## Referrals
+
+- [Galleon CPA](https://galleoncpa.ca/pages/canadian-real-estate-tax), [Reviews](https://www.google.com/search?q=galleon+cpa&oq=galleon+cpa&aqs=chrome..69i57j46i175i199j69i60l3.2586j0j7&sourceid=chrome&ie=UTF-8#lrd=0x882b2932d0a23a33:0x7f11824cdd69da48,1,,)
