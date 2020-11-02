@@ -17,7 +17,7 @@ This book transformed how I view myself, my own self-confidence in my rationalit
 
 In one study among different groups of high school, undergraduate, and graduate students, the authors found that when given a task to write pros and cons of an argument, the only different education provided was that the subject could write a longer list of arguments for their position. No amount of education gave the subject the ability to bring up with the same intellectual vigor and verbosity arguments against the position they held.
 
-My wife pointed out that in one of my own notes from before I read this book, [Buying a House?](/finance/buying-a-house), I generated 4 arguments for, but 16 arguments against (which is the position I hold). This note ends up being another piece of evidence to affirm the study's findings.
+My wife pointed out that in an early version of one of my own notes from before I read this book, [Buying a House?](/finance/buying-a-house), I generated 4 arguments for, but 16 arguments against (which is the position I held). This note ends up being another piece of evidence to affirm the study's findings.
 
 Even for myself, I catch myself now realizing that certain things I do or say can be hurtful even if my gut reaction is that I was justified or "righteous" in doing it.
 
@@ -38,3 +38,17 @@ I still believe in an absolute morality though have a better understanding for t
 > Part II is about the second principle of moral psychology, which is that there’s more to morality than harm and fairness. The central metaphor of these four chapters is that the righteous mind is like a tongue with six taste receptors. Secular Western moralities are like cuisines that try to activate just one or two of these receptors—either concerns about harm and suffering, or concerns about fairness and injustice. But people have so many other powerful moral intuitions, such as those related to liberty, loyalty, authority, and sanctity. I’ll explain where these six taste receptors come from, how they form the basis of the world’s many moral cuisines, and why politicians on the right have a built-in advantage when it comes to cooking meals that voters like.
 
 > Part III is about the third principle: morality binds and blinds. The central metaphor of these four chapters is that human beings are 90 percent chimp and 10 percent bee. Human nature was produced by natural selection working at two levels simultaneously. Individuals compete with individuals within every group, and we are the descendants of primates who excelled at that competition. This gives us the ugly side of our nature, the one that is usually featured in books about our evolutionary origins. We are indeed selfish hypocrites so skilled at putting on a show of virtue that we fool even ourselves.
+
+### Selection from [Summary on the 6 Moral Taste Foundations](https://highexistence.com/how-jonathan-haidts-6-moral-tastebuds-can-heal-a-divided-world/)
+
+> The Care/Harm Foundation: refers to the psychological machinery within human beings which prompts us to care about our fellow humans and try to help them avoid harm
+
+> The Fairness/Cheating Foundation: refers to the psychological mechanisms which allow us to categorize actions as either “fair” or “unfair.”
+
+> The Loyalty/Betrayal Foundation: is our capacity to be loyal to certain people or groups and to feel distaste for traitors.
+
+> The Authority/Subversion Foundation: refers to our capacity to appoint members of our groups to positions of power for the benefit of all, as well as our tendency to feel threatened by those who disrupt the status quo distribution of power.
+
+> The Sanctity/Degradation Foundation: refers to our capacity to understand things as being “sacred” or “pure” and to feel a deep aversion to those things being “disrespected” or “desecrated.”
+
+> The Liberty/Oppression Foundation: is the human tendency to desire freedom and to be averse to oppression
