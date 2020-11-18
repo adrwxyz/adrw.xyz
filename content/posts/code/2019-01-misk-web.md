@@ -5,6 +5,7 @@ slug: code/2019-01-misk-web
 description: "Cash App is moving to the cloud and Misk services need a UI"
 tags:
   - Code
+  - Code(Cash App)
 ---
 
 # Misk-Web: How is Cash using Typescript, React, Redux, and BlueprintJS
