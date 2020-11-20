@@ -7,7 +7,7 @@ tags:
   - Code(Cash App)
 ---
 
-## Written for [Cash App Code Blog](https://cashapp.github.io/)
+## Written for [Cash App Code Blog](https://cashapp.github.io/2020-11-04/meet-barber)
 
 Cash App clients and services render thousands of English Mustache templates to send millions of personalized notifications, emails, text messages, and in-app UI daily to our customers.
 
