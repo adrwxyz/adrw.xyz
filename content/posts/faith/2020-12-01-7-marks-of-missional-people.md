@@ -6,7 +6,7 @@ tags:
   - Faith
 ---
 
-Thanks to some well targeted Instagram ads, I ended up signing up for and, many months later, completing the "7 Marks of Missional People" Master Class available at [VergeNetwork](https://www.vergenetwork.org/). Intrigued by the inclusion of some of my favourite speakers including Francis Chan and David Platt, the course ended up being very thought provoking in how to better understand and put into practice the theology of missions.
+Thanks to some well targeted Instagram ads, I ended up signing up for and, many months later, completing the "7 Marks of Missional People" Master Class available at [VergeNetwork](https://my.vergenetwork.org/master-class/7-marks-of-missional-people/). Intrigued by the inclusion of some of my favourite speakers including Francis Chan and David Platt, the course ended up being very thought provoking in how to better understand and put into practice the theology of missions.
 
 # Foundations of Missional Living
 ## A Framework for Missional Living (Alan Hirsch)
