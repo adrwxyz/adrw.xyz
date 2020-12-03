@@ -1,10 +1,11 @@
 ---
 title: Rent to Own
-date: 2019-09-08T00:00:00.000Z
 slug: finance/rent-to-own
 tags:
   - Finance
   - Finance(Housing)
+  
+date: 2019-09-08T00:00:00.000Z
 ---
 
 While in university, an elderly friend of mine mentioned Rent-to-Own as an option as I wondered aloud about the steeply rising house prices in the area and whether that would be in our future.

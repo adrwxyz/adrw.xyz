@@ -5,6 +5,7 @@ slug: finance/2021-buying-a-house
 tags:
 	- Finance
 	- Finance(Housing)
+	
 ---
 
 For easier reading, I've summarized my recent findings and investigation into the question of purchasing a personal family home in the following post. Other posts in the finance category have more detailed investigation and references for the more complex terms or historical examples given here.
