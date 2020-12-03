@@ -6,6 +6,8 @@ tags:
   - Finance
 ---
 
+For easier reading, I've summarized my recent findings and investigation into the question of purchasing a personal family home in the following post. Other posts in the finance category have more detailed investigation and references for the more complex terms or historical examples given here.
+
 # Buy
 
 * Currency Devaluation: The risk of currency devaluation as a monetary tool to deleverage the extensive national debts brought on by COVID would result in on a nominal basis real asset prices like stocks, gold, houses, physical tools, and other goods rising. Without an inflation adjusted salaried job (primarily only available if unionized or working for government), cost of living and home price to wage ratios will continue to increases with the hope of modest salary adjustments upwards about as good as can be expected. The loss of purchasing power could be significant. Purchase of a home locks in housing prices at current nominal levels, and a currency devaluation results in you paying back the bank with less valuable dollars over time, which leaves you better off provided that the mortgage debt is in the same currency that your income is earned and you can maintain your income source through the inflationary period.
