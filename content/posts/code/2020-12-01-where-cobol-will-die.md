@@ -33,4 +33,4 @@ COBOL won't be gone anytime soon. But if it ever dies, the place of death will b
 
 Read more at [Wealthsimple Magazine][article].
 
-[article][https://www.wealthsimple.com/en-ca/magazine/cobol-controls-your-money]
+[article]: https://www.wealthsimple.com/en-ca/magazine/cobol-controls-your-money
