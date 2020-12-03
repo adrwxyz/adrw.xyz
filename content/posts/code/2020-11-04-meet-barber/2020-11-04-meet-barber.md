@@ -3,6 +3,7 @@ title: "Meet Barber💈: the best way to manage your Mustache"
 date: 2020-11-04 00:00:00
 slug: code/2020-11-04-meet-barber
 tags:
+  - Blog
   - Code
   - Code(Cash App)
 ---

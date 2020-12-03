@@ -4,6 +4,7 @@ date: 2020-12-01 00:00:00
 slug: code/where-cobol-will-die
 description: "Where COBOL Will Die"
 tags:
+  - Blog
   - Code
 ---
 
