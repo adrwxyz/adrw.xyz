@@ -1,10 +1,9 @@
 ---
 title: Finance and Investing 101
+date: 2020-02-18T15:45:09.380Z
 slug: finance/101
 tags:
   - Finance
-  
-date: 2020-02-18T15:45:09.380Z
 ---
 
 # Finance and Investing 101

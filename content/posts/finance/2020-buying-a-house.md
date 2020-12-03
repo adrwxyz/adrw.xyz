@@ -3,9 +3,8 @@ title: Buying a House in 2021?
 date: 2020-11-29T00:00:00.000Z
 slug: finance/2021-buying-a-house
 tags:
-	- Finance
 	- Finance(Housing)
-	
+	- Finance
 ---
 
 For easier reading, I've summarized my recent findings and investigation into the question of purchasing a personal family home in the following post. Other posts in the finance category have more detailed investigation and references for the more complex terms or historical examples given here.
