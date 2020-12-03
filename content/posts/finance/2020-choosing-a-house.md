@@ -3,7 +3,8 @@ title: Choosing a House?
 date: 2020-11-29T00:00:00.000Z
 slug: finance/choosing-a-house
 tags:
-  - Finance
+	- Finance
+	- Finance(Housing)
 ---
 
 A working document for landing on criteria to choose a house.
@@ -61,10 +62,10 @@ A working document for landing on criteria to choose a house.
 #### Examples
 
 ### Not Okay
-- 
+-
 
 #### Examples
-- 
+-
 
 ## 2 Story
 ### Okay
