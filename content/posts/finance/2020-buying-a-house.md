@@ -3,7 +3,6 @@ title: Buying a House in 2021?
 date: 2020-11-29T00:00:00.000Z
 slug: finance/2021-buying-a-house
 tags:
-	- Finance(Housing)
 	- Finance
 ---
 

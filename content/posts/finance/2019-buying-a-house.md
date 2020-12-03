@@ -3,9 +3,7 @@ title: Buying a House?
 date: 2019-01-15T00:00:00.000Z
 slug: finance/buying-a-house
 tags:
-  - Finance(Housing)
   - Finance
-
 ---
 
 When wrestling with the question of whether to buy or rent my primary residence in Ontario, Canada, this has served as a living document frequently updated with latest resources and thoughts. Keeping them public and open to discussion has sharpened my thinking and kept me sane as I've hashed out different ideas and approaches with others.

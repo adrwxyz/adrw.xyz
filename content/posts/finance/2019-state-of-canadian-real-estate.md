@@ -5,7 +5,6 @@ slug: finance/2019-state-of-canadian-real-estate
 tags:
   - Finance(Housing)
   - Finance
-
 ---
 
 Canada RE looks like a bubble. If it is can we short it like saavy investors in the US could?
