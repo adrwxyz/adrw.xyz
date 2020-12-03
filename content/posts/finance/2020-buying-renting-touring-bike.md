@@ -14,16 +14,16 @@ For the comparison below, I primarily am interested in the case where buy or ren
 
 ### Rent
 
-- Taiwan: $182 CAD / 10 days
-- Germany: $400 CAD / 10 days
+- Taiwan: \$182 CAD / 10 days
+- Germany: \$400 CAD / 10 days
 
 ### Buy
 
-- Bike: $2300
-- Pedals and shoes: $300
-- Bags & accessories: $400
-- Total: $3000
-- Airplane per leg cost: $50-100
+- Bike: \$2300
+- Pedals and shoes: \$300
+- Bags & accessories: \$400
+- Total: \$3000
+- Airplane per leg cost: \$50-100
 
 ### Breakeven
 
@@ -34,24 +34,24 @@ For the comparison below, I primarily am interested in the case where buy or ren
 
 ### Both Buy
 
-- Buy: $6,000
-- Airplane per leg cost: $50-100
-- Total (2 Asia, 2 Germany trips = 40 days): $6,800
-- Total (10 Asia, 10 Germany trips = 200 days): $10,000
+- Buy: \$6,000
+- Airplane per leg cost: \$50-100
+- Total (2 Asia, 2 Germany trips = 40 days): \$6,800
+- Total (10 Asia, 10 Germany trips = 200 days): \$10,000
 
 ### One Buy, One Rent
 
-- Buy: $3,000
-- Airplane per leg cost: $50-100
-- Rental fee: $182-450 / 10 days
-- Total (2 Asia, 2 Germany trips = 40 days): $4,664
-- Total (10 Asia, 10 Germany trips = 200 days): $11,320
+- Buy: \$3,000
+- Airplane per leg cost: \$50-100
+- Rental fee: \$182-450 / 10 days
+- Total (2 Asia, 2 Germany trips = 40 days): \$4,664
+- Total (10 Asia, 10 Germany trips = 200 days): \$11,320
 
 ### Both Rent
 
-- Rental fee: $182-450 / 10 days
-- Total (2 Asia, 2 Germany trips = 40 days): $2,528
-- Total (10 Asia, 10 Germany trips = 200 days): $12,640
+- Rental fee: \$182-450 / 10 days
+- Total (2 Asia, 2 Germany trips = 40 days): \$2,528
+- Total (10 Asia, 10 Germany trips = 200 days): \$12,640
 
 ## Resources
 

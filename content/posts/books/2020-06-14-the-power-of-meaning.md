@@ -26,10 +26,3 @@ After reflecting on the responses of writers, philosophers, religious texts, and
 ## Storytelling
 
 ## Transcendence
-
-
-
-
-
-
-

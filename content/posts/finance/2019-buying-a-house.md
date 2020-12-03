@@ -119,13 +119,14 @@ Early in my investigation, I noted some pros/cons that immediately came to mind.
 - Readvanceable Mortgages
   - Readvanceable mortgages are more complex instruments that combine a mortgage with an expanding HELOC based on principle portion of your mortgage payment. This means that every mortgage payment (which consists of principle + interest) expands your HELOC credit room by the amount of the principle.
   - An expanding HELOC contribution room grants more flexible use of the home equity such as to maximize tax deductible interest using the Smith Maneuver or to fund home renovations or other investments at generally a lower, closer to prime interest rate than unsecured lines of credit.
-  - The cons ([Globe & Mail](https://www.theglobeandmail.com/globe-investor/personal-finance/household-finances/beware-the-bait-of-readvanceable-mortgages/article35240901/)) for some borrowers will be more credit than they know what to wisely do with, increased lender lock-in since the mortgage is a collateral mortgage and switching lenders after a term will carry ~$1k in legal fees, and often a slightly higher interest rate to compensate for the complexity and flexibility of the instrument.
+  - The cons ([Globe & Mail](https://www.theglobeandmail.com/globe-investor/personal-finance/household-finances/beware-the-bait-of-readvanceable-mortgages/article35240901/)) for some borrowers will be more credit than they know what to wisely do with, increased lender lock-in since the mortgage is a collateral mortgage and switching lenders after a term will carry ~\$1k in legal fees, and often a slightly higher interest rate to compensate for the complexity and flexibility of the instrument.
 - Manulife One
   - Manulife has an account they advertise merges your banking account, mortgage, and line of credit where interest owed is calculated daily and you can end up better off by using your banking balances to on a daily basis reduce your interest owing.
   - Unfortunately, their rates are much higher than other mortgages and they have surprise monthly fees that make it more of a trap for unsophisticated borrowers enticed by paying down their mortgage faster.
   - One Reddit user writes of how he was able to copy the pattern at a much lower rate using a TD HELOC for all of his regular banking and segmenting out his mortgage into different length fixed interest terms ([r/PersonalFinanceCanada](https://www.reddit.com/r/PersonalFinanceCanada/comments/cxaaqy/heloc_vs_traditional_mortgage/?utm_medium=android_app&utm_source=share))
 
 ## The Smith Manoeuvre
+
 How to make mortgage interest deductible? With the Smith Manoeuvre.
 
 Not natively part of Canadian tax code, it is possible with a readvanceable mortgage where increasing HELOC room is borrowed and invested in dividend paying stocks (which pay more than the HELOC or mortgage interest rate) to make mortgage interest tax deductible (like it is in the United States).

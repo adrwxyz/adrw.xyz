@@ -140,7 +140,9 @@ The below example assumes a basic setup where all Unifi Access Points connect di
 - Optionally support port forwarding over the new VLAN interface, I've done this only on the work device network, not for guest network to lock down internal services.
   - Add `switch0.10`
 - Add Firewall rules to restrict VLAN talking to other devices on your primary LAN `Firewall/NAT > Firewall Policies`
+
   - Add `IN` rule to drop all requests to primary LAN IP addresses
+
     - `Add Ruleset`
 
       ```
@@ -169,6 +171,7 @@ The below example assumes a basic setup where all Unifi Access Points connect di
       ```
 
   - Add `LOCAL` rule to drop all requests to the router except for DNS requests
+
     - `Add Ruleset`
 
       ```
@@ -245,8 +248,6 @@ In the controller you can now build on the new VLAN to create your new networks 
   Limit download bandwidth: 10 mbps
   Limit upload bandwidth: 2 mbps
   ```
-
-
 
 ## Local Custom DNS
 

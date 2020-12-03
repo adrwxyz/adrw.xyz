@@ -119,7 +119,7 @@ When in a supposed corner against an immovable party, often laying out the situa
 
 It is especially useful when negotiating downwards as a way to not have to give a firm "no" which can stimey negotiations.
 
-Ensure that your tone of voice isn't accusational but beckoning help. For example, when a kidnapper demanded daily payments and threatened cutting off limbs if payment wasn't made, a negoitators question after many "How" and "What" questions  of "When we run out of money, what will happen?" led the kidnapper to unknowingly promise "It will be okay", or that no harm will be done to the hostage. A huge win and a deescalation on the result of many open ended questions.
+Ensure that your tone of voice isn't accusational but beckoning help. For example, when a kidnapper demanded daily payments and threatened cutting off limbs if payment wasn't made, a negoitators question after many "How" and "What" questions of "When we run out of money, what will happen?" led the kidnapper to unknowingly promise "It will be okay", or that no harm will be done to the hostage. A huge win and a deescalation on the result of many open ended questions.
 
 ### Regulate your Emotions
 
@@ -153,17 +153,17 @@ The deferral away from first-person pronouns (I) and use of plural (we) also sho
 
 In contrast to pushy salesmen that hammer home the counter party with use of their name to imply mutual trust, flip the tactic and use your name to force the counter party to have empathy with you. This forces them to see you as a person.
 
-Saying, "Hi, my name is ____", with a calm deferential tone of voice can disarm the most unruly situations, and even get special discounts or provisions in retail situations!
+Saying, "Hi, my name is \_\_\_\_", with a calm deferential tone of voice can disarm the most unruly situations, and even get special discounts or provisions in retail situations!
 
 ### Getting Them to Negotiate Against Themselves
 
 Tell them "No" a few times without ever saying the word to have the counter party continue to negotiate against themselves upon each response.
 
-* "How can I do that?": they will empathize with your situation and give a better offer
-* "Though your offer is generous, I'm sorry but it won't work for me": nurture counter part to live up to the word, soften with an apology
-* "I'm sorry but I can't do that": inability to perform triggers more empathy
-* "I'm sorry, no": if delivered gently, it barely sounds negative at all
-* "No": tone of downward inflection with regard
+- "How can I do that?": they will empathize with your situation and give a better offer
+- "Though your offer is generous, I'm sorry but it won't work for me": nurture counter part to live up to the word, soften with an apology
+- "I'm sorry but I can't do that": inability to perform triggers more empathy
+- "I'm sorry, no": if delivered gently, it barely sounds negative at all
+- "No": tone of downward inflection with regard
 
 ### Haggling
 
