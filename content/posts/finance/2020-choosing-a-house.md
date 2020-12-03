@@ -33,7 +33,7 @@ A working document for landing on criteria to choose a house.
   _ Acceptable problems: UFFI, asbestos insulation
   _ Unacceptable problems: active knob and tube, water damage, weak foundation, smoke damages
 - Finishing: Minimal renovations done, don't want to pay for someone else's hack jobs
-- Proximity to Family: <10 mins drive to 227 Carter, ideally <40 mins transit to UW
+- Proximity to Family: <10 mins drive to family, ideally <40 mins transit to UW
 - Budget: <800k
 
 # Per House Style Criteria
