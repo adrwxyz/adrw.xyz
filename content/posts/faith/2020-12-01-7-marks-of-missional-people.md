@@ -1,6 +1,6 @@
 ---
 title: 7 Marks of Missional People
-date: 2020-01-22T14:05:44.263Z
+date: 2020-12-01T14:05:44.263Z
 path: faith/7-marks-of-missional-people
 tags:
   - Faith
