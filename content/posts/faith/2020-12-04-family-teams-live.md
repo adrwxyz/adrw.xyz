@@ -49,11 +49,38 @@ What went wrong in the family?
 	- A multigenerational team on mission
 	- Abraham had a goal that he wanted his family to accomplish, it would take generations to accomplish, thus his family needed to work as a team to eventually accomplish this vision
 	- New springboard family is a new idea, most other cultures are Abraham/classical
-- Objectively, what is the family? As Christians, look at God's heart. What model springboard or classical best aligns?
+- Objectively, what is the family? As Christians, look at God's heart. What model springboard or classical best aligns with what we find in Scripture?
 	- Best verse: Genesis 1. First time family was mentioned. "Subdue the world, bear fruit, rule"
 	- Principle of first mention: first mention of a topic in the Bible often outlines the definition.
 	- Primary goal of family is to bear fruit together, not individual fruit. Expand the boundaries of God's creation to cover the earth. 
 	- God didn't create a company, a charity, etc. but a family; a mission that couldn't be accomplished in a single generation
 - This is drastically different than springboard family.
 	- Primary metaphor is the "nest". When kids grow up there's an "empty nest".
+	- Purpose of nest is to nurture baby chicks. As soon as they're old enough, they should fly away and be on their own. Nothing wrong with autonomy and capabilities to function as an individual. But that's not what a family is. A family should work together, invest in each other.
+	- Abraham would have thought of family as a team. We think of it as a nest.
+- "I will make of you a great nation and I will bless you and make your name great, so that you will be a blessing. I will bless those who bless you and him who dishonours you I will curse, and in you all the families of the earth and be blessed." – Genesis 12:2-3
+	- Notice the use of the word "you". Abraham only had one son. God was talking to "you" as the generational accomplishment.
+	- Notice the goal, to bless all families of the earth. 
+	- When we hear family, we think of Nuclear family (parents + kids). When Bible talks about family
+- "Children are a gift from the Lord..." – Psalm 127:3-5
+	- A lot of values here
+	- Children are a gift, reward, exciting to have multiple families
+	- Goal not to launch children out and start all over
+	- Goal to build warriars for the multi-generational family line so Father won't be put to shame at the city gate
+	- Modern culture treats family as recreation center. All productive activity is done individually.
+	- In Psalm 127, family is the outpost. It's through the family that you accomplish things. It's militaristic.
+	- Favourite picture of this is Lord of the Rings "Rivendell", archetypal family Enron is building a house by which things can be launched. "Rivendell was perfect whether you liked foor, or play, or work, or storytelling, or singing, or just sitting and thinking best, a pleasant mixture of them all. Evil things did not come into that valley"
+- "But a widow has children or grandchildren, their first responsibility... [...] But those who won't care for their relatives, especially those in their own household..." – 1 Timothy 5:4,8
+	- Feels like it's straight from the Torah. More verses there about caring for parents than there are for caring for children. Huge value. How you treat upstream generations matters in both Old and New Testament.
+	- Paul says first responsibility is to care for upstream generations, first responsibility of the faith. We don't think of family like this anymore, never heard of a pastor preach through this before, "Before you serve in ministry, how are you serving the widows in your family?"
+- Be Fruitful, then Multiply, then Rule
+	- There is a process to building a family
+	- How do you be fruitful? How do you experience love, peace, productivity in your family
+	- Once fruitful, you can multiple to make more disciples as an outpost
+	- Across generational strength, you can become a ruling family. This is the scriptural model given in Genesis
+- Decide: Repent and Believe
+	- What kind of family do you want to build? Springboard or multigenerational team on mission?
+	- Which one is described by the Bible? Which excites your heart?
+	- The Bible describes coming to a big decision as a process of "repent and believe". Change your mind. Don't first start doing lots of things, admit that your ideas are off. 
+	- "God I don't think what I believed about family is what you called me to build. I repent and set that aside. I believe you've called me to build a multigenerational family team on mission"
 	- 
