@@ -143,6 +143,19 @@ Read more about the Smith Manoeuvre here:
 - [Tax Planning And Interest Deductibility After Lipson](https://www.pallettvalo.com/news-centre/newsletters/tax-planning-and-interest-deductibility-after-lipson/): in depth review of 2009 Canadian Supreme Court Case where an elaborate interest tax deductibility achieved through a few transactions was struck down as invalid and taxable
 - [Making spousal attribution rules work for you](https://www.advisor.ca/tax/tax-news/george-making-spousal-attribution-rules-work-for-you/): the investment account you create to fund with your Smith Manoeuvre HELOC can be put in the name of one spouse (even if the other primarily funded the house and thus HELOC) without triggering spousal attribution rules which would cause all taxable events from the HELOC investment account to be attributed to the original spouse
 
+## Buying a House Process
+
+- Get mortgage pre-approval to get a sense of your maximum affordability. Pre-approval can always be revoked after house purchase so don't think that this means your mortgage is completely firm and you can confidently waive a financing offer condition. Some banks if prompted will let you get a firm pre-approval where they agree to follow through with the mortgage under certain conditions, then you could more confidently waive financing condition.
+- Choose a house
+- Submit an offer. Offers use the same standard contract of the provincial realtor organization. In hotter seller markets, the buyer's offer will be most competitive if financing, house inspection, and all other conditions are waived. Touring the house with a friend who is a building inspector can help limit downside risk though it won't be as thorough as if it was an official inspection. If you waive financing condition and you can't get financing (ie. mortgage), you will be sued by the seller for the difference in price if they have to sell it lower and for damages from not respecting the offer contract originally agreed to.
+- Submit the signed offer letter, MLS listing, and personal finance documents to a mortgage broker or rate aggregator to get a firm mortgage lined up. The funds change hands at closing date so you will need to have your mortgage secured and ready for that date. You will need to have your downpayment before close so the mortgage can certify that you have the necessary funds.
+  - Ways to botch securing your mortgage is signing up for new credit cards or drawing on existing lines of credit, switching jobs, or not having your downpayment sitting in your bank account for 90 days prior to house purchase (exception if your downpayment is from a family gift) in the period between house purchase and closing.
+
+## Making the Offer
+
+- [Bidding War Realtor Etiquette](https://www.getwhatyouwant.ca/bidding-war-rules-best-practices-etiquette-for-ontario-realtors)
+
+
 ## Referrals
 
 - [Galleon CPA](https://galleoncpa.ca/pages/canadian-real-estate-tax), [Reviews](https://www.google.com/search?q=galleon+cpa&oq=galleon+cpa&aqs=chrome..69i57j46i175i199j69i60l3.2586j0j7&sourceid=chrome&ie=UTF-8#lrd=0x882b2932d0a23a33:0x7f11824cdd69da48,1,,)
