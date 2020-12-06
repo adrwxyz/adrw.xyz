@@ -6,7 +6,7 @@ tags:
   - Faith
 ---
 
-# Session 1: Decide
+# Session 1: Decide (Jeremy Pryor)
 
 What went wrong in the family?
 
@@ -84,7 +84,7 @@ What went wrong in the family?
 	- The Bible describes coming to a big decision as a process of "repent and believe". Change your mind. Don't first start doing lots of things, admit that your ideas are off. 
 	- "God I don't think what I believed about family is what you called me to build. I repent and set that aside. I believe you've called me to build a multigenerational family team on mission"
 
-# Session 2: Team
+# Session 2: Centering in on the Team (Jeff Bethke)
 - Jeff grew up playing team sports competitively. What's interesting is how much team stuff translates to family. Sports and work have more organic team work, but family's at this point don't.
 - Sports and work have a mission. 
 
@@ -135,6 +135,11 @@ What went wrong in the family?
 
 Try and develop the above for your family team!
 
+# Session 2: Clarifying the Vision, Mission, and Pillars for your Family (Jeremy Pryor)
 
+- Dreaming process about the future to develop your mission can work well with thinking more about narratives than pure pillars or principles. 
+- Proverbs 9:1,5-6. Wisdom is a house built on 7 pillars. Motivated family pillars.
+- Write independently a short phrase or a word and a matching descriptive sentence. Listen openly without feedback each person's pillars they wrote, then rank to narrow in on the top 7 (or whatever number you want). 
+- Don't worry about this being set in stone, you can edit and refocus your pillars over time. Doing this hard work to define an aim for your team is pivotal.
 
 
