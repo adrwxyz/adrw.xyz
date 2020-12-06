@@ -6,7 +6,7 @@ tags:
   - Faith
 ---
 
-# Decide
+# Session 1: Decide
 
 What went wrong in the family?
 
@@ -83,4 +83,58 @@ What went wrong in the family?
 	- Which one is described by the Bible? Which excites your heart?
 	- The Bible describes coming to a big decision as a process of "repent and believe". Change your mind. Don't first start doing lots of things, admit that your ideas are off. 
 	- "God I don't think what I believed about family is what you called me to build. I repent and set that aside. I believe you've called me to build a multigenerational family team on mission"
-	- 
+
+# Session 2: Team
+- Jeff grew up playing team sports competitively. What's interesting is how much team stuff translates to family. Sports and work have more organic team work, but family's at this point don't.
+- Sports and work have a mission. 
+
+## Two Misconceptions of Team
+- Myth 1: The individual is going to get crushed. 
+	- To that, Jeff says is facism. A team is the context in which an individual can flourish. This isn't the same as the Western context of individual success that is failing.
+	- Note the 1 Corinithians context where the best self emerges from being on the right team and mutual improvement.
+- Myth 2: If you're a team, you must always be around each other. Anything separate is not being a team.
+	- Being a family team doesn't mean you're never apart. It's a spectrum. Always apart isn't great.
+	- For example, in church sometimes the kids go to individual ministries. Other times in certain seasons everyone sticks together.
+	- In some cases, a team member goes out as an ambassador for the family team. For example a parent going out to work to represent the family team. Yet, at times if the individual finds their identity at work or a separate activity, then that's not great.
+	- Be what a team would be. You're together some times. Than you split for missional and contextual purposes.
+
+## 5 Team Traits
+- Every team has a coach
+	- A coach, not two babysitters.
+	- A coach takes ownership over the future of their team. A coach is not just trying to solve today, but to accomplish something for the future (day, week, month, year)
+	- A babysitter is only to ensure safety and comfort for today
+	- A coach meets those basic standards but is focused on the future, not just today
+	- How do you as a parent corret, teach, discipline, have fun, engage with your kids to craft a future? Or is it simply to plug the holes today?
+	- A coach takes ownership, whatever a team is like it falls on me.
+	- A coach trains. A babysitter is reactive. A coach is proactive towards a future to obtain by God's guidance, spirit, and grace.
+	- Can you say you're a coach? There's always areas to improve from babysitter to coach.
+- Every team has a playbook
+	- In general, every workplace and team culture has a playbook for how it operates
+	- Culture can sometimes be caught, not taught. If parents are angry, then anger is learned.
+	- What is the culture we want in our home? What are some mechanisms we can bake into our day, week, year that will reinforce the culture regularly?
+	- Shabbat is so we have 500+ shabbats over 15 years and reinforce rhythms, rest...etc
+	- Jeff would get frustrated with Kinsley for expectations that he never had mentioned. Talk about the playbook and hold yourself and others accountable. How do you deal with disagreements? How do you deal with money? When kids feel that the parents are accountable to the same playbook they are, it can be powerful.
+- Every team has practices & games
+	- Being a family team with toddlers doesn't feel as big or exciting. You're not taking your family on drastic mission, but in a way you are. 
+	- Try and identify seasons in which to define practices & games. This 3 month period, our practice/game is taking each week dinner to a family for example. Or maybe the games are hospitality, that someone feels shalom when they enter the house.
+	- A plumber at Jeff's once gave the best compliment, "I went slow and wanted to stay longer because it was so peaceful and restful to be here." The kids asked him questions about plumbing, they offered him coffee, water, cookies. Those are the games.
+	- But, you need practices for that: meals when no one comes over that you practice asking questions etc. The kids need to understand the value of both the practices & the games.
+	- Celebrate the wins, lowest hanging fruit in celebrating accomplishing and improving as a team
+- Every team has rituals & traditions
+	- Certain teams had certain hand shakes, or secret words. One tradition was a Jesus loving coach who had a big sleepover at the coach's house. If you weren't on varsity, you looked forward to. If you were, you enjoyed it.
+	- Shabbat is a great one
+	- Weekly movie night. Provide a specific context for screens, not just each on their own iPad. If family movie night is very intentional screen time together, it's not a crutch.
+	- If you want your family to be fun, bless others, be spontaneous, what rituals can you build to support those values?
+	- Give your values vehicles. What's something you can do over and over again to live out and practice your values.
+- Every team has a mission
+	- Where are you going? Can your family answer that?
+	- Spend the next few weeks and beginning of 2021, seek the Lord's face to know what unique talents have been gifted to accomplish a mission for the kingdom.
+	- God brought your family uniquely together with all your talents, perculiarities, shortcomings, strenghts, story, trajectory, together as a unit of the Kingdom of God in your neighbourhood and in other people's lives.
+	- What's a word? What are your pillars? My family is hospitality. My family starts businesses. My family serves.
+	- For example, one family with adult kids. Jeff texted the Dad some questions about electrician, he said "don't worry I'll come over now, do it for you and teach you". The entire family came over, the Dad and apprentice son got to work, the Mom hopped in the kitchen and started cooking. High relational care was their bulls eye. It blew Jeff's socks off and was something he wanted their family to become.
+
+Try and develop the above for your family team!
+
+
+
+
