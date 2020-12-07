@@ -150,11 +150,36 @@ Read more about the Smith Manoeuvre here:
 - Submit an offer. Offers use the same standard contract of the provincial realtor organization. In hotter seller markets, the buyer's offer will be most competitive if financing, house inspection, and all other conditions are waived. Touring the house with a friend who is a building inspector can help limit downside risk though it won't be as thorough as if it was an official inspection. If you waive financing condition and you can't get financing (ie. mortgage), you will be sued by the seller for the difference in price if they have to sell it lower and for damages from not respecting the offer contract originally agreed to.
 - Submit the signed offer letter, MLS listing, and personal finance documents to a mortgage broker or rate aggregator to get a firm mortgage lined up. The funds change hands at closing date so you will need to have your mortgage secured and ready for that date. You will need to have your downpayment before close so the mortgage can certify that you have the necessary funds.
   - Ways to botch securing your mortgage is signing up for new credit cards or drawing on existing lines of credit, switching jobs, or not having your downpayment sitting in your bank account for 90 days prior to house purchase (exception if your downpayment is from a family gift) in the period between house purchase and closing.
+- Get a Real Estate Lawyer who will orchestrate the closing including Title deed lookup and insurance, land transfer tax calculation, and final key exchange with the seller.
+  - Thorough description of the role of real estate lawyer in both buy and sell cases from [Remax](https://blog.remax.ca/role-real-estate-lawyer-home-buyers/)
+
+  ```
+  Role of a real estate lawyer as a buyer
+
+    Review the Agreement of Purchase and all other legal documents
+    Ensure there are no claims listed against the property
+    Arrange for Title Insurance
+    Ensure you have a valid title upon closing
+    Ensure property taxes are up to date
+    Calculate the land transfer tax due on closing
+    Draw up the mortgage documents
+    Close the transaction and ensure all legal and financial conditions are met
+    Exchange legal documents and keys with the seller’s lawyer
+
+  Role of a real estate lawyer as a seller
+
+    Review the Agreement of Sale and other legal documents before you sign
+    Assist you with the negotiation of the terms and conditions
+    Prepare the deed to your house
+    Deal and remedy title issues as they occur
+    Close the transaction
+    Ensure all legal and financial conditions have been met
+    Exchange legal documents and keys with the Buyer’s lawyer
+  ```
 
 ## Making the Offer
 
 - [Bidding War Realtor Etiquette](https://www.getwhatyouwant.ca/bidding-war-rules-best-practices-etiquette-for-ontario-realtors)
-
 
 ## Referrals
 
