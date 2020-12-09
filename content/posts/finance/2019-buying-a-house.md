@@ -142,6 +142,7 @@ Read more about the Smith Manoeuvre here:
 - [r/CanadianInvestor](https://www.reddit.com/r/CanadianInvestor/comments/eljuxf/started_smith_manoeuvretoday_those_who_are_doing/): using balance transfer cheques from credit card to pay mortgage and then withdraw from HELOC
 - [Tax Planning And Interest Deductibility After Lipson](https://www.pallettvalo.com/news-centre/newsletters/tax-planning-and-interest-deductibility-after-lipson/): in depth review of 2009 Canadian Supreme Court Case where an elaborate interest tax deductibility achieved through a few transactions was struck down as invalid and taxable
 - [Making spousal attribution rules work for you](https://www.advisor.ca/tax/tax-news/george-making-spousal-attribution-rules-work-for-you/): the investment account you create to fund with your Smith Manoeuvre HELOC can be put in the name of one spouse (even if the other primarily funded the house and thus HELOC) without triggering spousal attribution rules which would cause all taxable events from the HELOC investment account to be attributed to the original spouse
+- [Income splitting options](https://milliondollarjourney.com/income-splitting-options.htm)
 
 ## Buying a House Process
 
