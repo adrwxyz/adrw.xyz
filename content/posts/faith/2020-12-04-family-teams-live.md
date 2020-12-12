@@ -301,3 +301,18 @@ Try and develop the above for your family team!
 		- Once you have rhythms established, like Sabbath, you can invite people into it, it's not just about saying No to everything. You can still go to birthdays or whatever, 80-90% is still success.
 		- The more you live as a family team, it becomes a magnet, a portal into the kingdom, a portal into joy. People like being part of our family rhythms.
 
+
+# Session 3: Q&A
+- Family and mission, family as the mission, or family on mission?
+	- Family and mission: You have your family, and you have your mission. They're separate.
+	- Family as the mission: Building a great family is your ownly mission
+	- Family on mission: how can you do mission together as your entire family
+	- As mothers, does this mean in certain seasons my mission is changing diapers?! This doesn't feel like a mission! There is a season where you're focused on your family, and you can feel like family as mission. But during this time period, you're training them for success "on mission". That mission can be being invited over to someone else's house for dinner, how to sit, eat with fork, ask to be excused, how not to fight, and then another kid is born. A lot of training goes in the early years. A mission could be not having a meltdown going to the grocery store.
+- You have to first build a fruitful family
+	- Be fruitful, then multiply, then rule
+	- It's important in that season of fruitfulness to lean into that training
+	- A lot of times we're in the fruitfulness season and can't replicate & multiply our family since it's young, immature, weak, and we need to get it to the fruitful stage before we can multiply and rule. If we can get through those seasons, than the impact your family can have on the world can be immense.
+- What do you do when your kids resist the mission?
+	- If you're buying into this when your kids are older (8 years old and up) and you're having this a-ha moment and trying to regain your kids that have scattered. For example, a father with teens took it on himself that his leadership had failed after learning family teams. He brought his kids and wife together and repented "I've failed in leading, I've been lazy, I want to make things different. I want to try, but I need you to be on board." Kids were really on board, their hearts had melted even though in lots of previous things they had been resistant. Repentence is a good place to start.
+- How do you know what mission your family is called to be on
+	- You need to take time to do soul searching. This is the most critical part, to have these hard and heart conversations about the vision, desires, what God has placed in you, what's broken in the world, what gifts are in your family to discover your family's missions. Working through the workbook questions together will help you find your mission.
