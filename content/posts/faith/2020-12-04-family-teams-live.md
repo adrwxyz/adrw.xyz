@@ -142,4 +142,47 @@ Try and develop the above for your family team!
 - Write independently a short phrase or a word and a matching descriptive sentence. Listen openly without feedback each person's pillars they wrote, then rank to narrow in on the top 7 (or whatever number you want). 
 - Don't worry about this being set in stone, you can edit and refocus your pillars over time. Doing this hard work to define an aim for your team is pivotal.
 
+# Session 2.5: All Kids Panel
+
+
+# Session 3: Kids & Rhythmic Living Panel
+- Kelsey's first memory of rhythms was planning notebooks and rewards when they were able to stick with a daily plan. Jackson (her brother) didn't like it as much so they found different patterns later.
+- Rhythms have looked different through the years.
+- Whatever you do throughout your week becomes your identity.
+- Kelsey had lots of interests growing up but the ones that weren't part of a week didn't become her identity. She sews multiple times a week, and is a "sewist"; she loves painting but doesn't consider herself a painter since it doesn't happen once a week.
+- She doesn't like having a time slot for a specific task; not 30 minutes for literature. She liked a large school block and then doing highest priority throughout that block.
+- Jeremy: Some need well regimented schedule by the 15 or 30 mins. Others don't and larger blocks work better.
+
+# Session 3: Team, Time, Table
+- 3 tools to build a family team
+- Time is a big deal. Families feel exhausted. When we say "it's important to be a team", it can feel like just another thing to add to your exhausted schedule.
+- It's one of the greatest creation of how to fit in all the key things for your life.
+- What's that amazing invention? It's called the 7 day week.
+- Do you know your ideal week? If you knew how to piece together all that you are, your family relationships, all you need to accomplish outside the family, all the fun things, what does that look like?
+- It looks different in different seasons, like with young kids but still is powerful.
+- This doesn't look religious.
+	- Luke 11:46, Jesus speaks out against the religious burdens put on by the religious leaders.
+	- Think of all the religious pushes that can come through different sermons: great prayer life, go to church early, serve the poor, focus on the family...etc and how overwhelming that is to have endless lists to do
+- A week causes you to make really hard trade offs so you don't find yourself in the frantic burnout that can happen so inevitably.
+- The week is fascinating. It doesn't exist like other time segments. Moon => Month. Sun => Day. Rotation around the sun => Year.
+	- God said, "Let there be lights in the dome of the sky to divide the day from the night; let them be for signs, seasons, days and years"  – Genesis 1:14
+	- Other cultures have tried non-7 day weeks. See the French Revolution. People got sicker and very soon after the society reverted back to 7 days.
+- Aim towards an ideal week, we have an entire lifetime to iterate towards one.
+- God gave us the pattern of the 7 day week.
+	- "You have 6 days to labor and do all your work, but the seventh day is a Shabbat... For in 6 days, Adonai made heaven and earth, the sea and everything in them; but on the seventh day he reseted." – Exodus 20:9-11
+	- The Jews were slaves, working all 7 days. God called them into Shabbat to be free in rest.
+- Three views of life
+	- Linear: Western people look far into the future thinking constantly about a peak moment in their life: graduation, promotion, getting married...etc and burn through weeks. Think about Western narratives: Joe grew up, moved here, found themself. West are consumed with endless doing.
+	- Circular: Eastern people see life very cyclically, seasons, life is monotonous. 
+	- Spiral: Biblical weeks look like circular rhythms yet still with forward progress. 
+- Rhythms vs Goals
+	- What if you set 50 goals? What can stop or constrain you if these goals are overwhelming and realistic in the timeframe that you're living into.
+	- Families and children aren't as suscpetible to having obvious goals like a career is. If you get excited by big goals, then your relationships can suffer when you focus on easy outlets for your goal achievement.
+	- Rhythms may not have the same peak feeling of goal achievement but they let you reinforce your identity by putting it into practice every week.
+- Identity > Rhythms > Improve
+	- Start with who you are: father, husband, worker...
+	- Build your rhythms to weekly reinforce your identity
+	- Each week, iterate on your rhythms to make them more effective
+- Think about a famous author who spoke at a conference, someone came up to them after the talk and said "Oh, I'm also a writer." The author asked the person, when did you last write? Well not today. What about yesterday? Well not then. And back and back until all 7 days. Well you're not a writer if you don't write in 7 days.
+	- This is heavy but powerful.
 
