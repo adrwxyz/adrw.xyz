@@ -185,4 +185,119 @@ Try and develop the above for your family team!
 	- Each week, iterate on your rhythms to make them more effective
 - Think about a famous author who spoke at a conference, someone came up to them after the talk and said "Oh, I'm also a writer." The author asked the person, when did you last write? Well not today. What about yesterday? Well not then. And back and back until all 7 days. Well you're not a writer if you don't write in 7 days.
 	- This is heavy but powerful.
+	- This can feel overwhelming especially for Mothers who feel like they have full days and aren't deliberately crafting rhythms...
+
+# Session 3: Motherhood and Rhythmic Living
+- How does the above rhythms work with a season of motherhood with young kids
+- April: Sometimes when she heard this conversation when kids were young, it felt like wanting to scratch out someone's eye. It took a heart change and gradual improvement over time.
+- Heart change: admitting that God's design for a week was the best way to live
+- Lots of natural rhythms that can come with children: sleep schedule, caring for a new baby
+	- "They have their days and nights mixed up": you're helping your baby learn what day and night is
+	- Babies get hungry at regular intervals: rhythm is woven into their existence
+	- Don't feel you need strict timed structure, or fitting a lot into the day, when your season is sleep, eat, play, poop etc. and that's a good natural rhythm
+- Preschool
+	- We go to the park when it's nice out
+- New Mom Daily Rhythm: Nap Time
+	- Stick with afternoon nap time
+	- When everyone goes down at the same time, so much refreshing and rejuvination for a mother in that 1.5-2 hour time
+	- Even if they don't sleep, having them lean into quiet reading or play during that time
+	- You can be productive (phone calls, meal plan...) or even sleep and rest too
+- When you make changes to something that repeats, you begin to have a lot more traction in reducing the chaos of your life, and living into each of these seasons
+	- That's why we call them rhythms
+	- Rhythm is part of pre-existing beat "out there" that you're syncing up to (ie. sleep cycles, 7 day week – woven into creation)
+	- Routine can be when we try to impose our schedules and todos on top of our lives
+	- Getting in sync with rhythms can feel more organic
+- How would you describe trying to sync up rhythms even as families get older?
+	- Lots of coordination to go into that
+	- If starts when kids are little, can be different than when they are already emmeshed in other activites.
+	- Start with one rhythm. Weekly meal, family activity together.
+	- Meal one night a week is a great start to eat together as a family.
+	- Different days could have different themes: "Tough Tuesday" (jam pack the day), "Soft Launch Sunday" (ease into the week with family work and softer work day). Keep tuning and syncing with each other to make the family move together throughout the week.
+- Keep tweaking your rhythms, not bailing
+	- You may start to realize you're exhausted every Wednesday morning and can be more aware of "Oh that's because I stay up late Tuesday night"
+- One thing April wrestled with is time-bounded tasks vs endless list of tasks
+	- Lots about "running a household" that can be ongoing and endlessly take time
+	- April has to portion time, treat it like money "Once you spend it, it's gone"
+	- I manage our finances every Tuesday afternoon. If I get to the end of that time and still have things to do, I can know that I have next Tuesday to finish that up.
+	- Sometimes crazy things (ie. home construction) that eats away your time, you know that the next week is coming
+- Some seasons rhythms go out the door
+	- Ie. Family crisis, new baby, vacation
+	- Something quick (1 week) like vacation, you can rest 1-2 days and snap back into rhythms (this is what a Monday is like)
+	- Longer seasons like grief or healing from C-Section
+		- Acknowledge the season will look different and that you need to ask less of yourself, and others ask less of you
+		- It doesn't have to be what the rest of your life looks like but this next 3 months it's going to be like this
+
+# Session 3: Fatherhood and Rhythmic Living – Blake Smith & Jeremy Pryor
+- Blake and Jeremy have had ongoing question of how rhythmic living looks like depending on your temperment (some people hype on rhythms, others not)
+- Blake: For context, my natural disposition is to love new systems and fail to implement them.
+	- Initially really liked rhythms but got to living within it, it removed spontaneity and felt stifling. Both my wife and I have struggled with budgeting (time or money) for similar reasons.
+	- Started by copying Jeremy's rhythm spreadsheet, changed a few things, and then tried to live it out. Can be good to take that leap and copy someone doing it great but doesn't work long term, you need to make it your own.
+- We don't need to have a rhythm for every second of every day
+	- We need to schedule the things that are most important for us, or else spontaneity will bulldoze those important times
+- Embrace not just time-bounded rhythms, but order of operation rhythms
+	- Consider a wake up routine where the same order happens but the time can shift around depending on the day
+	- Jeremy prefers a big block and tweaking it, not getting frustrated and throwing out rhythms that can come from minute by minute scheduling
+- Values & Dispositions
+	- Values: Things you care about, you need to schedule.
+	- Dispositions: Lightbulb moment is most precious resource is energy. Scheduling around what gives / removes energy is necessary for Jeremy. For Blake, scarest resource is Joy. How do I use tool of rhythms to keep Joy high enough. For Blake's wife, it's giving and receiving love & caring. 
+	- Blake every week goes skateboarding or wakeboarding every week with his sons, brings joy, every month a live concert. Blake's wife cares for chickens, dogs, gardens and comes out of it energized.
+	- Don't do a zero-based budget to map out every hour. Focus on "What's my most precious resource?", even use enneagram to determine that. Figure out how to get enough of that on a weekly basis.
+	- Jeremy: Some people think they're wrestling with a lack of productivity. But often, that lack is from a missing other nutrient. Poeple treat that as a life problem, but usually it's a rhythm problem.
+	- Once you find the depleted nutrient, their life doesn't suck, productivity increases etc.
+- How do you think this has impacted your kids?
+	- Blake: I feel they'll hold us to the rhythm. We have a rhythm board that they keep an eye on, especially on themed nights like date night, midrash, sabbath (family day set aside they can look forward to)
+
+# Session 3: Alyssa & Joy Bethke
+- We've been hearing this 7 years now but every time, something new sticks out just like God's word. You turn it like a diamond and you see a differnt shine each time.
+- Families are always changing, growing so we'll latch on to different things in each season to keep applying these family teams truths in different ways in each new season. We can come to the table in this season and figure out how to make it work for our family.
+	- Alyssa likes schedules, routines, knowing what's coming. Rhythms have been a life changer as a Mom and to stay in sync with Jeff.
+- Rhythms != Routines
+	- Some people like routine, some don't
+	- Everyone should live in rhythm even if you're not a routine person
+	- A routine is something you do regularly but it doesn't form your family culture
+	- A rhythm brings inertia and supports the family identity and team mentality
+	- Jeff only uses rhythms to refer to things we do daily, weekly, and yearly that support the family identity, lots of things that fall outside of this
+- Time, what does that look like with kids?
+- Most of us live in an annual & daily rhythm, but most of us don't live in weekly rhythm. Weekly is the only one that doesn't intuitively match a celestial cycle (but turns out even our bodies thrive on a God designed 7 day week)
+- Live your ideal week every single week
+	- This is your philosophy. Don't focus on "living your best life", "live your best week" and repeat it. It's maangeable. You can chew it. You can incrementally get better over time. 
+	- You can even put it on paper.
+	- I don't mean Instagram life at the spa. With the marriage, kids, work you have, what's the ideal week where you start on Sunday and get to Saturday and feel like you're filled up.
+	- Alyssa: Growing up in the American culture, resented the week. Monday's suck, Wednesday's hump day, living for the weekend. But, God blesses us with the week, this is the life we're living. How do we show up every week and be present in our current realities and responsibilities. How do we make it the best week we can so we can flourist, be intentional, happy marriages... Not just spa night. Sit individually and journal out what your idael week looks like. What do you need so you can be the best husband, best father... you can be? Consider recrafting since so much has changed with Covid.
+	- Keep recrafting, it's malleable and you should iterate
+- Let your week fulfill your core identities
+	- Jeff: Do your core identities show up every 7 days?
+	- What do you care about? They should show up every 7 days.
+	- Jeff: I want to let my fatherness, husbandness bleed out into the week.
+	- Give my values vehicles where it can get in the car, drive somewhere, do something.
+	- Vocation is a core identity, but the world's identity around work often surpasses our identities of fatherhood and husband. Our father-ness should bleed into our work, not the other way around.
+	- I've really gotten into cooking after getting into the family teams stuff. It makes sense now that I'm leaning into the coaching...etc. Same with wood working. I want things to do with kids, to teach them, to pass on. My father-ness has infected my hobbies.
+	- Alyssa: Who am I? Who has the Lord called me to be? Everything else can slide.
+	- I'm a follower of the Lord. I want to be someone who prays for my children, who spends time in the word and with the Lord. I want to cheer my husband on and write him notes. As a woman or mother it can not feel like a worthy identity, I can't keep it all up. But realizing that this is my core identity that God has called me to can be freeing.
+- Do it badly and then iterate (in small ways)
+	- The goal is not perfection, the goal is formation
+	- If that's who you are, you need to take that to the Lord. When intimacy with Jesus is your ultimate, and not perfection; then you have a lot of grace and don't expect to be amazing in a week and focused on the fruit.
+	- Don't overhaul the week every week. Focus on one little thing that went wrong and fix it. Keep putting new tools in your toolbox. 
+	- Maybe focus on Sabbath for a few months, don't worry about Monday - Thursday for those months. Once you have it in your back pocket, move on to something else.
+	- Tea time has become a cool tradition! We do a lot of school, Bible teaching around the table. Having tea around the table has helped us stay around the table longer.
+	- "Anything worth doing is worth doing badly". I often feel like if I can't do it excellent, I shouldn't try. But it's so freeing to live in grace and keep trying to do something, even if badly, and iterate. It took 3 years for us to do sabbath, but it's now so good. God's heart for us is one for iteration and growth, grace.
+	- Grace is huge, it's about intimacy with the Lord and your family team becoming stronger, and that depressurizes the situation.
+- You have a lifetime to learn your ideal week
+- Make rhythms a regular part of team meetings
+	- We try to have a meeting every Sunday to go through the week. Biggest blessing is not the look forward, but the look back.
+	- If your kids are 8, 10, 12 and older, they should be a part of that. What went well this week? What should we work on? Optimize that rhythm and team culture of iterating each other forwards.
+	- Sometimes this can fall on the Mom
+	- Jeff every week meeting asks Alyssa "How can I serve you this week" and it gives her a chance to actually say what she needs.
+- Couple questions that can come up...
+	- Well, what if stuff comes up? What if you're a firefighter? People think rhythms are really ridgid, that's not what we're saying. There's a spirit balance to this. Yes, there can be things that come up, but you can also take charge of your week. Sometimes people feel bad saying No, or look at their calendar and your family's life has been stolen from you to serve everyone else's mission (sports, church, ...). 
+		- When you give your time to an event, you end up serving another mission
+		- If you're always serving someone else's mission at the cost of your family's, that's not right. You have permission to let your family be first priority.
+		- In the West, we don't question when school or work demands us to show up at a certain time or perform a certain task. We don't think about this with family, we can always cancel the family thing when we wouldn't think of doing that for work or school. This mindset shift changes slowly.
+	- Living rhyhmically. If you can't live your whole week together, focus on a few sacred moments.
+		- A family dinner where no one cancels, and everyone is there and that's your family day. It's leaps and bounds above families who can be always with each other
+		- Intentionality is what beats out just time together
+		- Ask the Lord for how to live intentionally with the current life you have
+		- Alyssa: I felt that for years when we travelled a lot and couldn't commit to weekly things. 
+		- Once you have rhythms established, like Sabbath, you can invite people into it, it's not just about saying No to everything. You can still go to birthdays or whatever, 80-90% is still success.
+		- The more you live as a family team, it becomes a magnet, a portal into the kingdom, a portal into joy. People like being part of our family rhythms.
 
