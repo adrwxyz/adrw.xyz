@@ -377,6 +377,65 @@ Try and develop the above for your family team!
 	- Exodus 16, Sabbath is a gift
 	- Paul in Galatians 2:16 specifically condemned anyone judging others for how they hold or don't hold sabbaths or feast days
 	- There's no religious obligation around Sabbath or epic family meals, Pryor's took it on to kick start improving family
+- Shabbat and the Gospel
+	- The Gospel is all about resting and trusting in what Jesus has done
+	- Rest into the Gospel
+	- What are the two kinds of rest?
+		- I'm so exhausted, I'm tired
+		- I'm completed in something. I feel accomplished. Like when you finish a project after many weeks.
+	- When Jesus says, "It is finished", it's this expression of rest that the work is done
+	- "15 You shall remember that you were a slave[c] in the land of Egypt, and the Lord your God brought you out from there with a mighty hand and an outstretched arm. Therefore the Lord your God commanded you to keep the Sabbath day." – Detueronomy 5:15
+		- It's a chance to remember we're freed from our sins
+	- Sometimes people think about Sabbath as the boring day where you don't do anything. Instead, make it so the Sabbath is the favourite day for your kids and family. Figure out how to make the rest connect with each person in your family.
+	- Start simple
+		- Easy to get carried away and feel stressed with a huge dinner
+		- Start with pizza and paper plates and improve it each time, keep it simple
+
+# Session 4: Sabbath Round Table Q&A
+- Pryor's have been doing Sabbath for 20 years now so don't get overwhelmed by their example, it's taken a long time to get there
+- Sabbath Friday night has the Pryor's around the table including all the people who live in the house (grandparents, great-aunts, cousins) and sometimes others
+- It started as pizza and paper plates, then special plates, then fuller meals, then inviting other family members into it. Start and keep it sustainable.
+- April's Mom, Julie: initially started as a surprise that it'd be every week, but soon realized they weren't doing anything better so they joined in. After her husband died, the following year 
+- Janet & Jerry Pryor (parents of Jeremy): were intrigued initially and now it's a great habbit and highlight to the week to spend time with the kids. They live close by but sometimes they won't see everyone each week, so Shabbat is great since everyone is going to be there. Jerry likes giving the blessing for the sons each week, Janet or Julie do the blessing for the daughters, April lights the candle, likes the Shabbat song.
+- Clayton (nephew): Clayton's used to live up the road and started coming a few years ago. Brought a significance to both rest but also to work. Used to feel like life droned on, every day was the same. After Shabbat with no work, even work days changed feeling a mindset of doing the work now so that rest can be had.
+- Jackson (son): Gotten to appreciate more as he's gotten older. When young, it was a special drink or whatever. His spirit resonates with ceremony. To have a holiday-esque meal every week, it feels like something epic and it being a taste of the kingdom every week is great for spiritual life.
+- Kelsey: Like's the Rabbi saying of "The 3 days after are looking back to the last Shabbat, and the 3 days before are looking forward to the Shabbat". Like most Biblical festivals that look back on something happened or looking forward to something that will. Enjoys the cleanup dance party after.
+- Next daughter: Favourite is the blessings. Before the meal every day we pray. But with Shabbat there's the blessing, song, Jeremy gives a little talk, and it feels very special.
+- Jeremy: Over the sons "May God make you like Ephraim and Manessah, ... may you continue our family in the line of Jesus..."
+- Keira: Really like the Shabbat song. No more work to do. Dinner cleanup is 
+- Sydney: Helpful reminder that there is something beyond this world. During the week we dedicate time to work / school, with Shabbat we shift our focus to what is important (family, God, spitirual things).
+- April: Lots of people want to know the details of what we do. First thing we got is the Shabbat box. We bought white table cloth that is "blessed by the Rabbis because the stains always come out". In the box we keep our special plates and a Yankee Candle (Sage & Citrus) that they'll always make (the smell of rest), lighter, written down copies of the blessings (now grandparents have them memorized).
+- Kelsey: Couple questions around the Sabbath. First question: Mother, how do you feel you can rest while you're still taking care of everyone?
+- April: Not sure how well I did this while everyone was little. It's hard when every day feels the same. Changing diapers, nursing, feeding children, all the same still on Sabbath. What feels different? I had to take my Martyr syndrome and set it aside. I chose to not put anything away after Shabbat dinner and wait to clean it all together at the end of Sabbath. We'd plan an activity in the morning Saturday and everyone nap/rest in the afternoon. I couldn't rest because I had an attitude problem of thinking that the current chaos would last forever and it wasn't just for a season.
+- Jeremy: Another question we get a lot is, when someone wants to involve grandparents how to deal with push back or questions about whether this is weird. How do you make Shabbat as inviting as possible?
+- Jerry: My wife and I put ourselves in a learning posture. We put ourselves in a position to learn, adapt, and be flexibile, and transition into it.
+- Janet: Then we began to see the values, see that this is different, ask lots of questions, then settle into after seeing the blessings and benefits.
+- April: What would you say to others who want to involve their grandparents?
+- Julie: Once you reach a certain age, our culture turns you off "you're not relevant anymore". Through Shabbat, respect is given to our generation. It drew me in. I do have things to share and Shabbat conversations and the position of respect given to grandparents was significant for me. I don't know anywhere else in the current culture where this happens. Our generation is the bridge between the people came before who are no longer live, and the current younger generations. We can communicate those stories.
+- Janet: Showing honour can open the door to give and take. We bridge in our life 5 generations some before, some ahead so lots to learn.
+- Kelsey: How do you not judge how each person uniquely finds rest when it can be different?
+- Jeremy: I think one of the greatest misunderstandings is that to rest, "all you need to do is stop working". But the Jews realized that true rest takes some thinking and work. You need to learn how to find your off button. Each week you can try different things so each person can find rest.
+- April: When kids are little, take turns week to week or within a day what each person wants to do that is restful.
+- Jeremy: What has helped you rest? What's your off button?
+- Jackson: For me, Saturday is when I hang out with friends. Throughout the week, I try to find pockets to hang out with friends but doesn't tend to happen much with work. In the week lots that are happening, lots to process. Saturday as full day to hang out with friends, talk about what I'm thinking about is great way to experience rest.
+- Kelsey: Spontaneous plans. I don't like knowing something is happening on Saturday. I like sleeping in. I only like a plan in the middle of the day. I like a spontaneous road trip, or coffee, or read and sew.
+- Daughter: When I don't have to think about school work and can guilt-free procrastinate, explore my creativity and fun things (drawing).
+- Kelsey: It can be hard when everyone can't rest on the same day. What do you do?
+- Jeremy: Day of rest is supposed to be a cultural experience, but our culture no longer protects Saturday or Sunday well. When you start, it can really confuse friends and family, "Can we plan a birthday on Sabbath... or?" To establish a rhythm start with "Can we do this in a restful way?" and for many things say No.
+- April: It's the art of saying no. You only have so much time. Between the spouses, need to choose what to say no to, pray together. It's the dance of many different priorities. Some weeks, a birthday could be restful. But sometimes other weeks it would be a disaster. If you're starting from scratch, be patient with the process. You'll probably need to pair down a bit and say no. Try something, iterate, keep trying. As you do it, people will become aware, and you can start to bring people in. Sports on Saturday is a big thing for some people, you need to figure out your priorities.
+- Jeremy: For a while, Sunday Sabbath was easier given our networks. But over time, networks changed and Saturday made more sense. Think about what it will mean for your multi-generational family team to establish a dinner like this.
+- Shabbat Shalom Song!
+
+# Session 4: Message to the Mom's – April Pryor
+- It's hard to be a Mom. A lot that goes unseen.
+- Dying to yourself as a Mom starts the moment you become pregnant. and on and on.
+- Is it worth it?
+- Yes!
+- Luke 9:23
+- Motherhood designed as a tool for life in God's kingdom and household.
+- Our families can be outposts for the kingdom.
+
+
 
 
 
