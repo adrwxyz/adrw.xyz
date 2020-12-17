@@ -330,7 +330,55 @@ Try and develop the above for your family team!
 - The table brings intimacy
 	- Maybe you don't know the person well or have extended family tensions, but eating across the table from someone breaks down barriers
 	- It's a gift to nourish by food or conversation someone else
-	- 
+	- Invite your kids to take ownership in different ways to serve everyone welcomed into the home (write name cards, engage with guests...)
+- The table gives a natural place for everyone's identities
+	- It's the place where the multiple generations can all exist
+	- If you have grandparents that you're willing to have over, and even if it's not super healthy (but not toxic), you can do the following to heal those grandparent bonds. Meals and storytelling are a perfect way to invite grandparents to put on their grandparent hat sitting in a seat of honour answering questions from kids.
+	- One of Alyssa's biggest desire is to do things together, integrate the whole family into the event. Involve your kids in planning and doing the event. It's so fun because when the guests come, the kids are excited and own the visit. Prepare the kids with "Grandparents are coming over, what questions do you want to ask them"
+	- We all want to be people who ask good questions, I do and our kids too, to keep learning from family and lineage who they are, their giftings and qualities, and who we come from. Alyssa cherishes when her Mom calls out giftings Alyssa has that her grandparents had it's a grounding influence to realize where giftings or qualities come from and the legacy in that.
+- It's a percentage game, not a perfection game
+	- It's about the love you give the people you invite into your home, not the perfection game with cleaning or perfect Michelan star meals
+	- It's the thought that matters, inviting people into your home with a smile, plan an activity for the kids...etc
+- The table is a place for formation
+	- For training, 70% of Jeff's discipline, coaching, repetition happens at the table. Jeff wants it to be a good space so people can be invited in. We're hostage by the food, so Jeff can share Jesus while everyone is there
+	- 99% of the time that Jeff opens his mouth about Jesus is at a meal
+	- Open your mouth about your thought process. What is your thought process, on your heart, what did Jesus tell you today. Chew them up and feed them to your kids. Normalize them in your conversation. What's something God showed you today? 
+	- It's where we recite catachism, benediction, memory verses for the week. We have a basket by the table that has our hymnal, catachism, story book Bible.
+	- Even for non-believer guests: What are you thankful for? What are you hoping for? Do this with your kids and it can be a habbit every night to keep understanding your kids and encourage each other. The hope is the table is a safe place for kids to share what was hard about the day and receive encouragement and prayer from the family, that's where they get their encouragement.
+- Maybe make it a goal for the next year, improve your table game
+	- Percentage, not perfection
+	- Lots of times where it's not perfect, kids are fighting and no conversation. If that happens every time, maybe need to take more time to do training. Other times it's just part of life with toddlers.
+	- Lean into training and faithfully continuing effort at the table
+	- Don't jump straight to "every meal together" awkwardly. Start with 1-2 special meals, be intentional.
+	- Shabbat dinner or "making dutch babies Sunday morning together" for Bethkes. Choose a few times and make them special, have the kids look forward to them.
+
+# Session 4: Jeremy Pryor
+- Table can be the best first strategy to take up to improve your family team life
+- What is your idea of the good life?
+	- If you had to draw a line from childhood to death, where are the peak moments of life on the timescale of an entire life?
+	- At the end of high school, someone took Jeremy aside and said before he went off to college "This is going to be the best years of your life, make the most of it"
+	- That's powerful to know when the peaks going to be, but as Jeremy thought about it, it's pretty depressing.
+	- If culture says college is the peak, then the peak is the least responsbibility, most freedom to indulge all hedonistic impulses. There has to be more to life than that.
+	- "3 Your wife will be like a fruitful vine within your house; your children will be like olive shoots around your table. 4 Yes, this will be the blessing for the man who fears the Lord. 6 May you live to see your children’s children – peace be on Israel." Psalm 128
+	- This feels like a much better peak to life, multiple generations around the table
+	- We don't know how to handle family around a table in current culture
+- Crafting your family meal	
+	- Lots of people today would say, "Oh but we do have meals together most days", but really they're rushing through the meal, catching up on administrative business, then rushing off to the next activity
+	- But an intentional meal where each person lives fully their identity as son, daughter, father, mother, grandparent; a time to connect
+	- We've forgotten the role of a formal family meal as a culture. Think of no more china plates or dedicated dining rooms.
+- Shabbat?
+	- Means "to cease" and is where you begin to start your day of rest
+	- Some people choose Shabbat to be this epic family meal. Others Sunday night, others another night.
+	- For those with Sabbath dinner, it's a way to kick off a day of rest. 
+	- For the first 7 years, Pryor's did Sabbath Saturday into Sunday. For past 13 years, Pryor's have done Sabbath Friday into Saturday
+- Don't see Sabbath as religious obligation, but as a gift
+	- None of us are religiously required to keep sabbath as non-Jews
+	- "27 And he said to them, “The Sabbath was made for man, not man for the Sabbath. 28 So the Son of Man is lord even of the Sabbath.”" – Mark 2:27
+	- Exodus 16, Sabbath is a gift
+	- Paul in Galatians 2:16 specifically condemned anyone judging others for how they hold or don't hold sabbaths or feast days
+	- There's no religious obligation around Sabbath or epic family meals, Pryor's took it on to kick start improving family
+
+
 
 
 
