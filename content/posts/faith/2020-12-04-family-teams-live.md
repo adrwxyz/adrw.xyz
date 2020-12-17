@@ -316,3 +316,26 @@ Try and develop the above for your family team!
 	- If you're buying into this when your kids are older (8 years old and up) and you're having this a-ha moment and trying to regain your kids that have scattered. For example, a father with teens took it on himself that his leadership had failed after learning family teams. He brought his kids and wife together and repented "I've failed in leading, I've been lazy, I want to make things different. I want to try, but I need you to be on board." Kids were really on board, their hearts had melted even though in lots of previous things they had been resistant. Repentence is a good place to start.
 - How do you know what mission your family is called to be on
 	- You need to take time to do soul searching. This is the most critical part, to have these hard and heart conversations about the vision, desires, what God has placed in you, what's broken in the world, what gifts are in your family to discover your family's missions. Working through the workbook questions together will help you find your mission.
+
+# Session 4: The Table – Jeff & Alyssa Bethke
+- The easiest way to transform your family is to center your family, your marriage, your grandparents around the table
+- Statistically, centring on the family around the table (eats together) drastically improves family and individual outcomes across the board (well being, mental health, wealth...)
+	- On average, a family needs to eat 3 times per week, more than 15 minutes in length to get the above benefits (not all 21 – 3 meals x 7 days)
+	- The table is also primary throughout the Bible
+- What is the point of the table? The table is a portal to the kingdom
+	- Most, if not all, of Jesus' descriptions of the "kingdom" are a wedding banquet, a feast...etc 
+	- We're in a culture that on average is 4-7 minutes once a month family meal. In the 1800s, it was every day 97 minutes. Culture today doesn't leave room for the table. With toddlers, maybe it's only 15 minutes but if it's an intentional 15 minutes, that can be more than enough!
+	- One of the primary ways to be a kingdom ambassador maybe isn't going on missions trips but is inviting people over for dinner
+	- Invite someone over even if it's not perfect or it's a bit chaotic, that doesn't take away from the shalom that someone can feel from being invited into your home
+- The table brings intimacy
+	- Maybe you don't know the person well or have extended family tensions, but eating across the table from someone breaks down barriers
+	- It's a gift to nourish by food or conversation someone else
+	- 
+
+
+
+
+
+
+
+
