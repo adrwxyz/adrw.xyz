@@ -435,7 +435,57 @@ Try and develop the above for your family team!
 - Motherhood designed as a tool for life in God's kingdom and household.
 - Our families can be outposts for the kingdom.
 
+# Session 5: Family Team Summit
+- Three components to a summit
+	- Look back and reflect
+	- Enjoy the vista and the view
+	- Think about where you're going
+- Setup: find a way to not get distracted by the day to day, focus
+- Start with a 48 hour summit, begins in an afternoon.
+- Evening of Day #1: Reflect
+	- "I remember the days of old; I meditate on all that you have done. I ponder on the work of your hands" – Psalm 145:5
+	- Reflect on how God has blessed your family, what challenges he's brought you through
+	- Journal Reflections
+		- 2-3 Biggest Wins per Quarter
+		- Review Vision, Mission, Pillars
+			- Which did we live into the most
+			- What could we work on going forward
+		- Review Rhythms
+	- Have a meal ("Summit Dinner") where each person shares reflections from what they've journaled in the afternoon
+- Morning of Day #2: Dream
+	- Rewrite and refine your annual, 3 year, and 10 year vision
+	- Take time individually to reflect and share those
+- Afternoon of Day #2: Plan
+	- Don't focus on a lot of lofty goals
+	- Focus on a few achievable goals
+	- Spend most of time to Refine your Rhythms
+		- Simplify
+			- Are the rhythms that should be dropped?
+		- Establish
+			- Is there something that can be added to the week to better reinforce a pillar?
+		- Improve
+			- Here's an element of the week that isn't working great, how can we adjust it?
+		- Reorder
+			- If there's times we notice that a certain day of the week is always bad, how can we move around the puzzle pieces of the week to make the week do better.
+			- For example, if we have two evenings out during the week, we make sure it's not two nights in a row so we have time together to fill the tank.
+- Evening of Day #2: Commit
+	- "Commit your way to the Lord; trust in Him and He will act" – Psalm 37:5
+	- It can be easy to get carried away with planning and scheming
+	- But instead, commit these to the Lord and worship and pray, seek his wisdom and his guidance to change remove or add to the plans you've just made.
+	- If kids are older, great chance for them to get reenrgized about the family
+	- If kids are young, good chance for couple to get away and focus
+- Begin to establish the family summit as an annual rhythm. Can work well between Christmas and New Year's
 
+# Session 5: Jeremy, Kelsey, April Pryor
+- Jeremy: Kelsey, any favourite memories from family summits?
+- Kelsey: When we got that Airbnb and Grandma and Grandpa came with us and played with the two young kids while the three older kids and Mom and Dad did the summit in the basement. Sometimes we all go away and all participate in it, last year we just bounced from coffee shop to coffee shop was fun.
+- April: Other times that have stood out for me were times we stayed local and just went to a local hotel. 
+- Jeremy: Getting away even if you are local can be a big part of it. What's the most important part of a summit? What's a particular exercise or practice that is helpful?
+- Kelsey: I can't remember how many times we've done it but writing what we envision life in 5 years, then split into 1 year milestones, then down to quarters, then down to our family rhythms. One of the ones I made was to write a book and I did it.
+- April: I for a while felt it hard to think of my own individual goals because I often felt mostly part of the collective. I've liked in more recent years the 5 capitals, writing out different financial, personal, intellectual, learning goals. They don't always get done in a year but it's been fun to dream and do some of them.
+- Jeremy: How about with little kids?
+- April: Try to get away as a couple, get grandparents or friends to babysit. Try and work these things out together. Highly encourage that if you're heading down the argument path, set that aside and deal with it later. This is your one time of the year to focus on the full overview so don't let it get derailed. We had some friends who did this every quarter and loved planning and got away every quarter.
+- Jeremy: There's nearly no business that can be succesful without some sort of offsite and planning regularly. We don't too often bring these tools into the family but if we want to level up as a family team we need to leverage these different team tools to bring alignment, move forward. These are necessary to transition into being a family team.
 
 
 
