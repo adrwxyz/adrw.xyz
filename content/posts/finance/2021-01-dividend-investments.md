@@ -7,5 +7,6 @@ tags:
 ---
 
 # Resources
+
 - https://www.firstasset.com/solutions/overview/?fund=CI+First+Asset+Canadian+REIT+ETF
 - https://dividendearner.com/dividend-vs-distribution/

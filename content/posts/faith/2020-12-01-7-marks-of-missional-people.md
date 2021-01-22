@@ -9,6 +9,7 @@ tags:
 Thanks to some well targeted Instagram ads, I ended up signing up for and, many months later, completing the "7 Marks of Missional People" Master Class available at [VergeNetwork](https://my.vergenetwork.org/master-class/7-marks-of-missional-people/). Intrigued by the inclusion of some of my favourite speakers including Francis Chan and David Platt, the course ended up being very thought provoking in how to better understand and put into practice the theology of missions.
 
 # Foundations of Missional Living
+
 ## A Framework for Missional Living (Alan Hirsch)
 
 > So Jesus said to them again, “Peace to you! As the Father has sent Me, I also send you.” – John 20:21 (NKJV)
@@ -20,5 +21,3 @@ Expanding on John 20:21, Hirsch flips the traditional understanding of mission b
 Hirsch further expands on the concept of incarnation, that it is not limited to our narrow sentimental cute understanding of Jesus' birth at Christmas (which is so often overshadowed by Santa Claus than any deep meditation on the meaning, mystery, and wonder of the incarnation of God on Earth taking on human flesh), instead as the Gospel is planted in a new place, it establishes itself. The place becomes a new incarnation, a new outpost.
 
 > "If God is a missionary God, than we must become a missionary people. If the way that God engages the world is incarnation, then we must become a incarnational people. [...] Our theology, our deepest codes, the deepest ways we think about God and how he engages in the world, should inform our methedology. [...] The medium is the message. We are meant to be a people that go in, love, take root in a place and a new people, to affirm the humanness from within, as Jesus did with us. If you're not doing Church this way, than you had better have a good excuse." – Alan Hirsch (11:30)
-
-

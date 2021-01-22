@@ -55,5 +55,5 @@ I can't help myself, I want you and nobody else
  C                                        G
 Sugar Pie, Honey Bunch, you know that I love you (I dooo)
          Dm                              F           G-Am
-I can't help myself...,  No... I can't help myself 
+I can't help myself...,  No... I can't help myself
 ```
