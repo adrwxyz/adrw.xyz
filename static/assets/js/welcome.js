@@ -1,0 +1,11 @@
+console.log("          ___    ____  ____ _       __    ");
+console.log("         /   |  / __ \/ __ \ |     / /    ");
+console.log("        / /| | / / / / /_/ / | /| / /     ");
+console.log("       / ___ |/ /_/ / _, _/| |/ |/ /      ");
+console.log("      /_/  |_/_____/_/ |_| |__/|__/       ");
+console.log("");
+console.log("$ Welcome to adrw.xyz!                       ");
+console.log("$ If you find any bugs or have any questions,");
+console.log("$ please email andrew@adrw.xyz Enjoy!       ");
+console.log("$              – Andrew Alexander           ");
+console.log("$                                            ");

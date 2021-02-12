@@ -1,0 +1,292 @@
+---
+title: "Home Networking 101"
+date: 2020-10-09 00:00:00
+slug: tech/home-networking-101
+tags:
+  - Tech
+---
+
+Managing a home Wi-Fi network so that you have good coverage everywhere can be challenging.
+
+## Network Components & Glossary
+
+Let's quickly review the basic components of a network.
+
+- Modem: the modem converts the signal from your Internet provider (often over Coax cable or something similar) into usable WAN signal over Ethernet. Sometimes Internet providers will offer combination modem + routers to provide a single box for your entire home networking needs, though alluring in simplicity these often fall into the bucket of "you get what you pay for".
+- Ethernet: The cable looks like a slightly wider wired phone cable and handles networking in homes and offices
+- Packets: A virtual envelope that carries data across a network
+- WAN: Wide-Area-Network is used to refer to your home network connecting to the outside world (ie. the Internet)
+- LAN: Local-Area-Network is used to refer to the network of devices within your home.
+- Security Gateway / Firewall: The separation between WAN and LAN is necessary given the disparity in trust afforded to devices on either side. Devices in your home can be trusted, devices on the internet can not. Thus, a Security Gateway or Firewall checks traffic and limits access of WAN devices attempting to communicate with your LAN devices.
+- Router: A router, like a post office, handles directing packets to and from the right devices. It additionally handles the complexity of all Internet interactions from your many LAN devices going through a single Gateway. A router must keep track of when your phone requests data from Instagram's servers and your laptop requests data from Github's servers and make sure that the packets returned from Instagram and Github go to the respective device.
+- Wi-Fi Access Point: The hardware antennas used to communicate with the wi-fi antennas in your LAN devices. A home or large office can end up having many Access Points on the same network in order to nicely handoff your device as you move around without losing signal or forcing you to connect to an entirely new network.
+- Switch: A switch, like a street intersection, lets packets pass to whatever destination is designated without any smarts of how they will get there. A dedicated switch generally looks like a flat box with a lot of Ethernet ports on it, though any consumer router often has a small 4-port switch to let you hook up a desktop computer to your network for example.
+- SSID: the name of your network (like "WaffleHouse" or "MrStealYourWifi")
+- PoE: Power-over-Ethernet is supported by certain routers, switches, and Wi-Fi access points which allow them to draw or give power over the Ethernet cable which handles the data. This can mean less cords and power adapters and more flexibility in where you put Wi-Fi access points but there is some complexity. For example, among Ubiquity products alone, there are 4 different PoE standards that in varying ways do not play well with each other so you'll need to confirm that your devices on either end of the Ethernet support. This [YouTube video from Crosstalk Solutions](https://youtu.be/O9_34dCrFFc) and corresponding [Ubiquity help article](https://help.ui.com/hc/en-us/articles/115000263008--UniFi-Understanding-PoE-and-How-UniFi-Devices-are-Powered) are very helpful.
+
+## Different Home Network Approaches
+
+Most consumer Wi-Fi products act as a 4-in-1 device combining a Security Gateway, Router, Wi-Fi Access Point, and Switch, with varying success given how complex each element is (let alone stitching them all together).
+
+There are different approaches you can take depending on your willingness to take on more technically intensive solutions.
+
+- Consumer Cheap & Basic: Use off the shelf consumer routers and mesh systems from Asus, Netgear, Linksys, D-Link and others which depending on the model can work well but often have very limited dashboards and rarely receive further firmware updates (security patches are even limited)
+- Consumer IoT: Google Wi-Fi, Amazon Eero, and others are a new wave of consumer smart routers fitting more into the Internet-of-Things category. They have slick apps and dashboards to manage them and attempt to remove all the technical knowledge requirements from having a home Wi-Fi network. For the most part, they succeed but often at the cost of leveraging each customer's usage and home layout data to improve their router software.
+- Prosumer: Ubiquity UniFi and similar lines provide much more flexibility in addressing specifically the unique needs of your home network with numerous different separated options for routers, switches, and wi-fi access points. They require more technical knowledge to setup but can result in better networks when compared to Consumer IoT which attempt to provide the same quality of network but by leveraging software instead of hardware solutions. Prosumer lines also differentiate themselves from Consumer Cheap & Basic with unified dashboards and management of all network components.
+
+## Ubiquity
+
+After
+
+## Raw Ubiquity UAP-AP-LITE + EdgeRouter X SFP Setup
+
+https://help.ui.com/hc/en-us/articles/115006567467-EdgeRouter-Hardware-Offloading
+The following improve throughput performance so that they are not handled by the router CPU which is underpowered:
+
+```
+$ set system offload hwnat enable
+$ set system offload ipsec enable
+```
+
+or
+
+```
+configure
+
+set system offload hwnat enable
+set system offload ipsec enable
+
+commit ; save
+```
+
+[Download updated firmware](https://ubnt.com/download/) and install in the System tab at the bottom of the dashboard screen.
+
+## Unifi Controller on Synology Docker
+
+If using Synology or another NAS to host your Unifi Controller dashboard, you'll need to open in the Firewall TCP ports `8080,8443,8843,8880,6789` and UDP ports `3478,10001` in Security > Firewall > Edit Rules.
+
+You'll also need to set environment variables for the container `BIND_PRIV` and `RUNAS_UID0` to `false`. The `RUNAS_UID0` environment variable when set to off defaults to running the dashboard more securely with a non-root custom user/group of 999/999. You'll need to create a user in Synology with minimal permissions (except for the Docker folder where UNMS runs) and then edit the uid/gid to be 999 in `/etc/passwd` with the command `sudo vim /etc/passwd`.
+
+Setup Unifi Controller using the [following helpful instructions](https://lazyadmin.nl/home-network/unifi-controller-on-a-synology-nas-with-docker/) and the great [jacobalberty/unifi-docker](https://github.com/jacobalberty/unifi-docker) image.
+
+## UNMS on Synology Docker
+
+Setup Unifi Network Management System (UNMS) using these great Docker image and instructions: [nico640/docker-unms](https://github.com/Nico640/docker-unms).
+
+## Unifi Acess Point Debugging
+
+### General
+
+- [LED Status Light Codes](https://help.ui.com/hc/en-us/articles/204910134): what does the color and sequence of blinks on the access point mean
+- [Controller AP Status Codes](https://help.ui.com/hc/en-us/articles/205231710-UniFi-UAP-Status-Meaning-Definitions): What does the status text in the controller for the AP mean
+
+### Failure to Adopt a Unifi AP
+
+Sometimes, an Access Point will fail to adopt in the Controller and cycle between adopting and disconnecting. This can because the adoption process requires the AP to ping the controller and if the DNS is not configured in a way that the hostname `unifi` resolves to your controller IP address, then the AP will fail to connect.
+
+To resolve this, you can find the IP address for the AP, then login and run the following `set-inform` command twice where `A.B.C.D` is your controller's IP address and `W.X.Y.Z` is the IP address of your AP.
+
+```
+$ ssh ubnt@W.X.Y.Z
+Password: ubnt
+
+$ UBNT-BZ.v4.3.21# set-inform http://A.B.C.D:8080/inform
+
+Adoption request sent to 'http://A.B.C.D:8080/inform'.  Use the controller to complete the adopt process.
+
+$ UBNT-BZ.v4.3.21# set-inform http://A.B.C.D:8080/inform
+
+Adoption request sent to 'http://A.B.C.D:8080/inform'.  Use the controller to complete the adopt process.
+```
+
+Alternatively, you can have certain discovery ports for the controller that aren't open or a myriad of other issues but for my setup, the missing DNS record for the controller and failure for the AP to `set-inform` was my problem. Many thanks to this [community help article](https://community.ui.com/questions/AP-disconnected-after-adoption/d113094b-256f-4e1a-afa6-7025196c80d9) that spelled it all out.
+
+#### Static IPs and Unifi Controller Setting in EdgeRouter
+
+As a long term solution to the above adoption problem, in EdgeRouter you can go to `Services > DHCP Server > LAN > Actions > View Leases` and then `Map Static IP` for the device that the Unifi Controller is running. Once it is assigned a static IP, you can set that IP in the `Details > Unifi Controller` box to prevent future adoption problems long term.
+
+## Separated Networks with VLANs
+
+Using this [tutorial](https://youtu.be/C7CGY0BTFCM) and the following summarized steps, I set up separated networks using VLANs for guests and for work devices.
+
+The below example assumes a basic setup where all Unifi Access Points connect directly to EdgeRouter ports and not through a secondary switch. If another switch is involved, the setup will be a bit more complicated and use specific `ethX` interfaces instead of just using the entire `switch0` to apply this setup across all ports.
+
+### In EdgeRouter
+
+- Create the VLAN `Dashboard > Add Interface > Add VLAN`
+
+  ```
+  VLAN ID: 10
+  Interface: switch0
+  Description: VLAN10_GUEST
+  Address: 192.168.10.1/24
+  ```
+
+- Add a DHCP Server `Services > DHCP Server > Add DHCP Server`
+
+  ```
+  DHCP Name: VLAN10_GUEST
+  Subnet: 192.168.10.1/24
+  Range Start: 192.168.10.2
+  Range Stop: 192.168.10.254
+  Router: 192.168.10.1
+  DNS 1: 192.168.10.1
+  DNS 2:
+  Unifi Controller:
+  ```
+
+- Add DNS listener to the new VLAN `Services > DNS > DNS Forwarding > Add Listen Interface`.
+  - Add `switch0.10` and save so DNS requests on the new VLAN can resolve to the router.
+- Optionally support port forwarding over the new VLAN interface, I've done this only on the work device network, not for guest network to lock down internal services.
+  - Add `switch0.10`
+- Add Firewall rules to restrict VLAN talking to other devices on your primary LAN `Firewall/NAT > Firewall Policies`
+
+  - Add `IN` rule to drop all requests to primary LAN IP addresses
+
+    - `Add Ruleset`
+
+      ```
+      Name: VLAN10_GUEST_IN
+      Description: VLAN10_GUEST_IN
+      Default action: Accept
+      ```
+
+    - `Add New Rule` to block all traffic to primary LAN
+
+      ```
+      Basic
+      Description: DROP access to 192.168.1.0
+      Action: Drop
+      Protocol: All Protocols
+
+      Destination
+      Address: 192.168.1.0/24
+      ```
+
+    - Configure the applicable interface in `Interfaces`
+
+      ```
+      Interface: switch0.10
+      Direction: in
+      ```
+
+  - Add `LOCAL` rule to drop all requests to the router except for DNS requests
+
+    - `Add Ruleset`
+
+      ```
+      Name: VLAN10_GUEST_LOCAL
+      Description: VLAN10_GUEST_LOCAL
+      Default action: Accept
+      ```
+
+    - `Add New Rule` to allow DNS requests only
+
+      ```
+      Basic
+      Description: Allow VLAN10 DNS
+      Action: Accept
+      Protocol: TCP & UDP
+
+      Destination
+      Port: 53
+      ```
+
+    - `Add New Rule` to block all traffic to router
+
+      ```
+      Basic
+      Description: DROP access to 192.168.10.1
+      Action: Drop
+      Protocol: All Protocols
+
+      Destination
+      Address: 192.168.10.1
+      ```
+
+    - Configure the applicable interface in `Interfaces`
+
+      ```
+      Interface: switch0.10
+      Direction: in
+      ```
+
+### Unifi Controller
+
+In the controller you can now build on the new VLAN to create your new networks and wifi networks.
+
+- Create a new network for the VLAN in `Settings > Networks`
+
+  ```
+  Name: Guest
+
+  Advanced
+  VLAN ID: 10
+  Device Isolation: True
+  Auto Scale Network: False
+  Gateway IP/Subnet: 192.168.10.1/24
+  DHCP Range: 192.168.10.2 - 192.168.10.254
+  DHCP Guarding: 192.168.10.1
+  ```
+
+- Create a new wifi network for the VLAN in `Settings > WiFi`
+
+  ```
+  Name: Wafflehouse-Guest
+  Password: abc123
+  Network: Guest
+
+  Advanced
+  Client Group: Guest
+  ```
+
+- Optionally create a new Client Group to set rate limits in `Settings > Advanced Features` and then update your wifi network to use a custom Client Group.
+
+  ```
+  Add a Client Group
+  Name: Guest
+  Limit download bandwidth: 10 mbps
+  Limit upload bandwidth: 2 mbps
+  ```
+
+## Local Custom DNS
+
+EdgeRouter can have custom DNS records. Login using the CLI and run the following ([help article](https://community.ui.com/questions/Create-DNS-enteries/ab712740-d579-4c89-824a-cda582a6bdd4)):
+
+```
+$ configure
+$ set system static-host-mapping host-name host1 inet 1.1.1.1
+commit
+$ save
+```
+
+You can also add CNAME records to redirect to name (not an IP address) ([CNAME records](https://www.loganmarchione.com/2019/02/edgerouter-cname-records/)) as follows:
+
+```
+$ configure
+$ set service dns forwarding options cname=storage.localdomain,backup01.localdomain
+$ commit
+$ save
+```
+
+A local DNS server can be very useful for ad-blocking a la Pi-Hole or for having custom DNS records for local devices.
+
+- [Redirect Hard-coded DNS To Pi-hole Using EdgeRouter X](https://www.myhelpfulguides.com/2018/07/30/redirect-hard-coded-dns-to-pi-hole-using-edgerouter-x/)
+
+## Port Forwarding with EdgeRouter
+
+In `Firewall/Nat > Port Forwarding` you can add configuration so requests to certain ports on your external IP address are forwarded to a specific device that can handle them. For example, I've setup all requests on ports `80` (HTTP) and `443` (HTTPS) to forward to my home Synology Server where the different dashboards and other services run in Docker.
+
+Note, you'll need to set the WAN interface to `eth0` and use `switch0` to have port forwarding take effect (thanks to this [help article](https://community.ui.com/questions/ER-X-1-9-1-1-cant-forward-ports-Is-port-forwarding-broken-in-1-9/8514db59-0065-420c-a121-94ba456b56af#answer/254be129-5cbe-4fa3-9ded-90657f72bb79)).
+
+## Reverse Proxy Synology External Access
+
+All requests on `80` and `443` arriving at our external IP address are terminated at the Synology server, but how does it know which requests are for which Docker service?
+
+A Reverse Proxy allows you to define rules (generally based on domain name of the request) to handle routing from the generic public ports `80,443` to the specific local Docker ones that your services are running on `8080,8443,8143,8123...`.
+
+The following [help article](https://www.vdr.one/synology-nas-reverse-httphttps-proxy/) explains it thoroughly though the process is straight forward from the `Control Panel > Application Portal > Reverse Proxy` settings page.
+
+## Synology HTTP Redirect to HTTPS
+
+Great [instructions here](https://blog.golimb.com/2017/07/14/synology-reverse-proxy/) on how to add a virtual host with a basic `.htaccess` file to force all calling clients that request over HTTP to re-request using HTTPS.
