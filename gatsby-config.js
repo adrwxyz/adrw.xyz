@@ -9,7 +9,7 @@ module.exports = {
     // Will be used to generate absolute URLs for og:image etc.
     siteUrl: `https://adrw.xyz`,
     // Used for SEO
-    siteDescription: `Now, Notes, and Feed from adrw // Andrew Alexander`,
+    siteDescription: `adrw // Andrew Alexander`,
     // Will be set on the <html /> tag
     siteLanguage: `en`,
     // Used for og:image and must be placed inside the `static` folder
@@ -37,13 +37,13 @@ module.exports = {
             slug: `/now`
           },
           {
-            title: `Notes`,
-            slug: `/tags`
-          },
-          {
             title: `Feed`,
             slug: `/blog`
-          }
+          },
+          {
+            title: `Tags`,
+            slug: `/tags`
+          },
         ],
         // Title for RSS feed
         feedTitle: `adrw // Andrew Alexander`
@@ -61,9 +61,9 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `minimal-blog - @lekoarts/gatsby-theme-minimal-blog`,
-        short_name: `minimal-blog`,
-        description: `Typography driven, feature-rich blogging theme with minimal aesthetics. Includes tags/categories support and extensive features for code blocks such as live preview, line numbers, and code highlighting.`,
+        name: `adrw // Andrew Alexander`,
+        short_name: `adrw`,
+        description: `adrw // Andrew Alexander`,
         start_url: `/`,
         background_color: `#fff`,
         theme_color: `#6B46C1`,
