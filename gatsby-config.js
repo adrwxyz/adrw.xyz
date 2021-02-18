@@ -37,7 +37,7 @@ module.exports = {
             slug: `/now`
           },
           {
-            title: `Feed`,
+            title: `Blog`,
             slug: `/blog`
           },
           {
