@@ -1,0 +1,15 @@
+---
+title: "Renew SSL Certificates on Synology"
+date: 2021-04-09 00:00:00
+slug: tech/renew-ssl-certificates-on-synology
+tags:
+  - Tech
+---
+
+Turns out an optimization in my router configuration to auto-upgrade HTTP requests to HTTPS became a head scratcher when the built in Synology Certificate Manager wouldn't renew a certificate for my home server services.
+
+I had setup a redirect such that all traffic on port 80 (HTTP) to my router forwards to my home server port 4080 where my home server can reverse proxy to different services running in Docker containers on different ports. Thus, the Certificate Manager, which relies on access to port 80 and port 443, would fail since all of the requests to port 80 would end up going through my redirect to port 4080 and the reverse proxy rule which upgrades it to https.
+
+Temporarily updating my router rule to forward requests on port 80 to Synology as port 80 allowed the Certificate Manager to succeed.
+
+What revealed this to me was when I tried to renew the certificate manually using `certbot` and then [`dehydrated`](https://github.com/dehydrated-io/dehydrated/) and realized that when I ran `dehydrated` on the Synology server, the logs showed that ACME verification over port 443 succeeded but over port 80 failed.
