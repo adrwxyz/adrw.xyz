@@ -14,7 +14,7 @@
   "dependencies": {
     "@lekoarts/gatsby-theme-minimal-blog": "2.4.0",
     "gatsby": "2.32.13",
-    "gatsby-plugin-ackee-tracker": "3.0.3",
+    "gatsby-plugin-ackee-tracker": "3.1.0",
     "gatsby-plugin-manifest": "2.12.1",
     "gatsby-plugin-matomo": "0.10.0",
     "gatsby-plugin-netlify": "2.11.1",
