@@ -7875,10 +7875,10 @@ gatsby-page-utils@^0.9.1:
     lodash "^4.17.20"
     micromatch "^4.0.2"
 
-gatsby-plugin-ackee-tracker@3.1.0:
-  version "3.1.0"
-  resolved "https://registry.yarnpkg.com/gatsby-plugin-ackee-tracker/-/gatsby-plugin-ackee-tracker-3.1.0.tgz#0fe69f06bfa0e51b73f9c964c0cf94e30d4fbe8c"
-  integrity sha512-7+XjmZHVuoi+MZrh4lZsAXkYF/lPU41EQkJ6trdkPONTcYyQLptUQ5kVQrEbVR8mSXnbDmmgeipi665hg2avHg==
+gatsby-plugin-ackee-tracker@3.2.0:
+  version "3.2.0"
+  resolved "https://registry.yarnpkg.com/gatsby-plugin-ackee-tracker/-/gatsby-plugin-ackee-tracker-3.2.0.tgz#cdff4a53dbd38020fade4f9493d008b26a5bf7db"
+  integrity sha512-OZx69wN9VbKXVlw4JcpSAQGMNwLQvLnrEYLcEgysJQrKRlG4dK5HPnFLamFof9REQs2MDn9RmMsiHoCHTF7vHg==
   dependencies:
     "@babel/cli" "^7.15.7"
     "@babel/core" "^7.15.8"
