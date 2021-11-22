@@ -8,6 +8,9 @@ tags:
 
 A collection of helpful blog posts, articles, and podcasts as it relates to programming and working in a tech organization.
 
+## Career Growth
+- [StaffEng Archetypes](https://staffeng.com/guides/staff-archetypes)
+
 ## Coding Velocity
 - [danluu/product-velocity](https://danluu.com/productivity-velocity/)
 
@@ -18,3 +21,6 @@ A collection of helpful blog posts, articles, and podcasts as it relates to prog
   - [Part 1](https://manager-tools.com/2005/07/the-single-most-effective-management-tool-part-1)
   - [Part 2](https://manager-tools.com/2005/07/the-single-most-effective-management-tool-part-2)
   - [Part 3](https://manager-tools.com/2005/07/the-single-most-effective-management-tool-part-3)
+
+## Protos
+- [Protobuffers Are Wrong](https://reasonablypolymorphic.com/blog/protos-are-wrong/)
