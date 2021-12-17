@@ -36,6 +36,4 @@ Easy enough.
 
 But unfortunately I encountered a strange limitation of SOGo's Exchange ActiveSync implementation that truncates saved phone numbers and email addresses to only 2 per contact entry. Though it initially looked like the import was successful, I soon noticed when my phone synced that many contacts had missing phone numbers or emails and apps like Signal weren't matching up conversations with my contacts anymore.
 
-I'm probably going to have to go the even more manual route of syncing both instances to the same Mac or iPhone and then manually dragging the old contacts to the new instance and let macOS handle moving them with all the existing fields.
-
-If anyone has a better solution, I'm [all ears](mailto:hello@adrw.xyz).
+What ended up working much better is the [Cloudron-Davsync tool](https://blog.cloudron.io/carddav-and-caldav-migration/) that the team has published on NPM (`$ npm i -g cloudron-davsync`) which ended up working perfectly to copy all data over without truncation.
