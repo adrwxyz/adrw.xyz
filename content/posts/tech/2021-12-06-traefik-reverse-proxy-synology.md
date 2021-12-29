@@ -1,7 +1,7 @@
 ---
-title: Traefik Reverse Proxy
+title: Traefik Reverse Proxy on Synology DSM
 date: 2021-12-06T21:45:05.554Z
-slug: tech/traefik-reverse-proxy
+slug: tech/traefik-reverse-proxy-synology
 tags:
   - Tech
 ---
