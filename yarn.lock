@@ -2807,10 +2807,10 @@
   resolved "https://registry.yarnpkg.com/@mikaelkristiansson/domready/-/domready-1.0.11.tgz#6a4b5891dccb6402ff4e944de843036ee1ffd4f5"
   integrity sha512-nEBLOa0JgtqahmPrnJZ18epLiFBzxhdKgo4uhN3TaBFRmM30pEVrS9FAEV4tg92d8PTdU+dYQx2lnpPyFMgMcg==
 
-"@misk/prettier@0.3.3":
-  version "0.3.3"
-  resolved "https://registry.yarnpkg.com/@misk/prettier/-/prettier-0.3.3.tgz#14b3d73f33388ba00d3bfda6706d7a29c8d3747b"
-  integrity sha512-CtbMOSbU5dlybwIRdVq8EyraCa0NiHHAoJAOqqSD1CFx7imjFy6rZeYjyZwUBu+hBVkL5LLrnyn6ftZ/7mCicA==
+"@misk/prettier@0.4.0":
+  version "0.4.0"
+  resolved "https://registry.yarnpkg.com/@misk/prettier/-/prettier-0.4.0.tgz#21ce3b70c9cea42977fcb5595d2b0f76908fe720"
+  integrity sha512-kI66VHMIpYPwV3iL8X6l4wKG11uuY9FznAUdbsIPsHHIJhbgDIIJjcjPj3PvY0U78aK5XoK/lO5LE85R6s/Qgw==
   dependencies:
     prettier "1.19.1"
 
