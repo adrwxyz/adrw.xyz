@@ -48,6 +48,7 @@ A collection of helpful blog posts, articles, and podcasts as it relates to prog
 - [Design Microservice Architectures the Right Way](https://youtu.be/j6ow-UemzBc)
 - [The 12 Factor App](https://12factor.net/)
 - [A Depenedency Injector's 3 Jobs](https://publicobject.com/2019/06/25/a-dependency-injectors-3-jobs/)
+- [Comements should be sentences](https://nedbatchelder.com/blog/201401/comments_should_be_sentences.html)
 
 ## DevOps
 - [Flux](https://fluxcd.io/): the GitOps family of projects for Kubernetes
