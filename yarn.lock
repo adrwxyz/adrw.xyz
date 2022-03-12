@@ -8090,10 +8090,10 @@ gatsby-plugin-manifest@2.12.1:
     semver "^7.3.2"
     sharp "^0.27.0"
 
-gatsby-plugin-matomo@0.11.0:
-  version "0.11.0"
-  resolved "https://registry.yarnpkg.com/gatsby-plugin-matomo/-/gatsby-plugin-matomo-0.11.0.tgz#2a4322df78045af0b3f44ba7b8c455d57b526f96"
-  integrity sha512-yvQFOGky3vyEEmmtopDvsrlnZ8htYrgHHD9CCvlFQ6DrGSL+Y01wkbJZBMpiGAiRt/GKh/8MGWcMfSAGoMQM9g==
+gatsby-plugin-matomo@0.11.1:
+  version "0.11.1"
+  resolved "https://registry.yarnpkg.com/gatsby-plugin-matomo/-/gatsby-plugin-matomo-0.11.1.tgz#ceed07657315ec20a09a2c7792fb52b318f10ce5"
+  integrity sha512-ZAJ42Vf4123IVo+crBpIDOttCdn8E3RBufZtOMhHEDxlwoATYwJ2qdXyAoBp67vpuXpQQ7ZLPL6bTj2m+Cu6ww==
 
 gatsby-plugin-mdx@^1.9.0:
   version "1.10.1"
