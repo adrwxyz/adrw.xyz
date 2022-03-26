@@ -1,0 +1,64 @@
+---
+title: "Home Networking Failures"
+date: 2022-03-26 00:00:00
+slug: tech/home-networking-failures
+tags:
+  - Tech
+---
+
+For me, the phrase "Learn to do by doing" is truly self-descriptive of my learning style.
+
+Thus, even in technical matters, I more naturally pay attention to the nuances and limitations of a technical system when it fails than when I initially set it up and initially read the documentation.
+
+Some folks enjoy pouring over documentation before writing or deploying any code. I do not find that intuitive.
+
+Thus the past month, more than any other yet, has been a 200-level course on home networking; taught by none other than my own failures and scrambling to fix.
+
+## Don't run a public DNS server
+
+Simply, DNS servers map a domain name (ie. adrw.xyz) to an IP address for the server where that website is hosted.
+
+Ad blockers are most easily installed with a browser extension. But for more comprehensive capabilities without configuring on every device and browser, an ad blocker at the DNS level is preferable. You can override the real DNS record locally for some bad domain (ie. tracker.net) and black hole it to 0.0.0.0 which will fail to resolve and thus stop the ads and tracking.
+
+For many years, I've used a custom script to add 50k+ black hole DNS records to my computer's /etc/hosts file which worked well. After it was added to [Cloudron](http://cloudron.io), I started using [AdGuard](https://adguard.com/en/adguard-home/overview.html) instead since it does the same black-holing of bad sites but as a DNS server you can point your home router and devices to.
+
+I hosted AdGuard on Cloudron on a cloud VPS and for months everything worked perfectly.
+
+When I recently chose to cut monthly cloud VPS costs and take a stab at self-hosting in my basement, I made a fatal mistake.
+
+In opening up public ports to be able to forward traffic to my local reverse proxy and other hosted services, I decided to do what I had done on my cloud VPS and open up port 53, DNS, so that I could use my AdGuard instance when I was out of the house.
+
+It worked well for a while, until I received an email from my ISP. Something along the lines of "there is unacceptable DNS traffic noticed on your network and we will cut off service if it does not stop".
+
+Well, I guess that was the end of that. Local ISPs don't like home servers and prefer data centers that pay the big bucks.
+
+I closed my public port 53 and kept my internet service
+
+## Don't reveal your public IP
+
+Unfortunately, closing port 53 at the demand of my local ISP was not sufficient.
+
+Turns out, hosting your own public DNS server on consumer grade equipment and networks is a horrible idea.
+
+Within a few weeks of closing my public port 53, I noticed that my other self-hosted services were increasingly slow to access by their public domains and in some cases fully offline.
+
+I thought I had messed up the reverse proxy rules somehow and spent almost a week almost going insane rolling back and trying to debug my Traefik proxy.
+
+Not until the end of the week did it finally occur to me to check if I can even still login to my residential ISP modem. When I tried, the login page wouldn't load. On reboot, the same thing. On reboot with the external access coax unplugged, it finally loaded.
+
+It turns out my public DNS ad-blocker ended up throwing up a smoke signal that my IP was ripe for a DDOS (distributed denial-of-service) attack.
+
+## The necessity of Cloudflare
+
+While I had heard about Cloudflare and used it briefly in the past, I had been satisfied with the experience at Namecheap for both domain registration and setting up DNS records so I hadn't considered switching.
+
+After realizing my home network was being DDOS-ed and all services rendered unavailable, I realized the necessity of a well-provisioned, secured, high-scale front door for traffic.
+
+Cloudflare offers many services, but the one that they cut their teeth on was DDOS protection by being a cloud proxy for all requests to your websites and services.
+
+Instead of pointing your DNS records for your domain at your server, you would point them at Cloudflare. Then in Cloudflare's dashboard you would add private DNS records which point to your actual server IP address.
+
+Any public network requests would go to Cloudflare and be proxied to your server without leaking your IP address.
+
+Cloudflare, depended on by large swaths of internet services, screens packets for bots and protects against DDOS attacks by having huge network capabilities so that it's practically impossible for a DDOS attack to overwhelm Cloudflare's network equipment and capabilities. They can then dump all DDOS packets and protect your networking equipment and servers from being paralyzed under the load.
+
