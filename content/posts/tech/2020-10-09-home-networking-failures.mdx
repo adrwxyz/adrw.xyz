@@ -56,9 +56,30 @@ After realizing my home network was being DDOS-ed and all services rendered unav
 
 Cloudflare offers many services, but the one that they cut their teeth on was DDOS protection by being a cloud proxy for all requests to your websites and services.
 
-Instead of pointing your DNS records for your domain at your server, you would point them at Cloudflare. Then in Cloudflare's dashboard you would add private DNS records which point to your actual server IP address.
+Instead of pointing your DNS records from a registrar like Namecheap directly at your server, you would used Cloudflare as your DNS server and configure all records there.
 
-Any public network requests would go to Cloudflare and be proxied to your server without leaking your IP address.
+Any public network requests would go to Cloudflare to resolve DNS and instead of getting your server IP address, be redirected to a Cloudflare proxy server which would handle proxying traffic to your server without leaking your IP address.
 
 Cloudflare, depended on by large swaths of internet services, screens packets for bots and protects against DDOS attacks by having huge network capabilities so that it's practically impossible for a DDOS attack to overwhelm Cloudflare's network equipment and capabilities. They can then dump all DDOS packets and protect your networking equipment and servers from being paralyzed under the load.
 
+Not for this to be exclusively an advertisement for Cloudflare, I'm sure there are alternatives, but it is the one that I knew about and has ended up being the solution I needed.
+
+## Do not leave all public ports open
+
+Prior to migrating to self-hosting my services, I was with a different ISP where I had a modem-only device to connect to the internet. I used my own EdgeRouter and other Unifi equipment to handle routing, switches, and WiFi access points. Recently, I switched ISPs and was given an all-in-one modem router gateway to replace my modem-only.
+
+This meant I now had two UIs which offered port forwarding, my new all-in-one ISP modem-router-gateway and my EdgeRouter. I was lazy and didn't want to copy all the records over so I left all ports open on my all-in-one, and pointed them to my EdgeRouter which still had the more limited set of rules.
+
+Notably this may also have had an affect on bringing a DDOS attack on myself.
+
+Additionally, the consumer grade all-in-one was no match for handling all that traffic let alone routing it based on port.
+
+...
+
+
+
+## Set local ISP modem to bridge mode
+
+Even after switching my domains to Cloudflare, there remained the pesky fact that my current IP address from my local ISP was likely compromised and on all sorts of DDOS lists that practically would be impossible to get off.
+
+...
