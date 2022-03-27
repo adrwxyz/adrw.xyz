@@ -8,11 +8,11 @@ tags:
 
 For me, the phrase "Learn to do by doing" is truly self-descriptive of my learning style.
 
-Thus, even in technical matters, I more naturally pay attention to the nuances and limitations of a technical system when it fails than when I initially set it up and initially read the documentation.
+Thus, even in technical matters, I more naturally pay attention to the nuances and limitations of a technical system when it fails than when I initially set it up and skim the getting started guide.
 
 Some folks enjoy pouring over documentation before writing or deploying any code. I do not find that intuitive.
 
-Thus the past month, more than any other yet, has been a 200-level course on home networking; taught by none other than my own failures and scrambling to fix.
+Thus the past month, more than any other yet, has been a 200-level course on home networking; taught by none other than my own failures and fixes.
 
 ## Don't run a public DNS server
 
@@ -72,14 +72,16 @@ This meant I now had two UIs which offered port forwarding, my new all-in-one IS
 
 Notably this may also have had an affect on bringing a DDOS attack on myself.
 
+## Set local ISP modem to bridge mode
+
 Additionally, the consumer grade all-in-one was no match for handling all that traffic let alone routing it based on port.
 
-...
-
-
-
-## Set local ISP modem to bridge mode
+Thus I looked into switching the all-in-one to "bridge mode" which would disable all functionality except the modem, and hopefully perform better.
 
 Even after switching my domains to Cloudflare, there remained the pesky fact that my current IP address from my local ISP was likely compromised and on all sorts of DDOS lists that practically would be impossible to get off.
 
-...
+Thankfully, "bridge mode" for at least my ISP forced a refresh of the IP address which solved the aboveforementioned problem of having a spoiled public IP address.
+
+## Concluding Thoughts
+
+All in all, I learned a lot more about managing network infrastructure the past month than I expected; all from failures, fixes, and new guidelines to rule by.
