@@ -23,6 +23,7 @@ A collection of helpful blog posts, articles, and podcasts as it relates to prog
 
 ## Coding Velocity
 - [danluu/product-velocity](https://danluu.com/productivity-velocity/)
+- [Is High Quality Software Worth the Cost?](https://martinfowler.com/articles/is-quality-worth-cost.html)
 
 ## 1 on 1s
 - [7 Essential Tips for Effective 1 on 1 Meetings with Your Manager](https://getlighthouse.com/blog/effective-1-on-1-meetings/)
