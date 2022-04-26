@@ -64,7 +64,7 @@ Cloudflare, depended on by large swaths of internet services, screens packets fo
 
 Not for this to be exclusively an advertisement for Cloudflare, I'm sure there are alternatives, but it is the one that I knew about and has ended up being the solution I needed.
 
-## Do not leave all public ports open
+## Don't leave all public ports open
 
 Prior to migrating to self-hosting my services, I was with a different ISP where I had a modem-only device to connect to the internet. I used my own EdgeRouter and other Unifi equipment to handle routing, switches, and WiFi access points. Recently, I switched ISPs and was given an all-in-one modem router gateway to replace my modem-only.
 
@@ -81,6 +81,16 @@ Thus I looked into switching the all-in-one to "bridge mode" which would disable
 Even after switching my domains to Cloudflare, there remained the pesky fact that my current IP address from my local ISP was likely compromised and on all sorts of DDOS lists that practically would be impossible to get off.
 
 Thankfully, "bridge mode" for at least my ISP forced a refresh of the IP address which solved the aboveforementioned problem of having a spoiled public IP address.
+
+## Don't make all services public
+
+While it seemed intuitively fun to have my Minio instance and all other services publicly accessible without VPN, in practice this vastly broadened my threat surface.
+
+For Minio, an open source S3 bucket storage clone, there's no need for it to be public if all access is done within my internal network.
+
+For others, limiting by VPN access isn't a limit either.
+
+And as many as can be made internal-only, shrinks public DDOS targets and improves availability of internal services which aren't being hit with traffic anymore.
 
 ## Concluding Thoughts
 
