@@ -92,6 +92,16 @@ For others, limiting by VPN access isn't a limit either.
 
 And as many as can be made internal-only, shrinks public DDOS targets and improves availability of internal services which aren't being hit with traffic anymore.
 
+## Use router DNS override to improve within network latency
+
+For an self-hosted service exposed externally, access within your own network will by default make the long journey to resolve DNS at your ISP or Cloudflare's authoratative DNS server and then back to your home network's public IP address, through the front door of your usual reverse proxy back to your service.
+
+This long journey is avoidable since both your computer or phone making the request and the service are both in the same subnet!
+
+By setting up [DNS overrides on your router](https://youtu.be/e34QNh16fh8), outgoing requets to your services can be immediately intercepted by your router and sent directly to the service without even leaving your subnet and going out into the public internet.
+
+This is one way that you can get improved local performance when accessing your services at home, and simplicity in configuration since you can use the same full domain name when accessing them externally or internally without having to fallback to a local IP address or local domain separate from the public one.
+
 ## Concluding Thoughts
 
 All in all, I learned a lot more about managing network infrastructure the past month than I expected; all from failures, fixes, and new guidelines to rule by.
