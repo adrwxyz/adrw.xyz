@@ -14,6 +14,7 @@ A collection of helpful blog posts, articles, and podcasts as it relates to prog
 - [The Old Guard](https://randsinrepose.com/archives/the-old-guard/)
 - [How Stripe Built a Writing Culture](https://slab.com/blog/stripe-writing-culture/)
 - [Delay Giving Job Titles](https://medium.com/@gokulrajaram/the-one-thing-ceos-should-delay-as-long-as-possible-ea28347714b0)
+- [No Hello](https://nohello.net/en/): faster slack communication by sending complete first messages instead of distinct "hello" introductary messages
 
 
 ## Career Growth
