@@ -12,7 +12,7 @@
     "lint": "prettier --write --config package.json \"./{content,pages,src}/**/*.{md,mdx,css,sass,less,json,js,jsx,ts,tsx}\""
   },
   "dependencies": {
-    "@lekoarts/gatsby-theme-minimal-blog": "2.4.0",
+    "@lekoarts/gatsby-theme-minimal-blog": "4.1.7",
     "gatsby": "2.32.13",
     "gatsby-plugin-ackee-tracker": "3.2.4",
     "gatsby-plugin-manifest": "2.12.1",
