@@ -9,6 +9,7 @@ tags:
 A collection of helpful blog posts, articles, and podcasts as it relates to programming and working in a tech organization.
 
 ## Organization Structure & Culture
+
 - [The Tyranny of Structurelessness](https://www.jofreeman.com/joreen/tyranny.htm)
 - [Better coordination, or better software?](https://jessitron.com/2021/08/02/better-coordination-or-better-software/): Don’t unify tracking tools. Don’t make coordination smoother. Make delivery smoother! by strengthening boundaries.
 - [The Old Guard](https://randsinrepose.com/archives/the-old-guard/)
@@ -16,17 +17,19 @@ A collection of helpful blog posts, articles, and podcasts as it relates to prog
 - [Delay Giving Job Titles](https://medium.com/@gokulrajaram/the-one-thing-ceos-should-delay-as-long-as-possible-ea28347714b0)
 - [No Hello](https://nohello.net/en/): faster slack communication by sending complete first messages instead of distinct "hello" introductary messages
 
-
 ## Career Growth
+
 - [StaffEng Archetypes](https://staffeng.com/guides/staff-archetypes)
 - [Engineering Manager Archetypes](https://www.patkua.com/blog/5-engineering-manager-archetypes/)
 - [Maker's Schedule, Manager's Schedule](http://www.paulgraham.com/makersschedule.html)
 
 ## Coding Velocity
+
 - [danluu/product-velocity](https://danluu.com/productivity-velocity/)
 - [Is High Quality Software Worth the Cost?](https://martinfowler.com/articles/is-quality-worth-cost.html)
 
 ## 1 on 1s
+
 - [7 Essential Tips for Effective 1 on 1 Meetings with Your Manager](https://getlighthouse.com/blog/effective-1-on-1-meetings/)
 - [Questions for our first 1:1](https://larahogan.me/blog/first-one-on-one-questions/)
 - Hall of Fame Guidance: One on Ones
@@ -35,12 +38,14 @@ A collection of helpful blog posts, articles, and podcasts as it relates to prog
   - [Part 3](https://manager-tools.com/2005/07/the-single-most-effective-management-tool-part-3)
 
 ## Fun
+
 - [Microservices](https://youtu.be/y8OnoxKotPQ)
 - [The Hustle](https://youtu.be/_o7qjN3KF8U)
 - [Senior Engineer](https://youtu.be/eSqexFg74F8)
 - [If American Psycho were about Programmers](https://youtu.be/uHt01D6rOLI)
 
 ## Technical Opinions
+
 - [Protobuffers Are Wrong](https://reasonablypolymorphic.com/blog/protos-are-wrong/)
 - [Data denormalization is broken](https://lironshapira.medium.com/data-denormalization-is-broken-7b697352f405)
 - [Your Calendrical Fallacy Is...](https://yourcalendricalfallacyis.com/)
@@ -53,6 +58,7 @@ A collection of helpful blog posts, articles, and podcasts as it relates to prog
 - [Comements should be sentences](https://nedbatchelder.com/blog/201401/comments_should_be_sentences.html)
 
 ## DevOps
+
 - [Flux](https://fluxcd.io/): the GitOps family of projects for Kubernetes
 - [Atlantis](https://www.runatlantis.io/): Terraform Pull Request Automation
 - [Crossplane](https://crossplane.io/)
