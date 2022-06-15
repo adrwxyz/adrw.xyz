@@ -12,14 +12,15 @@
     "lint": "prettier --write --config package.json \"./{content,pages,src}/**/*.{md,mdx,css,sass,less,json,js,jsx,ts,tsx}\""
   },
   "dependencies": {
-    "@lekoarts/gatsby-theme-minimal-blog": "2.4.0",
-    "gatsby": "2.32.13",
+    "@lekoarts/gatsby-theme-minimal-blog": "4.1.7",
+    "@mkitio/gatsby-theme-password-protect": "2.1.2",
+    "gatsby": "4.16.0",
     "gatsby-plugin-ackee-tracker": "3.2.4",
-    "gatsby-plugin-manifest": "2.12.1",
+    "gatsby-plugin-manifest": "4.16.0",
     "gatsby-plugin-matomo": "0.13.0",
-    "gatsby-plugin-netlify": "2.11.1",
-    "gatsby-plugin-offline": "3.10.2",
-    "gatsby-plugin-sitemap": "2.12.0",
+    "gatsby-plugin-netlify": "5.0.0",
+    "gatsby-plugin-offline": "5.16.0",
+    "gatsby-plugin-sitemap": "5.16.0",
     "react": "18.2.0",
     "react-dom": "18.2.0"
   },
