@@ -1,6 +1,7 @@
 ---
 title: "Edmund"
 date: 2018-01-26 00:00:00
+slug: scenes/edmund
 description: "The locomotive whistles sharply..."
 author: Andrew Alexander
 tags:

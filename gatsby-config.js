@@ -56,10 +56,16 @@ module.exports = {
         pagePaths: [
           '/books',
           '/cache',
+          '/code',
+          '/faith',
+          '/finance',
           '/health',
+          '/me',
           '/news',
-          '/scenes', 
+          '/private',
+          '/scenes',
           '/songs',
+          '/travel'
         ],
         partialMatching: true
       }
