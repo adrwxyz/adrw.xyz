@@ -1,6 +1,7 @@
 ---
 title: "Oxford Circus"
 date: 2018-01-26 00:00:00
+slug: scenes/oxford-circus
 description: "It had been a long day. Mind you, he likely would have..."
 author: Andrew Alexander
 tags:

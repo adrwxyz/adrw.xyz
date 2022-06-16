@@ -1,6 +1,7 @@
 ---
 title: "Lawrence"
 date: 2018-01-26 00:00:00
+slug: scenes/lawrence
 description: "The delicious aromas waft from the food stands..."
 author: Andrew Alexander
 tags:

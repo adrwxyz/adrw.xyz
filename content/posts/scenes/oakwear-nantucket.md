@@ -1,6 +1,7 @@
 ---
 title: "Nantucket"
 date: 2018-01-26 00:00:00
+slug: scenes/nantucket
 description: "He hadn't gotten much sleep the night before..."
 author: Andrew Alexander
 tags:
