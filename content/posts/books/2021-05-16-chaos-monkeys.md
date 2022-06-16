@@ -21,7 +21,7 @@ Brutally honest opening of the kimono for what life is like from Goldman Sachs t
 
 > It certainly isn’t technical skill. I’m a crappy programmer, and I can hack crude prototypes of finished products at best. Some founders are technical virtuosos, but I suspect most weren’t the top students in their respective computer science classes (assuming they even had a formal education).
 
-> It’s not unique product or market vision. Anyone who used Google’s ads-buying tool for all of five minutes, and then registered that that piece of shit was a $70 billion per year moneymaker, could see the need for AdGrok. Some startup ideas were visionary, like Airbnb, but many, like Dropbox, were merely extremely well executed versions of existing technologies.
+> It’s not unique product or market vision. Anyone who used Google’s ads-buying tool for all of five minutes, and then registered that that piece of shit was a \$70 billion per year moneymaker, could see the need for AdGrok. Some startup ideas were visionary, like Airbnb, but many, like Dropbox, were merely extremely well executed versions of existing technologies.
 
 > In my limited experience, there are two traits that distinguish successful startup founders at whatever level of the game, from the forgettably minuscule (e.g., AdGrok) to the epoch changing (e.g., SpaceX).
 
