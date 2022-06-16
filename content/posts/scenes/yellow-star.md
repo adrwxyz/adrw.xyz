@@ -45,4 +45,3 @@ And now, my final visit has come. Told to wear it or else not come. My grandmoth
 I'm not sure how many have died for taking part, the latest "Logic" I read deemed death impossible after taking part, so the health ministry stopped counting.
 
 Grandmother took part but will soon be dead from another illness. Protected from "it", she will have lived her final years alone, any coming near covered, her final years of life lived out like a petri dish in a longrunning experiment.
-

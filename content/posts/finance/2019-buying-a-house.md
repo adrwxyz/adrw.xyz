@@ -161,44 +161,45 @@ Read more about the Smith Manoeuvre here:
   c) since this involves borrowing for investments, will there be an issue come tax time (i.e. can I claim the interest/dividends paid/obtained to date under her return or do I need to claim them)? FYI, the HELOC used for the SM is joint.
 
   Looking forward to your response.
-
-
-  Ed Rempel on November 18, 2017 at 9:57 PM
-
-  Hi Tom,
-
-  Wow, that is a many-pronged question.
-
-  Before I answer the questions you asked, let’s start with whether you even want to do that.
-
-  The lower-income spouse will pay less tax on investment income, but the Smith Manoeuvre implemented effectively is the opposite. If you invest tax-efficiently, the taxable investment income should be less than the interest deduction most years, so it is usually best to have the Smith Manoeuvre taxed to the higher-income spouse, to get a larger tax refund.
-
-  If you invest focused on dividend investing, that might be different. Dividend investing is not very tax-efficient, because you are prematurely triggering more taxable income, which means the taxable income might be more than the interest deduction. If you have a properly-diversified global equity portfolio with dividends, the dividends are fully taxed. Dividend investing can have very low tax rates only if all 3 of these apply to you:
-
-  1. Invest only in Canadian dividend stocks (which probably means bad diversification and ignoring 98% of the world’s stocks).
-  2. Have low income about $40,000 or less.
-  3. Are under age 65. Seniors are generally taxed very highly on dividends, even Canadian dividends, because a few clawback programs are based on the grossed-up dividend.
-
-  For everyone else, dividend investing is not tax-efficient.
-
-  I think you are asking the wrong questions, Tom. You will see when I answer them. To answer your actual questions:
-
-  1. Yes, it is mechanically doable. Your bank will say “in-kind” transfers are possible. We have done “in kind” transfers multiple times, but not with the Smith Manoeuvre because it creates tax problems.
-  2. It will cause you all kinds of tax problems if you do. The attribution rules will apply, so if you transfer the investments to your wife’s name, the taxable income is still taxable to you. The exception is the income on the income, which could be taxable to your wife, but only if you track all this effectively.
-  3. The interest deduction generally follows the taxable income on the investments. However, if you “gift” the investments to her (“in kind” transfer), then the interest deduction should transfer to her. The fact that the HELOC is joint is not relevant. You have taken the position up until now that you borrowed money to invest, so the interest now is deductible by you regardless of the name on the HELOC. Tax ownership and legal ownership are often different. Once you transfer the investments to her, the interest deduction transfers to her as well (even though the investment income is taxable to you based on the attribution rules). In short, your wife would claim most of the interest deduction, but most of the investment income would be taxed to you.
-
-  See what I mean about the answers to your questions not being the real issue, Tom?
-
-  I don’t know your full situation, so I can’t give you advice here. However, the way I would handle this is:
-
-  1. Leave the investments taxed to you. Don’t transfer them to your wife. My clients generally have tax deductions larger than the taxable investment income most years, so the Smith Manoeuvre usually gives them a tax refunds. This usually applies even after they have been doing it for years, and even after they retire and start taking cash flow from their investments.
-  2. Forget dividend investing. Focus on total long-term returns. Then try to minimize taxable income to the extent you can without affecting your returns. The lowest-taxed invesment income is deferred capital gains (https://edrempel.com/lowest-taxed-type-investment-income-6-ways-invest-deferred-capital-gains/ ).
-  3. If you really want to transfer the investments to your wife, sell them all, pay off the HELOC, and then have your wife borrow from scratch to invest. Wait 30 days if some of the investments are down to avoid the superficial loss rules.
-
-  I hope that is helpful for you, Tom.
-
-  Ed
   ```
+
+Ed Rempel on November 18, 2017 at 9:57 PM
+
+Hi Tom,
+
+Wow, that is a many-pronged question.
+
+Before I answer the questions you asked, let’s start with whether you even want to do that.
+
+The lower-income spouse will pay less tax on investment income, but the Smith Manoeuvre implemented effectively is the opposite. If you invest tax-efficiently, the taxable investment income should be less than the interest deduction most years, so it is usually best to have the Smith Manoeuvre taxed to the higher-income spouse, to get a larger tax refund.
+
+If you invest focused on dividend investing, that might be different. Dividend investing is not very tax-efficient, because you are prematurely triggering more taxable income, which means the taxable income might be more than the interest deduction. If you have a properly-diversified global equity portfolio with dividends, the dividends are fully taxed. Dividend investing can have very low tax rates only if all 3 of these apply to you:
+
+1. Invest only in Canadian dividend stocks (which probably means bad diversification and ignoring 98% of the world’s stocks).
+2. Have low income about \$40,000 or less.
+3. Are under age 65. Seniors are generally taxed very highly on dividends, even Canadian dividends, because a few clawback programs are based on the grossed-up dividend.
+
+For everyone else, dividend investing is not tax-efficient.
+
+I think you are asking the wrong questions, Tom. You will see when I answer them. To answer your actual questions:
+
+1. Yes, it is mechanically doable. Your bank will say “in-kind” transfers are possible. We have done “in kind” transfers multiple times, but not with the Smith Manoeuvre because it creates tax problems.
+2. It will cause you all kinds of tax problems if you do. The attribution rules will apply, so if you transfer the investments to your wife’s name, the taxable income is still taxable to you. The exception is the income on the income, which could be taxable to your wife, but only if you track all this effectively.
+3. The interest deduction generally follows the taxable income on the investments. However, if you “gift” the investments to her (“in kind” transfer), then the interest deduction should transfer to her. The fact that the HELOC is joint is not relevant. You have taken the position up until now that you borrowed money to invest, so the interest now is deductible by you regardless of the name on the HELOC. Tax ownership and legal ownership are often different. Once you transfer the investments to her, the interest deduction transfers to her as well (even though the investment income is taxable to you based on the attribution rules). In short, your wife would claim most of the interest deduction, but most of the investment income would be taxed to you.
+
+See what I mean about the answers to your questions not being the real issue, Tom?
+
+I don’t know your full situation, so I can’t give you advice here. However, the way I would handle this is:
+
+1. Leave the investments taxed to you. Don’t transfer them to your wife. My clients generally have tax deductions larger than the taxable investment income most years, so the Smith Manoeuvre usually gives them a tax refunds. This usually applies even after they have been doing it for years, and even after they retire and start taking cash flow from their investments.
+2. Forget dividend investing. Focus on total long-term returns. Then try to minimize taxable income to the extent you can without affecting your returns. The lowest-taxed invesment income is deferred capital gains (https://edrempel.com/lowest-taxed-type-investment-income-6-ways-invest-deferred-capital-gains/ ).
+3. If you really want to transfer the investments to your wife, sell them all, pay off the HELOC, and then have your wife borrow from scratch to invest. Wait 30 days if some of the investments are down to avoid the superficial loss rules.
+
+I hope that is helpful for you, Tom.
+
+Ed
+
+```
 
 ## Buying a House Process
 
@@ -206,13 +207,14 @@ Read more about the Smith Manoeuvre here:
 - Choose a house
 - Submit an offer. Offers use the same standard contract of the provincial realtor organization. In hotter seller markets, the buyer's offer will be most competitive if financing, house inspection, and all other conditions are waived. Touring the house with a friend who is a building inspector can help limit downside risk though it won't be as thorough as if it was an official inspection. If you waive financing condition and you can't get financing (ie. mortgage), you will be sued by the seller for the difference in price if they have to sell it lower and for damages from not respecting the offer contract originally agreed to.
 - Submit the signed offer letter, MLS listing, and personal finance documents to a mortgage broker or rate aggregator to get a firm mortgage lined up. The funds change hands at closing date so you will need to have your mortgage secured and ready for that date. You will need to have your downpayment before close so the mortgage can certify that you have the necessary funds.
-  - Ways to botch securing your mortgage is signing up for new credit cards or drawing on existing lines of credit, switching jobs, or not having your downpayment sitting in your bank account for 90 days prior to house purchase (exception if your downpayment is from a family gift) in the period between house purchase and closing.
+- Ways to botch securing your mortgage is signing up for new credit cards or drawing on existing lines of credit, switching jobs, or not having your downpayment sitting in your bank account for 90 days prior to house purchase (exception if your downpayment is from a family gift) in the period between house purchase and closing.
 - Get a Real Estate Lawyer who will orchestrate the closing including Title deed lookup and insurance, land transfer tax calculation, and final key exchange with the seller.
 
-  - Thorough description of the role of real estate lawyer in both buy and sell cases from [Remax](https://blog.remax.ca/role-real-estate-lawyer-home-buyers/)
+- Thorough description of the role of real estate lawyer in both buy and sell cases from [Remax](https://blog.remax.ca/role-real-estate-lawyer-home-buyers/)
 
-  ```
-  Role of a real estate lawyer as a buyer
+```
+
+Role of a real estate lawyer as a buyer
 
     Review the Agreement of Purchase and all other legal documents
     Ensure there are no claims listed against the property
@@ -224,7 +226,7 @@ Read more about the Smith Manoeuvre here:
     Close the transaction and ensure all legal and financial conditions are met
     Exchange legal documents and keys with the seller’s lawyer
 
-  Role of a real estate lawyer as a seller
+Role of a real estate lawyer as a seller
 
     Review the Agreement of Sale and other legal documents before you sign
     Assist you with the negotiation of the terms and conditions
@@ -233,7 +235,8 @@ Read more about the Smith Manoeuvre here:
     Close the transaction
     Ensure all legal and financial conditions have been met
     Exchange legal documents and keys with the Buyer’s lawyer
-  ```
+
+```
 
 ## Making the Offer
 
@@ -242,3 +245,4 @@ Read more about the Smith Manoeuvre here:
 ## Referrals
 
 - [Galleon CPA](https://galleoncpa.ca/pages/canadian-real-estate-tax), [Reviews](https://www.google.com/search?q=galleon+cpa&oq=galleon+cpa&aqs=chrome..69i57j46i175i199j69i60l3.2586j0j7&sourceid=chrome&ie=UTF-8#lrd=0x882b2932d0a23a33:0x7f11824cdd69da48,1,,)
+```

@@ -6,7 +6,7 @@ tags:
   - Me
 ---
 
-Daniel Kahneman outlines in "Thinking, Fast and Slow" the mental model we should have of thinking having two systems. System 1 is fast and by heuristics. System 2 is slow and from first principles. 
+Daniel Kahneman outlines in "Thinking, Fast and Slow" the mental model we should have of thinking having two systems. System 1 is fast and by heuristics. System 2 is slow and from first principles.
 
 By default, we always revert to System 1 if we have any heuristic that can apply to a given situation. It is faster and still transfers us from the sensation of unknown to that of feeling that we understand a given situation or stimuli.
 
@@ -18,7 +18,7 @@ In countless examples in "Thinking, Fast and Slow", System 1 can be easily foole
 
 And so it is not with any condemnation that I bring the cost intellectual laziness, as given the context above, the use of System 1 is by definition the more efficient, or lazy, path that we inherently rely on to live life.
 
-In evaluating what some would term conspiracy theories, a lack of complete knowledge or ability to empirically verify a claim can make belief or disbelief a faster conclusion to land on with System 1 guiding the plane to the ground. 
+In evaluating what some would term conspiracy theories, a lack of complete knowledge or ability to empirically verify a claim can make belief or disbelief a faster conclusion to land on with System 1 guiding the plane to the ground.
 
 Depending on your current heuristics of how society works, whether those in power can be trusted, or the possibility of non-formally planned conspiracies to none the less play out at such based on misaligned incentives in all the right places, a conspiracy theory can sound plausible or implausible regardless of the truth of the claim.
 
@@ -34,7 +34,7 @@ On analysis of vaccines, the heuristic of skepticism of the interests of drug co
 
 On efficacy, many propagandistic claims routinely oversold vaccines as being effective at eliminating transmission, cases, hospitalizations, and deaths. In practice, vaccines appear to be primarily effective at reducing deaths with some reduction to symptoms and hospitalization rates, and further no (and in some cases potentially negative) reduction to cases or transmission. Continued data from Israel, UK, and Iceland all show increasing case numbers but reduced hospitalizations and deaths in contrast to previous COVID waves. The efficacy could very well ware off over time or against new variants, as would be expected with such a gene therapy, but complete failure to reduce death and hospitalizations remains to be seen.
 
-On safety, the perceived willfull blindness of regulators and media to concerns of side effects, long term feasibility of repeated boosters, insufficiently long trials, raises doubts. Yet, given the extremely high number of doses administered, and even taking into account under-reporting bias, there don't seem to be immediately identifiable high probability severe side effects. 
+On safety, the perceived willfull blindness of regulators and media to concerns of side effects, long term feasibility of repeated boosters, insufficiently long trials, raises doubts. Yet, given the extremely high number of doses administered, and even taking into account under-reporting bias, there don't seem to be immediately identifiable high probability severe side effects.
 
 As similarly non-causal as many reported COVID deaths are since people die and some die with a positive COVID test but from other conditions like gunshot wounds or cancer, deaths reported after vaccine can be from any number of non-vaccine factors. VAERS allows reading individual reports, Health Canada and other reporting agencies do not. A clear understanding of causality would require these tends and hundreds of thousands of cases to be investigated and analyzed. Were there a serious side effect that was wide spread, at this point it is hard to believe that it would not have emerged and been reported on organically even if there was suppression and averted eyes at regulators and drug companies. It already happened for 2 of the 4 approved Western vaccines, Johnson & Johnson and Astra-Zeneca vaccines both being paused or rollouts cancelled in various jurisdictions following more frequent reports of blood clots and other conditions.
 
@@ -53,6 +53,3 @@ Thus, assuming a low trust relationship with media and drug companies, I'm left 
 Though I still can't rule out the possibility the vaccine is toxic long term, there's no long term data to to assess, the short term data doesn't raise significant red flags, the efficacy in reduced death and hospitalization in the short term at least seems consistent across countries, and frankly the coerced benefits of being vaccinated with regards to travel and social dynamics are enticing.
 
 I still strongly disagree with much of the public health policy and social coercion that has become standard world wide since COVID-19 started spreading. That only 3 people in my life were willing to hear me out, and one (my wife) take the time and effort to encourage and evaluate claims from first principles to see if they held water, is disheartening. Other than one grandparent who consistently reached out to try and discuss benefits of the vaccine with me, all other family and friends shunned me as a leper.
-
-
-

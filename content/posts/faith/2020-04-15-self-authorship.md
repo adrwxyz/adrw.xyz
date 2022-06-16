@@ -20,4 +20,4 @@ Get the program for yourself at [selfauthoring.com](https://www.selfauthoring.co
 
 Try the assesement for yourself at [understandmyself.com](https://www.understandmyself.com/).
 
-Alternatively, the [Big Five Personality Test from Open-Source Psychometrics Project](<https://openpsychometrics.org/>) is free and the results were very similar to the Understand Myself assessment.
+Alternatively, the [Big Five Personality Test from Open-Source Psychometrics Project](https://openpsychometrics.org/) is free and the results were very similar to the Understand Myself assessment.

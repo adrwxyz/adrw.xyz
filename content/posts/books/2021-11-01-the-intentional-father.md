@@ -10,6 +10,7 @@ tags:
 **2021 | Jon Tyson**
 
 ## Rules for Manhood
+
 Taught to his son in 3rd grade.
 
 1. Life is hard (boys want things to be easy, men embrace difficulty)
@@ -34,8 +35,8 @@ In every situation, have the kids participate. Go get more sauce at Chick-fil-a,
 
 "I'm gonna make it", say that to yourself. Excitement, disillusionment, adjustment, health is the process for every new challenge. Don't be surprised when you hit challenges, say "I'm gonna make it".
 
-
 ## Stages of Formation
+
 Common stages to formation in all cultures except the West of forming and initiating teens into the culture.
 
 If as a man you haven't been through the full stages below, level up yourself.
