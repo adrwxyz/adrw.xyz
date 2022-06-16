@@ -11,7 +11,7 @@
     "clean": "gatsby clean",
     "lint": "prettier --write --config package.json \"./{content,pages,src}/**/*.{md,mdx,css,sass,less,json,js,jsx,ts,tsx}\"",
     "page:pre": "git remote add page https://adrw.xyz/_git/page",
-    "page:publish": "git checkout gh-pages && git pull && git push page gh-pages -f && git checkout master"
+    "page:publish": "git checkout gh-pages && git pull && echo 'Publishing...' && git push page gh-pages -f && echo 'Done' && git checkout master"
   },
   "dependencies": {
     "@lekoarts/gatsby-theme-minimal-blog": "4.1.7",
