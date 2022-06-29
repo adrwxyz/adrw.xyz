@@ -16,6 +16,7 @@ A collection of helpful blog posts, articles, and podcasts as it relates to prog
 - [How Stripe Built a Writing Culture](https://slab.com/blog/stripe-writing-culture/)
 - [Delay Giving Job Titles](https://medium.com/@gokulrajaram/the-one-thing-ceos-should-delay-as-long-as-possible-ea28347714b0)
 - [No Hello](https://nohello.net/en/): faster slack communication by sending complete first messages instead of distinct "hello" introductary messages
+- [Slime Mold](https://komoroske.com/slime-mold/): Bottom up organizations are analogous to slime mold and iterative decoupling to maintain smaller autonomous team loosely convering towards the same north star is necessary than attempting to have a big, bottoms-up org function effectively
 
 ## Career Growth
 
