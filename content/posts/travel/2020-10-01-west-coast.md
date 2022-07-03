@@ -1,5 +1,5 @@
 ---
-title: West Coast
+title: Potential West Coast Itinerary
 date: 2020-10-01T15:32:11.733Z
 slug: travel/2020-10-01-west-coast
 tags:
