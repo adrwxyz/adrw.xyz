@@ -7,7 +7,7 @@ tags:
   - Author(Paul Kalanithi)
 ---
 
-**Paul Kalanithi**
+**2015 | Paul Kalanithi**
 
 Recommended by a friend who recently awoke again after their soul crushing sentence of 18 months in boutique investment banking, Kalanithi's book was a fitting one for my friend, and for me.
 
