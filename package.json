@@ -17,7 +17,6 @@
     "@lekoarts/gatsby-theme-minimal-blog": "4.1.7",
     "@mkitio/gatsby-theme-password-protect": "2.1.2",
     "gatsby": "4.16.0",
-    "gatsby-plugin-ackee-tracker": "3.2.4",
     "gatsby-plugin-manifest": "4.16.0",
     "gatsby-plugin-matomo": "0.13.0",
     "gatsby-plugin-netlify": "5.0.0",
