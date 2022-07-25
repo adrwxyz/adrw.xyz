@@ -23,11 +23,13 @@ A collection of helpful blog posts, articles, and podcasts as it relates to prog
 - [StaffEng Archetypes](https://staffeng.com/guides/staff-archetypes)
 - [Engineering Manager Archetypes](https://www.patkua.com/blog/5-engineering-manager-archetypes/)
 - [Maker's Schedule, Manager's Schedule](http://www.paulgraham.com/makersschedule.html)
+- [10x (engineer, context) pairs](https://www.benkuhn.net/10x/)
 
 ## Coding Velocity
 
 - [danluu/product-velocity](https://danluu.com/productivity-velocity/)
 - [Is High Quality Software Worth the Cost?](https://martinfowler.com/articles/is-quality-worth-cost.html)
+- [Library Writing Realizations](https://cbloomrants.blogspot.com/2015/09/library-writing-realizations.html)
 
 ## 1 on 1s
 
