@@ -12,7 +12,7 @@
     "lint": "prettier --write --config package.json \"./{content,pages,src}/**/*.{md,mdx,css,sass,less,json,js,jsx,ts,tsx}\"",
     "page:pre": "git remote add page https://adrw.xyz/_git/page",
     "page:publish": "git checkout gh-pages && git pull && echo 'Publishing Start...' && git push page gh-pages -f && echo 'Publishing Done!' && git checkout master"
-  },
+  }, 
   "dependencies": {
     "@lekoarts/gatsby-theme-minimal-blog": "4.1.7",
     "@mkitio/gatsby-theme-password-protect": "2.1.2",
