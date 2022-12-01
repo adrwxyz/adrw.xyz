@@ -1,6 +1,6 @@
 ---
 title: "The Century of the Self"
-date: 2022-07-19 00:00:00
+date: 2022-08-30 00:00:00
 slug: books/the-abolition-of-man
 tags:
   - Books
