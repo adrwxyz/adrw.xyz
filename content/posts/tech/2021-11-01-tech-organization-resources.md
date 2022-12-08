@@ -46,6 +46,7 @@ A collection of helpful blog posts, articles, and podcasts as it relates to prog
 - [The Hustle](https://youtu.be/_o7qjN3KF8U)
 - [Senior Engineer](https://youtu.be/eSqexFg74F8)
 - [If American Psycho were about Programmers](https://youtu.be/uHt01D6rOLI)
+- [Designing an Authentication System: a Dialogue in Four Scenes](https://web.mit.edu/kerberos/dialogue.html)
 
 ## Technical Opinions
 
