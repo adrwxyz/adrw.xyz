@@ -1,0 +1,50 @@
+---
+title: "Choose the Right Level of Abstraction"
+date: 2022-12-20 00:00:00
+slug: tech/choose-the-right-level-of-abstraction
+tags:
+  - Tech
+---
+
+Software engineering done well is the art of abstraction.
+
+Well designed abstractions provide for higher level manipulation of state, processes, business logic...etc without worrying about the more complicated implementation details.
+
+Unfortunately, [abstractions can be leaky](https://www.joelonsoftware.com/2002/11/11/the-law-of-leaky-abstractions/),
+
+Here are a few recent examples I've encountered where choosing the right level of abstraction can make all the difference.
+
+## Bash or Java?
+
+A long-running Kotlin service encounters system resource constraints. To solve this, hourly it must use a CLI to choose a new VPN server and force quit an application.
+
+Bash or Java?
+
+Initially, I tried with Kotlin and floundered around with ProcessRunners and other class abstractions of a Bash or CLI environment.
+
+Even basic tasks like storing the stdout from a command were painful.
+
+I soon realized the value of a much better abstraction for this task: cron jobs!
+
+A very short bash script and crontab later, and my job was done.
+
+Every hour on the hour, new VPN servers were selected and applications were violently killed without mercy.
+
+For a basic regular task that already relied on CLI tools, a JVM language was frought with unnessary complexity.
+
+## Go or Kotlin?
+
+An ongoing debate, or at this point rather religious crusade, at work is the usage of Go or Kotlin for microservices.
+
+Again, the correct level of abstraction rears its head.
+
+While Go offers excellent parallelism, simplicitt
+
+
+## Lean into CI
+
+...
+
+
+
+
