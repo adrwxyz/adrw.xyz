@@ -1,0 +1,61 @@
+---
+title: "Synology Docker Woes"
+date: 2022-12-20 00:00:00
+slug: tech/synology-docker-woes
+tags:
+  - Tech
+---
+
+Synology builds some of the most approachable servers for novices. With Apple-aspirational integrated hardware and software, Synology servers are easy to use for most basic IT needs (backup, file storage, media storage, surveillance).
+
+Yet, you will find complaints abound online about how their approach to integrated software building their OS (Synology DSM – Disk Station Manager) on an old fork of Debian, often limits what developers or tinkerers alike can do. For example, installing any software that would be easy with vanilla Ubuntu or Debian often doesn't work with Synology.
+
+Or, it will appear to work and then turn out to be a handicapped version, like Synology's Docker package.
+
+With no forewarning on the site or in the OS app store, Package Manager, it turns out that in practice Synology's Docker version not only is often very out of date but has serious limitations that limit many use cases.
+
+## Swarm
+
+Docker Swarm is a more lightweight automated container management tool, similar to Kubernetes.
+
+Synology Docker flat out does not support it with obtuse failure modes like environment variables not being passed into containers created by Docker Swarm. Only after days of debugging did I find a [forum post](https://community.synology.com/enu/forum/1/post/131600?page=3&sort=oldest) which helpfully explained that Synology's Docker is a custom fork which doesn't include a working implementation of Swarm.
+
+I tried one of the [linked solutions](https://kristoferlundgren.medium.com/synology-run-the-latest-docker-daemon-without-patching-dsm6-x-7bb4834d87bc) to run Docker-in-Docker, literally running a vanilla Docker instance within a container on the handicapped Synology Docker version. For a few weeks this worked fairly well, though Docker image builds were quite slow.
+
+## Elasticsearch
+
+While trying to start an Elasticsearch cluster, I soon encounterd persistent boot errors in Elastic from missing `seccomp` support. After research, I learned it is a configurable syscall filter added into the Linux kernel which recent Elastic versions now require to enforce security standards.
+
+It turns out my 2017 Synology server was on an older Linux kernel version which didn't include this support.
+
+Not to worry, I'm sure I could just update the OS?
+
+Nope, Synology locks any device into the Linux kernel that is available when the device is being developed, with no way to upgrade it afterwards. So my server, which still is more than powerful enough for current needs, is stuck with an old Linux kernel and thus I can't run an Elastic cluster using Synology Docker.
+
+## Build
+
+I also encounterd a persistent failure to install curl as part of a Docker image build using Docker-in-Docker. To fix this, it looked like a simple tweak to the `dockerd.json` config to add DNS and iptables support to address the failures in resolving some Debian dependency servers.
+
+I edited the JSON file, ran `killall dockerd` as before to restart the Docker daemon to pickup the changes, but this time Docker didn't start at all.
+
+I reverted the changes, `killall dockerd`, and again Docker didn't boot.
+
+Full restart of the server, Docker didn't boot.
+
+Synology's Package Manager now could see that something was up and offered to "Repair" the package. Multiple times and Docker still didn't boot.
+
+I uninstalled and reinstalled the Docker package, Docker didn't boot.
+
+I finally did the long avoided step of doing a hard uninstall which includes Synology removing all existing Docker images, containers, volumes, and the Docker shared folder on disk. I combed through `/var/packages/Docker`, `/etc/`, `/var/run/Docker*` and deleted any Docker remnant I could find.
+
+On install, Docker finally started up.
+
+## Docker in VM
+
+I've begrudgingly come to terms with the validity of many complaints about Synology servers. Outside of basic IT needs, the software and hidden handicapped forks littered throughout are a frustrating minefield to run software on.
+
+While it probably will use a bit more overhead in resources, I've resorted to running all but the most basic Docker containers in Ubuntu VMs using Synology Virtual Machine Manager. The repeated hurdle after hurdle to get a fairly basic Docker Swarm and Elastic cluster setup over the past 8 weeks has been exhausting. Doubly frustrating is that none of these limitations are openly stated anywhere by Synology that I could find making each investigation a slog through forums and Github gists to find an explanation or fix.
+
+## tl;dr
+
+Don't use your Synology as a devbox, stick to Ubuntu VMs. Only rely on Synology for basic IT needs (backup, file storage, media storage, surveillance).
