@@ -16,11 +16,13 @@ Recent reads without posts
 - SPQR: history of rome
 - Atomic habits (copy out the cheet sheet for easy access)
 - 7 habits of highly effective people
-- Take back your Family
+- Take back your Family, Jeff Bethke
 - Live No Lies (copy the section summaries for easy access)
 - Holier Than Thou, Jackie Hill Perry
 - The Anarchist Handbook, Michael Malice
+- Foxe's Book of Martyrs, John Foxe
 - Bonhoffer, Eric Metaxas. Heart melting view into the academic, righteous, dynamic home life that birthed one of Germany’s most profound modern theologians, murdered for his role in a conspiracy to kill Hitler. The childhood home full of music, outdoor exploration, home school and home church, remind me in many ways of the spirit of a close friend who is Dutch and the bright, curious, academic, righteous spirit he brings to life.
+- When Christmas Comes, Andrew Klavan
 
 # 2022
 
@@ -29,6 +31,14 @@ Recent reads without posts
 - Atlas Shrugged, Ayn Rand
 - Brothers Kazmarazov, Fyodr Dostoyevsky
 - The Anarchist Handbook, Michael Malice
+- The Truth and Beauty: How the lives and works of England's greatest poets point the way to a deeper understanding of..., Andrew Klavan
+- George MacDonald, C.S. Lewis
+- Church: why bother?, Philip Yancey
+- Wanting: The power of mimetic desire in everyday life, Luke Burgis
+- The Sovereignty of God, Arthur W. Pink
+- 5 Day Weekend
+
+# 2023
 
 Books that I've marked as "Finished" on my Kobo since 2013.
 
