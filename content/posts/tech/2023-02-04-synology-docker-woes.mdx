@@ -1,6 +1,6 @@
 ---
 title: "Synology Docker Woes"
-date: 2022-12-20 00:00:00
+date: 2023-02-04 00:00:00
 slug: tech/synology-docker-woes
 tags:
   - Tech
@@ -24,7 +24,7 @@ I tried one of the [linked solutions](https://kristoferlundgren.medium.com/synol
 
 ## Elasticsearch
 
-While trying to start an Elasticsearch cluster, I soon encounterd persistent boot errors in Elastic from missing `seccomp` support. After research, I learned it is a configurable syscall filter added into the Linux kernel which recent Elastic versions now require to enforce security standards.
+While trying to start an Elasticsearch cluster, I soon encounterd persistent boot errors in Elastic from missing [seccomp](https://docs.docker.com/engine/security/seccomp/) support. After research, I learned it is a configurable syscall filter added into the Linux kernel which recent [Elastic versions now require](https://www.elastic.co/blog/seccomp-in-the-elastic-stack) to enforce security standards.
 
 It turns out my 2017 Synology server was on an older Linux kernel version which didn't include this support.
 
