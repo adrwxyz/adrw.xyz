@@ -34,7 +34,7 @@ Nope, Synology locks any device into the Linux kernel that is available when the
 
 ## Build
 
-I also encounterd a persistent failure to install curl as part of a Docker image build using Docker-in-Docker. To fix this, it looked like a simple tweak to the `dockerd.json` config to add DNS and iptables support to address the failures in resolving some Debian dependency servers.
+I also encounterd a persistent failure to install `curl` as part of a Docker image build using Docker-in-Docker. To fix this, it looked like a simple tweak to the `dockerd.json` config to add DNS and iptables support to address the failures in resolving some Debian dependency servers.
 
 I edited the JSON file, ran `killall dockerd` as before to restart the Docker daemon to pickup the changes, but this time Docker didn't start at all.
 
