@@ -1,0 +1,57 @@
+---
+title: "Sharing S3 Buckets to Achieve SLAs"
+date: 2023-02-14 00:00:00
+slug: tech/s3-bucket-sharing-sla
+tags:
+  - Tech
+---
+
+S3 style object storage best practices would generally steer any software design doc away from sharing S3 buckets between microservices.
+
+Keeping buckets for single-service use simplifies access, read/write locking, schema migration, and many other issues.
+
+Yet, consider this case.
+
+## Case Study: Lettuce Weather
+
+Consider an app Lettuce Weather. It has mobile apps. It also has a microservice backend architecture.
+
+To collect data to do forecasting, it has many crawler microservices which run constantly polling government and other weather data sources.
+
+The crawler services then send any new data of varying size (small 1kb JSON up to large radar files or 30mb images) to the main backend service: Weatherly[^1].
+
+Weatherly accepts streams of data from the crawlers, then dumps them to S3 for later post-processing.
+
+Weatherly has a background task which regularly handles the new data added to the S3 bucket, and precomputes new temperatures and forecasts into a database. 
+
+To serve data to the mobile clients, Weatherly can do a quick lookup in database (or even Redis) since the longer computational work from the raw data in S3 has already been done.
+
+The mobile clients then cache forecasts locally so if Weatherly is down when the app is opened, the user still sees the most recent forecast while magically in the background newer ones are requested.
+
+## Poor Service SLAs
+
+What if Weatherly has poor SLAs? 
+
+For example, say Weatherly is undergoing rapid development to support a new radar feature and frequent deploys (even occasional runtime failures) are causing material downtime.
+
+In the existing architecture, crawlers will start falling behind as they encounter failed requests trying to send the data to Weatherly which returns a 503 because it is down or the proxy router returns a 500 because the service isn't even online.
+
+When Weatherly comes back online, it may even be DOS'd (denial of service) by internal crawler services trying to send queued crawled data. Or if data wasn't queued since it waits on per-batch configuration from Weatherly, then potentially the crawlers have fallen behind and will have delayed data.
+
+While obviously the "correct" fix is to improve Weatherly SLAs with deploy and development process improvements, a shared S3 bucket provides an alternative path. 
+
+## Shared S3 Bucket Fixes SLAs
+
+Consider a change to the above architecture where instead of crawler services sending data to Weatherly by RPC directly, they dump any crawled data into a shared S3 bucket.
+
+Then, when Weatherly is back online, it checks the shared S3 bucket for new data and does the regular post-processing.
+
+This fixes the previous architecture failure where the SLA of Weatherly ripples downstream to also decimate the SLA of the crawler services and data freshness.
+
+Notably, this assumes your S3 infrastructure has an excellent SLA. Generally, this is a safe assumption as even a self-hosted [Minio](https://min.io) cluster doesn't require frequent deploys and in my experience has yet to require downtime.
+
+## tl;dr
+
+Consider intentional shared S3 buckets to prevent poor SLA in one service causing poor SLAs for your entire architecture.
+
+[^1]: Thankfully, this is only an example service name, an entire cloud of microservices named with `-ly` suffixes is insufferable. 
