@@ -17,6 +17,8 @@ A collection of helpful blog posts, articles, and podcasts as it relates to prog
 - [Delay Giving Job Titles](https://medium.com/@gokulrajaram/the-one-thing-ceos-should-delay-as-long-as-possible-ea28347714b0)
 - [No Hello](https://nohello.net/en/): faster slack communication by sending complete first messages instead of distinct "hello" introductary messages
 - [Slime Mold](https://komoroske.com/slime-mold/): Bottom up organizations are analogous to slime mold and iterative decoupling to maintain smaller autonomous team loosely convering towards the same north star is necessary than attempting to have a big, bottoms-up org function effectively
+- [The Maze in the Mouse](https://medium.com/@pravse/the-maze-is-in-the-mouse-980c57cfd61a): 2023 view on the failures of Google culture and organization to ship
+- [Why Did I Leave Google, or Stay So Long](https://www.linkedin.com/pulse/why-did-i-leave-google-stay-so-long-noam-bardin/): 2021 view on the impossible to overcome challenges of building within a bureaucracy after a startup acquisition
 
 ## Career Growth
 
