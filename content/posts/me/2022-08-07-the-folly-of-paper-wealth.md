@@ -15,5 +15,3 @@ The self-rightousness and way of carrying myself lasted well over a year after t
 I was under illusions as the stock went up that a large amount of luck combined with prudent savings could be enough to become wealthy and not have to worry about money any more. I just had to 10x my money a few times and I'd be there.
 
 I'm now left with the prospect that instead of a large nest egg to self-insure against illness, injury, or job loss, I'm much more within band of friends and family I thought I had financially left behind.
-
-

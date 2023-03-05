@@ -70,14 +70,6 @@ module.exports = {
         partialMatching: true
       }
     },
-    {
-      resolve: "gatsby-plugin-matomo",
-      options: {
-        siteId: "1",
-        matomoUrl: "https://matomo.adrw.xyz",
-        siteUrl: "https://adrw.xyz"
-      }
-    },
     `gatsby-plugin-sitemap`,
     {
       resolve: `gatsby-plugin-manifest`,
@@ -103,7 +95,6 @@ module.exports = {
         ]
       }
     },
-    `gatsby-plugin-offline`,
-    `gatsby-plugin-netlify`
+    `gatsby-plugin-offline`
   ]
 }

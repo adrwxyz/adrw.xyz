@@ -12,16 +12,14 @@
     "lint": "prettier --write --config package.json \"./{content,pages,src}/**/*.{md,mdx,css,sass,less,json,js,jsx,ts,tsx}\"",
     "page:pre": "git remote add page https://adrw.xyz/_git/page",
     "page:publish": "git checkout gh-pages && git pull && echo 'Publishing Start...' && git push page gh-pages -f && echo 'Publishing Done!' && git checkout master"
-  }, 
+  },
   "dependencies": {
-    "@lekoarts/gatsby-theme-minimal-blog": "4.1.7",
+    "@lekoarts/gatsby-theme-minimal-blog": "6.1.0",
     "@mkitio/gatsby-theme-password-protect": "2.1.2",
-    "gatsby": "4.16.0",
-    "gatsby-plugin-manifest": "4.16.0",
-    "gatsby-plugin-matomo": "0.13.0",
-    "gatsby-plugin-netlify": "5.0.0",
-    "gatsby-plugin-offline": "5.16.0",
-    "gatsby-plugin-sitemap": "5.16.0",
+    "gatsby": "5.7.0",
+    "gatsby-plugin-manifest": "5.7.0",
+    "gatsby-plugin-offline": "6.7.0",
+    "gatsby-plugin-sitemap": "6.7.0",
     "react": "18.2.0",
     "react-dom": "18.2.0"
   },
