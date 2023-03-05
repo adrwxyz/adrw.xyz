@@ -22,7 +22,7 @@ The crawler services then send any new data of varying size (small 1kb JSON up t
 
 Weatherly accepts streams of data from the crawlers, then dumps them to S3 for later post-processing.
 
-Weatherly has a background task which regularly handles the new data added to the S3 bucket, and precomputes new temperatures and forecasts into a database. 
+Weatherly has a background task which regularly handles the new data added to the S3 bucket, and precomputes new temperatures and forecasts into a database.
 
 To serve data to the mobile clients, Weatherly can do a quick lookup in database (or even Redis) since the longer computational work from the raw data in S3 has already been done.
 
@@ -30,7 +30,7 @@ The mobile clients then cache forecasts locally so if Weatherly is down when the
 
 ## Poor Service SLAs
 
-What if Weatherly has poor SLAs? 
+What if Weatherly has poor SLAs?
 
 For example, say Weatherly is undergoing rapid development to support a new radar feature and frequent deploys (even occasional runtime failures) are causing material downtime.
 
@@ -38,7 +38,7 @@ In the existing architecture, crawlers will start falling behind as they encount
 
 When Weatherly comes back online, it may even be DOS'd (denial of service) by internal crawler services trying to send queued crawled data. Or if data wasn't queued since it waits on per-batch configuration from Weatherly, then potentially the crawlers have fallen behind and will have delayed data.
 
-While obviously the "correct" fix is to improve Weatherly SLAs with deploy and development process improvements, a shared S3 bucket provides an alternative path. 
+While obviously the "correct" fix is to improve Weatherly SLAs with deploy and development process improvements, a shared S3 bucket provides an alternative path.
 
 ## Shared S3 Bucket Fixes SLAs
 
@@ -54,4 +54,4 @@ Notably, this assumes your S3 infrastructure has an excellent SLA. Generally, th
 
 Consider intentional shared S3 buckets to prevent poor SLA in one service causing poor SLAs for your entire architecture.
 
-[^1]: Thankfully, this is only an example service name, an entire cloud of microservices named with `-ly` suffixes is insufferable. 
+[^1]: Thankfully, this is only an example service name, an entire cloud of microservices named with `-ly` suffixes is insufferable.

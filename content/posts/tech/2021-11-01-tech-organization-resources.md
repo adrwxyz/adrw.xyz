@@ -71,4 +71,5 @@ A collection of helpful blog posts, articles, and podcasts as it relates to prog
 - [Telepresence](https://www.telepresence.io/)
 
 ## Quotes
+
 - "Less code is better code, therfore no code is the best code" – Wil Shipley

@@ -247,7 +247,7 @@ Free marketing course
 - Bounce rate affect? - Quite a bit, user metrics in general - If people bounce off the first page, they likely didn't find what they want
 - Fresh or expired domain? - Expired only helps if they have backlinks but usually no diff
 - Has set of $99-199 online courses, how to traction?
-	- udemy... $3-5k/month
+  - udemy... $3-5k/month
 - How many months too many? - Never too many high quality, relevant back links - Link out as many as makes sense, not more than 100-200/page
 - Should use PBN for ranking? - No, when they get caught you're penalized
 - Any business too diff to build seo for? - Anything high cost per click - Drug rehab, car insurance...

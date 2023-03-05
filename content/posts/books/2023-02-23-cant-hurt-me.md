@@ -1,6 +1,6 @@
 ---
 title: "Can't Hurt Me"
-date: 2022-08-30 00:00:00
+date: 2023-02-23 00:00:00
 slug: books/cant-hurt-me
 tags:
   - Books
@@ -22,4 +22,3 @@ The book is a striking monument to the fact that what is standing between me and
 David also provided insight into the effects on a child of exposure to physical beating and domestic violence on their psyche and how they age into adulthood, many demons he was running from or wrestling with until well into his 40s.
 
 This book ranks highly and I'd recommend it if you're looking to be pushed mentally towards a new perspective on what is possible for your life and what you're capable of.
-
