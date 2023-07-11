@@ -19,6 +19,7 @@ A collection of helpful blog posts, articles, and podcasts as it relates to prog
 - [Slime Mold](https://komoroske.com/slime-mold/): Bottom up organizations are analogous to slime mold and iterative decoupling to maintain smaller autonomous team loosely convering towards the same north star is necessary than attempting to have a big, bottoms-up org function effectively
 - [The Maze in the Mouse](https://medium.com/@pravse/the-maze-is-in-the-mouse-980c57cfd61a): 2023 view on the failures of Google culture and organization to ship
 - [Why Did I Leave Google, or Stay So Long](https://www.linkedin.com/pulse/why-did-i-leave-google-stay-so-long-noam-bardin/): 2021 view on the impossible to overcome challenges of building within a bureaucracy after a startup acquisition
+- [Internal Communications Leaked in Subpoenas](https://www.jwz.org/gruntle/rbarip.html)
 
 ## Career Growth
 
