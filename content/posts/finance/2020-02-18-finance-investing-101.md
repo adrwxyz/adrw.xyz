@@ -38,6 +38,8 @@ For a specific deep dive on the question of home ownership, see [Buying a House?
   - [Read here](https://cloud.alexanders.xyz/s/26MA6P2amrSJAAw)
   - Haven't read the full book (fairly academic) but the introduction and first few chapters document succinctly how the commonly spouted assumption that markets (specifically the stock market) are efficient (priced correctly) is verifiably wrong, and how markets are influenced by investor emotions and many other factors.
   - This realization and thus removing the commong "Efficient Market Hypothesis" assumption, ends up changing and inverting the assumed risk of many investing strategies (some low risk strategies are actually high risk, some high risk are not as high as we think), and explaining why smaller companies with higher information assymetry can be great opportunities given the new allowance that they are not priced efficiently.
+- [DIY Investor vs Advisor](https://www.looniedoctor.ca/diy-invest-vs-advisor/): compares cost and outcomes of DIY vs advisor, website has many other insights from a Canadian Doctor turned DIY corporation and investing manager
+
 
 ## Videos
 
