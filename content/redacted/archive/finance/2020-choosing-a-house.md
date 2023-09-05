@@ -19,19 +19,19 @@ A working document for landing on criteria to choose a house.
 
 - City: Psreferred Kitchener because of looser bylaws, fire pits, easier building permits. Waterloo is fine too.
 - Neighbourhood: Walking appeal, non-sketchy, kid-friendly, not near high rise / community housing, no street noise, low traffic, walking to grocery store
-  _ Mary Allen
-  _ Union/Belmont
-  _ Moore/Cemetary
-  _ Union/Park/Glasgow/Belmont beneath GRH
-  _ Albert/King/Central/Bridgeport historic block
-  _ Lincoln Heights near 227 Carter
+  - Mary Allen
+  - Union/Belmont
+  - Moore/Cemetary
+  - Union/Park/Glasgow/Belmont beneath GRH
+  - Albert/King/Central/Bridgeport historic block
+  - Lincoln Heights near 227 Carter
 - Rooms: 3+ bedroom (or room for addition)
 - Rental / Mortgage Helper: No, don't want to be a landlord. Rental units also generally worse condition than owner occupied.
 - Age: Prefer built before 1964 for more traditional, easily maintainable building techniques
 - Lot: some backyard (100-130ft+ lot depth esp if addition needed), not corner lot
 - Good structure: Poured concrete or block foundation, minimal renovations done
-  _ Acceptable problems: UFFI, asbestos insulation
-  _ Unacceptable problems: active knob and tube, water damage, weak foundation, smoke damages
+  - Acceptable problems: UFFI, asbestos insulation
+  - Unacceptable problems: active knob and tube, water damage, weak foundation, smoke damages
 - Finishing: Minimal renovations done, don't want to pay for someone else's hack jobs
 - Proximity to Family: <10 mins drive to family, ideally <40 mins transit to UW
 - Budget: <800k

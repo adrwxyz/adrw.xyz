@@ -17,6 +17,7 @@
     "@lekoarts/gatsby-theme-minimal-blog": "6.1.0",
     "@mkitio/gatsby-theme-password-protect": "2.1.2",
     "gatsby": "5.7.0",
+    "gatsby-plugin-google-gtag": "5.12.0",
     "gatsby-plugin-manifest": "5.7.0",
     "gatsby-plugin-offline": "6.7.0",
     "gatsby-plugin-sitemap": "6.7.0",
