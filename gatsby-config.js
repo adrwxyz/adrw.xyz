@@ -26,9 +26,13 @@ module.exports = {
         // Links displayed in the header on the right side
         externalLinks: [
           {
-            name: `Kitchen Alexander`,
-            url: `https://kitchen.alxdr.ca`
-          }
+            name: `LinkedIn`,
+            url: `https://linkedin.com/in/adrw`
+          },
+          {
+            name: `Github`,
+            url: `https://github.com/adrw`
+          },
         ],
         // Navigation links
         navigation: [
