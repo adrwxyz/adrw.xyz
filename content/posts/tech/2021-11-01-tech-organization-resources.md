@@ -27,6 +27,7 @@ A collection of helpful blog posts, articles, and podcasts as it relates to prog
 - [Engineering Manager Archetypes](https://www.patkua.com/blog/5-engineering-manager-archetypes/)
 - [Maker's Schedule, Manager's Schedule](http://www.paulgraham.com/makersschedule.html)
 - [10x (engineer, context) pairs](https://www.benkuhn.net/10x/)
+- [Managing Upwards](https://youtu.be/INr31JkHlT0?feature=shared)
 
 ## Coding Velocity
 

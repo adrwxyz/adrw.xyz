@@ -27,9 +27,9 @@ I've been using Jekyll on GitHub Pages for my website since 2015.
 
 After a couple people have asked how they can try Jekyll, I created this guide!
 
-Even if you don't have coding experience, I've tried to write [this guide](/get-started-with-jekyll/) so that it's approachable for everyone. Give it a try, and [let me know how it can improve](mailto:{{ site.email }}?subject=Get Started with Jekyll Feedback).
+Even if you don't have coding experience, I've tried to write [this guide](/get-started-with-jekyll/) so that it's approachable for everyone. Give it a try, and let me know how it can improve.
 
-## [Go to the Guide >](/get-started-with-jekyll/)
+## [Go to the Guide](/get-started-with-jekyll/)
 
 ## Why Get-Started-with-Jekyll?
 

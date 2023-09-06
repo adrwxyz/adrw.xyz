@@ -10,4 +10,4 @@ tags:
 
 - https://www.firstasset.com/solutions/overview/?fund=CI+First+Asset+Canadian+REIT+ETF
 - https://dividendearner.com/dividend-vs-distribution/
-- negative income tax rate if you make less than \$48k and receive eligible Canadian dividends <https://www.reddit.com/r/CanadianInvestor/comments/mhai0p/canadian>*dividend*investors*might*appreciate_this/
+- negative income tax rate if you make less than \$48k and receive eligible Canadian dividends https://www.reddit.com/r/CanadianInvestor/comments/mhai0p/canadian_dividend_investors_might_appreciate_this/
