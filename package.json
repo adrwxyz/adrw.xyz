@@ -27,7 +27,7 @@
   "devDependencies": {
     "@misk/prettier": "0.4.0",
     "cross-env": "7.0.3",
-    "gatsby-plugin-webpack-bundle-analyser-v2": "1.1.27"
+    "gatsby-plugin-webpack-bundle-analyser-v2": "1.1.31"
   },
   "prettier": "@misk/prettier"
 }
