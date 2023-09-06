@@ -13,9 +13,9 @@ description: From September 19th to the 21st, University of Waterloo's Engineeri
 
 **From September 19th to the 21st, University of Waterloo's Engineering 5 building was over run by a native species of the region: hackers...**
 
-> ![Update May 2015: We've been featured on Hack the North's Press <a href="http://hackthenorth.com/press" target=_blank">page</a>!](../images/2014-09-23-3-ways-hack-the-north-improved-our-startup/HTN-press-c.jpg)
+> ![Update May 2015: We've been featured on Hack the North's Press <a href="http://hackthenorth.com/press">page</a>!](../images/2014-09-23-3-ways-hack-the-north-improved-our-startup/HTN-press-c.jpg)
 
-Hack the North at UW gave 1,000 top hackers the opportunity to build something awesome in just 36 hours. Sponsored by top tech companies (Apple, Microsoft, Google, Facebook, Bloomberg, Uber <a href="http://hackthenorth.com" target="_blank">...</a>), <a href="http://www.ycombinator.com" target="_blank">Y Combinator</a>, and with opportunities to use the newest technologies from Oculus Rifts to Thalmic Lab's Myo, Canada had never seen a hackathon like this.
+Hack the North at UW gave 1,000 top hackers the opportunity to build something awesome in just 36 hours. Sponsored by top tech companies (Apple, Microsoft, Google, Facebook, Bloomberg, Uber <a href="http://hackthenorth.com" >...</a>), <a href="http://www.ycombinator.com" >Y Combinator</a>, and with opportunities to use the newest technologies from Oculus Rifts to Thalmic Lab's Myo, Canada had never seen a hackathon like this.
 
 As co-founder of Teknically and currently deep in Webplio development, it would seem counter intuitive to drop what we were doing to build something at Hack the North. When I began to realize the sheer scope of Hack the North back in August, I saw a unique opportunity for Teknically to grow in new ways as a startup.
 
@@ -50,13 +50,13 @@ When we contemplated entering Hack the North we were a bit worried whether we'd 
 
 ![Stock Slate Team: Yutong Luo, Brandon Chow, Andrew Paradi, Jason Kurian](../images/2014-09-23-3-ways-hack-the-north-improved-our-startup/HTN-Photo-c.jpg)
 
-Thanks to our shared interest in learning new technologies and matching skills, our team was just filled with <a href="https://youtu.be/VFqbGbU8f8o" target="_blank">synergy</a>. We also had the skills to tackle new technologies. From the MEAN stack to the Bloomberg Open API it was a lot of fun working with new technologies to build out Stock Slate as a fluid one page web app. We even ended up winning the Bloomberg API Prize for best use of their API (each of us will be get a <a href="http://ardrone2.parrot.com" target="_blank">Parrot AR Elite Drone</a> in the mail soon)!
+Thanks to our shared interest in learning new technologies and matching skills, our team was just filled with <a href="https://youtu.be/VFqbGbU8f8o" >synergy</a>. We also had the skills to tackle new technologies. From the MEAN stack to the Bloomberg Open API it was a lot of fun working with new technologies to build out Stock Slate as a fluid one page web app. We even ended up winning the Bloomberg API Prize for best use of their API (each of us will be get a <a href="http://ardrone2.parrot.com" >Parrot AR Elite Drone</a> in the mail soon)!
 
 <h2>2. Competition You Can See, Hear, and Smell</h2>
 
 We work out of the Google for Entrepreneurs space at Communitech and are surrounded by other startups and technology companies building grand visions of the future. The difference with Hack the North is that the visions are just that much grander! There's no need to worry about commercialization strategies or business plans. There's only the singular focus on whether your hack works and how awesome it is.
 
-Everyone at the event is there in good spirit to have a good time and show what awesome things they can build. This style of competition opens the floodgates to simply indescribably innovative hacks such as my personal favourites: <a href="http://hackthenorth.challengepost.com/submissions/27029-open-pokemon" target="_blank">Open Pokemon</a> and the <a href="http://hackthenorth.challengepost.com/submissions/27086-silicon-man" target="_blank">Silicon Man</a>.
+Everyone at the event is there in good spirit to have a good time and show what awesome things they can build. This style of competition opens the floodgates to simply indescribably innovative hacks such as my personal favourites: <a href="http://hackthenorth.challengepost.com/submissions/27029-open-pokemon" >Open Pokemon</a> and the <a href="http://hackthenorth.challengepost.com/submissions/27086-silicon-man" >Silicon Man</a>.
 
 <video controls>
   <source

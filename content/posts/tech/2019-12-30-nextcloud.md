@@ -61,11 +61,11 @@ To migrate from calendar, download the ICS files for all calendars in your Googl
 Note that you should check a couple variations of your Gmail address because ICS files do manual linewraps. Example below.
 
 ```
-// Original
+# Original
 ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=johnd
  oe@gmail.com;X-NUM-GUESTS=0:mailto:johndoegmail.com
 
-// Replaced
+# Replaced
 ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=john@d
  oe.xyz;X-NUM-GUESTS=0:mailto:john@doe.xyz
 ```
@@ -128,7 +128,7 @@ As an alternative to SOGo, Nextcloud can be used by installing their Mail, Conta
 
 ## AWS Install Steps
 
-- Install on AWS: <https://medium.com/@n.moretto/nextcloud-on-aws-ad244739c586>
+- Install on AWS: https://medium.com/@n.moretto/nextcloud-on-aws-ad244739c586
 - Create second EC2 instance for OnlyOffice
 - SSH in and use snap to install `onlyoffice-ds`
-- Use EFF certbot instructions to get SSL certificate for `onlyoffice-ds` server <https://certbot.eff.org/lets-encrypt/ubuntubionic-nginx>
+- Use EFF certbot instructions to get SSL certificate for `onlyoffice-ds` server https://certbot.eff.org/lets-encrypt/ubuntubionic-nginx
