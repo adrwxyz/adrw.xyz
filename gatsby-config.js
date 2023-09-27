@@ -37,6 +37,10 @@ module.exports = {
         // Navigation links
         navigation: [
           {
+            title: `Digital`,
+            slug: `/digital`
+          },
+          {
             title: `Now`,
             slug: `/now`
           },
