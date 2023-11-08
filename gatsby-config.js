@@ -73,6 +73,7 @@ module.exports = {
           '/private',
           '/scenes',
           '/songs',
+          '/tech',
           '/travel'
         ],
         partialMatching: true
