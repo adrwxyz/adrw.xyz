@@ -36,9 +36,22 @@ Recent reads without posts
 - Church: why bother?, Philip Yancey
 - Wanting: The power of mimetic desire in everyday life, Luke Burgis
 - The Sovereignty of God, Arthur W. Pink
-- 5 Day Weekend
+- 5 Day Weekend, Nik Halik & Garret B. Gunderson
 
 # 2023
+
+- Gorilla Mindset: How to Control Your Thoughts and Emotions to Live Life on Your Terms, Mike Cernovich
+- The White Pill: A Tale of Good and Evil, Michael Malice
+- Bronze Age Mindset, Bronze Age Pervert
+- Kitchen Confidential, Anthony Bourdain
+- Outlive: The Science and Art of Longevity, Peter Attia
+- The Real Anthony Fauci, Robert F. Kennedy
+- The Vaccine-Friendly PLan, Paul Thomas
+- Resurrecting Sex, David Schnarch
+- Elon Musk, Walter Isaacson
+- The Orthodoy Way, Kallistos Ware
+
+# 2013 - 2020
 
 Books that I've marked as "Finished" on my Kobo since 2013.
 
