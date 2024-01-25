@@ -16,7 +16,7 @@
   "dependencies": {
     "@lekoarts/gatsby-theme-minimal-blog": "6.2.2",
     "@mkitio/gatsby-theme-password-protect": "2.1.2",
-    "gatsby": "5.13.2",
+    "gatsby": "5.13.3",
     "gatsby-plugin-google-gtag": "5.13.1",
     "gatsby-plugin-manifest": "5.13.1",
     "gatsby-plugin-offline": "6.13.1",
