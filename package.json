@@ -21,8 +21,8 @@
     "gatsby-plugin-manifest": "5.13.1",
     "gatsby-plugin-offline": "6.13.2",
     "gatsby-plugin-sitemap": "6.13.1",
-    "react": "18.3.0",
-    "react-dom": "18.3.0"
+    "react": "18.3.1",
+    "react-dom": "18.3.1"
   },
   "devDependencies": {
     "@misk/prettier": "0.6.3",
