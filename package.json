@@ -14,7 +14,7 @@
     "page:publish": "git checkout gh-pages && git pull && echo 'Publishing Start...' && git push page gh-pages -f && echo 'Publishing Done!' && git checkout master"
   },
   "dependencies": {
-    "@lekoarts/gatsby-theme-minimal-blog": "6.2.3",
+    "@lekoarts/gatsby-theme-minimal-blog": "6.2.4",
     "@mkitio/gatsby-theme-password-protect": "2.1.2",
     "gatsby": "5.14.1",
     "gatsby-plugin-google-gtag": "5.14.0",
