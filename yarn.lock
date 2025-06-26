@@ -2214,15 +2214,15 @@
     "@jridgewell/resolve-uri" "^3.0.3"
     "@jridgewell/sourcemap-codec" "^1.4.10"
 
-"@lekoarts/gatsby-theme-minimal-blog-core@^6.2.4":
-  version "6.2.4"
-  resolved "https://registry.yarnpkg.com/@lekoarts/gatsby-theme-minimal-blog-core/-/gatsby-theme-minimal-blog-core-6.2.4.tgz#8f00ec54fda67df255aa4374726080dc1dc1881b"
-  integrity sha512-KSTeFry07RaFyx8otJIqcKAfRJ0KXbsYO+XgAHIPrsZ0M+/2dz1cjHn/rj6pdOZuJFkHsu99CkU7LNGPGYa6CQ==
+"@lekoarts/gatsby-theme-minimal-blog-core@^6.2.6":
+  version "6.2.6"
+  resolved "https://registry.yarnpkg.com/@lekoarts/gatsby-theme-minimal-blog-core/-/gatsby-theme-minimal-blog-core-6.2.6.tgz#87e0b7c11e14f8763d812393e04b8bc79f2f84d1"
+  integrity sha512-aqYsW8eICv60lbtBqi4Z78Vnr9Wmhwi186JIzI6EbIH8kBL4gOgzrJ4mxd0fsFTM52avdPHqDCFMfSJNYRYZug==
   dependencies:
-    "@lekoarts/rehype-meta-as-attributes" "^3.0.2"
-    "@lekoarts/themes-utils" "^3.0.2"
+    "@lekoarts/rehype-meta-as-attributes" "^3.0.3"
+    "@lekoarts/themes-utils" "^3.0.3"
     "@mdx-js/react" "^2.3.0"
-    gatsby-plugin-mdx "^5.14.0"
+    gatsby-plugin-mdx "^5.14.1"
     gatsby-plugin-sharp "^5.14.0"
     gatsby-remark-images "^7.14.0"
     gatsby-source-filesystem "^5.14.0"
@@ -2230,14 +2230,14 @@
     reading-time "^1.5.0"
     remark-gfm "^3.0.1"
 
-"@lekoarts/gatsby-theme-minimal-blog@6.2.4":
-  version "6.2.4"
-  resolved "https://registry.yarnpkg.com/@lekoarts/gatsby-theme-minimal-blog/-/gatsby-theme-minimal-blog-6.2.4.tgz#c3b8f659c625ede993996235653e5cacd4927368"
-  integrity sha512-iEzH//7Y445M8nCZGIdkwyh0yoFTjHMfiU9KTtPbNWvPLcnkfwsy19DdS3WEIOK84FAa8tJy/reaLtl+bo8Mwg==
+"@lekoarts/gatsby-theme-minimal-blog@6.2.6":
+  version "6.2.6"
+  resolved "https://registry.yarnpkg.com/@lekoarts/gatsby-theme-minimal-blog/-/gatsby-theme-minimal-blog-6.2.6.tgz#51dd824e3a93f439a17fac01332c19a22b2a5233"
+  integrity sha512-brsAUda+NqSmEX5Fg9zK8uA/P8GAkoF1YD/Qw9xFR6EEoqu0UCyksTlrIDzS5QgC7LZ7Q/WFn1T42Bozz+Smxw==
   dependencies:
     "@emotion/react" "^11.14.0"
-    "@lekoarts/gatsby-theme-minimal-blog-core" "^6.2.4"
-    "@lekoarts/themes-utils" "^3.0.2"
+    "@lekoarts/gatsby-theme-minimal-blog-core" "^6.2.6"
+    "@lekoarts/themes-utils" "^3.0.3"
     "@mdx-js/react" "^2.3.0"
     "@theme-ui/color" "~0.15.3"
     "@theme-ui/mdx" "~0.15.3"
@@ -2247,17 +2247,17 @@
     prism-react-renderer "^2.4.1"
     theme-ui "~0.15.3"
 
-"@lekoarts/rehype-meta-as-attributes@^3.0.2":
-  version "3.0.2"
-  resolved "https://registry.yarnpkg.com/@lekoarts/rehype-meta-as-attributes/-/rehype-meta-as-attributes-3.0.2.tgz#d7343dc05af820740dd4ba9b4877963d37864ab1"
-  integrity sha512-m/BOC5FyLGSZlsP7HhukDKtxxLMOe10elbGiGYOPBKLtlH7ErlXX0slRsLpAFBc2iia3+gEWdxcEGIwZkCycug==
+"@lekoarts/rehype-meta-as-attributes@^3.0.3":
+  version "3.0.3"
+  resolved "https://registry.yarnpkg.com/@lekoarts/rehype-meta-as-attributes/-/rehype-meta-as-attributes-3.0.3.tgz#6122c60fdff623605a6f527456b22ec1a2b5a335"
+  integrity sha512-DyG740U2y8ZWU5ZsAGzKfdVKOENg9UZsCBUJ3DVaWT7ZMHhDG5U0CjLj40CsEsJJ1gauaQPlrU9QUg5uSa4RFg==
   dependencies:
     unist-util-visit "^5.0.0"
 
-"@lekoarts/themes-utils@^3.0.2":
-  version "3.0.2"
-  resolved "https://registry.yarnpkg.com/@lekoarts/themes-utils/-/themes-utils-3.0.2.tgz#d9c3c459ab12b651f703da8d9cdb7f694c2ef849"
-  integrity sha512-abQjzi+vYwNBuE+4w84CXB/YSBOoHBfQ0ZGo/K4OH/lMRw2N1EpwIVfrSP3j/gn026LQIEpGlL1X2JMTGDSD3Q==
+"@lekoarts/themes-utils@^3.0.3":
+  version "3.0.3"
+  resolved "https://registry.yarnpkg.com/@lekoarts/themes-utils/-/themes-utils-3.0.3.tgz#429d3352b85b6822c383a89eef16437332c13c4f"
+  integrity sha512-pj/dcZ/Gsw6+5f/cJSu2RdLxM8OG1ahwbUYKwsIdW7eFgqOWgCd49Q0o/WPpLXxRFT9gQUEQGbhN4ELTpc8Ikg==
   dependencies:
     lodash.kebabcase "^4.1.1"
 
@@ -7273,10 +7273,10 @@ gatsby-plugin-manifest@5.14.0:
     semver "^7.5.3"
     sharp "^0.32.6"
 
-gatsby-plugin-mdx@^5.14.0:
-  version "5.14.0"
-  resolved "https://registry.yarnpkg.com/gatsby-plugin-mdx/-/gatsby-plugin-mdx-5.14.0.tgz#5f95124cae148bd5e91559198d983c562a88b0a4"
-  integrity sha512-tJJmR+sRrWFRuUKUq5bJLWcLXo6FTP06tfE+7yN2foKcW6+SphY3EVvqiTnCzNAkpvUCP3EASLMg2WGWIVzi4A==
+gatsby-plugin-mdx@^5.14.1:
+  version "5.14.1"
+  resolved "https://registry.yarnpkg.com/gatsby-plugin-mdx/-/gatsby-plugin-mdx-5.14.1.tgz#08ee4149278386c66205cffa5fa5669ccdbb2494"
+  integrity sha512-BkrK10XqWkvYJNraSnPt/Ih/TmSjEzSWOEyWMSOJhHC+xpdqGakKKbkHButGQLMwC4W+v7jjQ3ZCbDQLXxZ5ZQ==
   dependencies:
     "@mdx-js/mdx" "^2.3.0"
     acorn "^8.8.2"
