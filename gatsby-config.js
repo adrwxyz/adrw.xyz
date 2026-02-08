@@ -65,6 +65,7 @@ module.exports = {
           '/books',
           '/cache',
           '/code',
+          '/experience',
           '/faith',
           '/finance',
           '/health',
