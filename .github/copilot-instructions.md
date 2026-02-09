@@ -57,7 +57,7 @@ This is a personal website and blog for Andrew Alexander (adrw), built with Gats
 ### Password Protection
 Protected paths are configured in `gatsby-config.js` under `@mkitio/gatsby-theme-password-protect`:
 - `/books`, `/cache`, `/code`, `/experience`, `/faith`, `/finance`, `/health`, `/news`, `/private`, `/scenes`, `/songs`, `/tech`, `/travel`
-- Password: "hourglass"
+- Password is configured in `gatsby-config.js` (see file for current password setting)
 
 ## Configuration Files
 ### gatsby-config.js
@@ -116,4 +116,4 @@ Protected paths are configured in `gatsby-config.js` under `@mkitio/gatsby-theme
 - Content is transformed at build time
 - Changes to gatsby-config.js require server restart
 - Password protection uses client-side protection (not for sensitive data)
-- Google Analytics tracking ID: G-LGH29TMSBH
+- Google Analytics tracking ID is configured in `gatsby-config.js`
