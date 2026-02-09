@@ -1,6 +1,9 @@
 {
   "private": true,
   "name": "adrw.xyz",
+  "engines": {
+    "node": ">=20.20.0 <21.0.0"
+  },
   "scripts": {
     "build": "yarn run lint && gatsby build",
     "develop": "yarn run lint && gatsby develop",
@@ -16,11 +19,11 @@
   "dependencies": {
     "@lekoarts/gatsby-theme-minimal-blog": "6.2.6",
     "@mkitio/gatsby-theme-password-protect": "2.1.2",
-    "gatsby": "5.16.0",
-    "gatsby-plugin-google-gtag": "5.16.0",
-    "gatsby-plugin-manifest": "5.16.0",
-    "gatsby-plugin-offline": "6.16.0",
-    "gatsby-plugin-sitemap": "6.16.0",
+    "gatsby": "5.18.0-react19.1",
+    "gatsby-plugin-google-gtag": "5.18.0-react19.1",
+    "gatsby-plugin-manifest": "5.17.0-react19.1",
+    "gatsby-plugin-offline": "6.18.0-react19.1",
+    "gatsby-plugin-sitemap": "6.18.0-react19.1",
     "react": "19.2.4",
     "react-dom": "19.2.4"
   },
