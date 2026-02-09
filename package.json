@@ -1,6 +1,9 @@
 {
   "private": true,
   "name": "adrw.xyz",
+  "engines": {
+    "node": ">=20.20.0 <21.0.0"
+  },
   "scripts": {
     "build": "yarn run lint && gatsby build",
     "develop": "yarn run lint && gatsby develop",
