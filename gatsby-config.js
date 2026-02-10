@@ -25,10 +25,10 @@ module.exports = {
         formatString: "YYYY-MM-DD",
         // Links displayed in the header on the right side
         externalLinks: [
-          {
-            name: `LinkedIn`,
-            url: `https://linkedin.com/in/adrw`
-          },
+          // {
+          //   name: `LinkedIn`,
+          //   url: `https://linkedin.com/in/adrw`
+          // },
           {
             name: `Github`,
             url: `https://github.com/adrw`
