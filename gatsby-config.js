@@ -69,6 +69,7 @@ module.exports = {
           '/faith',
           '/finance',
           '/health',
+          '/me',
           '/news',
           '/private',
           '/scenes',

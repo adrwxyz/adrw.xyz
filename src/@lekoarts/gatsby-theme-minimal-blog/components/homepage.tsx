@@ -56,12 +56,12 @@ const Homepage = ({ posts }: PostsProps) => {
       >
         <Hero />
       </section>
-      <Title text="Latest Posts">
+      {/* <Title text="Latest Posts">
         <Link to={replaceSlashes(`/${basePath}/${blogPath}`)}>
           Read all posts
         </Link>
       </Title>
-      <Listing posts={pinnedPosts} />
+      <Listing posts={pinnedPosts} /> */}
       <List>
         <Bottom />
       </List>
