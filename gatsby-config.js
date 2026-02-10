@@ -1,4 +1,5 @@
 module.exports = {
+  // Site configuration
   siteMetadata: {
     // Used for the title template on pages other than the index site
     siteTitle: `adrw // Andrew Alexander`,
