@@ -1,0 +1,70 @@
+backend:
+  name: github
+  repo: adrwxyz/adrw.xyz
+  preview_context: my-provider/deployment
+  site_domain: adrw.xyz
+  branch: master
+  squash_merges: true
+  commit_messages:
+    create: (cms) Create {{collection}} “{{slug}}”
+    update: (cms) Update {{collection}} “{{slug}}”
+    delete: (cms) Delete {{collection}} “{{slug}}”
+    uploadMedia: (cms) Upload “{{path}}”
+    deleteMedia: (cms) Delete “{{path}}”
+
+media_folder: static/img
+public_folder: /img
+
+logo_url: https://adrw.xyz/img/logos/h.png
+
+slug:
+  encoding: "ascii"
+  clean_accents: true
+  sanitize_replacement: "_"
+
+collections:
+  - name: "pages"
+    label: "Pages"
+    folder: "content/pages"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - {
+          label: "Slug",
+          name: "slug",
+          widget: "text",
+          default: "{{year}}-{{month}}-{{day}}-{{slug}}",
+        }
+      - { label: "Description", name: "description", widget: "text" }
+      - { label: "Body", name: "body", widget: "markdown" }
+      - {
+          label: "Redirects",
+          name: "redirects",
+          widget: "list",
+          required: false,
+        }
+
+  - name: "posts"
+    label: "Posts"
+    folder: "content/posts"
+    create: true
+    slug: "{{path}}"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Publish Date", name: "date", widget: "datetime" }
+      - {
+          label: "Slug",
+          name: "slug",
+          widget: "text",
+          default: "{{year}}-{{month}}-{{day}}-{{slug}}",
+        }
+      - { label: "Description", name: "description", widget: "text" }
+      - { label: "Body", name: "body", widget: "markdown" }
+      - { label: "Tags", name: "tags", widget: "list", required: false }
+      - {
+          label: "Redirects",
+          name: "redirects",
+          widget: "list",
+          required: false,
+        }
